@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="agps_network_entries">
+        <item>Rede doméstica</item>
+        <item>Todas as redes</item>
+    </string-array>
+    <string-array name="agps_reset_type_entries">
+        <item>QUENTE</item>
+        <item>MORNO</item>
+        <item>FRIO</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Diariamente</item>
+        <item>Noites da semana</item>
+        <item>Finais de semana</item>
+        <item>Personalizado</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Diariamente</item>
+        <item>Noites da semana</item>
+        <item>Finais de semana</item>
+        <item>Personalizado</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Animação desativada</item>
+        <item>Escala de animação 0,5x</item>
+        <item>Escala de animação 1x</item>
+        <item>Escala de animação 1,5x</item>
+        <item>Escala de animação 2x</item>
+        <item>Escala de animação 5x</item>
+        <item>Escala de animação 10x</item>
+    </string-array>
+    <string-array name="ap_identify">
+        <item>Padrão</item>
+        <item>Hotspot portátil</item>
+    </string-array>
+    <string-array name="battery_indicator_style_entries">
+        <item>Gráfico</item>
+        <item>Percentual</item>
+        <item>Barra no topo</item>
+    </string-array>
+    <string-array name="button_light_timeout_entries">
+        <item>1 segundo</item>
+        <item>2 segundos</item>
+        <item>5 segundos</item>
+        <item>10 segundos</item>
+        <item>20 segundos</item>
+        <item>Sempre ativa</item>
+    </string-array>
+    <string-array name="change_security_lock_picker">
+        <item>Desbloqueio facial</item>
+        <item>Padrão</item>
+        <item>PIN</item>
+        <item>Senha</item>
+    </string-array>
+    <string-array name="check_importance_entries">
+        <item>Recomendado</item>
+        <item>Importante</item>
+        <item>Não importante</item>
+    </string-array>
+    <string-array name="check_importance_summary">
+        <item>O MIUI vai decidir que notificações aparecerão diretamente</item>
+        <item>As notificações aparecerão na Área de notificações</item>
+        <item>As notificações apareceção em uma seção separada</item>
+    </string-array>
+    <string-array name="city_name">
+        <item>Abidijã</item>
+        <item>Accra</item>
+        <item>Addis Ababa</item>
+        <item>Argel</item>
+        <item>Blantyre</item>
+        <item>Brazavile</item>
+        <item>Cairo</item>
+        <item>Casablanca</item>
+        <item>Conacri</item>
+        <item>Dacar</item>
+        <item>Dar es Salaam</item>
+        <item>Djibouti</item>
+        <item>Freetown</item>
+        <item>Gaborone</item>
+        <item>Harare</item>
+        <item>Joanesburgo</item>
+        <item>Kampala</item>
+        <item>Cartum</item>
+        <item>Kigali</item>
+        <item>Kinshasa</item>
+        <item>Lagos</item>
+        <item>Maseru</item>
+        <item>Mogadishu</item>
+        <item>Nairóbi</item>
+        <item>São Tomé</item>
+        <item>Timbuktu</item>
+        <item>Tripoli</item>
+        <item>Tunis</item>
+        <item>Anchorage</item>
+        <item>Mendoza</item>
+        <item>Aruba</item>
+        <item>Assunção</item>
+        <item>Barbados</item>
+        <item>Belize</item>
+        <item>Bogotá</item>
+        <item>Buenos Aires</item>
+        <item>Cancún</item>
+        <item>Caracas</item>
+        <item>Ilhas Cayman</item>
+        <item>Chicago</item>
+        <item>Costa Rica</item>
+        <item>Curaçao</item>
+        <item>Dawson Creek</item>
+        <item>Denver</item>
+        <item>Detroit</item>
+        <item>Dominica</item>
+        <item>Edmonton</item>
+        <item>El Salvador</item>
+        <item>Fortaleza</item>
+        <item>Grand Turk</item>
+        <item>Granada</item>
+        <item>Guatemala</item>
+        <item>Guiana</item>
+        <item>Halifax</item>
+        <item>Havana</item>
+        <item>Indianápolis</item>
+        <item>Knox City</item>
+        <item>Petersburg</item>
+        <item>Tell City</item>
+        <item>Vevay</item>
+        <item>Vincennes</item>
+        <item>Winamac</item>
+        <item>Kingston</item>
+        <item>Nuestra Señora de La Paz</item>
+        <item>Lima</item>
+        <item>Los Angeles</item>
+        <item>Louisville</item>
+        <item>Managua</item>
+        <item>Martinica</item>
+        <item>Metlakatla</item>
+        <item>Cidade do México</item>
+        <item>Monterrei</item>
+        <item>Montevidéu</item>
+        <item>Montreal</item>
+        <item>Nassau</item>
+        <item>Nova Iorque</item>
+        <item>Beulah</item>
+        <item>New Salem</item>
+        <item>Panamá</item>
+        <item>Phoenix</item>
+        <item>Porto de Espanha</item>
+        <item>Porto Príncipe</item>
+        <item>Porto Rico</item>
+        <item>Santo Domingo</item>
+        <item>São Paulo</item>
+        <item>St. Johns</item>
+        <item>St. Kitts</item>
+        <item>St. Lucia</item>
+        <item>St. Thomas</item>
+        <item>Tijuana</item>
+        <item>Toronto</item>
+        <item>Vancouver</item>
+        <item>Winnipeg</item>
+        <item>Pólo Sul</item>
+        <item>Longyearbyen</item>
+        <item>Almaty</item>
+        <item>Amman</item>
+        <item>Anadyr</item>
+        <item>Aqtau</item>
+        <item>Bagdá</item>
+        <item>Bahrein</item>
+        <item>Baku</item>
+        <item>Bangkok</item>
+        <item>Beirute</item>
+        <item>Calcutá</item>
+        <item>Damasco</item>
+        <item>Dhaka</item>
+        <item>Dubai</item>
+        <item>Gaza</item>
+        <item>Hebron</item>
+        <item>Ho Chi Minh</item>
+        <item>Hong Kong</item>
+        <item>Jacarta</item>
+        <item>Jerusalém</item>
+        <item>Cabul</item>
+        <item>Karachi</item>
+        <item>Catmandu</item>
+        <item>Kuala Lumpur</item>
+        <item>Kuwait</item>
+        <item>Macau</item>
+        <item>Manila</item>
+        <item>Muscat</item>
+        <item>Phnom Penh</item>
+        <item>Pyongyang</item>
+        <item>Qatar</item>
+        <item>Rangoon</item>
+        <item>Riyadh</item>
+        <item>Seul</item>
+        <item>Xangai</item>
+        <item>Cingapura</item>
+        <item>Taipei</item>
+        <item>Teerã</item>
+        <item>Tel Aviv</item>
+        <item>Tóquio</item>
+        <item>Ulaanbaatar</item>
+        <item>Bermudas</item>
+        <item>Ilhas Canárias</item>
+        <item>Cabo Verde</item>
+        <item>Reykjavik</item>
+        <item>Adelaide</item>
+        <item>Brisbane</item>
+        <item>Canberra</item>
+        <item>Darwin</item>
+        <item>Melbourne</item>
+        <item>New South Wales</item>
+        <item>Perth</item>
+        <item>Queensland</item>
+        <item>Sidney</item>
+        <item>Victoria</item>
+        <item>Newfoundland</item>
+        <item>Saskatchewan</item>
+        <item>Ilha de Páscoa</item>
+        <item>Amsterdã</item>
+        <item>Andorra</item>
+        <item>Atenas</item>
+        <item>Belfast</item>
+        <item>Belgrado</item>
+        <item>Berlin</item>
+        <item>Bratislava</item>
+        <item>Bruxelas</item>
+        <item>Bucareste</item>
+        <item>Budapeste</item>
+        <item>Chisinau</item>
+        <item>Copenhague</item>
+        <item>Dublin</item>
+        <item>Gibraltar</item>
+        <item>Helsinque</item>
+        <item>Ilha de Man</item>
+        <item>Istanbul</item>
+        <item>Lisboa</item>
+        <item>Londres</item>
+        <item>Luxemburgo</item>
+        <item>Madri</item>
+        <item>Malta</item>
+        <item>Minsk</item>
+        <item>Mônaco</item>
+        <item>Moscou</item>
+        <item>Oslo</item>
+        <item>Paris</item>
+        <item>Praga</item>
+        <item>Riga</item>
+        <item>Roma</item>
+        <item>San Marino</item>
+        <item>Sarajevo</item>
+        <item>Simferopol</item>
+        <item>Skopje</item>
+        <item>Sofia</item>
+        <item>Estocolmo</item>
+        <item>Tallinn</item>
+        <item>Cidade do Vaticano</item>
+        <item>Vienna</item>
+        <item>Vilnius</item>
+        <item>Varsóvia</item>
+        <item>Zagreb</item>
+        <item>Zurique</item>
+        <item>Antananarivo</item>
+        <item>Maldivas</item>
+        <item>Maurícia</item>
+        <item>Auckland</item>
+        <item>Fiji</item>
+        <item>Guam</item>
+        <item>Honolulu</item>
+        <item>Kiritimati</item>
+        <item>Noumea</item>
+        <item>Samoa</item>
+        <item>Taiti</item>
+        <item>Antigua</item>
+        <item>Austin</item>
+        <item>Boston</item>
+        <item>Calgary</item>
+        <item>Columbus</item>
+        <item>Dallas</item>
+        <item>Knoxville</item>
+        <item>Memphis</item>
+        <item>Miami</item>
+        <item>Minneapolis</item>
+        <item>Ottawa</item>
+        <item>Filadélfia</item>
+        <item>Portland</item>
+        <item>San Diego</item>
+        <item>San Francisco</item>
+        <item>Salt Lake City</item>
+        <item>San Jose</item>
+        <item>Seattle</item>
+        <item>St. Louis</item>
+        <item>Washington D.C.</item>
+        <item>Houston</item>
+        <item>San Antonio</item>
+        <item>Jacksonville</item>
+        <item>Baltimore</item>
+        <item>Nashville</item>
+        <item>Milwaukee</item>
+        <item>Oklahoma City</item>
+        <item>Las Vegas</item>
+        <item>Albuquerque</item>
+        <item>Tucson</item>
+        <item>Sacramento</item>
+        <item>Atlanta</item>
+        <item>Cleveland</item>
+        <item>New Orleans</item>
+        <item>Tampa</item>
+        <item>Pittsburgh</item>
+        <item>Cincinnati</item>
+        <item>Mountain View</item>
+        <item>Reno</item>
+        <item>Doha</item>
+        <item>Pequim</item>
+        <item>Mumbai</item>
+        <item>Delhi</item>
+        <item>Osaka</item>
+        <item>Lahore</item>
+        <item>"Sana'a"</item>
+        <item>Barcelona</item>
+        <item>Munique</item>
+        <item>Milão</item>
+        <item>Frankfurt</item>
+        <item>Hanoi</item>
+        <item>Ankara</item>
+        <item>Bengaluru</item>
+        <item>Brasília</item>
+        <item>Cape Town</item>
+        <item>Islamabad</item>
+        <item>Rio de Janeiro</item>
+        <item>Ann Arbor</item>
+        <item>Boulder</item>
+        <item>Cambridge</item>
+        <item>Kirkland</item>
+        <item>Madison</item>
+        <item>Guangzhou</item>
+        <item>Hyderabad</item>
+        <item>Reston</item>
+        <item>Belo Horizonte</item>
+        <item>Santiago</item>
+        <item>Monrovia</item>
+        <item>Colombo</item>
+        <item>Chihuahua</item>
+        <item>Gurugram</item>
+        <item>Manchester</item>
+        <item>Kyiv</item>
+        <item>St. Petersburg</item>
+        <item>Kraków</item>
+        <item>Wroclaw</item>
+        <item>Hamburg</item>
+        <item>Oulu</item>
+        <item>Haifa</item>
+        <item>San Juan</item>
+        <item>Tegucigalpa</item>
+        <item>Paramaribo</item>
+        <item>Quito</item>
+    </string-array>
+    <string-array name="common_password_business_names">
+        <item>Tela de bloqueio</item>
+        <item>Senha de proteção de privacidade</item>
+        <item>Modo criança</item>
+        <item>Gerenciador de Arquivos</item>
+        <item>Bloqueio de apps</item>
+        <item>Segundo Espaço</item>
+    </string-array>
+    <string-array name="connect_mode_entries">
+        <item>Compatibilidade</item>
+        <item>Alta velocidade</item>
+    </string-array>
+    <string-array name="fluency_mode_confirms">
+        <item>Reiniciar seu dispositivo para aplicar esta configuração?</item>
+        <item>Reiniciar seu dispositivo para aplicar esta configuração?</item>
+    </string-array>
+    <string-array name="fluency_mode_entries">
+        <item>Ocultar animações do sistema</item>
+        <item>Mostrar animações do sistema</item>
+    </string-array>
+    <string-array name="fluency_mode_summaries">
+        <item>Acelera o desempenho do dispositivo</item>
+        <item>Pode diminuir o desempenho do dispositivo</item>
+    </string-array>
+    <string-array name="handy_mode_size_text_entries">
+        <item>4.5 polegadas</item>
+        <item>4.0 polegadas</item>
+        <item>3.5 polegadas</item>
+    </string-array>
+    <string-array name="haptic_feedback_level_texts">
+        <item>Desativado</item>
+        <item>Leve</item>
+        <item>Médio</item>
+        <item>Forte</item>
+    </string-array>
+    <string-array name="led_color_entries">
+        <item>Azul</item>
+        <item>Vermelho</item>
+        <item>Amarelo</item>
+        <item>Verde</item>
+        <item>Ciano</item>
+        <item>Branco</item>
+        <item>Violeta</item>
+    </string-array>
+    <string-array name="led_freq_entries">
+        <item>2 segundos</item>
+        <item>3 segundos</item>
+        <item>4 segundos</item>
+        <item>5 segundos</item>
+        <item>6 segundos</item>
+        <item>7 segundos</item>
+        <item>8 segundos</item>
+        <item>9 segundos</item>
+    </string-array>
+    <string-array name="lock_screen_secure_after_timeout_entries">
+        <item>Imediatamente</item>
+        <item>Após 30 segundos</item>
+        <item>Após 1 minuto</item>
+        <item>Após 2 minutos</item>
+        <item>Após 5 minutos</item>
+        <item>Nunca</item>
+    </string-array>
+    <string-array name="long_press_volume_down_action">
+        <item>Nenhuma ação</item>
+        <item>Modo de disparo rápido (foto)</item>
+        <item>Modo de disparo rápido (vídeo)</item>
+        <item>Atalhos de transportes públicos</item>
+    </string-array>
+    <string-array name="max_number_titles">
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>Ilimitado</item>
+    </string-array>
+    <string-array name="media_feedback_level_entries">
+        <item>Forte</item>
+        <item>Médio</item>
+        <item>Fraco</item>
+    </string-array>
+    <string-array name="mi1_led_color_entries">
+        <item>Azul</item>
+        <item>Vermelho</item>
+        <item>Verde</item>
+        <item>Rosa</item>
+        <item>Violeta</item>
+        <item>Roxo</item>
+    </string-array>
+    <string-array name="miui_entries_font_size">
+        <item>P</item>
+        <item>M</item>
+        <item>G</item>
+        <item>EG</item>
+        <item>EEG</item>
+        <item>EEEG</item>
+    </string-array>
+    <string-array name="msd_pc_system">
+        <item>Windows XP e versões mais antigas</item>
+        <item>Windows Vista e versões mais recentes</item>
+        <item>OSX</item>
+        <item>Linux</item>
+    </string-array>
+    <string-array name="msd_pc_system_install_finish_summary">
+        <item>@string/msd_pc_system_install_finish_summary_xp</item>
+        <item>@string/msd_pc_system_install_finish_summary_vista</item>
+        <item>O armazenamento USB abrirá automaticamente ao ser conectado a um computador.</item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_install_summary">
+        <item>2. Siga as instruções na tela</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_linux">
+        <item>Instale as ferramentas: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
+        <item>Crie um diretório: mkdir /media/mtp</item>
+        <item>Confirme as permissões de grupo de usuário no grupo de usuário atual do fuse</item>
+        <item>Fazer login novamente</item>
+        <item>Acesse o dispositivo montado: mtpfs /media/mtp através do Gerenciador de Arquivos; o mesmo usado para pastas locais.</item>
+        <item>"Desinstale o dispositivo: fusermount -u /media/mtp
+Atenção: Apenas para Ubuntu 8.04!"</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_xp">
+        <item>@string/msd_install_retry_connect</item>
+        <item>Reinstale o Mi PC Suite.</item>
+    </string-array>
+    <string-array name="network_speed_slow_summary">
+        <item>A rede está lenta devido ao alto tráfego de dados</item>
+        <item>A rede está lenta devido à força do sinal estar fraca</item>
+        <item>Movendo…</item>
+    </string-array>
+    <string-array name="organized_locales">
+        <item>dz</item>
+        <item>ao</item>
+        <item>bh</item>
+        <item>bw</item>
+        <item>br</item>
+        <item>cm</item>
+        <item>cd</item>
+        <item>ci</item>
+        <item>eg</item>
+        <item>gq</item>
+        <item>et</item>
+        <item>fr</item>
+        <item>gh</item>
+        <item>hk</item>
+        <item>in</item>
+        <item>id</item>
+        <item>ir</item>
+        <item>ke</item>
+        <item>ls</item>
+        <item>mw</item>
+        <item>my</item>
+        <item>mx</item>
+        <item>ma</item>
+        <item>mz</item>
+        <item>mm</item>
+        <item>na</item>
+        <item>ng</item>
+        <item>ph</item>
+        <item>qa</item>
+        <item>ru</item>
+        <item>rw</item>
+        <item>sn</item>
+        <item>sg</item>
+        <item>za</item>
+        <item>kr</item>
+        <item>sz</item>
+        <item>tw</item>
+        <item>tz</item>
+        <item>th</item>
+        <item>tr</item>
+        <item>ug</item>
+        <item>ua</item>
+        <item>ae</item>
+        <item>vn</item>
+        <item>zm</item>
+        <item>zw</item>
+    </string-array>
+    <string-array name="perm_hips_action">
+        <item>Permitir</item>
+        <item>Perguntar</item>
+        <item>Negar</item>
+    </string-array>
+    <string-array name="phone_call_noise_suppression_title">
+        <item>Redução de ruído com 1 microfone</item>
+        <item>Redução de ruído com 2 microfones</item>
+    </string-array>
+    <string-array name="power_mode_entries">
+        <item>Desempenho</item>
+        <item>Balanceado</item>
+    </string-array>
+    <string-array name="preferred_app_entries">
+        <item>Launcher</item>
+        <item>Discador</item>
+        <item>Mensagens</item>
+        <item>Navegador</item>
+        <item>Câmera</item>
+        <item>Galeria</item>
+        <item>Música</item>
+        <item>E-mail</item>
+        <item>Reprodutor de vídeos</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>Armazenamento interno</item>
+        <item>Armazenamento externo</item>
+    </string-array>
+    <string-array name="privacy_password_function_specfication_names">
+        <item>Mensagens</item>
+        <item>Fotos</item>
+        <item>Arquivos</item>
+        <item>Anotações</item>
+    </string-array>
+    <string-array name="screen_button_style">
+        <item>Estilo mão esquerda</item>
+        <item>Estilo mão direita</item>
+    </string-array>
+    <string-array name="screen_color_title">
+        <item>Quente</item>
+        <item>Padrão</item>
+        <item>Fria</item>
+    </string-array>
+    <string-array name="screen_key_long_press_timeout">
+        <item>0.5 segundos</item>
+        <item>1 segundo</item>
+        <item>1.5 segundos</item>
+        <item>2 segundos</item>
+    </string-array>
+    <string-array name="screen_key_position_action">
+        <item>Botão Menu à esquerda, Botão Voltar à direita</item>
+        <item>Botão Voltar à esquerda, botão Menu à direita</item>
+    </string-array>
+    <string-array name="screen_key_press_action">
+        <item>Mostrar apps recentes</item>
+        <item>Mostrar menu</item>
+    </string-array>
+    <string-array name="screen_optimize_summary">
+        <item>Otimizar contraste para a luz disponível</item>
+        <item>Aumentar o contraste da tela</item>
+        <item>O contraste permanecerá constante</item>
+    </string-array>
+    <string-array name="screen_optimize_title">
+        <item>Contraste automático</item>
+        <item>Contraste elevado</item>
+        <item>Padrão</item>
+    </string-array>
+    <string-array name="screen_saturation_title">
+        <item>Brilhante</item>
+        <item>Padrão</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 segundos</item>
+        <item>30 segundos</item>
+        <item>1 minuto</item>
+        <item>2 minutos</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>Nunca</item>
+    </string-array>
+    <string-array name="silent_mode_duration_text">
+        <item>Sempre</item>
+        <item>30 minutos</item>
+        <item>1 hora</item>
+        <item>2 horas</item>
+        <item>8 horas</item>
+    </string-array>
+    <string-array name="startup_hips_action">
+        <item>Permitir</item>
+        <item>Negar</item>
+    </string-array>
+    <string-array name="traffic_balance_entries">
+        <item>Desativado</item>
+        <item>Regular</item>
+        <item>Extremo</item>
+    </string-array>
+    <string-array name="usb_connection_mode_entries">
+        <item>Perguntar na conexão</item>
+        <item>Apenas carregar</item>
+        <item>Montar cartão SD</item>
+    </string-array>
+    <string-array name="vip_mode_text">
+        <item>De qualquer pessoa</item>
+        <item>Apenas de contatos</item>
+        <item>Apenas de contatos favoritos</item>
+        <item>Nenhum</item>
+    </string-array>
+    <string-array name="wfd_status">
+        <item>Iniciando sessão…</item>
+        <item>Sessão iniciada</item>
+        <item>Desativando serviço…</item>
+        <item>Não é possível iniciar a sessão</item>
+        <item>Tempo esgotado. Repetindo…</item>
+        <item>Dispositivo conectado</item>
+    </string-array>
+    <string-array name="whetstone_level_entries">
+        <item>Desativado</item>
+        <item>Baixa</item>
+        <item>Média</item>
+        <item>Alta</item>
+    </string-array>
+    <string-array name="wifi_connect_type_entries">
+        <item>Conectar automaticamente</item>
+        <item>Conectar manualmente</item>
+        <item>Sempre perguntar</item>
+    </string-array>
+    <string-array name="wifi_ssid_type_entries">
+        <item>Conectar automaticamente</item>
+        <item>Conectar manualmente</item>
+    </string-array>
+    <string-array name="device_global_support_face">
+        <item>whyred</item>
+        <item>polaris</item>
+        <item>ysl</item>
+    </string-array>
+    <string-array name="region_support_face">
+        <item>IN</item>
+        <item>ID</item>
+        <item>RU</item>
+        <item>HK</item>
+        <item>TW</item>
+    </string-array>
+</resources>

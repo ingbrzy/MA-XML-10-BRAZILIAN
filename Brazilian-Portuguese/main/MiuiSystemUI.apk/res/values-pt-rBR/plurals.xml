@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_recent_task_enter">
+        <item quantity="other">Abrindo apps recentes, %d apps disponíveis.</item>
+        <item quantity="one">Abrindo apps recentes, %d app disponível.</item>
+    </plurals>
+    <plurals name="accessibility_recent_task_first_enter_tips">
+        <item quantity="other">Abrindo apps recentes, %d apps disponíveis. Deslize para cima para removê-lo, deslize para baixo para bloqueá-lo.</item>
+        <item quantity="one">Abrindo apps recentes, %d app disponível. Deslize para cima para removê-lo, deslize para baixo para bloqueá-lo.</item>
+    </plurals>
+    <plurals name="block_record_notification_more_text">
+        <item quantity="other">Ocultando notificações de %1$s &amp; %2$d apps.</item>
+        <item quantity="one">Ocultando notificações de %1$s &amp; %2$d app.</item>
+    </plurals>
+    <plurals name="disable_notification_confirm_title">
+        <item quantity="other">Ocultar as notificações destes %d apps?</item>
+        <item quantity="one">Ocultar as notificações deste app?</item>
+    </plurals>
+    <plurals name="fold_tips_title">
+        <item quantity="other">%d notificações sem importância</item>
+        <item quantity="one">%d notificação sem importância</item>
+    </plurals>
+    <plurals name="notification_channels_list_desc_2_and_others">
+        <item quantity="other">%1$s, %2$s, e %3$d outros</item>
+        <item quantity="one">%1$s, %2$s, e %3$d outro</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">%s outras notificações disponíveis.</item>
+        <item quantity="one">%s outra notificação disponível.</item>
+    </plurals>
+    <plurals name="settings_toggle_position_divider_page">
+        <item quantity="other">%1$d atalhos acima desta barra estão ativo</item>
+        <item quantity="one">%1$d atalho acima desta barra está ativo</item>
+    </plurals>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">%d telas na Visão geral</item>
+        <item quantity="one">1 tela na Visão geral</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Limpo</item>
+        <item quantity="one">Limpo</item>
+    </plurals>
+</resources>

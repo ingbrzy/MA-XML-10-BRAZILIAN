@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hmode_app_groups">
+        <item>Personalizado</item>
+        <item>Economia de bateria</item>
+    </string-array>
+    <string-array name="thermal_entries">
+        <item>Modo de controle de temperatura padrão</item>
+        <item>Modo de desempenho</item>
+    </string-array>
+    <string-array name="thermal_summaries">
+        <item>Modo de controle de temperatura atual</item>
+        <item>Modo de desempenho padrão</item>
+    </string-array>
+    <string-array name="power_mode_entries">
+        <item>Desempenho</item>
+        <item>Balanceado</item>
+    </string-array>
+</resources>

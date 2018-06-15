@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animator_duration_scale_entries">
+        <item>Animação desativada</item>
+        <item>Escala de animação 0,5x</item>
+        <item>Escala de animação 1x</item>
+        <item>Escala de animação 1,5x</item>
+        <item>Escala de animação 2x</item>
+        <item>Escala de animação 5x</item>
+        <item>Escala de animação 10x</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+    </string-array>
+    <string-array name="battery_options">
+        <item>Sempre mostrar porcentagem</item>
+        <item>Mostrar porcentagem quando carregando (padrão)</item>
+        <item>Não mostrar esse ícone</item>
+    </string-array>
+    <string-array name="miui_volume_timer_segments_title">
+        <item>Desativado</item>
+        <item>Meia hora</item>
+        <item>1 hora</item>
+        <item>2 horas</item>
+        <item>8 horas</item>
+    </string-array>
+    <string-array name="nav_bar_buttons">
+        <item>Área de transferência</item>
+        <item>Código de botão</item>
+        <item>Alternador de teclado</item>
+        <item>N/A</item>
+    </string-array>
+    <string-array name="nav_bar_layouts">
+        <item>Normal</item>
+        <item>Compacta</item>
+        <item>Alinhado à esquerda</item>
+        <item>Alinhado à direita</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Limpo</item>
+        <item>Nublado</item>
+        <item>Muito nublado</item>
+        <item>Névoa</item>
+        <item>Tempestade intensa</item>
+        <item>Chuva torrencial</item>
+        <item>Tempestade</item>
+        <item>Trovoada</item>
+        <item>Chuva</item>
+        <item>Chuva intensa</item>
+        <item>Chuva moderada</item>
+        <item>Chuva fraca</item>
+        <item>Chuva com neve</item>
+        <item>Nevasca</item>
+        <item>Neve</item>
+        <item>Neve intensa</item>
+        <item>Neve moderada</item>
+        <item>Neve fraca</item>
+        <item>Forte tempestade de areia</item>
+        <item>Tempestade de areia</item>
+        <item>Areia</item>
+        <item>Ventania</item>
+        <item>Granizo</item>
+        <item>Poeira</item>
+        <item>Nevoeiro</item>
+        <item>Chuva congelada</item>
+        <item></item>
+    </string-array>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="baby_sexy">
+        <item>Menino</item>
+        <item>Menina</item>
+    </string-array>
+    <string-array name="collage_month">
+        <item>Jan</item>
+        <item>Fev</item>
+        <item>Mar</item>
+        <item>Abr</item>
+        <item>Mai</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Ago</item>
+        <item>Set</item>
+        <item>Out</item>
+        <item>Nov</item>
+        <item>Dez</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>Pai</item>
+        <item>Mãe</item>
+        <item>Avô paterno</item>
+        <item>Avó paterna</item>
+        <item>Avô materno</item>
+        <item>Avó materna</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>Eu</item>
+        <item>Crianças</item>
+        <item>Familiares</item>
+        <item>Colegas de trabalho</item>
+        <item>Colegas de classe</item>
+        <item>Amigos</item>
+        <item>Desagrupado</item>
+    </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>Pai</item>
+        <item>Mãe</item>
+        <item>Avô paterno</item>
+        <item>Avó paterna</item>
+        <item>Avô materno</item>
+        <item>Avó materna</item>
+    </string-array>
+</resources>

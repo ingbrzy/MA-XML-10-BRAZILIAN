@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="attachment_chooser">
+        <item>Câmera</item>
+        <item>Galeria</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Nome</item>
+        <item>Apelido</item>
+        <item>Telefone</item>
+        <item>E-mail</item>
+        <item>Empresa</item>
+        <item>IM</item>
+        <item>Telefone SIP</item>
+        <item>Aniversário</item>
+        <item>Website</item>
+        <item>Endereço</item>
+        <item>Anotação</item>
+    </string-array>
+    <string-array name="folder_operations">
+        <item>Renomear</item>
+        <item>Excluir</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Pequeno</item>
+        <item>Médio</item>
+        <item>Grande</item>
+        <item>Extra grande</item>
+    </string-array>
+    <string-array name="note_sort_way">
+        <item>Por data de criação</item>
+        <item>Por data de modificação</item>
+    </string-array>
+    <string-array name="welcome_notes_content">
+        <item>"Bem-vindo às Anotações
+"</item>
+        <item>"Crie uma anotação
+Toque no ícone + para criar uma anotação."</item>
+        <item>"Escolha modelos
+Use modelos para alterar o estilo de suas anotações.
+Toque no botão no canto inferior direito do app para escolher um modelo."</item>
+        <item>"Crie pastas
+Organize suas anotações em pastas.
+Existem 2 formas de criar uma pasta:
+1Toque no ícone de pasta no canto superior direito, e em seguida toque no sinal +.
+2. Segure uma anotação até que o menu pop-up apareça, e selecione \"Mover para > Nova pasta\"."</item>
+        <item>"Oculte anotações
+Proteja anotações privadas com uma senha.
+Existem 2 formas de ocultar uma anotação:
+1. Toque no botão \"Mais\" no canto superior direito de uma anotação, e selecione \"Ocultar\".
+2. Segure uma anotação até o menu pop-up aparecer, e selecione \"Ocultar\"."</item>
+        <item>"E muitos outros recursos ótimos! - Imagens, checklists, lembretes.
+
+Adicione imagens
+Toque no ícone de imagem no rodapé da anotação para adicionar uma imagem.
+Você pode tirar uma foto ou escolher uma foto da Galeria.
+Quando uma anotação contém uma imagem, ela será usada como a miniatura da anotação na visualização em grade.
+
+Crie checklists
+A caixa de seleção é um elemento essencial em uma lista de tarefas.
+Toque no ícone da caixa de seleção no rodapé da anotação para adicioná-lo a um parágrafo de texto.
+Marque a caixa quando você concluir aquela tarefa.
+
+Defina lembretes
+Defina lembretes diretamente nas anotações.
+Toque no botão \"Mais\" no canto superior direito de uma anotação, selecione \"Lembretes\" e defina as informações.
+"</item>
+    </string-array>
+    <string-array name="welcome_notes_image">
+        <item>guide_1</item>
+        <item></item>
+        <item>guide_3_1</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

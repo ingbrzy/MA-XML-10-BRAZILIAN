@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_action_divider_bottom_full">Inferior em tela cheia</string>
+    <string name="accessibility_action_divider_left_30">Esquerda em 30%</string>
+    <string name="accessibility_action_divider_left_50">Esquerda em 50%</string>
+    <string name="accessibility_action_divider_left_70">Esquerda em 70%</string>
+    <string name="accessibility_action_divider_left_full">Esquerda em tela cheia</string>
+    <string name="accessibility_action_divider_right_full">Direita em tela cheia</string>
+    <string name="accessibility_action_divider_top_30">Superior em 30%</string>
+    <string name="accessibility_action_divider_top_50">Superior em 50%</string>
+    <string name="accessibility_action_divider_top_70">Superior em 70%</string>
+    <string name="accessibility_action_divider_top_full">Superior em tela cheia</string>
+    <string name="accessibility_assistant">Menu de atalhos</string>
+    <string name="accessibility_battery_level_charging">Bateria carregando, %d por cento.</string>
+    <string name="accessibility_battery_one_bar">Bateria uma barra.</string>
+    <string name="accessibility_battery_three_bars">Bateria três barras.</string>
+    <string name="accessibility_battery_two_bars">Bateria duas barras.</string>
+    <string name="accessibility_brightness_slider">Barra deslizante de brilho</string>
+    <string name="accessibility_carrier_network_change_mode">Operadora de rede alterando.</string>
+    <string name="accessibility_casting_turned_off">A transmissão da tela parou.</string>
+    <string name="accessibility_compatibility_zoom_button">Botão de zoom de compatibilidade.</string>
+    <string name="accessibility_compatibility_zoom_example">Zoom em tela menor para maior.</string>
+    <string name="accessibility_data_connection_edge">EDGE</string>
+    <string name="accessibility_data_one_bar">Dados uma barra.</string>
+    <string name="accessibility_data_saver_off">Economia de dados desativada</string>
+    <string name="accessibility_data_three_bars">Dados três barras.</string>
+    <string name="accessibility_data_two_bars">Dados duas barras.</string>
+    <string name="accessibility_desc_notification_shade">Área de notificações.</string>
+    <string name="accessibility_desc_off">Desativado.</string>
+    <string name="accessibility_desc_on">Ativado.</string>
+    <string name="accessibility_desc_quick_settings_edit">Editor das Configurações rápidas.</string>
+    <string name="accessibility_divider">Separador da Tela dividida</string>
+    <string name="accessibility_drag_hint_message">Arraste itens para o topo da tela</string>
+    <string name="accessibility_ethernet_connected">Ethernet conectado.</string>
+    <string name="accessibility_ethernet_disconnected">Ethernet desconectado.</string>
+    <string name="accessibility_gps_acquiring">Obtendo sinal de GPS.</string>
+    <string name="accessibility_home">Início</string>
+    <string name="accessibility_ime_switch_button">Botão para alternar método de entrada.</string>
+    <string name="accessibility_location_active">Solicitação de localização ativada</string>
+    <string name="accessibility_multi_user_switch_switcher_with_current">Trocar usuário, usuário atual %s</string>
+    <string name="accessibility_no_data">Nenhuma rede de dados.</string>
+    <string name="accessibility_no_phone">Nenhum sinal.</string>
+    <string name="accessibility_no_sim">Nenhum SIM.</string>
+    <string name="accessibility_not_connected">Não conectado.</string>
+    <string name="accessibility_notification_dismissed">Notitficação dispensada.</string>
+    <string name="accessibility_phone_one_bar">Sinal de uma barra.</string>
+    <string name="accessibility_phone_three_bars">Sinal de três barras.</string>
+    <string name="accessibility_phone_two_bars">Sinal de duas barras.</string>
+    <string name="accessibility_qs_edit_move_tile">Mover %1$s</string>
+    <string name="accessibility_qs_edit_remove_tile">Remover %1$s</string>
+    <string name="accessibility_qs_edit_tile_added">%1$s adicionado na posição %2$d</string>
+    <string name="accessibility_qs_edit_tile_removed">%1$s foi removido</string>
+    <string name="accessibility_quick_settings_bluetooth_changed_off">O bluetooth foi desativado.</string>
+    <string name="accessibility_quick_settings_bluetooth_changed_on">O bluetooth foi ativado.</string>
+    <string name="accessibility_quick_settings_bluetooth_connecting">Bluetooth conectando.</string>
+    <string name="accessibility_quick_settings_collapse">Fechar configurações rápidas.</string>
+    <string name="accessibility_quick_settings_color_inversion_changed_off">A inversão de cores foi desligada.</string>
+    <string name="accessibility_quick_settings_color_inversion_changed_on">A inversão de cores foi ligada.</string>
+    <string name="accessibility_quick_settings_data_saver_changed_off">A Economia de dados foi desativada.</string>
+    <string name="accessibility_quick_settings_data_saver_changed_on">A economia de dados foi ativada.</string>
+    <string name="accessibility_quick_settings_dnd">Não perturbe.</string>
+    <string name="accessibility_quick_settings_dnd_alarms_on">Não perturbe ativado, apenas alarmes.</string>
+    <string name="accessibility_quick_settings_dnd_changed_off">O não perturbe foi desativado.</string>
+    <string name="accessibility_quick_settings_dnd_changed_on">O não perturbe foi ativado.</string>
+    <string name="accessibility_quick_settings_dnd_none_on">Não perturbe ativado, silêncio total.</string>
+    <string name="accessibility_quick_settings_dnd_off">Não perturbe desativado.</string>
+    <string name="accessibility_quick_settings_dnd_priority_on">Não perturbe ativado, apenas prioridades.</string>
+    <string name="accessibility_quick_settings_expand">Abrir configurações rápidas.</string>
+    <string name="accessibility_quick_settings_flashlight_changed_off">A lanterna foi desligada.</string>
+    <string name="accessibility_quick_settings_flashlight_changed_on">A lanterna foi ligada.</string>
+    <string name="accessibility_quick_settings_flashlight_off">Lanterna desligada.</string>
+    <string name="accessibility_quick_settings_flashlight_on">Lanterna ligada.</string>
+    <string name="accessibility_quick_settings_hotspot_changed_off">O hotspot móvel foi desligado.</string>
+    <string name="accessibility_quick_settings_hotspot_changed_on">O hotspot móvel foi ligado.</string>
+    <string name="accessibility_quick_settings_location_changed_off">O registro de localização foi desativado.</string>
+    <string name="accessibility_quick_settings_location_changed_on">O registro de localização foi ativado.</string>
+    <string name="accessibility_quick_settings_location_off">Registro de localização desativado.</string>
+    <string name="accessibility_quick_settings_location_on">Registro de localização ativado.</string>
+    <string name="accessibility_quick_settings_mobile">Rede móvel %1$s. %2$s. %3$s.</string>
+    <string name="accessibility_quick_settings_no_internet">Sem internet.</string>
+    <string name="accessibility_quick_settings_open_settings">Abrior configurações de %s.</string>
+    <string name="accessibility_quick_settings_work_mode_changed_off">O modo trabalho foi desativado.</string>
+    <string name="accessibility_quick_settings_work_mode_changed_on">O modo trabalho foi ativado.</string>
+    <string name="accessibility_quick_settings_work_mode_off">Modo trabalho desativado.</string>
+    <string name="accessibility_quick_settings_work_mode_on">Modo trabalho ativado.</string>
+    <string name="accessibility_recent_task_exit">Apps recentes fechados</string>
+    <string name="accessibility_recent_task_locked">Bloqueado, deslize para baixo para desbloquear.</string>
+    <string name="accessibility_recent_task_locked_state">Bloqueado</string>
+    <string name="accessibility_recent_task_memory_info">Total de RAM: %2$s, RAM disponível: %1$s. Toque duas vezes para limpar.</string>
+    <string name="accessibility_recent_task_unlocked">Desbloqueado</string>
+    <string name="accessibility_recent_task_unlocked_state">Desbloqueado</string>
+    <string name="accessibility_recents_all_items_dismissed">Todas os os apps recentes foram dispensados.</string>
+    <string name="accessibility_recents_item_dismissed">%s dispensado.</string>
+    <string name="accessibility_recents_item_open_app_info">Abrir informações sobre o app %s.</string>
+    <string name="accessibility_recents_item_will_be_dismissed">Dispensar %s.</string>
+    <string name="accessibility_ringer_silent">Toque silencioso.</string>
+    <string name="accessibility_ringer_vibrate">Toque com vibração.</string>
+    <string name="accessibility_rotation_lock_off_changed">A tela girará automaticamente agora.</string>
+    <string name="accessibility_rotation_lock_on_landscape_changed">A tela está bloqueada na orientação paisagem.</string>
+    <string name="accessibility_search_scanner">Leitor QR</string>
+    <string name="accessibility_settings">Configurações</string>
+    <string name="accessibility_settings_button">Configurações do sistema.</string>
+    <string name="accessibility_status_bar_headset">Headset conectado</string>
+    <string name="accessibility_status_bar_hotspot">Hotspot</string>
+    <string name="accessibility_tty_enabled">Teletypewriter ativado.</string>
+    <string name="accessibility_unlock_without_fingerprint">Desbloqueie sem usar a impressão digital</string>
+    <string name="accessibility_voice_assist_button">Assistente de voz</string>
+    <string name="accessibility_wimax_one_bar">WiMAX uma barra.</string>
+    <string name="accessibility_wimax_signal_full">Sinal de WiMAX cheio.</string>
+    <string name="accessibility_wimax_three_bars">WiMAX três barras.</string>
+    <string name="accessibility_wimax_two_bars">WiMAX duas barras.</string>
+    <string name="accessibility_work_mode">Modo trabalho</string>
+    <string name="accessibility_zero_bars">Zero barras.</string>
+    <string name="account_info">Conta não conectada</string>
+    <string name="activate_usb_message">Para ativar este recurso, insira o seu cartão SIM.</string>
+    <string name="activate_usb_title">Ativar USB</string>
+    <string name="activity_launch_on_secondary_display_failed_text">O app não suporta ser executado em telas secundárias.</string>
+    <string name="add_tile">Adicionar título</string>
+    <string name="always_use_accessory">Usar como padrão neste acessório USB</string>
+    <string name="always_use_device">Usar como padrão neste dispositivo USB</string>
+    <string name="app_info">Info. do app</string>
+    <string name="app_label">UI do Sistema</string>
+    <string name="as_important">Importante</string>
+    <string name="as_unimportant">Não importante</string>
+    <string name="audio_effect_custom">Configurar</string>
+    <string name="audio_effect_info">Otimizar áudio</string>
+    <string name="audio_effect_settings">Escolher tipo de fones de ouvido</string>
+    <string name="auto_disable_screenbuttons_disable_toast_text">Botões de navegação desativados, toque duas vezes em qualquer botão para reativá-los.</string>
+    <string name="auto_disable_screenbuttons_enable_toast_text">Botões de navegação ativados</string>
+    <string name="battery_detail_charging_summary">A economia de bateria não está disponível durante o carregamento</string>
+    <string name="battery_detail_switch_summary">Reduz o desempenho e dados em segundo plano</string>
+    <string name="battery_low_percent_format">%d%% restante</string>
+    <string name="battery_low_percent_format_saver_started">%s restando. Economia de bateria ativada.</string>
+    <string name="battery_panel_title">Uso de bateria</string>
+    <string name="battery_profiles">Usar perfis de bateria</string>
+    <string name="battery_saver_confirmation_title">Ativar a economia de energia?</string>
+    <string name="battery_saver_notification_action_text">Desativar a Economia de bateria</string>
+    <string name="battery_saver_notification_text">Reduz o desempenho e dados em segundo plano</string>
+    <string name="battery_saver_notification_title">Economia de bateria ativada</string>
+    <string name="battery_saver_start_action">Ativar economia de energia</string>
+    <string name="block_notification_content_text">Notificações para %1$s não serão exibidas novamente. Você pode alterar isto nas Configurações.</string>
+    <string name="block_notification_desc">As notificações do app não serão mostradas novamente. Você pode alterar isto nas Configurações.</string>
+    <string name="block_notification_text">Ocultar</string>
+    <string name="block_record_notification_text">Ocultando notificações de %1$s.</string>
+    <string name="block_record_notification_title">Notificações ocultas</string>
+    <string name="bluetooth_tethered">Tethering Bluetooth</string>
+    <string name="branded_monitoring_description_app_personal">Você está conectado a %1$s, o que pode monitorar sua atividade de rede pessoal, incluindo e-mails, apps e websites.</string>
+    <string name="broadcast_tile">Área de transmissão</string>
+    <string name="call_status_dialing">Discando</string>
+    <string name="call_status_holding">Em espera</string>
+    <string name="call_status_ringing">Tocando</string>
+    <string name="camera_hint">Deslize do ícone para acessar a Câmera</string>
+    <string name="camera_key_action_app_title">Abrir app</string>
+    <string name="camera_key_action_category_title">Usar se o app da Câmera não estiver aberto</string>
+    <string name="camera_key_action_none_title">Nenhuma ação</string>
+    <string name="camera_key_action_setting_title">Botão Mi</string>
+    <string name="camera_key_action_shortcut_call">Chamar</string>
+    <string name="camera_key_action_shortcut_home">Voltar à Tela inicial</string>
+    <string name="camera_key_action_shortcut_screenshot">Capturar tela</string>
+    <string name="camera_key_action_shortcut_search">Pesquisar</string>
+    <string name="camera_key_action_shortcut_title">Atalho</string>
+    <string name="camera_key_action_shortcut_wake">Bloquear/Desbloquear dispositivo</string>
+    <string name="camera_key_action_toggle_title">Acionar atalho</string>
+    <string name="camera_label">Abrir Câmera</string>
+    <string name="chooseUsbActivity">Escolha um app para o dispositivo USB</string>
+    <string name="click_to_return_multi_window">Toque para retornar à Tela dividida</string>
+    <string name="click_to_return_multi_window_of_notch">Voltar à Tela dividida</string>
+    <string name="clipboard">Área de transferência</string>
+    <string name="clock_seconds">Mostrar segundos no relógio</string>
+    <string name="clock_seconds_desc">Mostrar sergundos do relógio na barra de status. Pode afetar a duração da bateria.</string>
+    <string name="compat_mode_off">Esticar para preencher a tela</string>
+    <string name="compat_mode_on">Ampliar para preencher a tela</string>
+    <string name="confirm">Entendi</string>
+    <string name="data_connection_no_internet">Sem internet</string>
+    <string name="data_usage_disabled_dialog">"O limite de dados que você configurou foi atingido. Você não está mais usando dados móveis.
+
+Ao retomar o uso, cobranças extras poderão ocorrer."</string>
+    <string name="data_usage_disabled_dialog_3g_title">Dados 2G-3G em pausa</string>
+    <string name="data_usage_disabled_dialog_4g_title">Dados 4G em pausa</string>
+    <string name="data_usage_disabled_dialog_mobile_title">Dados móveis em pausa</string>
+    <string name="data_usage_disabled_dialog_title">Dados em pausa</string>
+    <string name="demo_mode">Modo de demonstração</string>
+    <string name="description_direction_left">Deslizar à esquerda para %s.</string>
+    <string name="description_direction_up">Deslizar pra cima para %s.</string>
+    <string name="description_image_button_answer">Atender</string>
+    <string name="description_image_button_reject">Rejeitar</string>
+    <string name="dessert_case">Bandeja de sobremesas</string>
+    <string name="disable_notification_summary">Nunca mostrar notificações dos apps selecionados</string>
+    <string name="disable_notification_title">Ocultar notificações</string>
+    <string name="dismount_storage">Não</string>
+    <string name="divider_menu_close">Fechar</string>
+    <string name="divider_menu_select_apps">Selecionar</string>
+    <string name="divider_menu_swap_task">Trocar</string>
+    <string name="dlg_confirm_kill_storage_users_text">Se você ativar o armazenamento USB, alguns apps em uso serão encerrados e poderão ficar indisponíveis até você desativar o armazenamento USB novamente.</string>
+    <string name="dlg_confirm_kill_storage_users_title">Ativar armazenamento USB</string>
+    <string name="dlg_error_title">A operação USB falhou</string>
+    <string name="dnd_is_off">O Não perturbe está desativado</string>
+    <string name="do_disclosure_generic">Este dispositivo é gerenciado por sua organização</string>
+    <string name="dock_forced_resizable">O app pode não funcionar com a Tela dividida.</string>
+    <string name="dock_keyguard_locked_failed_to_dock_text">A Tela dividida não é suportada na Tela de bloqueio.</string>
+    <string name="dock_non_resizeble_failed_to_dock_text">O app não suporta Tela dividida.</string>
+    <string name="drag_to_add_tiles">Arraste para adicionar itens</string>
+    <string name="drive_mode_tip">Modo carro ativado</string>
+    <string name="drive_mode_tip_idle">Toque para sair do Modo carro</string>
+    <string name="drive_mode_tip_idle_notch">Sair do Modo carro</string>
+    <string name="drive_mode_tip_notch">Modo carro ativado</string>
+    <string name="empty_shade_text">Nenhuma notificação</string>
+    <string name="enable_bluetooth_message">Para conectar o teclado ao seu tablet, ative o Bluetooth primeiro.</string>
+    <string name="enable_power_save_mode">Ativar Economia de bateria</string>
+    <string name="expanded_confirm_disable_notification">Ocultar</string>
+    <string name="expanded_header_battery_charged">Carregado</string>
+    <string name="expanded_header_battery_charging_with_time">%s até estar carregada</string>
+    <string name="expanded_notification_manager">Gerenciar notificações</string>
+    <string name="experimental">Experimental</string>
+    <string name="ext_media_badremoval_notification_message">Desmonte o armazenamento USB antes de removê-lo para evitar a perda de dados.</string>
+    <string name="ext_media_badremoval_notification_title">Armaz. USB removido inesperadamente</string>
+    <string name="ext_media_checking_notification_message">Verificando por erros.</string>
+    <string name="ext_media_checking_notification_title">Preparando armazenamento USB</string>
+    <string name="ext_media_mountable_notification_message">Toque para abrir o Gerenciador de Arquivos</string>
+    <string name="ext_media_mountable_notification_title">Dispositivo de armazenamento USB conectado</string>
+    <string name="ext_media_nofs_notification_message">O armazenamento USB está vazio ou seu sistema de arquivos não é suportado.</string>
+    <string name="ext_media_nofs_notification_title">Armazenamento USB em branco</string>
+    <string name="ext_media_nomedia_notification_message">Armazenamento USB removido. Insira uma nova mídia.</string>
+    <string name="ext_media_nomedia_notification_title">Armazenamento USB removido</string>
+    <string name="ext_media_safe_remove">Remoção segura</string>
+    <string name="ext_media_safe_unmount_notification_message">Você pode remover com segurança o armazenamento USB agora.</string>
+    <string name="ext_media_safe_unmount_notification_title">Armaz. USB pronto para remoção</string>
+    <string name="ext_media_unmountable_notification_message">Armazenamento USB danificado. Talvez seja necessário formatá-lo.</string>
+    <string name="ext_media_unmountable_notification_title">Armazenamento USB danificado</string>
+    <string name="float_incall_ignore">Ignorar</string>
+    <string name="float_incall_message">Mensagem</string>
+    <string name="forced_resizable_secondary_display">O app pode não funcionar em uma tela secundária.</string>
+    <string name="fs_gesture_back_home_summary">Deslize rapidamente a partir da área inferior</string>
+    <string name="fs_gesture_back_ready_title">Voltar</string>
+    <string name="fs_gesture_final_over">Estou pronto</string>
+    <string name="fs_gesture_final_restart">Mais uma vez</string>
+    <string name="fs_gesture_final_summary">Você pode voltar a usar os botões em Configurações > Tela infinita</string>
+    <string name="fs_gesture_final_title">Você está pronto para começar!</string>
+    <string name="fs_gesture_finish">Ótimo!</string>
+    <string name="fs_gesture_left_back_ready_summary">Deslize para a direita a partir da borda</string>
+    <string name="fs_gesture_right_back_ready_summary">Deslize para a esquerda a partir da borda</string>
+    <string name="fs_gesture_skip">Voltar</string>
+    <string name="fs_gesture_switch_recents_summary">Deslize a partir da área inferior e segure</string>
+    <string name="fsg_demo_back">Voltar</string>
+    <string name="fsg_demo_go_on">Aprender</string>
+    <string name="go_to_web">Ir para a web</string>
+    <string name="gps_notification_found_text">Localização definida pelo GPS</string>
+    <string name="gps_notification_searching_text">Procurando GPS</string>
+    <string name="guest_exit_guest_dialog_message">Todos os apps e dados nesta sesão serão excluídos.</string>
+    <string name="guest_exit_guest_dialog_remove">Remvoer</string>
+    <string name="guest_notification_text">Para excluir apps e seus dados, remova o usuário convidado</string>
+    <string name="guest_wipe_session_dontwipe">Continuar</string>
+    <string name="guest_wipe_session_message">Deseja continuar sua sessão?</string>
+    <string name="guest_wipe_session_title">Bem-vindo novamente, convidado!</string>
+    <string name="guest_wipe_session_wipe">Começar do zero</string>
+    <string name="headset">Headset</string>
+    <string name="hidden_notifications_title">Obtenha notificações mais rápido</string>
+    <string name="high_temp_dialog_message">"Seu telefone tentará ser resfriado automaticamente. Você ainda pode usar o telefone, mas ele poderá funcionar mais lentamente.
+
+Assim que ele tiver resfriado, ele voltará ao normal."</string>
+    <string name="high_temp_notif_message">Alguns recursos serão limitados até que ele resfrie</string>
+    <string name="high_temp_title">O telefone está esquentando</string>
+    <string name="how_to_back_home">Ir à Tela inicial</string>
+    <string name="how_to_switch_recents">Abrir apps recentes</string>
+    <string name="how_to_use_drawer">Como abrir o menu deslizante</string>
+    <string name="how_to_use_drawer_summary">Deslize para a direita na parte superior da tela</string>
+    <string name="how_to_use_fsg">Você pode executar as seguintes ações usando gestos:</string>
+    <string name="important_desc">Todas as notificações importantes aparecerão diretamente na Área de notificações.</string>
+    <string name="installer_cd_button_title">Instale o app Android File Transfer para Mac</string>
+    <string name="instant_apps">Instant apps</string>
+    <string name="instant_apps_message">Instant apps não exigem instalação.</string>
+    <string name="interruption_level_alarms">Apenas alarmes</string>
+    <string name="interruption_level_alarms_twoline">"Apenas
+alarmes"</string>
+    <string name="interruption_level_none_with_warning">Silêncio total. Isto também silenciará leitores de tela.</string>
+    <string name="interruption_level_priority">Apenas prioridades</string>
+    <string name="interruption_level_priority_twoline">"Apenas
+prioridades"</string>
+    <string name="invalid_charger">"Carregamento USB não suportado.
+Use somente o carregador fornecido."</string>
+    <string name="invalid_charger_title">Carregamento USB não suportado.</string>
+    <string name="keyboard_key_backspace">Backspace</string>
+    <string name="keyboard_key_dpad_center">Centro</string>
+    <string name="keyboard_key_dpad_down">Baixo</string>
+    <string name="keyboard_key_dpad_left">Esquerda</string>
+    <string name="keyboard_key_dpad_right">Direita</string>
+    <string name="keyboard_key_dpad_up">Cima</string>
+    <string name="keyboard_key_home">Início</string>
+    <string name="keyboard_key_media_fast_forward">Avanço rápido</string>
+    <string name="keyboard_key_media_play_pause">Reproduzir/Pausar</string>
+    <string name="keyboard_key_numpad_template">Botão %1$s</string>
+    <string name="keyboard_key_space">Espaço</string>
+    <string name="keyboard_shortcut_group_applications">Apps</string>
+    <string name="keyboard_shortcut_group_system_shortcuts_helper">Atalhos de teclado</string>
+    <string name="keyboard_shortcut_group_system_switch_input">Trocar método de entrada</string>
+    <string name="keyguard_indication_charging_time_fast">Carregando rapidamente (%s até concluir)</string>
+    <string name="keyguard_indication_charging_time_slowly">Carregando lentamente (%s até concluir)</string>
+    <string name="label_view">Ver</string>
+    <string name="left_icon">Ícone do botão esquerdo</string>
+    <string name="left_keycode">Código do botão esquerdo</string>
+    <string name="lockscreen_carrier_default">Sem serviço</string>
+    <string name="lockscreen_none">N/A</string>
+    <string name="lockscreen_shortcut_left">Atalho da esquerda</string>
+    <string name="lockscreen_shortcut_right">Atalho da direita</string>
+    <string name="lockscreen_unlock_left">Atalho da esquerda também desbloqueia</string>
+    <string name="lockscreen_unlock_right">Atalho da direita também desbloqueia</string>
+    <string name="long_screenshot_not_support_msg">O app atual não suporta a captura de tela estendida</string>
+    <string name="long_screenshot_out_of_memory_error">A imagem é muito grande</string>
+    <string name="long_screenshot_processing">Processando…</string>
+    <string name="long_screenshot_stop">Concluído</string>
+    <string name="long_screenshot_top_msg">Criando a captura de tela…</string>
+    <string name="long_screenshot_top_msg_manual">Corte a captura de tela e toque no botão para finalizar</string>
+    <string name="low_temperature_button_ok">Entendi</string>
+    <string name="low_temperature_warning_message">A temperatura está muito baixa. Seu telefone pode desligar a qualquer momento. Certifique-se de salvar qualquer alteração importante.</string>
+    <string name="low_temperature_warning_title">Alerta de temperatura baixa</string>
+    <string name="mdb_entering">Iniciando…</string>
+    <string name="mdb_restore_cancel">Cancelar</string>
+    <string name="mdb_restore_info1">Restaurar dados do telefone</string>
+    <string name="mdb_restore_info2">Não desconecte o USB do telefone</string>
+    <string name="mdb_restore_label">Restauração de MDB</string>
+    <string name="mdb_restore_mode">Modo de restauração</string>
+    <string name="mdb_usb_disconnection_exit">USB desconectada</string>
+    <string name="media_projection_dialog_text">%s começará a capturar tudo o que está exibido em sua tela.</string>
+    <string name="memory_clear_result_giga">%1$sGB limpos</string>
+    <string name="memory_clear_result_mega">%1$sMB limpos</string>
+    <string name="miui_ringer_count_down">Contagem regressiva</string>
+    <string name="miui_ringer_count_down_time">Contagem regressiva: %s</string>
+    <string name="miui_ringer_standard">Silencioso</string>
+    <string name="miui_ringer_standard_description">Silenciar toque para chamadas e notificações recebidas</string>
+    <string name="miui_ringer_total">Não perturbe</string>
+    <string name="miui_ringer_total_description">Silenciar sons e desligar a vibração para todos os itens exceto o alarme</string>
+    <string name="miui_toast_zen_dnd_to_off">Sons e vibração restaurados para o padrão</string>
+    <string name="miui_toast_zen_standard_to_off">Toques restaurados para a configuração padrão</string>
+    <string name="miui_toast_zen_to_dnd">Sons silenciados e vibração desativada</string>
+    <string name="miui_toast_zen_to_standard">Toques para chamadas e notificações silenciados</string>
+    <string name="monitoring_button_view_policies">Ver Políticas</string>
+    <string name="monitoring_description_app_personal">Você está conectado a %1$s, o que pode monitorar sua atividade de rede pessoal, incluindo e-mails, apps e websites.</string>
+    <string name="monitoring_description_app_personal_work">"Seu perfil de trabalho é gerenciado por %1$s. O perfil está conectado ao %2$s, que pode monitorar sua atividade na rede do trabalho, incluindo e-mails, apps e websites.
+
+Você está conectado ao %3$s, que pode monitorar o seu tráfego de rede pessoal."</string>
+    <string name="monitoring_description_app_work">"Seu perfil de trabalho é gerenciado por %1$s. O perfil está conectado ao %2$s, que pode monitorar sua atividade na rede de trabalho, incluindo e-mails, apps e websites.
+
+Para mais informações, entre em contato com o seu administrador."</string>
+    <string name="monitoring_description_ca_certificate">Uma autoridade de certificado está instalada neste dispositivo. Seu tráfego de rede seguro pode ser monitorado ou modificado.</string>
+    <string name="monitoring_description_do_body">Seu administrador pode monitorar e gerenciar suas configurações, o acesso corporativo, seus apps, dados associados ao seu dispositivo e suas informações de localização.</string>
+    <string name="monitoring_description_do_body_vpn">Você está conectado a %1$s, que pode monitorar sua atividade de rede, incluindo e-mails, apps e websites.</string>
+    <string name="monitoring_description_do_header_with_name">%1$s usa o %2$s para gerenciar seu dispositivo.</string>
+    <string name="monitoring_description_do_learn_more">Saiba mais</string>
+    <string name="monitoring_description_managed_profile_ca_certificate">Sua organização instalou uma autoridade de certificado em seu perfil de trabalho. Seu tráfego de rede seguro pode ser monitorado ou modificado.</string>
+    <string name="monitoring_description_management">"Seu dispositivo é gerenciado por sua organização.
+
+Seu administrador pode monitorar e gerenciar as configurações, acesso corporativo, apps, dados associados ao seu dispositivo e suas informações de localização.
+
+Para mais informações, entre em contato com o seu administrador."</string>
+    <string name="monitoring_description_management_ca_certificate">Sua organização instalou uma autoridade de certificado em seu dispositivo. Seu tráfego de rede seguro pode ser monitorado ou modificado.</string>
+    <string name="monitoring_description_named_management">"Seu dispositivo é gerenciado por %1$s.
+
+Seu administrador pode monitorar e gerenciar configurações, acesso corporativo, apps, dados associados ao seu dispositivo e as suas informações de localização.
+
+Para mais informações, entre em contato com o seu administrador."</string>
+    <string name="monitoring_description_named_vpn">Você está conectado a %1$s, o que pode monitorar sua atividade de rede, incluindo e-mails, apps e websites.</string>
+    <string name="monitoring_description_network_logging">"O seu administrador ativou os logs de rede, que monitoram o tráfego no seu dispositivo.
+
+Para mais informações, entre em contato com o seu administrador."</string>
+    <string name="monitoring_description_personal_profile_named_vpn">Seu perfil pessoal está conectado a %1$s, que pode monitorar a sua atividade de rede, incluindo e-mails, apps e websites.</string>
+    <string name="monitoring_description_two_named_vpns">Você está conectado a %1$s e %2$s, que pode monitorar sua atividade de rede, incluindo e-mails, apps e websites.</string>
+    <string name="monitoring_description_vpn">"Você concedeu permissão a um app para configurar uma conexão VPN.
+
+Este app pode monitorar seu dispsitivo e a atividade de rede, incluindo e-mails, apps e websites."</string>
+    <string name="monitoring_description_vpn_profile_owned">"Seu perfil de trabalho é gerenciado por %1$s.
+
+Seu administrador pode monitorar sua atividade de rede incluindo e-mails, apps e websites.
+
+Para mais informações, entre em contato com o seu administrador.
+
+Você também está conectado a uma VPN, que pode monitorar sua atividade de rede."</string>
+    <string name="monitoring_description_vpn_settings">Abrir Configurações de VPN</string>
+    <string name="monitoring_subtitle_ca_certificate">Certificados CA</string>
+    <string name="monitoring_title_device_owned">Gerenciamento do dispositivo</string>
+    <string name="monitoring_title_profile_owned">Monitoramento de perfil</string>
+    <string name="mount_storage">Sim</string>
+    <string name="nav_guide_cancel">Ignorar</string>
+    <string name="nav_guide_message">Usar gestos para exibir ou ocultar os botões virtuais.</string>
+    <string name="nav_guide_ok">Configurar</string>
+    <string name="nav_guide_title">Ocultar botões virtuais</string>
+    <string name="no_multi_window_app">Nenhum app com suporte à Tela dividida</string>
+    <string name="no_notification_tips">Nenhuma notificação</string>
+    <string name="no_weather_description">Obtenha informações de clima ></string>
+    <string name="not_support_multi_window">O app atual não suporta a Tela dividida</string>
+    <string name="notification_channel_controls_closed_accessibility">Controles de notificação para %1$s fechados</string>
+    <string name="notification_channel_controls_opened_accessibility">Controles de notificação para %1$s abertos</string>
+    <string name="notification_channel_disabled">Você não receberá mais estas notificações.</string>
+    <string name="notification_channel_location">Localização</string>
+    <string name="notification_channel_screenbutton">Botões virtuais</string>
+    <string name="notification_channel_switch_accessibility">Permitir notificações deste canal</string>
+    <string name="notification_group_collapse_button_text">Recolher</string>
+    <string name="notification_group_overflow_indicator">+%s</string>
+    <string name="notification_header_title">Notificações</string>
+    <string name="notification_hidden_by_policy_text">Conteúdo oculto pela política</string>
+    <string name="notification_hidden_text">Você tem uma nova mensagem</string>
+    <string name="notification_info_channel_disabled_text">Você não receberá notificações %2$s de %1$s.</string>
+    <string name="notification_info_channel_enabled_text">Você receberá notificações %2$s de %1$s.</string>
+    <string name="notification_low_battery_action_btn">Ativar</string>
+    <string name="notification_low_battery_need_charge">A bateria está fraca. Carregue seu dispositivo.</string>
+    <string name="notification_low_battery_open_save_mode">Ative a Economia de bateria</string>
+    <string name="notification_low_battery_title">Bateria fraca: %d%%</string>
+    <string name="notification_manager">Gerenciar notificações</string>
+    <string name="notification_manager_des">Filtrar e gerenciar notificações</string>
+    <string name="notification_menu_accessibility">%1$s %2$s</string>
+    <string name="notification_menu_filter_description">Notificações não importantes</string>
+    <string name="notification_menu_filter_secondary_text">Todas as notificações de %s aparecerão em uma pasta separada.</string>
+    <string name="notification_menu_filter_title">Não importante</string>
+    <string name="notification_menu_gear_description">Controles de notificações</string>
+    <string name="notification_menu_remove_from_filter_secondary_text">Todas as notificações importantes de %s aparecerão diretamente na Área de notificações.</string>
+    <string name="notification_menu_remove_from_filter_title">Importante</string>
+    <string name="notification_menu_snooze_description">Opções para silenciar notificações</string>
+    <string name="notification_otg_gamestick_in">Gamepad conectado</string>
+    <string name="notification_otg_gamestick_out">Gamepad desconectado</string>
+    <string name="notification_otg_keyboard_in">Teclado conectado</string>
+    <string name="notification_otg_keyboard_out">Teclado desconectado</string>
+    <string name="notification_otg_mouse_in">Mouse conectado</string>
+    <string name="notification_otg_mouse_out">Mouse desconectado</string>
+    <string name="notification_otg_stylus_in">Stylus conectada</string>
+    <string name="notification_otg_stylus_out">Stylus desconectada</string>
+    <string name="notification_otg_touchPad_in">Touchpad conectado</string>
+    <string name="notification_otg_touchPad_out">Touchpad desconectado</string>
+    <string name="notification_otg_touchScreen_in">Touch screen conectada</string>
+    <string name="notification_otg_touchScreen_out">Touch screen desconectada</string>
+    <string name="notification_otg_trackball_in">Trackball conectado</string>
+    <string name="notification_otg_trackball_out">Trackball desconectado</string>
+    <string name="notification_otg_unknow_in">Dispositivo OTG conectado</string>
+    <string name="notification_otg_unknow_out">Dispositivo OTG desconectado</string>
+    <string name="notification_template_text">" tem uma notificação. Toque para ver."</string>
+    <string name="oldman_airplane_mode_text">Modo avião</string>
+    <string name="oldman_incall_text">Voltar à chamada</string>
+    <string name="phone_hint">Deslize do ícone para telefonar</string>
+    <string name="phone_label">Abrir Telefone</string>
+    <string name="pip_menu_title">Menu do picture in picture</string>
+    <string name="pip_notification_message">Se você não deseja que o %s use este recurso, toque para abrir as configurações e desative-o.</string>
+    <string name="pip_notification_title">%s está no modo PIP</string>
+    <string name="pip_skip_to_next">Pular para próxima</string>
+    <string name="pip_skip_to_prev">Pular para anterior</string>
+    <string name="please_slide_agian">Deslize novamente</string>
+    <string name="power_notification_controls_description">"Com o controle individual de configurações, você pode definir um nível de importãncia de 0 a 5 para as notificações de apps. 
+
+"<b>Nível 5</b>" 
+- Mostrar no topo da lista de notificações 
+- Permitir interrupção em tela cheia 
+- Permitir visualização 
+
+"<b>Nível 4</b>" 
+- Impedir interrupção em tela cheia 
+- Permitir visualização 
+
+"<b>Nível 3</b>" 
+- Impedir interrupção em tela cheia 
+- Impedir visualização 
+
+"<b>Nível 2</b>" 
+- Impedir interrupção em tela cheia 
+- Impedir visualização 
+- Impedir sons e vibrações 
+
+"<b>Nível 1</b>" 
+- Impedir interrupção em tela cheia 
+- Impedir visualização 
+- Impedir sons e vibrações 
+- Ocultar da tela de bloqueio e barra de status 
+- Mostrar no final da lista de notificações 
+
+"<b>Nível 0</b>" 
+- Bloquear todas as notificações do app"</string>
+    <string name="prompt_danger">Perigo</string>
+    <string name="prompt_detecting">Detectando</string>
+    <string name="prompt_safe">Seguro</string>
+    <string name="prompt_unknown">Desconhecido</string>
+    <string name="qs_customize_title">Editar</string>
+    <string name="qs_dnd_prompt_app">O Não perturbe foi ativado por um app (%s).</string>
+    <string name="qs_dnd_prompt_auto_rule">O Não perturbe foi ativado por uma regra automática (%s).</string>
+    <string name="qs_dnd_prompt_auto_rule_app">O Não perturbe foi ativado por uma regra automática ou um app.</string>
+    <string name="qs_rearrange">Reordenar Configurações rápidas</string>
+    <string name="quick_settings_autobrightness_label">Brilho automático</string>
+    <string name="quick_settings_batterysaver_label">Economia de bateria</string>
+    <string name="quick_settings_bluetooth_detail_empty_text">Nenhum dispositivo emparelhado disponível</string>
+    <string name="quick_settings_brightness_dialog_auto_brightness_label">Automático</string>
+    <string name="quick_settings_cast_detail_empty_text">Nenhum dispositivo disponível</string>
+    <string name="quick_settings_cellular_detail_data_limit">%s limite</string>
+    <string name="quick_settings_cellular_detail_data_used">%s usados</string>
+    <string name="quick_settings_cellular_detail_data_warning">%s alerta</string>
+    <string name="quick_settings_cellular_detail_over_limit">Acima do limite</string>
+    <string name="quick_settings_color_space_label">Modo de correção de cores</string>
+    <string name="quick_settings_connect_success">Conectado</string>
+    <string name="quick_settings_connecting">Conectando</string>
+    <string name="quick_settings_disclosure_managed_profile_monitoring">Sua organização pode monitorar o tráfego de rede em seu perfil de trabalho</string>
+    <string name="quick_settings_disclosure_management">Este dispositivo é gerenciado por sua organização</string>
+    <string name="quick_settings_disclosure_management_named_vpn">Este dispositivo é gerenciado por sua organização e conectado a %1$s</string>
+    <string name="quick_settings_disclosure_management_vpns">Este dispositivo é gerenciado por sua organização e conectado a VPNs</string>
+    <string name="quick_settings_disclosure_named_managed_profile_monitoring">%1$s pode monitorar o tráfego de rede em seu perfil de trabalho</string>
+    <string name="quick_settings_disclosure_named_management">Este dispositivo é gerenciado por %1$s</string>
+    <string name="quick_settings_disclosure_named_management_named_vpn">Este dispositivo é gerenciado por %1$s e conectado a %2$s</string>
+    <string name="quick_settings_disclosure_named_management_vpns">Este dispositivo é gerenciado por %1$s e conectado a VPNs</string>
+    <string name="quick_settings_disclosure_named_vpn">Dispositivo conectado a %1$s</string>
+    <string name="quick_settings_dnd_alarms_label">Apenas alarmes</string>
+    <string name="quick_settings_dnd_priority_label">Apenas prioridades</string>
+    <string name="quick_settings_drivemode_label">Modo carro</string>
+    <string name="quick_settings_edit_label">Editar</string>
+    <string name="quick_settings_hotspot_label">Hotspot</string>
+    <string name="quick_settings_mute_label">Silencioso</string>
+    <string name="quick_settings_nfc_off">O NFC está desativado</string>
+    <string name="quick_settings_nfc_on">O NFC está ativad</string>
+    <string name="quick_settings_night_display_label">Luz noturna</string>
+    <string name="quick_settings_night_secondary_label_on_at">Ligar às %s</string>
+    <string name="quick_settings_night_secondary_label_on_at_sunset">Ligar no pôr do sol</string>
+    <string name="quick_settings_night_secondary_label_until_sunrise">Até o nascer do sol</string>
+    <string name="quick_settings_papermode_label">Modo de leitura</string>
+    <string name="quick_settings_powermode_label">Modo de desempenho</string>
+    <string name="quick_settings_quietmode_label">Não perturbe</string>
+    <string name="quick_settings_reset_confirmation_message">Ele aparecerá novamente quando você o ativar nas Configurações.</string>
+    <string name="quick_settings_reset_confirmation_title">Ocultar %1$s?</string>
+    <string name="quick_settings_rotation_unlocked_label">Rotação automática</string>
+    <string name="quick_settings_rssi_emergency_only">Apenas chamadas de emergência</string>
+    <string name="quick_settings_screenbutton_label">Botões</string>
+    <string name="quick_settings_screenlock_label">Bloquear tela</string>
+    <string name="quick_settings_screenshot_label">Captura de tela</string>
+    <string name="quick_settings_secondary_label_until">Até às %s</string>
+    <string name="quick_settings_sync_label">Sincronizar</string>
+    <string name="quick_settings_vibrate_label">Vibrar</string>
+    <string name="quick_settings_wifi_nearby">Selecione uma rede próxima</string>
+    <string name="quick_settings_wifi_no_network">Nenhuma rede</string>
+    <string name="quick_settings_wifi_off_label">Wi-Fi desativado</string>
+    <string name="quick_settings_work_mode_label">Modo trabalh</string>
+    <string name="recent_cannot_dock">Não é possível usar a Tela dividida no Segundo Espaço</string>
+    <string name="recent_dock_tip">Toque para selecionar apps</string>
+    <string name="recent_menu_item_info">Info.</string>
+    <string name="recent_menu_item_lock">Bloquear</string>
+    <string name="recent_menu_item_multi_window">Dividir</string>
+    <string name="recent_menu_item_unlock">Desbloquear</string>
+    <string name="recent_task_cleaning">Liberando apps…</string>
+    <string name="recent_task_lock_text">Bloquear</string>
+    <string name="recent_task_unlock_text">Desbloquear</string>
+    <string name="recents_accessibility_split_screen_left">Dividir tela para a esquerda</string>
+    <string name="recents_accessibility_split_screen_right">Dividir tela para a direita</string>
+    <string name="recents_accessibility_split_screen_top">Dividir tela para o topo</string>
+    <string name="recents_app_info_button_label">Info. do app</string>
+    <string name="recents_caption_resize">Selecionar novo layout para Recentes</string>
+    <string name="recents_drag_hint_message">Arraste aqui para usar a Tela dividida</string>
+    <string name="recents_empty_message_dismissed_all">Você já limpou tudo</string>
+    <string name="recents_empty_message_multi_window">Abrir apps da Tela inicial</string>
+    <string name="recents_exit_multi_window_mode">Sair</string>
+    <string name="recents_incompatible_app_message">Este app não suporta Tela dividida</string>
+    <string name="recents_launch_error_message">Não foi possível iniciar o app %s.</string>
+    <string name="recents_lock_to_app_button_label">Fixar tela</string>
+    <string name="recents_multi_window_mode">Tela dividida</string>
+    <string name="recents_multistack_add_stack_dialog_split_custom">Dividir em proporção personalizada</string>
+    <string name="recents_multistack_add_stack_dialog_split_horizontal">Dividir horizontalmente</string>
+    <string name="recents_multistack_add_stack_dialog_split_vertical">Dividir verticalmente</string>
+    <string name="recents_search_bar_label">Pesquisar</string>
+    <string name="reject_call">Rejeitando chamada</string>
+    <string name="remove_from_settings">Remover das Configurações</string>
+    <string name="remove_from_settings_prompt">Remover o Configurador da interface de sistema das Configurações e parar de usar todos os seus recursos?</string>
+    <string name="return_to_incall_screen">Retornar à chamada</string>
+    <string name="right_icon">Ícone do botão direito</string>
+    <string name="right_keycode">Código do botão direito</string>
+    <string name="running_foreground_services_msg">Toque para detalhes de bateria e uso de dados</string>
+    <string name="running_foreground_services_title">Apps executando em segundo plano</string>
+    <string name="screen_button_notification_text">Para reativá-los, pressione os botões Início e Liga/Desliga simultaneamente.</string>
+    <string name="screen_button_notification_title">Botões de navegação desativados</string>
+    <string name="screen_pinning_description">Isto mantém a tela em exibição até ela ser desafixada. Toque e segure no botão Voltar e Visão geral para desativar.</string>
+    <string name="screen_pinning_description_accessible">Isto mantém a tela em exibição até ela ser desafixada. Toque e segure no botão Visão geral para desativar.</string>
+    <string name="screenshot_delete">Excluir</string>
+    <string name="screenshot_delete_dlg_msg">Excluir esta captura de tela?</string>
+    <string name="screenshot_delete_dlg_title">Excluir</string>
+    <string name="screenshot_dlg_cancel">Cancelar</string>
+    <string name="screenshot_dlg_delete_button">Excluir</string>
+    <string name="screenshot_edit">Editar</string>
+    <string name="screenshot_failed_title">Não foi possível capturar a tela.</string>
+    <string name="screenshot_failed_to_capture_text">A captura de tela não é permitida pelo app ou por sua organização</string>
+    <string name="screenshot_failed_to_save_text">Não é possível salvar a captura de tela porque o armazenamento disponível é insuficiente.</string>
+    <string name="screenshot_failed_to_save_unknown_text">Ocorreu um erro ao salvar a captura de tela.</string>
+    <string name="screenshot_insert_failed">Não foi possível carregar a captura de tela. Tire uma nova ou veja a imagem na Galeria.</string>
+    <string name="screenshot_long_screenshot">Estender</string>
+    <string name="screenshot_saved_text">Toque para ver a captura de tela.</string>
+    <string name="screenshot_saved_title">Tela capturada com sucesso.</string>
+    <string name="screenshot_saving_text">Salvando captura de tela…</string>
+    <string name="screenshot_saving_ticker">Salvando captura de tela…</string>
+    <string name="screenshot_saving_title">Salvando captura de tela…</string>
+    <string name="screenshot_send">Enviar</string>
+    <string name="search_hint">Pesquisar por websites, apps, contatos e vídeos…</string>
+    <string name="settings_custom_notification">Gerenciar notificações</string>
+    <string name="settings_toggle_position">Gerenciar atalhos</string>
+    <string name="settings_toggle_position_divider_list">Atalhos acima desta barra estão ativos</string>
+    <string name="settings_toggle_position_reset">Redefinir atalhos</string>
+    <string name="share">Compartilhar</string>
+    <string name="show_battery_percentage">Mostrar porcentagem da bateria</string>
+    <string name="show_battery_percentage_summary">Mostrar porcentagem da bateria dentro da barra de status quando não estiver carregando</string>
+    <string name="show_brightness">Mostrar brilho nas Configurações rápidas</string>
+    <string name="show_demo_mode">Mostrar Modo de demonstração</string>
+    <string name="show_silently">Mostrar notificações silenciosamente</string>
+    <string name="snooze_option_1_hour">1 hora</string>
+    <string name="snoozed_for_time">Silenciado por %1$s</string>
+    <string name="ssl_ca_cert_warning">"A rede pode ser
+monitorada"</string>
+    <string name="start_dreams">Descanso de tela</string>
+    <string name="status_bar_alarm">Alarmes</string>
+    <string name="status_bar_clock_date_format">EEEE, dd/MM</string>
+    <string name="status_bar_clock_date_format_12">"EEEE, d 'de' MMMM"</string>
+    <string name="status_bar_date_format">"EEEE
+d 'de' MMMM"</string>
+    <string name="status_bar_date_format_12">"EEEE
+d 'de' MMMM"</string>
+    <string name="status_bar_network_flow_content">Hoje: %1$s | Restante: %2$s</string>
+    <string name="status_bar_network_flow_exceed_content">Hoje: %1$s | Excedido do plano: &lt;font color=%2$s>%3$s&lt;/font></string>
+    <string name="status_bar_network_flow_limit">"   Limite mensal: %1$s   "</string>
+    <string name="status_bar_network_flow_purchase">"   Comprar >"</string>
+    <string name="status_bar_network_flow_today">Hoje: %1$s</string>
+    <string name="status_bar_no_notifications_title">Nenhuma notificação</string>
+    <string name="status_bar_no_recent_apps">A tela de seus apps recentes aparece aqui</string>
+    <string name="status_bar_notification_app_settings_title">Configurações para %s</string>
+    <string name="status_bar_notification_inspect_item_title">Configuração de notificações</string>
+    <string name="status_bar_recent_guide_all">"Deslize para cima para fechar
+Deslize para baixo para bloquear"</string>
+    <string name="status_bar_recent_guide_bottom">Deslize para baixo para bloquear</string>
+    <string name="status_bar_recent_guide_top">Deslize para cima para fechar</string>
+    <string name="status_bar_recent_inspect_item_title">Info. do app</string>
+    <string name="status_bar_recent_memory_info1">%1$sB de %2$sB disponível</string>
+    <string name="status_bar_recording_back">Retornar ao Gravador</string>
+    <string name="status_bar_recording_pause">Gravação em pausa</string>
+    <string name="status_bar_safepay_risk">Riscos de pagamento encontrados</string>
+    <string name="status_bar_safepay_safe">Nenhum risco de pagamentos encontrado</string>
+    <string name="status_bar_safepay_scanning">Verificando ambiente de pagamentos…</string>
+    <string name="status_bar_safepay_unknown">Não foi possível verificar o ambiente de pagamentos</string>
+    <string name="status_bar_settings_airplane">Modo avião</string>
+    <string name="status_bar_settings_auto_brightness_label">AUTOM.</string>
+    <string name="status_bar_settings_mute_label">SILENCIOSO</string>
+    <string name="status_bar_settings_signal_meter_disconnected">Sem conexão à internet</string>
+    <string name="status_bar_style_settings">Notificações</string>
+    <string name="stream_alarm">Alarmes</string>
+    <string name="stream_dtmf">Frequência de DTMF</string>
+    <string name="stream_notification">Notificações</string>
+    <string name="stream_ring">Toque</string>
+    <string name="stream_voice_call">Chamadas</string>
+    <string name="system_ui_tuner">Configurador da Interf. do sistema</string>
+    <string name="task_access_locked_app_msg">Bloqueio de apps ativado</string>
+    <string name="thermal_shutdown_dialog_message">"Seu telefone estava muito quente, então ele foi desligado para resfriar. Seu telefone agora está executando normalmente.
+
+Ele pode esquentar em excesso se você:
+\u0009- Usar apps que exigem muito do sistema (como jogos, vídeos ou apps de navegação);
+\u0009- Download ou upload de arquivos grandes
+\u0009- Usar o telefone em temperaturas altas"</string>
+    <string name="thermal_shutdown_message">Seu telefone está funcionando normalmente agora</string>
+    <string name="thermal_shutdown_title">Desligando telefone por superaquecimento</string>
+    <string name="torch_activity_hint">Segure [icon] para ativar a lanterna na Tela de bloqueio</string>
+    <string name="torch_activity_name">Lanterna</string>
+    <string name="torch_closed">Lanterna desligada</string>
+    <string name="torch_opened">Lanterna ligada</string>
+    <string name="tuner_full_importance_settings">Controle individual de notificações</string>
+    <string name="tuner_launch_app">Executar %1$s</string>
+    <string name="tuner_left">Esquerda</string>
+    <string name="tuner_lock_screen">Bloquear tela</string>
+    <string name="tuner_persistent_warning">Estes recursos experimentais podem alterar, quebrar ou desaparecer em lançamentos futuros. Proceda com cautela.</string>
+    <string name="tuner_right">Direita</string>
+    <string name="tuner_time">Hora</string>
+    <string name="tuner_toast">Parabéns! O customizador da interface do sistema foi adicionado às Configurações</string>
+    <string name="tuner_warning">O Configurador da interface de sistema lhe dá outras formas de personalizar e otimizar a interface do usuário do Android. Estes recursos experimentais podem alterar, quebrar ou desaparecer em lançamentos futuros. Proceda com cautela.</string>
+    <string name="tuner_warning_title">Divertido para alguns mas não para todos</string>
+    <string name="un_important_notifications">Notificações sem importância</string>
+    <string name="unimportant_desc">Todas as notificações sem importância ficarão agrupadas em uma seção separada.</string>
+    <string name="unimportant_title">Não importante</string>
+    <string name="unlock_label">Desbloquear</string>
+    <string name="usb_accessory_confirm_prompt">Abrir %1$s quando este acessório USB for conectado?</string>
+    <string name="usb_accessory_uri_prompt">Nenhum app instalado funciona com este acessório USB. Conheça mais sobre este acessório em %1$s</string>
+    <string name="usb_debugging_always">Sempre permitir deste computador</string>
+    <string name="usb_debugging_message">"A impressão RSA do computador é: 
+%1$s"</string>
+    <string name="usb_debugging_secondary_user_message">O usuário conectado atualmente neste dispositivo não pode ativar a Depuração USB. Para usar este recurso, mude para um usuário com permissões de Administrador.</string>
+    <string name="usb_debugging_title">Permitir depuração USB?</string>
+    <string name="usb_device_confirm_prompt">Abrir %1$s quando este dispositivo USB for conectado?</string>
+    <string name="usb_function_charging_text">Conectado em modo de carregamento</string>
+    <string name="usb_mode_dont_ask">Lembrar desta escolha</string>
+    <string name="usb_mode_mount_storage_title">Abrir armazenamento USB?</string>
+    <string name="usb_mode_notification">Armazenamento USB</string>
+    <string name="usb_mtp_text">Arquivos</string>
+    <string name="usb_notification">USB conectado</string>
+    <string name="usb_notification_mtp_info">Acessando arquivos deste dispositivo</string>
+    <string name="usb_notification_mtp_problem">Ajuda</string>
+    <string name="usb_notification_mtp_ticker_text">Conectado como disp. de mídia (arquivos)</string>
+    <string name="usb_notification_ptp_info">Acessando fotos deste dispositivo</string>
+    <string name="usb_notification_ptp_ticker_text">Conectado como disp. de mídia (fotos)</string>
+    <string name="usb_preference_title">Opções de transferência USB</string>
+    <string name="usb_ptp_text">Fotos</string>
+    <string name="usb_share_net_info">Usar internet do computador</string>
+    <string name="usb_storage_error_message">Ocorreu um erro ao tentar acessar seu dispositivo como um armazenamento em massa USB.</string>
+    <string name="usb_storage_message">Você está conectado ao seu computador via USB. Toque no botão abaixo se você deseja copiar arquivos entre seu computador e o armazenamento USB de seu telefone.</string>
+    <string name="usb_storage_notification_message">Selecione para copiar arquivos de e para seu computador.</string>
+    <string name="usb_storage_notification_title">USB conectado</string>
+    <string name="usb_storage_stop_message">Antes de desativar o armazenamento USB, certifique-se de que você desmontou ou ejetou o dispositivo de seu computador.</string>
+    <string name="usb_storage_stop_notification_message">Selecione para desativar o armazenamento USB.</string>
+    <string name="usb_storage_stop_notification_title">Desativar armazenamento USB</string>
+    <string name="usb_storage_stop_title">Armazenamento USB em uso</string>
+    <string name="usb_storage_title">USB conectado</string>
+    <string name="use_mtp_button_title">Montar como dispositivo de mídia (MTP)</string>
+    <string name="user_add_user_message_short">"Quando você adiciona um novo usuário, esta pessoa precisará configurar o seu espaço.
+
+Qualquer usuário pode atualizar apps para todos os outros usuários."</string>
+    <string name="user_guide_for_notification">Deslize para baixo para abrir a Área de notificações</string>
+    <string name="user_guide_for_toggle">A lista de atalhos pode ser deslizada horizontalmente</string>
+    <string name="user_guide_for_toggle_list">Gerenciar atalhos</string>
+    <string name="user_logout_notification_action">LOGOUT DO USUÁRIO</string>
+    <string name="user_logout_notification_text">Logout do usuário atual</string>
+    <string name="user_logout_notification_title">Logout do usuário</string>
+    <string name="voice_assist_label">Abrir Assistente de voz</string>
+    <string name="voice_hint">Deslize do ícone para acessar o Assistente de voz</string>
+    <string name="volume_dialog_accessibility_dismissed_message">Controle de volume oculto</string>
+    <string name="volume_dialog_accessibility_shown_message">Controle de volume para %s exibido. Deslize para cima para dispensar.</string>
+    <string name="volume_dnd_silent">Atalho nos botões de volume</string>
+    <string name="volume_stream_content_description_mute">%1$s. Toque para silenciar. Os serviços de acessibilidade poderão ser silenciados.</string>
+    <string name="volume_stream_content_description_unmute">%1$s. Toque para ativar.</string>
+    <string name="volume_stream_content_description_vibrate">%1$s. Toque para configurar para vibrar. Os serviços de acessibilidade poderão ser silenciados.</string>
+    <string name="volume_up_silent">Sair do Não perturbe ao aumentar volume</string>
+    <string name="volume_zen_end_now">Desativar agora</string>
+    <string name="vpn_text">Toque para ver as configurações.</string>
+    <string name="vpn_text_long">Conectado a %s. Toque para ver detalhes.</string>
+    <string name="vpn_title">VPN ativado</string>
+    <string name="vpn_title_long">Conectando-se à VPN usando %s</string>
+    <string name="weather_publish_time">Atualizado às %1$s</string>
+    <string name="wifi_is_off">Wi-Fi desativado</string>
+    <string name="zen_alarm_warning">Você não ouvirá o seu próximo alarme %1$s</string>
+    <string name="zen_alarm_warning_indef">Você não ouvirá o seu próximo alarme %1$s a não ser que você desative isto antes dele tocar</string>
+    <string name="zen_alarms_introduction">Você não será interrompido por sons ou vibrações, exceto para alarmes. Você ainda ouvirá qualquer coisa que optar por ouvir, incluindo músicas, vídeos e jogos.</string>
+    <string name="zen_priority_introduction">Você não será interrompido por sons ou vibrações, exceto para alarmes, lembretes, eventos e chamadas específicas. Você ainda ouvirá qualquer coisa que optar por ouvir, incluindo músicas, vídeos e jogos.</string>
+    <string name="zen_silence_introduction">Isto bloqueia TODOS os sons e vibrações, incluindo alarmes, músicas, vídeos e jogos.</string>
+    <string name="zen_silence_introduction_voice">Isto bloqueia TODOS os sons e vibrações, incluindo alarmes, músicas, vídeos e jogos. Você ainda poderá fazer chamadas telefônicas.</string>
+</resources>
