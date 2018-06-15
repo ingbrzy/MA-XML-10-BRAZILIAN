@@ -19,7 +19,6 @@
     <string name="abc_shareactionprovider_share_with">Compartilhar com</string>
     <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
     <string name="abc_toolbar_collapse_description">Recolher</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="passport_access_denied">Acesso negado</string>
     <string name="passport_account_hint_text">Endereço de e-mail, número de telefone ou ID da Conta Mi</string>
     <string name="passport_account_identity_title">Verificar identidade</string>

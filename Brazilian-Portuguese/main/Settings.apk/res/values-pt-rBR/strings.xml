@@ -1761,7 +1761,6 @@ PIN possivelmente incorreto."</string>
     <string name="status_bar_settings_all_app_display_loading">Aguarde…</string>
     <string name="status_bar_settings_app_notification_preferences">Configurações do app</string>
     <string name="status_bar_settings_basic_settings">Configurações básicas</string>
-    <string name="status_bar_settings_carrier_sim">"Cartão SIM %1$s: "</string>
     <string name="status_bar_settings_custom_carrier">Editar nome da operadora</string>
     <string name="status_bar_settings_custom_wifi_name">Editar nome da rede Wi-Fi</string>
     <string name="status_bar_settings_enable_notification">Mostrar notificações</string>

@@ -13,7 +13,6 @@
     <string name="no_network_btn">Repetir</string>
     <string name="main_toolbar_purchase">Recarregar</string>
     <string name="usage_sorted_loading_text">Aguarde…</string>
-    <string name="empty">" "</string>
     <string name="share">Compartilhar</string>
     <string name="open_browser">Abrir no Navegador</string>
     <string name="title_share_link">Compartilhar URL</string>

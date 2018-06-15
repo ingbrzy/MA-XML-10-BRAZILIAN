@@ -23,7 +23,6 @@
     <string name="dialog_alert_title">Atenção</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Este vídeo não é válido para transmissão neste dispositivo.</string>
     <string name="selectTextMode">Selecionar texto</string>
-    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="fingerprint_icon_content_description">Ícone de impressão digital</string>
     <string name="paste_as_plain_text">Colar como texto simples</string>
     <string name="BaMmi">Bloqueio de chamadas</string>
@@ -383,7 +382,6 @@ Em caso de dúvidas, entre em contato com o administrador da sua organização."
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">Código de recurso concluído.</string>
     <string name="fcError">Problema de conexão ou código de recurso inválido.</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="find">Localizar</string>
     <string name="find_next">Localizar próximo</string>
     <string name="find_on_page">Localizar na página</string>
@@ -847,7 +845,6 @@ Tente novamente em %2$d segundos."</string>
     <string name="notification_hidden_by_policy_text">Conteúdo ocultado pela política</string>
     <string name="notification_hidden_text">Conteúdo oculto</string>
     <string name="notification_listener_binding_label">Ouvinte de notificações</string>
-    <string name="notification_messaging_title_template">%1$s: %2$s</string>
     <string name="notification_ranker_binding_label">Serviço de classificação de notificação</string>
     <string name="notification_title">Erro de login para %1$s</string>
     <string name="notification_work_profile_content_description">Perfil de trabalho</string>
@@ -1512,6 +1509,5 @@ Deseja fechá-la?"</string>
     <string name="zen_mode_feature_name">Não perturbe</string>
     <string name="zen_mode_forever">Até que você desative \"Não perturbe\"</string>
     <string name="zen_mode_forever_dnd">Até que você desative \"Não perturbe\"</string>
-    <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
     <string name="zen_mode_until">Até às %1$s</string>
 </resources>

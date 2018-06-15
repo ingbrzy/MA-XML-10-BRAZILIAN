@@ -465,7 +465,6 @@ Tire mais fotos de seus amigos!"</string>
     <string name="face_name_edit">Editar</string>
     <string name="face_name_input">Inserir nome</string>
     <string name="face_recommend">Recomendações</string>
-    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">Não foi possível concluir a operação</string>
     <string name="fail_to_pick_email">Endereço de e-mail inválido</string>
     <string name="fail_to_sync_album">Não foi possível sincronizar o álbum. Verifique sua conexão de dados e tente novamente.</string>
@@ -474,7 +473,6 @@ Tire mais fotos de seus amigos!"</string>
     <string name="fast_share_auto_render">Beautiful</string>
     <string name="fast_share_auto_render_finish">Beautiful aplicado</string>
     <string name="feature_guidance_photo_effects">Photo effects</string>
-    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="filter_bi_memory">Memórias</string>
     <string name="filter_bi_mono">Mono</string>
     <string name="filter_bi_pink">Pink</string>
@@ -543,7 +541,6 @@ Tire mais fotos de seus amigos!"</string>
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">Definir</string>
-    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"A Galeria precisa de acesso à 
 %s
  para funcionar normalmente, toque em \"Definir\" para ir às Permissões."</string>
@@ -739,7 +736,6 @@ para personalizar a Galeria"</string>
     <string name="people_mark_mode_title_no_mark_name">Selecione uma pessoa</string>
     <string name="people_page_label">Pessoas</string>
     <string name="people_page_unname">Sem nome</string>
-    <string name="percent_sign">%</string>
     <string name="pet_album_display_name">Fotos de pets</string>
     <string name="petabyteShort">PB</string>
     <string name="photo">Fotos</string>
@@ -979,9 +975,6 @@ para personalizar a Galeria"</string>
     <string name="search_title_recommend">Recomendado</string>
     <string name="search_title_suggestion">Sogestões</string>
     <string name="search_title_tag">Objetos</string>
-    <string name="search_transition_element_icon">search_icon</string>
-    <string name="search_transition_element_input">search_input</string>
-    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">Procurando um projetor…</string>
     <string name="secret_album_card_description">O melhor lugar para todos os seus segredos</string>
     <string name="secret_album_card_title">Experimente o álbum oculto</string>
@@ -1250,7 +1243,6 @@ para personalizar a Galeria"</string>
     <string name="view_more_face_desc">Ver mais pessoas</string>
     <string name="view_queuing_status">Verificar status</string>
     <string name="voice_assistant">Entrada de voz</string>
-    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="welcome_to_micloud">Bem-vindo à Mi Cloud</string>
     <string name="where_is_barcode">Onde está o código QR?</string>
     <string name="who_is_this">Quem é?</string>

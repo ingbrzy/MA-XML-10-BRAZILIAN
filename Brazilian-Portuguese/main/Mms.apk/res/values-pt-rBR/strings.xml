@@ -192,7 +192,6 @@
     <string name="file_size">Tamanho:</string>
     <string name="file_title">Nome:</string>
     <string name="file_width_height">Tamanho:</string>
-    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">Nova mensagem</string>
     <string name="forward_from">Encaminhar de:</string>
     <string name="forward_prefix">"Enc.: "</string>
@@ -544,7 +543,6 @@
     <string name="send_signature_confirm_dialog_title">Enviar mensagem</string>
     <string name="send_sms">Enviar mensagem</string>
     <string name="send_to">Para:</string>
-    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">Enviado às %1s</string>
     <string name="sent_label">"Enviado: "</string>
     <string name="service_message_not_found">Mensagem expirada ou indisponível</string>
