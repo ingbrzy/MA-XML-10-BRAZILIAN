@@ -568,7 +568,6 @@ Acesse "<b>google.com.br/accounts/recovery</b>.</string>
     <string name="kg_reordering_delete_drop_target_text">Remover</string>
     <string name="kg_sim_pin_instructions">Digite o PIN do cartão SIM</string>
     <string name="kg_sim_unlock_progress_dialog_message">Desbloqueando o cartão SIM…</string>
-    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_attempts_countdown">Tente novamente em %1$d segundos.</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"Você digitou sua senha incorretamente %1$d vezes. 
 
