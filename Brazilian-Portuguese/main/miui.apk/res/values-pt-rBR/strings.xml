@@ -46,7 +46,6 @@
     <string name="size_giga_byte">GB</string>
     <string name="size_tera_byte">TB</string>
     <string name="size_peta_byte">PB</string>
-    <string name="size_suffix">%1$s%2$s</string>
     <string name="date_time_done">Concluído</string>
     <string name="date_picker_dialog_title">Definir data</string>
     <string name="time_picker_dialog_title">Definir hora</string>
@@ -66,7 +65,6 @@
     <string name="error_forbidden">A sincronização foi desativada devido a problemas com sua Conta Mi.</string>
     <string name="error_not_acceptable">A sincronização foi desativada.</string>
     <string name="more">Mais</string>
-    <string name="empty" />
     <string name="solar_term_slight_cold">Slight Cold</string>
     <string name="solar_term_great_cold">Great Cold</string>
     <string name="solar_term_spring_begins">Spring Begins</string>

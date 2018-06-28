@@ -222,7 +222,6 @@ Alterá-los agora?"</string>
     <string name="battery_saver">Economia de energia</string>
     <string name="battery_saver_keywords">economia de energia;energia</string>
     <string name="bcc">Cco</string>
-    <string name="bcc_heading">"Cco: "</string>
     <string name="bill_center_setting">Configuração de faturas</string>
     <string name="bill_center_setting_head">Importar informações destas contas</string>
     <string name="bill_cycle_text">Ciclo de faturamento</string>
@@ -243,7 +242,6 @@ Alterá-los agora?"</string>
     <string name="cancel_pop3_attchemt_downloading">Não é possível cancelar downloads em andamento para anexos em contas POP3</string>
     <string name="cant_move_or_change_labels">Não é possível mover itens de várias contas ao mesmo tempo.</string>
     <string name="cc">Cc</string>
-    <string name="cc_attribution">Cc: %1$s&lt;br></string>
     <string name="cc_bcc">Cc/Cco</string>
     <string name="cc_heading">"Cc: "</string>
     <string name="change_folders_selection_dialog_title">Alterar pastas</string>
@@ -261,7 +259,6 @@ Alterá-los agora?"</string>
     <string name="click_download_all_content">[ Toque para fazer o download do conteúdo]</string>
     <string name="click_to_reload">Toque na tela para atualizar</string>
     <string name="collapse_recipient_details">Recolher detalhes do destinatário</string>
-    <string name="colon">:</string>
     <string name="compose">Escrever</string>
     <string name="compose_attachment_number_limit">Não é possível adicionar mais de 10 anexos</string>
     <string name="compose_paste_address_oob">Muitos caracteres</string>
@@ -476,7 +473,6 @@ Alterá-los agora?"</string>
     <string name="gmail_web_login_go">OK</string>
     <string name="gmail_web_login_required_message">Fazer login no Gmail</string>
     <string name="header_category_account">Contas</string>
-    <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_category_other">Feedback</string>
     <string name="header_label_general_preferences">Geral</string>
     <string name="help_and_info">Ajuda</string>
@@ -498,7 +494,6 @@ Alterá-los agora?"</string>
     <string name="invalid_recipient">O endereço %s é inválido.</string>
     <string name="invalid_recipient_title">Erro de destinatário</string>
     <string name="kilobytes">%sKB</string>
-    <string name="label_notification_ticker" formatted="false">%s: %s</string>
     <string name="load_from_remote">Pesquisar caixa de e-mails no servidor</string>
     <string name="load_more">Carregar mais</string>
     <string name="loading_conversation">Carregando…</string>
@@ -940,7 +935,6 @@ para receber lembretes sobre pagamentos e viagens"</string>
     <string name="silent_ringtone">Silenciar</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
-    <string name="single_new_message_notification_title">%1$s: %2$s</string>
     <string name="smtp_password_error">A senha para o servidor de saída está incorreta</string>
     <string name="sort_attachment">Ordenar por</string>
     <string name="storage">Armazenamento</string>

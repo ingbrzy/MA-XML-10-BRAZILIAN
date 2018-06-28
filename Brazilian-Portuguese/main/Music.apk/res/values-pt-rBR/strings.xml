@@ -25,7 +25,6 @@
     <string name="s5">Criar evento na agenda</string>
     <string name="s6">Permitir que os anúncios criem um evento na agenda?</string>
     <string name="s7">Anúncio de teste</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="account_and_cloud">Conta</string>
     <string name="action_item_add">Adicionar a</string>
     <string name="action_item_add_song">Adicionar à playlist</string>
@@ -136,7 +135,6 @@
     <string name="continue_backup">Continuar</string>
     <string name="cp_info_first">"O serviço de música online
 é fornecido por Ultimate Inc."</string>
-    <string name="cp_info_second">service1@ultimobi.com</string>
     <string name="create_order_fail">Não foi possível criar o pedido, tente novamente.</string>
     <string name="create_playlist">Criar playlist</string>
     <string name="create_playlist_failure">Não foi possível criar playlist</string>
@@ -231,7 +229,6 @@ ou remover o arquivo da fila de download?"</string>
     <string name="download_method">Download</string>
     <string name="download_no_application_title">Não é possível abrir o arquivo</string>
     <string name="download_paused_in_power_save_mode">Os downloads ficam em pausa quando a Economia de bateria está ativada</string>
-    <string name="download_percent">%d%%</string>
     <string name="download_processing">Fazendo o download…</string>
     <string name="download_quality">Qualidade do download</string>
     <string name="download_quality_summary">Configurações adicionais para o download de músicas</string>
@@ -565,7 +562,6 @@ ou remover o arquivo da fila de download?"</string>
     <string name="priority_storage">Usar um cartão SD externo</string>
     <string name="priority_storage_summary">Fazer download automaticamente para o cartão SD externo quando disponível</string>
     <string name="privacy_policy">Política de Privacidade</string>
-    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=en</string>
     <string name="project_device">Mi Phone</string>
     <string name="prompt_grant_write_settings_permission">Permita a alteração das configurações de sistema</string>
     <string name="pulluprefreshrecyclerview_loading_error">Não foi possível carregar</string>
@@ -738,7 +734,6 @@ ou remover o arquivo da fila de download?"</string>
     <string name="upgrade_music">Atualizar Mi Music</string>
     <string name="upgrade_music_message">As atualizações estão prontas. Reinicie para atualizar.</string>
     <string name="user_agreement">Acordo do Usuário</string>
-    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=en</string>
     <string name="version_info">Versão</string>
     <string name="vip_after_tomorrow_auto_renew_message">Sua assinatura do Mi Music será renovada automaticamente depois de amanhã à noite. Certifique-se de que você tem Mi Credits suficientes em sua conta para concluir o pagamento.</string>
     <string name="vip_after_tomorrow_renew_message">Você não será capaz de fazer streaming de áudio em alta qualidade, mas algumas músicas estarão disponíveis em qualidade normal.</string>

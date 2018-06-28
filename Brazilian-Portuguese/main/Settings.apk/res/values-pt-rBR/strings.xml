@@ -1411,7 +1411,6 @@ Selecione seu sistema operacional:"</string>
     <string name="private_sms_need_to_unlock">Senha requerida:</string>
     <string name="private_sms_recording_intro_header">Desenhe um padrão de desbloqueio:</string>
     <string name="private_sms_reset_by_account">Para redefinir sua senha, faça o login em sua Conta Mi</string>
-    <string name="process_kernel_label">SO Android</string>
     <string name="provision_activation">Ativado</string>
     <string name="provision_back">Voltar</string>
     <string name="provision_next">Avançar</string>
@@ -1867,7 +1866,6 @@ PIN possivelmente incorreto."</string>
     <string name="status_bar_settings_all_app_display_loading">Aguarde…</string>
     <string name="status_bar_settings_app_notification_preferences">Configurações do app</string>
     <string name="status_bar_settings_basic_settings">Configurações básicas</string>
-    <string name="status_bar_settings_carrier_sim">"Cartão SIM %1$s: "</string>
     <string name="status_bar_settings_custom_carrier">Editar nome da operadora</string>
     <string name="status_bar_settings_custom_wifi_name">Editar nome da rede Wi-Fi</string>
     <string name="status_bar_settings_enable_notification">Mostrar notificações</string>

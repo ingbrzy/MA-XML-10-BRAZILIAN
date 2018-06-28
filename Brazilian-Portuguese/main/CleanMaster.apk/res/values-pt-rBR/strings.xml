@@ -91,7 +91,6 @@
     <string name="hints_apk_header_left">Pacotes</string>
     <string name="hints_residual_header_left">Resíduos</string>
     <string name="hints_memory_header_left">Memória</string>
-    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">Arquivos grandes: %d</string>
     <string name="hints_installed_apps_header_left">Apps instalados: %d</string>
     <string name="toast_resolve_apk_error">Erro ao analisar apk</string>
@@ -299,7 +298,6 @@
     <string name="downloading">Fazendo o download</string>
     <string name="installing">Instalando</string>
     <string name="start_install">Instalar agora</string>
-    <string name="empty">" "</string>
     <string name="open_browser">Abrir no navegador</string>
     <string name="title_share_link">Compartilhar URL</string>
     <string name="connecting">Conectando…</string>

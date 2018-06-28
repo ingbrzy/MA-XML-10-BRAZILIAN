@@ -22,7 +22,6 @@
     <string name="save_as_pdf">Salvar como PDF</string>
     <string name="all_printers">Todas as impressoras…</string>
     <string name="print_dialog">Diálogo de impressão</string>
-    <string name="current_page_template">%1$d/%2$d</string>
     <string name="page_description_template">Página %1$d de %2$d</string>
     <string name="summary_template">Resumo, cópias %1$s, tamanho do papel %2$s</string>
     <string name="expand_handle">Expandir alça</string>
@@ -39,7 +38,6 @@
     <string name="print_add_printer">Adicionar impressora</string>
     <string name="print_select_printer">Selecionar impressora</string>
     <string name="print_forget_printer">Esquecer impressora</string>
-    <string name="printer_extended_description_template">%1$s - %2$s</string>
     <string name="printer_info_desc">Mais informações sobre essa impressora</string>
     <string name="notification_channel_progress">Executando trabalhos de impressão</string>
     <string name="notification_channel_failure">Falha em trabalhos de impressão</string>
