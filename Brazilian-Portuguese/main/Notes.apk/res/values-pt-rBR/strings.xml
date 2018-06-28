@@ -19,6 +19,11 @@
     <string name="all_terms">%1$s e %2$s</string>
     <string name="app_name">Anotações</string>
     <string name="app_widget">Anotações</string>
+    <string name="application_icon">Ícone do app</string>
+    <string name="audio_panel_time_counter_default">00:00</string>
+    <string name="audio_toast_file_invalid">Arquivo de áudio inválid</string>
+    <string name="audio_toast_file_undownload">O arquivo de áudio não foi transferido totalmente ou está faltando</string>
+    <string name="audio_toast_network_is_not_available">Não foi possível conectar-se à rede</string>
     <string name="call_folder_name">Anotações de chamada</string>
     <string name="cancel_alarm_description">Cancelar alarme</string>
     <string name="cloud_service_state_open_reminder">Ative a sincronização com a Mi Cloud para sincronizar anotações.</string>
@@ -35,7 +40,8 @@
     <string name="dlg_check_reminder">Não mostrar novamente</string>
     <string name="dlg_delete_message">Excluindo…</string>
     <string name="dlg_hide_message">Ocultando…</string>
-    <string name="dlg_info_creating_message">Criando mensagem…</string>
+    <string name="dlg_info_creating_message">Criando imagem…</string>
+    <string name="dlg_info_save_to_gallery_message">Salvando imagem na Galeria…</string>
     <string name="dlg_message_password_reset">A senha para anotações ocultas será substituída pela Senha de proteção de privacidade, que funciona para mensagens, fotos e pastas ocultas</string>
     <string name="dlg_message_set_password">A Senha de proteção de privacidade funciona para mensagens, fotos e pastas ocultas</string>
     <string name="dlg_message_use_privacy_password">Use a Senha de proteção de privacidade. Ela funciona para mensagens, fotos e pastas ocultas</string>
@@ -49,7 +55,9 @@
     <string name="dlg_unhide_message">Desocultando…</string>
     <string name="done">Concluído</string>
     <string name="edit_header_done_description">Concluído</string>
-    <string name="edit_header_home_description">Voltar</string>
+    <string name="edit_header_lock_description">Anotação oculta</string>
+    <string name="empty_folder_import_notes">Importar anotações</string>
+    <string name="empty_folder_no_notes">Nenhuma anotação aqui</string>
     <string name="enable_sync">Sincronizar</string>
     <string name="enable_sync_desc">Sincronizar suas anotações com sua Conta Mi (%1$s)?</string>
     <string name="error_contact_not_exist">O contato não existe</string>
@@ -61,18 +69,23 @@
     <string name="error_send_empty_note_to_weibo">Não é possível enviar uma anotação vazia para o Weibo</string>
     <string name="error_unsupport_content">Anotação com conteúdo não suportado, toque aqui para atualizar</string>
     <string name="error_widget_exist_for_send_to_desktop">Esta anotação já está em sua Tela inicial</string>
+    <string name="first_enter_custom_folder_hint">Você pode renomear ou excluir pastas aqui</string>
     <string name="folder_exist">Uma pasta com o mesmo nome já existe</string>
+    <string name="folder_operation_delete">Excluir</string>
+    <string name="folder_operation_rename">Renomear</string>
     <string name="force_touch_menu_add">Nova anotação</string>
     <string name="format_move_note_out_folder">Esta anotação foi movida</string>
     <string name="format_move_note_to_folder">Movido para %1$s</string>
     <string name="format_move_notes_out_folder">%1$s movida</string>
     <string name="format_move_notes_to_folder">%1$s movida para %2$s</string>
     <string name="hidden_notes_fragment_title">Anotações ocultas</string>
+    <string name="hide_arrow_description">Ocultar</string>
     <string name="hint_cannot_view_hidden_note_content">Não é possível ver o conteúdo em anotações ocultas</string>
     <string name="hint_foler_name">Nome</string>
     <string name="info_note_enter_desktop">Adicionada à Tela inicial</string>
     <string name="loading_text">Aguarde…</string>
     <string name="login_sync">Fazer login &amp; sincronizar</string>
+    <string name="menu_add_audio_description">Adicionar nota de voz</string>
     <string name="menu_add_description">Adicionar anotação</string>
     <string name="menu_add_folder">Adicionar à pasta</string>
     <string name="menu_add_folder_description">Adicionar pasta</string>
@@ -94,6 +107,7 @@
     <string name="menu_title_select_folder">Selecionar pasta</string>
     <string name="menu_unhide">Desocultar</string>
     <string name="menu_unstick">Desafixar</string>
+    <string name="micloud_state_total_count">%1$s</string>
     <string name="not_now">Agora não</string>
     <string name="note_alert_expired">Expirada</string>
     <string name="note_description_content">O app Anotações é uma ótima ferramenta para armazenar sua ideias. ele tem um sistema de lembretes integrado e sincroniza seus itens com a Mi Cloud para que você os acesse de qualquer lugar. Certifique-se de que você não precisará destes recursos antes de excluir o app.</string>
@@ -111,7 +125,7 @@
     <string name="permdesc_accessNote">Apps maliciosos podem usar isto para acessar seus dados pessoais.</string>
     <string name="permlab_accessNote">Acessar anotações</string>
     <string name="pref_desc_skip_confirm_for_quick_delete">Não solicitar confirmação ao excluir uma anotação por gesto</string>
-    <string name="pref_title_cloud_trash_bin">Excluir anotações na Mi Cloud</string>
+    <string name="pref_title_cloud_trash_bin">Anotações excluídas na Mi Cloud</string>
     <string name="pref_title_common">Configurações adicionais</string>
     <string name="pref_title_font_size">Tamanho do texto</string>
     <string name="pref_title_note_style">Estilo</string>
@@ -122,7 +136,17 @@
     <string name="refuse_to_open_as_pic_because_of_loading">Aguarde até a anotação carregar e tente novamente.</string>
     <string name="refuse_to_share_as_pic_because_of_content">Esta anotação é muito grande para ser compartilhada.</string>
     <string name="rename_folder_dialog_tile">Renomear pasta</string>
+    <string name="rich_text_bold_description">Negrito</string>
+    <string name="rich_text_center_description">Centralizado</string>
+    <string name="rich_text_chooser_title">Selecionar estilo</string>
+    <string name="rich_text_italic_description">Itálico</string>
+    <string name="rich_text_right_description">Direita</string>
+    <string name="rich_text_size_description">Tamanho</string>
+    <string name="rich_text_underline_description">Sublinhado</string>
     <string name="root_folder_name">Anotações rápidas</string>
+    <string name="save_to_gallery_failure_message">Não foi possível salvar</string>
+    <string name="save_to_gallery_icon_name">Salvar na Galeria</string>
+    <string name="save_to_gallery_success_message">Salvo com sucesso</string>
     <string name="search">Anotações</string>
     <string name="search_hint">Procurar anotações</string>
     <string name="search_keyword_notes">Anotações;Notas</string>
@@ -131,7 +155,8 @@
     <string name="search_setting_description">Procurar texto em suas anotações</string>
     <string name="select_account_prompt">Sincronizar anotações</string>
     <string name="set_alarm_description">Definir alarme</string>
-    <string name="snippet_image_stub">[Imagem]</string>
+    <string name="snippet_audio_stub">Anotação com voz</string>
+    <string name="snippet_image_stub">Anotação com imagem</string>
     <string name="snippet_image_template">[Imagem %1$s]</string>
     <string name="sns_action_send">Enviar</string>
     <string name="sns_choose_quality_high">Alta (%1$s)</string>
@@ -144,7 +169,7 @@
     <string name="sns_hint_content">Inserir mensagem</string>
     <string name="sns_hint_title">Assunto (opcional)</string>
     <string name="sns_message_disconnect">Não é possível conectar-se à rede. Verifique sua conexão e tente novamente.</string>
-    <string name="sns_title_edit">Editar título</string>
+    <string name="sns_title_edit">Compartilhar anotação</string>
     <string name="sns_title_send">Enviar mensagem</string>
     <string name="sns_toast_empty">Não é possível enviar uma mensagem vazia</string>
     <string name="sns_toast_over_limit">Enviado como imagem</string>
@@ -175,14 +200,16 @@
     <string name="toast_reach_text_limit_attachment">Não é possível adicionar novos anexos porque a anotação é muito longa</string>
     <string name="toast_reach_text_limit_checkbox">Não é possível adicionar uma caixa de seleção porque a anotação é muito longa</string>
     <string name="toast_reach_text_limit_truncate">Esta anotação é muito longa. Parte do texto foi cortado ao final.</string>
+    <string name="toast_refuse_to_record_when_in_call">Não é possível usar este recurso durante chamadas</string>
     <string name="toolbar_check_description">Adicionar caixa de seleção</string>
     <string name="toolbar_delete_description">Excluir esta anotação</string>
     <string name="toolbar_gallery_description">Adicionar imagem</string>
-    <string name="toolbar_more_description">Mais</string>
     <string name="toolbar_redo_description">Refazer</string>
     <string name="toolbar_share_description">Compartilhar esta anotação</string>
+    <string name="toolbar_text_description">Estilo do texto</string>
     <string name="toolbar_theme_description">Escolha um tema</string>
     <string name="toolbar_undo_description">Desfazer</string>
+    <string name="toolbar_voice_description">Voz</string>
     <string name="trash_folder_name">Lixo</string>
     <string name="trash_folder_reminder">As anotações que você excluir serão removidas permanentemente em 30 dias.</string>
     <string name="undo">Desfazer</string>
@@ -192,5 +219,6 @@
  - Defina lembretes"</string>
     <string name="widget_content_loading">Aguarde…</string>
     <string name="widget_havenot_content">Toque para criar uma anotação. Segure o widget para redimensioná-lo.</string>
-    <string name="dialog_share_title">Compartilhar anotação</string>
+    <string name="edit_header_home_description">Voltar</string>
+    <string name="toolbar_more_description">Mais</string>
 </resources>

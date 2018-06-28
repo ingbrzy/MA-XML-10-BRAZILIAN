@@ -93,6 +93,7 @@ Insira o número associado com o seu novo cartão SIM para reativar o serviço %
     <string name="activate_popup_confirm_error_device_id">Repetir</string>
     <string name="activate_feature_mx">Mi Message</string>
     <string name="activate_feature_mx_and_voip">Mi Message e Voice</string>
+    <string name="activate_feature_voip">Mi Message Voice</string>
     <string name="activate_feature_mms_sync">Sincronizar mensagens</string>
     <string name="activate_feature_call_log_sync">Sincronizar registro de chamadas</string>
     <string name="activate_feature_find_device">Encontrar dispositivo</string>
@@ -117,4 +118,10 @@ Insira o número associado com o seu novo cartão SIM para reativar o serviço %
     <string name="agree">Permitir</string>
     <string name="privacy_revoke_tips">Depois que você revogar a autorização, o app parará de coletar seus dados e excluirá todos os dados de seus servidores. A sincronização com a Mi Cloud, Mi Message e outros recursos de mensagens não estarão mais disponíveis. Revogar a autorização mesmo assim?</string>
     <string name="privacy_revoke_failed_msg">A ativação requer o concedimento de autorização para que o app Mensagens obtenha o seu número de telefone.</string>
+    <string name="waiting_sim_in_service">waiting sim in service</string>
+    <string name="checking_client">checking client env</string>
+    <string name="error_sim_not_in_service">sim not in service</string>
+    <string name="error_checking_client">client env error</string>
+    <string name="error_network_io">network error</string>
+    <string name="error_no_send_sms_permission">no send sms permission</string>
 </resources>

@@ -6,6 +6,9 @@ Tamanho: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Introduzindo a versão %1$s
 Atualização incremental: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">Armazenamento indisponível, verifique seu cartão SD.</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_connect_download_manager_fail">Não foi possível iniciar o download. Certifique-se que o Gerenciador de Downloads está funcionando normalmente.</string>
     <string name="app_name">Backup</string>
     <string name="local_app_name">Backup</string>
@@ -225,6 +228,7 @@ Atualização incremental: %2$s"</string>
     <string name="restore_backup">Restaurar</string>
     <string name="enable_encrypt_description">Criptografar</string>
     <string name="disable_encrypt_description">Não criptografar</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">Aguarde…</string>
     <string name="state_mounting">Acessando armazenamento do roteador…</string>
     <string name="abort_backup_confirm">O backup não foi concluído. Parar mesmo assim?</string>
@@ -248,6 +252,7 @@ Atualização incremental: %2$s"</string>
     <string name="err_filesystem_mount">Não é possível acessar o armazenamento do roteador</string>
     <string name="err_router_disconnected">Verifique a conexão com o roteador e tente novamente.</string>
     <string name="err_router_files_delete">Não foi possível excluir arquivos de backup no roteador</string>
+    <string name="err_acquire_system_service">"Couldn't start system service."</string>
     <string name="err_not_allow">Não suportado</string>
     <string name="err_bakfile_not_exist">O arquivo do backup não existe.</string>
     <string name="err_pkg_not_exist">Não foi possível encontrar o app.</string>
@@ -525,6 +530,7 @@ https://appleid.apple.com/#!&amp;page=signin para desativar"</string>
 você precisa criar um backup na iCloud primeiro."</string>
     <string name="list_footer_tip_title">Dicas:</string>
     <string name="import_tip_summary">Devido a problemas de compatibilidade, só é possível transferir dados parciais de dispositivos iOS. Certifique-se de criar um backup na iCloud antes de iniciar a transferência.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">Importar</string>
     <string name="select_empty">Selecionar itens para importar</string>
     <string name="select_item_summary_wait">Aguardando…</string>

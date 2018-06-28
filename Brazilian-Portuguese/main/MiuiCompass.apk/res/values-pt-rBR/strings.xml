@@ -57,4 +57,8 @@
     <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
     <string name="app_description_title">Sobre a Bússola</string>
     <string name="app_description_content">O app Bússola é usado para navegação e orientação e exibe a sua direção. Certifique-se de que você não precisa destes recursos antes de desinstalar o app.</string>
+    <string name="open_perm_msg">Compass needs access to location info and camera. This is necessary to determine coordinates and provide live previews. Allow?</string>
+    <string name="open_perm_title">Permissions required</string>
+    <string name="cancel">Cancel</string>
+    <string name="allow">Allow</string>
 </resources>

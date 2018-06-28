@@ -171,7 +171,6 @@
     <string name="compat_mode_off">Esticar para preencher a tela</string>
     <string name="compat_mode_on">Ampliar para preencher a tela</string>
     <string name="confirm">Entendi</string>
-    <string name="data_connection_no_internet">Sem internet</string>
     <string name="data_usage_disabled_dialog">"O limite de dados que você configurou foi atingido. Você não está mais usando dados móveis.
 
 Ao retomar o uso, cobranças extras poderão ocorrer."</string>
@@ -201,9 +200,6 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
     <string name="dock_non_resizeble_failed_to_dock_text">O app não suporta Tela dividida.</string>
     <string name="drag_to_add_tiles">Arraste para adicionar itens</string>
     <string name="drive_mode_tip">Modo carro ativado</string>
-    <string name="drive_mode_tip_idle">Toque para sair do Modo carro</string>
-    <string name="drive_mode_tip_idle_notch">Sair do Modo carro</string>
-    <string name="drive_mode_tip_notch">Modo carro ativado</string>
     <string name="empty_shade_text">Nenhuma notificação</string>
     <string name="enable_bluetooth_message">Para conectar o teclado ao seu tablet, ative o Bluetooth primeiro.</string>
     <string name="enable_power_save_mode">Ativar Economia de bateria</string>
@@ -390,13 +386,12 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
     <string name="notification_channel_controls_closed_accessibility">Controles de notificação para %1$s fechados</string>
     <string name="notification_channel_controls_opened_accessibility">Controles de notificação para %1$s abertos</string>
     <string name="notification_channel_disabled">Você não receberá mais estas notificações.</string>
+    <string name="notification_channel_general">General messages</string>
     <string name="notification_channel_location">Localização</string>
-    <string name="notification_channel_screenbutton">Botões virtuais</string>
     <string name="notification_channel_switch_accessibility">Permitir notificações deste canal</string>
     <string name="notification_group_collapse_button_text">Recolher</string>
     <string name="notification_group_overflow_indicator">+%s</string>
     <string name="notification_header_title">Notificações</string>
-    <string name="notification_hidden_by_policy_text">Conteúdo oculto pela política</string>
     <string name="notification_hidden_text">Você tem uma nova mensagem</string>
     <string name="notification_info_channel_disabled_text">Você não receberá notificações %2$s de %1$s.</string>
     <string name="notification_info_channel_enabled_text">Você receberá notificações %2$s de %1$s.</string>

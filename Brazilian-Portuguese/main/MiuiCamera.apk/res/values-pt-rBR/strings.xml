@@ -32,10 +32,12 @@
     <string name="pref_front_mirror_title">Espelhar câmera frontal</string>
     <string name="pref_video_quality_title">Qualidade de vídeo</string>
     <string name="pref_video_hfr_title">Vídeo HFR</string>
-    <string name="pref_video_quality_entry_4kuhd">UHD 4K</string>
-    <string name="pref_video_quality_entry_1080p">FHD 1080P</string>
-    <string name="pref_video_quality_entry_720p">HD 720P</string>
-    <string name="pref_video_quality_entry_480p">SD 480P</string>
+    <string name="pref_video_quality_entry_4kuhd">UHD 4K, 30fps</string>
+    <string name="pref_video_quality_entry_4kuhd_60fps">UHD 4K, 60fps</string>
+    <string name="pref_video_quality_entry_1080p">FHD 1080P, 30fps</string>
+    <string name="pref_video_quality_entry_1080p_60fps">FHD 1080P, 60fps</string>
+    <string name="pref_video_quality_entry_720p">HD 720P, 30fps</string>
+    <string name="pref_video_quality_entry_480p">SD 480P, 30fps</string>
     <string name="pref_video_encoder_title">Codificação de vídeo</string>
     <string name="pref_video_encoder_entry_h264">H.264 de alta compatibilidade</string>
     <string name="pref_video_encoder_entry_h265">H.265 de alta performance</string>
@@ -427,6 +429,7 @@
     <string name="portrait_mode_depth_effect_success_hint">Efeito de profundidade</string>
     <string name="portrait_mode_use_hint">"O Modo Retrato desfoca o segundo plano
 e destaca quem está à frente."</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="pref_camera_square_mode_title">Quadrado</string>
     <string name="simple_mode_button_text_square">Desligar Quadrado</string>
     <string name="face_beauty_smart">Inteligente</string>
@@ -441,6 +444,7 @@ e destaca quem está à frente."</string>
     <string name="pref_camera_beautify_entry_low">Baixo</string>
     <string name="pref_camera_beautify_entry_normal">Médio</string>
     <string name="pref_camera_beautify_entry_high">Alto</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">Modos</string>
     <string name="button_front_camera_title">Tirar uma selfie</string>
     <string name="button_normal_video_title">Gravar vídeo</string>
@@ -533,6 +537,6 @@ e otimiza suas fotos com base nestas informações"</string>
     <string name="pref_camera_picturesize_entry_fullscreen">Tela cheia 16:9</string>
     <string name="lens_dirty_detected_title_back">A lente da câmera traseira está suja</string>
     <string name="lens_dirty_detected_title_front">A lente da câmera frontal está suja</string>
-    <string name="lens_dirty_detected_content">"A lente da sua câmera está suja.
-Por favor, limpe-a para tirar fotos melhores."</string>
+    <string name="lens_dirty_detected_content">"Looks like your camera's lens is dirty.
+Clean the lens for better effect."</string>
 </resources>

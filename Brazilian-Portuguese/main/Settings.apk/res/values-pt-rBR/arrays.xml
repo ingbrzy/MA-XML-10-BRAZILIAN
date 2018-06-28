@@ -23,9 +23,9 @@
     </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>Animação desativada</item>
-        <item>Escala de animação 0,5x</item>
+        <item>Escala de animação 0.5x</item>
         <item>Escala de animação 1x</item>
-        <item>Escala de animação 1,5x</item>
+        <item>Escala de animação 1.5x</item>
         <item>Escala de animação 2x</item>
         <item>Escala de animação 5x</item>
         <item>Escala de animação 10x</item>
@@ -34,10 +34,91 @@
         <item>Padrão</item>
         <item>Hotspot portátil</item>
     </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Limite padrão</item>
+        <item>Nenhum processo em seg. plano</item>
+        <item>No máximo 1 processo</item>
+        <item>No máximo 2 processos</item>
+        <item>No máximo 3 processos</item>
+        <item>No máximo 4 processos</item>
+    </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Gráfico</item>
         <item>Percentual</item>
         <item>Barra no topo</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Usar preferência do sistema (Padrão)</item>
+        <item>16 bits/amostragem</item>
+        <item>24 bits/amostragem</item>
+        <item>32 bits/amostragem</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Usar preferência do sistema (Padrão)</item>
+        <item>16 bits/amostragem</item>
+        <item>24 bits/amostragem</item>
+        <item>32 bits/amostragem</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Usar preferência do sistema (Padrão)</item>
+        <item>Mono</item>
+        <item>Estéreo</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Usar preferência do sistema (Padrão)</item>
+        <item>Mono</item>
+        <item>Estéreo</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Otimizado para qualidade de áudio</item>
+        <item>Qualidade de áudio e conexão balanceados</item>
+        <item>Otimizado para qualidade de conexão</item>
+        <item>Melhor efeito (taxa de bits adaptável)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Otimizado para qualidade de áudio (990kbps/909kbps)</item>
+        <item>Qualidade balanceada de áudio e conexão (660kbps/606kbps)</item>
+        <item>Otimizado para qualidade de conexão (330kbps/303kbps)</item>
+        <item>Melhor efeito (taxa de bits adaptável)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>Usar preferência do sistema (Padrão)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>Usar preferência do sistema (Padrão)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_summaries">
+        <item>Usar preferência do sistema (Padrão)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>aptX HD</item>
+        <item>LDAC</item>
+        <item>Ativar codecs opcionais</item>
+        <item>Desativar codecs opcionais</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_titles">
+        <item>Usar preferência do sistema (Padrão)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>aptX HD</item>
+        <item>LDAC</item>
+        <item>Ativar codecs opcionais</item>
+        <item>Desativar codecs opcionais</item>
+    </string-array>
+    <string-array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (Padrão)</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 segundo</item>
@@ -366,6 +447,21 @@
         <item>Compatibilidade</item>
         <item>Alta velocidade</item>
     </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Desativado</item>
+        <item>Mostrar áreas de overdraw</item>
+        <item>Mostrar áreas para Deuteronomia</item>
+    </string-array>
+    <string-array name="debug_hw_renderer_entries">
+        <item>OpenGL (Padrão)</item>
+        <item>OpenGL (Skia)</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Nenhum</item>
+        <item>Logcat</item>
+        <item>Systrace (Gráficos)</item>
+        <item>Pilha de chamadas em glGetError</item>
+    </string-array>
     <string-array name="fluency_mode_confirms">
         <item>Reiniciar seu dispositivo para aplicar esta configuração?</item>
         <item>Reiniciar seu dispositivo para aplicar esta configuração?</item>
@@ -388,6 +484,16 @@
         <item>Leve</item>
         <item>Médio</item>
         <item>Forte</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Nunca usar verificação de HDCP</item>
+        <item>Usar verificação de HDCP para conteúdo de DRM</item>
+        <item>Sempre usar verificação HDCP</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Nunca verificar</item>
+        <item>Verificar apenas conteúdo DRM</item>
+        <item>Sempre verificar</item>
     </string-array>
     <string-array name="led_color_entries">
         <item>Azul</item>
@@ -616,6 +722,45 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>10 minutos</item>
         <item>Nunca</item>
     </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Desativado</item>
+        <item>64KB</item>
+        <item>256KB</item>
+        <item>1MB</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>Desativado</item>
+        <item>64KB por buffer de log</item>
+        <item>256KB por buffer de log</item>
+        <item>1MB por buffer de log</item>
+        <item>4MB por buffer de log</item>
+        <item>16MB por buffer de log</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Desativado</item>
+        <item>64KB</item>
+        <item>256KB</item>
+        <item>1MB</item>
+        <item>4MB</item>
+        <item>16MB</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Desativado</item>
+        <item>Todos os buffers de log</item>
+        <item>Todos os buffers exceto rádio</item>
+        <item>Apenas buffer do kernel</item>
+    </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Desativado</item>
+        <item>Todos</item>
+        <item>Todos exceto o rádio</item>
+        <item>Apenas kernel</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Desativado</item>
+        <item>Desenhar regiões de corte não retangular em azul</item>
+        <item>Destacar comandos de desenho testados em verde</item>
+    </string-array>
     <string-array name="silent_mode_duration_text">
         <item>Sempre</item>
         <item>30 minutos</item>
@@ -627,10 +772,43 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Permitir</item>
         <item>Negar</item>
     </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Desativado</item>
+        <item>Na tela em barras</item>
+        <item>No adb shell dumpsys gfxinfo</item>
+    </string-array>
     <string-array name="traffic_balance_entries">
         <item>Desativado</item>
         <item>Regular</item>
         <item>Extremo</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Animação desativada</item>
+        <item>Escala de animação 0.5x</item>
+        <item>Escala de animação 1x</item>
+        <item>Escala de animação 1.5x</item>
+        <item>Escala de animação 2x</item>
+        <item>Escala de animação 5x</item>
+        <item>Escala de animação 10x</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Muito devagar</item>
+        <item>Lento</item>
+        <item>Normal</item>
+        <item>Rápida</item>
+        <item>Mais rápida</item>
+        <item>Muito rápida</item>
+        <item>Rápida</item>
+        <item>Muito rápida</item>
+        <item>Super-rápida</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>Carregar dispositivo</item>
+        <item>MTP (Media Transfer Protocol)</item>
+        <item>PTP (Picture Transfer Protocol)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Fonte de áudio</item>
+        <item>MIDI</item>
     </string-array>
     <string-array name="usb_connection_mode_entries">
         <item>Perguntar na conexão</item>
@@ -666,16 +844,41 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Conectar automaticamente</item>
         <item>Conectar manualmente</item>
     </string-array>
-    <string-array name="device_global_support_face">
-        <item>whyred</item>
-        <item>polaris</item>
-        <item>ysl</item>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Procurando…</item>
+        <item>Conectando…</item>
+        <item>Autenticando…</item>
+        <item>Obtendo endereço IP…</item>
+        <item>Conectado</item>
+        <item>Suspensa</item>
+        <item>Desconectando…</item>
+        <item>Desconectado</item>
+        <item>Sem sucesso</item>
+        <item>Bloqueada</item>
+        <item>Evitando temporariamente uma conexão ruim</item>
     </string-array>
-    <string-array name="region_support_face">
-        <item>IN</item>
-        <item>ID</item>
-        <item>RU</item>
-        <item>HK</item>
-        <item>TW</item>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Procurando…</item>
+        <item>Conectando-se a %1$s…</item>
+        <item>Autenticando-se com %1$s…</item>
+        <item>Obtendo endereço IP de %1$s…</item>
+        <item>Conectado a %1$s</item>
+        <item>Suspensa</item>
+        <item>Desconectando de %1$s…</item>
+        <item>Desconectado</item>
+        <item>Sem sucesso</item>
+        <item>Bloqueada</item>
+        <item>Evitando temporariamente uma conexão ruim</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Animação desativada</item>
+        <item>Escala de animação 0.5x</item>
+        <item>Escala de animação 1x</item>
+        <item>Escala de animação 1.5x</item>
+        <item>Escala de animação 2x</item>
+        <item>Escala de animação 5x</item>
+        <item>Escala de animação 10x</item>
     </string-array>
 </resources>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="action_add_to_workspace">Adicionar ao espaço de trabalho</string>
     <string name="activity_not_found">O app não está instalado no seu dispositivo</string>
     <string name="add_screen">Adicionar tela</string>
@@ -92,6 +93,7 @@
     <string name="default_folder_title_microsoft">Microsoft</string>
     <string name="default_folder_title_recommend">Mais apps</string>
     <string name="default_folder_title_security">Sistema</string>
+    <string name="default_folder_title_services">Serviços</string>
     <string name="default_folder_title_telcel">Telcel</string>
     <string name="default_folder_title_tools">Ferramentas</string>
     <string name="default_screen_preview_title">Toque para definir a tela padrão</string>
@@ -235,6 +237,7 @@
     <string name="open_personal_assistant_dialog_btn_cancel">Cancelar</string>
     <string name="open_personal_assistant_dialog_btn_confirm">Desativar</string>
     <string name="open_personal_assistant_dialog_desc">Você não será capaz de usar o App Vault e receber suas atualizações. Desativar agora?</string>
+    <string name="open_personal_assistant_dialog_desc_international">Você nao será capaz de usar os cartões do App vault (Ações, Atalhos, etc.) e receber atualizações depois que você desativar este recurso.</string>
     <string name="open_personal_assistant_dialog_title">Desativar o App Vault</string>
     <string name="open_personal_assistant_title">App vault</string>
     <string name="out_of_space">Não há mais espaço nesta Tela inicial</string>
@@ -342,6 +345,4 @@
     <string name="widget_gadget_player">Música</string>
     <string name="widget_global_search">Pesquisar</string>
     <string name="widget_quick_function">Funções rápidas</string>
-    <string name="default_folder_title_services">Serviços</string>
-    <string name="open_personal_assistant_dialog_desc_international">Você nao será capaz de usar os cartões do App vault (Ações, Atalhos, etc.) e receber atualizações depois que você desativar este recurso.</string>
 </resources>

@@ -1,23 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="delete_confirm_multiple_files">
+        <item quantity="other">Excluir %d arquivos selecionados?</item>
+        <item quantity="one">Excluir %d arquivo selecionado?</item>
+    </plurals>
     <plurals name="notif_receive_cancel">
-        <item quantity="other">Transferência cancelada de %1$s</item>
-        <item quantity="one">Transferência cancelada de %1$s</item>
+        <item quantity="other">Transferência de %1$s cancelada</item>
+        <item quantity="one">Transferência de %1$s cancelada</item>
     </plurals>
     <plurals name="notif_receive_progress">
         <item quantity="other">Recebendo %1$s arquivos…</item>
         <item quantity="one">Recebendo %1$s arquivo…</item>
     </plurals>
     <plurals name="notif_receive_success">
-        <item quantity="other">Arquivos recebidos de %1$s com sucesso</item>
-        <item quantity="one">Arquivo recebido de %1$s com sucesso</item>
+        <item quantity="other">Arquivos de %1$s recebidos com sucesso</item>
+        <item quantity="one">Arquivo de %1$s recebido com sucesso</item>
     </plurals>
     <plurals name="receiver_file_num">
         <item quantity="other">%2$d arquivos de %1$s</item>
         <item quantity="one">%2$d arquivo de %1$s</item>
     </plurals>
+    <plurals name="selected_file_num">
+        <item quantity="other">%d itens selecionados</item>
+        <item quantity="one">%d item selecionado</item>
+    </plurals>
     <plurals name="sender_file_num">
         <item quantity="other">%1$d itens</item>
         <item quantity="one">%1$d item</item>
+    </plurals>
+    <plurals name="transfer_list_received_header">
+        <item quantity="other">Receber %1$d arquivos (%2$s)</item>
+        <item quantity="one">Receber %1$d arquivo (%2$s)</item>
+    </plurals>
+    <plurals name="transfer_list_sent_header">
+        <item quantity="other">Enviar %1$d arquivos (%2$s)</item>
+        <item quantity="one">Enviar %1$d arquivo (%2$s)</item>
     </plurals>
 </resources>

@@ -68,6 +68,7 @@
     <string name="accessibility_wifi_two_bars">Duas barras de Wi-Fi.</string>
     <string name="accessibility_wifi_three_bars">Três barras de Wi-Fi.</string>
     <string name="accessibility_wifi_signal_full">Sinal Wi-Fi cheio.</string>
+    <string name="process_kernel_label">Sistema operacional Android</string>
     <string name="data_usage_uninstalled_apps">Apps removidos</string>
     <string name="data_usage_uninstalled_apps_users">Apps e usuários removidos</string>
     <string name="tether_settings_title_usb">Tethering USB</string>

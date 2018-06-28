@@ -432,6 +432,7 @@ da operadora"</string>
     <string name="managed_user_title">Todos os apps de trabalho</string>
     <string name="pref_about_traffic_title">Configurações do uso de dados</string>
     <string name="pref_traffic_manage_title">Uso de dados</string>
+    <string name="pref_operator_setting">%1$s %2$s</string>
     <string name="pref_package_traffic_settings">Plano de dados</string>
     <string name="pref_adjust_traffic_data">Definir limite de dados</string>
     <string name="pref_category_title_other">Configurações adicionais</string>
@@ -955,6 +956,7 @@ Sua atividade reduz a duração da bateria."</string>
     <string name="om_formatted_percent_string">%s%%</string>
     <string name="om_cpu_usage_warn_title_text">"Este app pode diminuir a
 velocidade do seu dispositivo"</string>
+    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_ill_proc_handle_unstaill_title">Desinstalar %s?</string>
     <string name="om_ill_proc_handle_uninstall_prompt">Desinstale este app para corrigir problemas de uso de bateria.</string>
     <string name="om_ill_proc_type_wakelock_title">O app está bloqueando o modo de suspensão e descarregando a bateria</string>
@@ -1013,6 +1015,7 @@ velocidade do seu dispositivo"</string>
     <string name="usage_type_data_send">Dados móveis enviados</string>
     <string name="usage_type_no_coverage">Período sem sinal</string>
     <string name="usage_type_gps">GPS</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Servidor de mídia</string>
     <string name="power_screen">Tela</string>
     <string name="power_wifi">Wi-Fi</string>
@@ -1358,6 +1361,7 @@ velocidade do seu dispositivo"</string>
     <string name="menu_text_networkassistants">Uso de dados</string>
     <string name="menu_text_networkassistants_remain">%s restante</string>
     <string name="menu_text_networkassistants_danger">%s excedido</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
@@ -1732,6 +1736,7 @@ velocidade do seu dispositivo"</string>
     <string name="card_main_deepclean_wechat_action">Limpar</string>
     <string name="card_main_sectool_title">Ferramentas</string>
     <string name="card_main_monthreport_action">Ver</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">Testar rede</string>
     <string name="card_main_netcheck_summary">Testar conexão por problemas de rede</string>
     <string name="card_main_netcheck_action">Testar</string>
@@ -2266,6 +2271,10 @@ velocidade do seu dispositivo"</string>
     <string name="screenrecord_not_find">Instale a última versão do Gravador de Tela e tente novamente.</string>
     <string name="gamebox_qq_not_find">Instale o QQ e tente novamente.</string>
     <string name="gamebox_wechat_not_find">Instale o WeChat e tente novamente.</string>
+    <string name="gamebox_type_close">"Don't show"</string>
+    <string name="gamebox_type_float">Fixed shortcut</string>
+    <string name="gamebox_type_gesture">Swipe to show</string>
+    <string name="notify_channel_name_security">System security</string>
     <string name="power_center_consume_rank">Uso da bateria</string>
     <string name="power_center_custom_title">Perfis de bateria</string>
     <string name="power_center_auto_shutdown_summary_default">Ligar ou desligar seu dispositivo em um horário programado</string>

@@ -17,6 +17,16 @@
         <item>Endereço</item>
         <item>Anotação</item>
     </string-array>
+    <string-array name="first_guide_contents">
+        <item>Bem-vindo às Anotações!</item>
+        <item>Crie anotações</item>
+        <item>Você pode usar texto, imagens e gravações de áudio em suas anotações. Uma rica biblioteca de estilos e fontes as deixará incrível.</item>
+        <item>Checklists e lembretes lhe auxiliam quando você precisa de ferramentas básicas e efetivas para planejar a sua próxima viagem ou ao fazer uma lista de cmpras.</item>
+        <item>Compartilhe anotações</item>
+        <item>You can generate scrolling screenshots in Notes automatically, and them share them with your friends.</item>
+        <item>Create &amp; switch between folders</item>
+        <item>Pressione a seta abaixo para criar uma nova pasta ou alternar entre as já existentes.</item>
+    </string-array>
     <string-array name="folder_operations">
         <item>Renomear</item>
         <item>Excluir</item>
@@ -31,47 +41,8 @@
         <item>Por data de criação</item>
         <item>Por data de modificação</item>
     </string-array>
-    <string-array name="welcome_notes_content">
-        <item>"Bem-vindo às Anotações
-"</item>
-        <item>"Crie uma anotação
-Toque no ícone + para criar uma anotação."</item>
-        <item>"Escolha modelos
-Use modelos para alterar o estilo de suas anotações.
-Toque no botão no canto inferior direito do app para escolher um modelo."</item>
-        <item>"Crie pastas
-Organize suas anotações em pastas.
-Existem 2 formas de criar uma pasta:
-1Toque no ícone de pasta no canto superior direito, e em seguida toque no sinal +.
-2. Segure uma anotação até que o menu pop-up apareça, e selecione \"Mover para > Nova pasta\"."</item>
-        <item>"Oculte anotações
-Proteja anotações privadas com uma senha.
-Existem 2 formas de ocultar uma anotação:
-1. Toque no botão \"Mais\" no canto superior direito de uma anotação, e selecione \"Ocultar\".
-2. Segure uma anotação até o menu pop-up aparecer, e selecione \"Ocultar\"."</item>
-        <item>"E muitos outros recursos ótimos! - Imagens, checklists, lembretes.
-
-Adicione imagens
-Toque no ícone de imagem no rodapé da anotação para adicionar uma imagem.
-Você pode tirar uma foto ou escolher uma foto da Galeria.
-Quando uma anotação contém uma imagem, ela será usada como a miniatura da anotação na visualização em grade.
-
-Crie checklists
-A caixa de seleção é um elemento essencial em uma lista de tarefas.
-Toque no ícone da caixa de seleção no rodapé da anotação para adicioná-lo a um parágrafo de texto.
-Marque a caixa quando você concluir aquela tarefa.
-
-Defina lembretes
-Defina lembretes diretamente nas anotações.
-Toque no botão \"Mais\" no canto superior direito de uma anotação, selecione \"Lembretes\" e defina as informações.
-"</item>
-    </string-array>
-    <string-array name="welcome_notes_image">
-        <item>guide_1</item>
-        <item></item>
-        <item>guide_3_1</item>
-        <item></item>
-        <item></item>
-        <item></item>
+    <string-array name="second_guide_contents">
+        <item>Notas de voz</item>
+        <item>Crie anotações usando nosso mecanismo de voz para texto anexando a gravação original nas anotações.</item>
     </string-array>
 </resources>

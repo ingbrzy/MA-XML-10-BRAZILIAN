@@ -93,14 +93,14 @@
         <item quantity="one">&lt;Data>&lt;font color=#ff0000 >%d&lt;/font> não foi usado por um bom tempo, dê uma olhada.&lt;/Data></item>
     </plurals>
     <plurals name="clean_long_msg_p1">
-        <item quantity="other">"Limpando %1$d arquivos, %2$d concluído
+        <item quantity="other">"Cleaning %1$d files (%2$d%%)
 "</item>
-        <item quantity="one">"Limpando %1$d arquivo, %2$d concluído
+        <item quantity="one">"Cleaning %1$d file (%2$d%%)
 "</item>
     </plurals>
     <plurals name="clean_long_msg_p2">
-        <item quantity="other">%1$d%% itens/segundo, tempo restante: %2$s</item>
-        <item quantity="one">%1$d%% itens/segundo, tempo restante: %2$s</item>
+        <item quantity="other">%1$d items per second | Remaining time: %2$s</item>
+        <item quantity="one">%1$d item per second | Remaining time: %2$s</item>
     </plurals>
     <plurals name="hour">
         <item quantity="other">%1$d horas</item>

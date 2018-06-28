@@ -20,6 +20,7 @@
     <string name="accessibility_close_tab">Fechar guia atual</string>
     <string name="accessibility_enable">Acessibilidade</string>
     <string name="accessibility_more_settings">Configurações adicionais</string>
+    <string name="accessibility_no_wifi">Desconectado do Wi-Fi.</string>
     <string name="accessibility_screen_magnification_enable">Gestos de ampliação</string>
     <string name="accessibility_screen_magnification_navbar_summary">"Se a ampliação estiver ativada, use o botão Acessibilidade localizado na parte inferior da tela para ampliar rapidamente.
 
@@ -42,13 +43,19 @@ Não é possível aumentar o zoom no teclado ou na barra de navegação."</strin
 
 Não é possível aumentar o zoom no teclado e na barra de navegação."</string>
     <string name="accessibility_vpn_settings_info">Configuração de VPN</string>
+    <string name="accessibility_wifi_off">O Wi-Fi está desativado.</string>
+    <string name="accessibility_wifi_one_bar">Wi-Fi uma barra.</string>
     <string name="accessibility_wifi_security_type_none">Rede aberta</string>
     <string name="accessibility_wifi_security_type_secured">Rede segura</string>
+    <string name="accessibility_wifi_signal_full">Sinal de Wi-Fi cheio.</string>
+    <string name="accessibility_wifi_three_bars">Wi-Fi três barras.</string>
+    <string name="accessibility_wifi_two_bars">Wi-Fi duas barras.</string>
     <string name="account_add">Adicionar</string>
     <string name="account_autostar_label">Início automático</string>
     <string name="account_list">Outras contas</string>
     <string name="account_other">Outros</string>
     <string name="activating">Ativando…</string>
+    <string name="active_input_method_subtypes">Métodos de entrada ativos</string>
     <string name="ad_service">Serviços de anúncio</string>
     <string name="add_auto_startup_application">Adicionar apps</string>
     <string name="add_back_fingerprint_instruction_msg">Coloque seu dedo no sensor</string>
@@ -173,6 +180,7 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="battery_info_scale_label">Escala da bateria:</string>
     <string name="battery_info_screen_on">Tempo de tela ligada:</string>
     <string name="battery_info_status_charging_ac">Carregando (CA)</string>
+    <string name="battery_info_status_charging_lower">Carregando</string>
     <string name="battery_info_status_charging_usb">Carregando (USB)</string>
     <string name="battery_info_status_charging_wireless">Carregando (sem fio)</string>
     <string name="battery_info_status_full">Carregada</string>
@@ -201,15 +209,56 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="block_list_remove_dialog_title">Remover %s da lista de bloqueio</string>
     <string name="block_list_summary">Ver dispositivos sem permissão para conectarem-se neste hotspot</string>
     <string name="block_list_title">Lista de bloqueio</string>
+    <string name="bluetooth_a2dp_profile_summary_connected">Conectado ao áudio de mídia</string>
     <string name="bluetooth_ask_enablement_and_discovery_detected">" deseja ativar o Bluetooth e tornar o seu telefone visível para outros dispositivos por %1$d segundos."</string>
     <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">" deseja ativar o Bluetooth e tornar o seu telefone visível para outros dispositivos. Você pode alterar isto mais tarde nas configurações do Bluetooth."</string>
     <string name="bluetooth_ask_enablement_detected">" deseja ativar o Bluetooth."</string>
+    <string name="bluetooth_connecting">Conectando…</string>
     <string name="bluetooth_device_address">Endereço:</string>
     <string name="bluetooth_device_misc_title">Dispositivos Bluetooth raramente usados</string>
     <string name="bluetooth_device_name">Nome:</string>
     <string name="bluetooth_device_searchable">Detectável</string>
+    <string name="bluetooth_disable_absolute_volume_summary">Desativar volume absoluto para o Bluetooth no caso de problemas com dispositivos remotos, como volumes extremamente altos ou a impossibilidade de controlá-lo.</string>
+    <string name="bluetooth_dun_profile_summary_connected">Conectado ao Servidor DUN</string>
+    <string name="bluetooth_dun_profile_summary_use_for">Usar para acesso a redes dial-up</string>
+    <string name="bluetooth_enable_inband_ringing">Ativar toque in-band</string>
+    <string name="bluetooth_enable_inband_ringing_summary">Permitir que toques do telefone sejam reproduzidos em fones Bluetooth</string>
+    <string name="bluetooth_headset_profile_summary_connected">Conectado ao áudio do telefone</string>
+    <string name="bluetooth_headset_profile_summary_use_for">Usar para áudio do telefone</string>
     <string name="bluetooth_is_discoverable_always">Tornar este dispositivo visível para todos os dispositivos Bluetooth próximos</string>
+    <string name="bluetooth_map_profile_summary_connected">Conectado ao MAP</string>
+    <string name="bluetooth_map_profile_summary_use_for">Usar para MAP</string>
+    <string name="bluetooth_opp_profile_summary_connected">Conectado ao servidor de transferência de arquivos</string>
+    <string name="bluetooth_opp_profile_summary_not_connected">Não conectado ao servidor de transferência de arquivos</string>
+    <string name="bluetooth_opp_profile_summary_use_for">Usar para transferência de arquivos</string>
+    <string name="bluetooth_pairing_device_down_error_message">Não é possível comunicar-se com %1$s.</string>
+    <string name="bluetooth_pairing_pin_error_message">Não foi possível parear com %1$s porque o PIN está incorreto.</string>
+    <string name="bluetooth_pairing_will_share_phonebook">O pareamento garante acesso aos seus contatos e registro de chamadas quando conectado.</string>
+    <string name="bluetooth_pan_nap_profile_summary_connected">Compartilhando internet local com dispositivos</string>
+    <string name="bluetooth_pan_profile_summary_use_for">Usar para acesso à internet</string>
+    <string name="bluetooth_pan_user_profile_summary_connected">Conectado a disp. p/ acesso à internet</string>
     <string name="bluetooth_preference_connected_devices">Dispositivos conectados</string>
+    <string name="bluetooth_profile_a2dp">Áudio de mídia</string>
+    <string name="bluetooth_profile_dun">Usado para acessar à rede via dial-up</string>
+    <string name="bluetooth_profile_headset">Áudio do telefone</string>
+    <string name="bluetooth_profile_map">Usado para acessar mensagens</string>
+    <string name="bluetooth_profile_pan">Acesso à internet</string>
+    <string name="bluetooth_profile_pan_nap">Compart. de conexão com a internet</string>
+    <string name="bluetooth_profile_sap">Usado para acesso ao SIM</string>
+    <string name="bluetooth_sap_profile_summary_connected">Conectado ao SAP</string>
+    <string name="bluetooth_sap_profile_summary_use_for">Usar para acesso ao SIM</string>
+    <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bits por amostra de áudio Bluetooth</string>
+    <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Selecionar codec de áudio Bluetooth:
+Bits por amostra"</string>
+    <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Selecionar codec de áudio bluetooth:
+Modo de canal"</string>
+    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Codec de áudio Bluetooth LDAC: Qualidade de reprodução</string>
+    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Codec de áudio Bluetooth LDAC:
+Qualidade de reprodução"</string>
+    <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Selecionar codec de áudio bluetooth:
+Taxa de amostra"</string>
+    <string name="bluetooth_select_avrcp_version_dialog_title">Selecionar versão Bluetooth AVRCP</string>
+    <string name="bluetooth_select_avrcp_version_string">Versão Bluetooth AVRCP</string>
     <string name="bluetooth_unlock_add_device">Adicionar dispositivo</string>
     <string name="bluetooth_unlock_change_device_confirm_msg">O dispositivo antigo será substituído pelo atual.</string>
     <string name="bluetooth_unlock_change_matched_device">Escolha outro dispositivo</string>
@@ -279,6 +328,8 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="bt_trace_log">Log de traços Bluetooth</string>
     <string name="bt_trace_log_summary">Registro de Traços Bluetooth</string>
     <string name="btn_back">Voltar</string>
+    <string name="bugreport_in_power">Atalho para relatório de bugs</string>
+    <string name="button_convert_fbe">Limpar e converter…</string>
     <string name="button_disconnect_network">Desconectar-se da rede</string>
     <string name="button_light_timeout">Manter luz dos botões ativada</string>
     <string name="button_text_accept">Aceitar</string>
@@ -335,6 +386,7 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="complete_settings">Configurações gerais</string>
     <string name="confirm_bind_xiaomi_account_dialog_title">Adicionar</string>
     <string name="confirm_download_cancelation_dialog_message">Cancelar download?</string>
+    <string name="confirm_enable_oem_unlock_text">ALERTA: os recursos de proteção do dispositivo não funcionarão neste dispositivo enquanto esta configuração estiver desativada.</string>
     <string name="confirm_erase">Apagar</string>
     <string name="confirm_fingerprint_msg">Posicione o seu dedo no sensor</string>
     <string name="confirm_frp_credential_message">O seu dispositivo foi redefinido para os dados de fábrica. Você pode desbloqueá-lo usando sua senha anterior.</string>
@@ -344,9 +396,15 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="confirm_privacy_password_fingerprint">Leia a impressão digital ou insira a Senha de proteção de privacidade</string>
     <string name="connect_mode">Tipo de conexão</string>
     <string name="connect_to_internet">Conecte-se à rede</string>
+    <string name="connected_via_network_scorer_default">Conectado automaticamente via provedor de classificação de rede</string>
     <string name="connected_wifi">Conectado</string>
     <string name="connecting_to_vpn">Conectando-se à VPN</string>
     <string name="convenience_key_category_title">Controle de sistema</string>
+    <string name="convert_to_fbe_warning">"Converter partição de dados para criptografia baseada em arquivos.
+ !!Alerta!! Isso limpará todos os seus dados.
+ Este recurso está em desenvolvimento e pode não funcionar corretamente.
+ Pressione \"Limpar e converter..…\" para continuar."</string>
+    <string name="convert_to_file_encryption_done">Os arquivos estão criptografados</string>
     <string name="cool_color">Fria</string>
     <string name="country_name">%s (sistema)</string>
     <string name="credentials_password_too_short">Mínimo de 8 caracteres</string>
@@ -376,6 +434,8 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
 "<font size="12">aviso</font></string>
     <string name="date_time_settings">Data &amp; hora</string>
     <string name="day_of_week">Dia da semana</string>
+    <string name="debug_hw_renderer">Definir renderizador da GPU</string>
+    <string name="debug_view_attributes">Ativar visualização de atributos</string>
     <string name="defalut_launcher_title">Tela inicial padrão</string>
     <string name="default_input_method">Escolher teclado padrão</string>
     <string name="default_launcher_title">Launcher padrão</string>
@@ -390,6 +450,9 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="demo_mode">Modo de demonstração</string>
     <string name="demo_mode_summary">Mostrar ícone de demonstração na barra de status</string>
     <string name="detail_app_button">Info. do app</string>
+    <string name="dev_logpersist_clear_warning_message">Quando não estamos mais monitorando com o logger persistente, somos requeridos a apagar os dados do logger presentes no seu dispositivo.</string>
+    <string name="dev_logpersist_clear_warning_title">Limpar armazenamento persistente do logger?</string>
+    <string name="dev_settings_warning_message">Estas configurações são direcionadas apenas a desenvolvedores. Ativar estes recursos pode causar erros em seu dispositivo ou nos apps instalados.</string>
     <string name="development_enable">Opções do desenvolvedor</string>
     <string name="device_available_memory">Armazenamento disponível</string>
     <string name="device_battery">Bateria</string>
@@ -432,8 +495,11 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="dialog_title_login">Faça o login em sua Conta Mi</string>
     <string name="dialog_yes">Sim</string>
     <string name="direct_boot_unaware_dialog_message">Nota: você poderá usar este teclado depois que reiniciar apenas se desbloquear o dispositivo.</string>
+    <string name="disable_overlays_summary">Sempre usar a GPU para renderização de tela</string>
     <string name="disable_power_key_long_press_under_keyguard">Desativar o menu do botão Liga/Desliga</string>
     <string name="disabled_authorised_apps_title">Autorização revogada</string>
+    <string name="disabled_by_admin">Desativado pelo administrador</string>
+    <string name="disabled_by_admin_summary_text">Controlado pelo administrador</string>
     <string name="disabled_low_ram_device">Este recurso não está disponível neste dispositivo</string>
     <string name="display_auto_rotate_rotate">Ativado</string>
     <string name="display_auto_rotate_stay_in_current">Desativado</string>
@@ -500,6 +566,7 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="edit_rule">Editar regras</string>
     <string name="edit_rules">Editar</string>
     <string name="eighthours">8 horas</string>
+    <string name="enable_freeform_support_summary">Ativar o suporte experimental para janelas de forma livre.</string>
     <string name="enable_mobile_data_when_opening_hotspot">Ativar também a conexão de dados móveis?</string>
     <string name="enable_service_title">O serviço executará as seguintes ações:</string>
     <string name="enable_snapshot_screenlock">Segurar botão Voltar para tirar foto</string>
@@ -538,6 +605,7 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="factory_reset_summary">Apagar todos os dados do armazenamento interno do seu telefone</string>
     <string name="failed_to_check_find_device_status_content">"Não foi possível verificar o status do 'Encontrar dispositivo'. Aguarde alguns minutos e tente novamente."</string>
     <string name="failed_to_check_find_device_status_title">Não foi possível verificar o status</string>
+    <string name="failed_to_open_app_settings_toast">Não foi possível abrir as configurações para %1$s</string>
     <string name="failed_to_shut_down_find_device_content">"Não foi possível desativar o 'Encontrar dispositivo'. Aguarde alguns minutos e tente novamente."</string>
     <string name="failed_to_shut_down_find_device_title">Não foi possível desativar</string>
     <string name="file_privacy_password_role_instruction">Seus arquivos privados serão armazenados aqui.</string>
@@ -600,10 +668,13 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="font_size_summary1">"Se o tamanho dos textos do sistema ainda está pequeno, experimente o "</string>
     <string name="font_size_summary2">Modo simplificado.</string>
     <string name="forbidden_switch_apn_string">As configurações selecionadas para o APN não correspondem com o tipo de rede atual</string>
+    <string name="force_allow_on_external">Forçar permissão de apps a escrever no armaz. externo</string>
+    <string name="force_allow_on_external_summary">Qualifica apps p/ gravação em armazenamento externo, independentemente de valores de manifestos</string>
     <string name="force_immersive_compatibility_dont_hide">Não ocultar</string>
     <string name="force_immersive_compatibility_hide">Ocultar</string>
     <string name="force_immersive_compatibility_hint_message">Alguns apps podem não funcionar corretamente se você optar por ocultar os botões virtuais.</string>
     <string name="force_immersive_compatibility_hint_title">Problemas de compatibilidade</string>
+    <string name="force_resizable_activities_summary">Torna todas as atividades redimensionáveis para várias janelas, independentemente dos valores do manifesto.</string>
     <string name="force_touch_demo">Demonstração</string>
     <string name="force_touch_enable">Ativar 3D Touch</string>
     <string name="force_touch_enable_tips">Aperte nos ícones do Launcher para ver menus de atalhos quando o 3D Touch estiver ativado.</string>
@@ -678,6 +749,7 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="hdmi_color_calibration_none">Nativo</string>
     <string name="header_category_accounts">Contas</string>
     <string name="header_category_wireless_networks">Rede</string>
+    <string name="help_feedback_label">Ajuda &amp; Feedback</string>
     <string name="hide">Ocultar</string>
     <string name="hide_screen_button">Ocultar botões virtuais</string>
     <string name="high_performance_notif_summary">O dispositivo pode aquecer com o uso intenso.</string>
@@ -687,9 +759,13 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
 
 Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notificações\"."</string>
     <string name="high_power_prompt_title">Permitir que o app sempre esteja em execução em segundo plano?</string>
+    <string name="home">Configurações da Tela inicial</string>
     <string name="home_key">Início</string>
     <string name="http_invoke_app_summary">Abra apps rapidamente sem instalá-los</string>
     <string name="ime_security_warning">%1$s pode gravar tudo o que você digitar, inclusive senhas, números de cartões de crédito e outros dados pessoais.</string>
+    <string name="immediately_destroy_activities_summary">Encerrar atividades assim que o usuário sair dela</string>
+    <string name="inactive_app_active_summary">Ativo. Toque para alternar.</string>
+    <string name="inactive_app_inactive_summary">Inativo. Toque para alternar.</string>
     <string name="incoming_call_breathing_light_color_title">Cor do LED para chamadas</string>
     <string name="incoming_call_breathing_light_freq_title">Frequência de pulsação em chamadas</string>
     <string name="infinity_display_settings">Tela infinita</string>
@@ -707,6 +783,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="instruction_title">Instruções</string>
     <string name="item_system_app">Apps do sistema</string>
     <string name="keep_legacy_fingerprint">Manter</string>
+    <string name="keep_screen_on_summary">A tela nunca entrará em inatividade enquanto estiver carregando</string>
     <string name="key_combination_power_back">Liga/Desliga + Voltar</string>
     <string name="key_combination_power_home">Liga/Desliga + Início</string>
     <string name="key_combination_power_menu">Liga/Desliga + Menu</string>
@@ -775,6 +852,11 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="local_auto_backup_off">Desativado</string>
     <string name="local_auto_backup_on">Ativado</string>
     <string name="local_auto_backup_section_title">Backup automático</string>
+    <string name="local_backup_password_summary_change">Toque para alterar ou remover a senha para bacups completos da Tela inicial</string>
+    <string name="local_backup_password_summary_none">Os backups completos da tela inicial não estão protegidos no momento</string>
+    <string name="local_backup_password_title">Senha do backup da Tela inicial</string>
+    <string name="local_backup_password_toast_confirmation_mismatch">As senhas não correspondem</string>
+    <string name="local_backup_password_toast_validation_failure">Não foi possível definir a senha de backup</string>
     <string name="local_backup_section_summary">Faça backup das configurações do sistema, contas e apps</string>
     <string name="local_backup_section_title">Backups locais</string>
     <string name="locale_settings">Região</string>
@@ -1126,6 +1208,7 @@ Selecione seu sistema operacional:"</string>
     <string name="other_device_info">Outros</string>
     <string name="other_personal_settings">Configurações pessoais</string>
     <string name="other_relative">Outras</string>
+    <string name="overlay_display_devices_title">Simular telas secundárias</string>
     <string name="owner_info_settings_title">Assinatura na Tela de bloqueio</string>
     <string name="owner_space">Primeiro Espaço</string>
     <string name="page_layout_1">Domingo, 16 de Agosto</string>
@@ -1212,6 +1295,8 @@ Selecione seu sistema operacional:"</string>
     <string name="power_mode">Configurações de energia</string>
     <string name="power_mode_balanced_title">Balancear Energia</string>
     <string name="power_optimize">Economia de bateria</string>
+    <string name="power_remaining_charging_duration_only">%1$s até ser carregado</string>
+    <string name="power_remaining_duration_only">Cerca de %1$smin restante</string>
     <string name="power_settings_title">Desempenho do sistema</string>
     <string name="power_usage_history">Uso da bateria</string>
     <string name="power_usage_summary_title">Bateria &amp; desempenho</string>
@@ -1326,6 +1411,7 @@ Selecione seu sistema operacional:"</string>
     <string name="private_sms_need_to_unlock">Senha requerida:</string>
     <string name="private_sms_recording_intro_header">Desenhe um padrão de desbloqueio:</string>
     <string name="private_sms_reset_by_account">Para redefinir sua senha, faça o login em sua Conta Mi</string>
+    <string name="process_kernel_label">SO Android</string>
     <string name="provision_activation">Ativado</string>
     <string name="provision_back">Voltar</string>
     <string name="provision_next">Avançar</string>
@@ -1383,11 +1469,15 @@ Selecione seu sistema operacional:"</string>
     <string name="restrict_max_aspect_ratio_title">Estes apps não funcionam bem em tela cheia</string>
     <string name="restriction_wifi_config_summary">Permitir a modificação de configurações de Wi-Fi e redes móveis</string>
     <string name="restriction_wifi_config_title">Wi-Fi e redes móveis</string>
+    <string name="retail_demo_reset_message">Insira a senha para executar a redefinição de dados de fábrica no modo de demonstração</string>
+    <string name="retail_demo_reset_next">Avançar</string>
+    <string name="retail_demo_reset_title">Senha requerida</string>
     <string name="retry">Repetir</string>
     <string name="ringtone_slot_setting_title">Configurações de SIM individual</string>
     <string name="ringtone_uniform_setting_title">Configurações de SIM Duplo</string>
     <string name="root">Acesso root</string>
     <string name="rule_name">Nome</string>
+    <string name="saved_network">Salvo como %1$s</string>
     <string name="saved_wifi">Gerenciar redes salvas</string>
     <string name="saved_wifi_delete">Excluir</string>
     <string name="screen">Tela</string>
@@ -1452,6 +1542,10 @@ Selecione seu sistema operacional:"</string>
     <string name="screen_saturation">Saturação</string>
     <string name="screen_shot">Capturar tela</string>
     <string name="screen_timeout_title">Desativar tela</string>
+    <string name="screen_zoom_summary_custom">Personalizado (%d)</string>
+    <string name="screen_zoom_summary_extremely_large">Enorme</string>
+    <string name="screen_zoom_summary_small">Pequeno</string>
+    <string name="screen_zoom_summary_very_large">Maior</string>
     <string name="screenshot">Captura de tela</string>
     <string name="screenshot_three_gesture">Deslize 3 dedos para baixo para capturar a tela</string>
     <string name="screenshot_three_gesture_summary">Outros gestos com 3 dedos serão desativados</string>
@@ -1664,7 +1758,14 @@ Você ainda pode usar sua impressão digital para autorizar compras e acessar ap
     <string name="security_settings_summary">Definir Meu local, desbloqueio de tela, bloqueio do SIM e do armazenamento de credenciais</string>
     <string name="security_status">Status de segurança</string>
     <string name="security_update">Atualização de segurança</string>
+    <string name="select_logd_level">Selecionar nível de log</string>
+    <string name="select_logd_size_dialog_title">Selecionar tamanho para o buffer de log</string>
+    <string name="select_logd_size_title">Tamanhos de buffer de log</string>
+    <string name="select_logpersist_dialog_title">Selecione os buffers de log para armazenar de forma persistente no dispositivo</string>
+    <string name="select_logpersist_title">Armazenar dados do logger de forma persistente</string>
     <string name="select_ssid_type_title">Selecionar SSID</string>
+    <string name="select_webview_provider_dialog_title">Definir a implementação do WebView</string>
+    <string name="select_webview_provider_toast_text">Esta escolha não é mais válida. Tente novamente.</string>
     <string name="service_manage">Configuração</string>
     <string name="service_stop_description">O app iniciou este serviço em execução. Pará-lo poderá causar erros.</string>
     <string name="setting_privacy_password">Definir Senha de proteção de privacidade</string>
@@ -1683,12 +1784,18 @@ Você ainda pode usar sua impressão digital para autorizar compras e acessar ap
     <string name="setup_choose_unlock_pattern_title">Desenhe o padrão de desbloqueio</string>
     <string name="setup_choose_unlock_type_title">Definir senha</string>
     <string name="setup_password_back">Voltar</string>
+    <string name="show_all_anrs_summary">Mostrar \"App não responde\" para apps em seg. plano</string>
     <string name="show_connected_devices_summary">Ver dispositivos conectados</string>
     <string name="show_connected_devices_title">Dispositivos conectados</string>
     <string name="show_fc">Apps fechados forçadamente</string>
     <string name="show_fc_summary">Mostrar apps que foram fechados à força</string>
+    <string name="show_hw_layers_updates_summary">Itens de hardware sendo atualizados piscam em verde</string>
+    <string name="show_hw_screen_updates">Visualizar render. da GPU</string>
+    <string name="show_hw_screen_updates_summary">Piscar janelas renderizadas pela GPU</string>
     <string name="show_magnifier_when_input">Lupa para texto</string>
     <string name="show_menu">Mostrar o menu</string>
+    <string name="show_notification_channel_warnings">Mostrar alertas no canal de notificações</string>
+    <string name="show_notification_channel_warnings_summary">Exibe alertas na tela quando um app publicar uma notificação sem um canal válido</string>
     <string name="show_owner_info_on_lockscreen_label">Mostrar assinatura na Tela de bloqueio</string>
     <string name="show_rounded_corners">Exibir cantos de tela arredondados</string>
     <string name="show_user_info_on_lockscreen_label">Mostrar info. do proprietário na Tela de bloqueio</string>
@@ -1718,7 +1825,6 @@ PIN possivelmente incorreto."</string>
     <string name="sim_lock_settings_category">Configurar bloqueio do SIM</string>
     <string name="sim_lock_settings_title">Bloqueio do cartão SIM</string>
     <string name="sim_management_title">Redes móveis</string>
-    <string name="sim_management_title_cr_kolbi">Redes móveis</string>
     <string name="sim_pin_change">Alterar PIN do SIM</string>
     <string name="sim_pin_toggle">Bloquear cartão SIM</string>
     <string name="sim_radio_off">Desativado</string>
@@ -1761,6 +1867,7 @@ PIN possivelmente incorreto."</string>
     <string name="status_bar_settings_all_app_display_loading">Aguarde…</string>
     <string name="status_bar_settings_app_notification_preferences">Configurações do app</string>
     <string name="status_bar_settings_basic_settings">Configurações básicas</string>
+    <string name="status_bar_settings_carrier_sim">"Cartão SIM %1$s: "</string>
     <string name="status_bar_settings_custom_carrier">Editar nome da operadora</string>
     <string name="status_bar_settings_custom_wifi_name">Editar nome da rede Wi-Fi</string>
     <string name="status_bar_settings_enable_notification">Mostrar notificações</string>
@@ -1838,6 +1945,7 @@ A mudança leva cerca de ^2 e irá liberar ^3 no armazenamento interno. Alguns a
     <string name="system_apps_updater">Atualização de apps do sistema</string>
     <string name="system_shortcut_wake">Ligar tela com botões de atalho</string>
     <string name="system_storage">Armazenamento do sistema</string>
+    <string name="telephony_monitor_switch_summary">O Monitor de telefonia coletará logs quando detectar problemas com funcionalidades de telefonia/modem e enviará uma notificação ao usuário para reportar o bug.</string>
     <string name="tether_and_hotspot_title">Vínculo &amp; hotspot portátil</string>
     <string name="tether_auto_disable_summary">Desativar hotspot automaticamente quando nenhum dispositivo estiver conectado</string>
     <string name="tether_auto_disable_title">Desativar hotspot automaticamente</string>
@@ -1855,6 +1963,7 @@ A mudança leva cerca de ^2 e irá liberar ^3 no armazenamento interno. Alguns a
     <string name="tether_over_limit_warning_notify_title">Limite de dados do Hotspot atingido</string>
     <string name="tether_settings_disabled">Hotspot portátil</string>
     <string name="tether_settings_title_all">Compartilhamento de internet</string>
+    <string name="tether_settings_title_wifi">Hotspot portátil</string>
     <string name="tether_share_qrcode_title">Compartilhar código QR</string>
     <string name="tethering_settings_not_available">Altere as configurações de vínculo no Primeiro Espaço</string>
     <string name="theme_settings_title">Temas</string>
@@ -1885,8 +1994,17 @@ A mudança leva cerca de ^2 e irá liberar ^3 no armazenamento interno. Alguns a
     <string name="trackball_wake_title">Ligar a tela com trackball</string>
     <string name="traffic_none">N/A</string>
     <string name="translation_contributors_title">Colaboradores</string>
+    <string name="tts_default_pitch_title">Tom</string>
+    <string name="tts_default_sample_string">Este é um exemplo de sintetização de voz</string>
+    <string name="tts_engine_settings_title">Configurações para %s</string>
+    <string name="tts_general_section_title">Geral</string>
+    <string name="tts_install_data_summary">Instalar dados de voz necessários para a sintetização da fala</string>
+    <string name="tts_reset_speech_pitch_summary">Redefinir o tom que o texto é falado para o padrão.</string>
+    <string name="tts_reset_speech_pitch_title">Redefinir tom de fala</string>
     <string name="tts_reset_speech_rate_summary">Redefinir a velocidade que o texto é falado para o padrão.</string>
     <string name="tts_reset_speech_rate_title">Redefinir taxa de fala</string>
+    <string name="tts_status_checking">Verificando…</string>
+    <string name="tts_status_requires_network">%1$s precisa de uma conexão de rede</string>
     <string name="turn_off_common_password_confirm_msg">O bloqueio de tela também será desativado.</string>
     <string name="turn_off_keyguard_password_alert_title">Desativar</string>
     <string name="turn_off_keyguard_password_confirm_msg">Alguns recursos de segurança não funcionarão sem a sua senha.</string>
@@ -1961,6 +2079,7 @@ A mudança leva cerca de ^2 e irá liberar ^3 no armazenamento interno. Alguns a
     <string name="use_personalized_ad_service">Recomendação personalizada de anúncios</string>
     <string name="use_personalized_ad_service_summary">Quando as recomendações estão desativadas, você ainda verá a mesma quantidade de anúncios, mas eles não serão baseados nos seus dados de comportamento ou nas suas informações pessoais.</string>
     <string name="use_privacy_password_immediate">Usar</string>
+    <string name="use_system_language_to_select_input_method_subtypes">Usar idioma do sistema</string>
     <string name="use_this_wlan">Continuar</string>
     <string name="user_add_user_message_long">"Você pode compartilhar este dispositivo com outras pessoas por meio da criação de usuários adicionais. Cada usuário tem seu próprio espaço, o qual pode ser personalizado com os próprios apps, plano de fundo, etc. Os usuários também podem ajustar as configurações do dispositivo, como Wi-Fi, que afetam a todos.
 
@@ -2034,6 +2153,7 @@ Toque no + para adicionar palavras."</string>
     <string name="vpn_set_screen_lock_title">Definir senha da Tela de bloqueio</string>
     <string name="vpn_settings_password">Adicionar senha de VPN</string>
     <string name="vpn_settings_summary">Proteger configurações de VPN com a senha da tela de bloqueio</string>
+    <string name="wait_for_debugger_summary">App depurado espera conexão com debugger antes de ser executado</string>
     <string name="wakeup_for_keyguard_notification_title">Ligar tela para notificações</string>
     <string name="wallpaper_desktop">Tela inicial</string>
     <string name="wallpaper_live">Planos de fundo animados</string>
@@ -2059,6 +2179,9 @@ Toque no + para adicionar palavras."</string>
     <string name="whetstone_level_reboot">Esta configuração terá efeito após você reiniciar seu dispositivo.</string>
     <string name="whetstone_level_reboot_OK">Reiniciar</string>
     <string name="whetstone_level_title">Otimização de memória</string>
+    <string name="wifi_aggressive_handover">Transf. agressiva de Wi-Fi para celular</string>
+    <string name="wifi_aggressive_handover_summary">Quando ativado, a conexão será alternada para os dados móveis mais rapidamente quando o sinal de Wi-Fi estiver fraco.</string>
+    <string name="wifi_allow_scan_with_traffic_summary">Permitir/proibir verificações de roaming de Wi-Fi com base no volume do tráfego de dados presente na interface.</string>
     <string name="wifi_assistant">Assistente de Wi-Fi</string>
     <string name="wifi_assistant_auto_confirm_data_message">Esta rede Wi-Fi não tem acesso à internet. Seu dispositivo usará os dados móveis ao invés do Wi-Fi. Você pode desativar o Assistente de Wi-Fi nas Configurações.</string>
     <string name="wifi_assistant_confirm_always">Não mostrar novamente</string>
@@ -2089,6 +2212,7 @@ Toque no + para adicionar palavras."</string>
     <string name="wifi_connect_cmcc_dialog_not_remind">Não mostrar novamente</string>
     <string name="wifi_connect_cmcc_dialog_title">CMCC conectada</string>
     <string name="wifi_connect_failed_message">Não foi possível conectar-se à rede Wi-Fi</string>
+    <string name="wifi_connected_no_internet">Conectado, sem internet</string>
     <string name="wifi_connection_management">Gerenciar conexões Wi-Fi</string>
     <string name="wifi_context_menu_change_password">Alterar senha</string>
     <string name="wifi_context_menu_change_wapi_certificate">Alterar Certificado WAPI</string>
@@ -2096,9 +2220,15 @@ Toque no + para adicionar palavras."</string>
     <string name="wifi_context_menu_forget">Esquecer</string>
     <string name="wifi_datanetwork_switch_not_remind">Não mostrar novamente</string>
     <string name="wifi_dialog_remind_type_title">Rede de dados móveis</string>
+    <string name="wifi_disabled_by_recommendation_provider">Não conectado devido à rede estar com baixa qualidade</string>
+    <string name="wifi_disabled_generic">Desativada</string>
     <string name="wifi_disabled_help">O Wi-Fi foi desconectado devido à baixa qualidade da conexão</string>
+    <string name="wifi_disabled_network_failure">Não foi possível configurar o IP</string>
+    <string name="wifi_disabled_wifi_failure">Não foi possível conectar-se ao Wi-Fi</string>
     <string name="wifi_disconnected_notification_summary">Você não está conectado à rede Wi-Fi.</string>
     <string name="wifi_disconnected_notification_title">Wi-Fi desconectada</string>
+    <string name="wifi_display_certification">Certificação do Display sem fios</string>
+    <string name="wifi_display_certification_summary">Mostrar opções de certificação de Display sem fios</string>
     <string name="wifi_display_settings_empty_list_wifi_display_disabled">Não é possível usar o Display sem fios com o Wi-Fi desativado</string>
     <string name="wifi_eap_options_advanced">Opções avançadas</string>
     <string name="wifi_eap_options_simple">Opções simples</string>
@@ -2107,11 +2237,15 @@ Toque no + para adicionar palavras."</string>
     <string name="wifi_empty_list_wifi_off">Para ver as redes disponíveis, ative o Wi-Fi</string>
     <string name="wifi_empty_list_wifi_on">Procurando redes Wi-Fi…</string>
     <string name="wifi_enable_watchdog_service_summary">Evitar conexões ruins</string>
+    <string name="wifi_fail_to_scan">Não é possível procurar por redes</string>
     <string name="wifi_hide_password">Ocultar senha</string>
     <string name="wifi_info_reconnect">Não foi possível conectar-se, tente novamente.</string>
     <string name="wifi_menu_wfd">Display sem fios</string>
     <string name="wifi_network_optimization">Conexão otimizada</string>
     <string name="wifi_network_prefix_length">Tamanho do prefixo</string>
+    <string name="wifi_no_internet">Não é possível conectar-se à internet</string>
+    <string name="wifi_no_internet_no_reconnect">Não é possível conectar-se à internet</string>
+    <string name="wifi_not_in_range">Fora de alcance</string>
     <string name="wifi_notify_cmcc_connected_summary">Mostrar notificação quando conectado a uma rede CMCC</string>
     <string name="wifi_notify_cmcc_connected_title">Notificação de rede CMCC</string>
     <string name="wifi_off_airplane_on_cancel">Cancelar</string>
@@ -2134,6 +2268,7 @@ Toque no + para adicionar palavras."</string>
     <string name="wifi_required_info_text">Para concluir a configuração, seu dispositivo precisa acessar uma rede Wi-Fi. Após a instalação, você poderá alternar entre a conexão de dados móveis e o Wi-Fi.</string>
     <string name="wifi_scan_always_available">Verificação sempre disponível</string>
     <string name="wifi_scan_always_available_summary">Permitir que o serviço de localização do Google e outros apps verifiquem redes, mesmo que o Wi-Fi esteja desligado</string>
+    <string name="wifi_security_none">Nenhum</string>
     <string name="wifi_setting_category">Redes disponíveis</string>
     <string name="wifi_setting_frequency_band_error">Houve um problema ao definir a banda de frequência.</string>
     <string name="wifi_setting_frequency_band_summary">Especificar a banda de frequência de operação</string>
@@ -2196,6 +2331,7 @@ Toque em"<b> Voltar</b> para conectar-se a uma rede Wi-Fi diferente.</string>
     <string name="wifi_traffic_priority_summary">Priorizar velocidade de conexão automaticamente</string>
     <string name="wifi_type_approval_dialog_title">NTC NO.</string>
     <string name="wifi_type_approval_title">Homologação</string>
+    <string name="wifi_verbose_logging_summary">Aumentar nível de registro do Wi-Fi, mostrar RSSI para todos os SSIDs na lista de redes Wi-Fi.</string>
     <string name="wifi_wapi_as_cert">Certificado AS</string>
     <string name="wifi_wapi_cert_cancel_button">Cancelar</string>
     <string name="wifi_wapi_cert_create_subdir">Criar uma pasta</string>

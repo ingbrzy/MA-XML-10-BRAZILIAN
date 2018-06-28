@@ -68,6 +68,7 @@
     <string name="accessibility_wifi_two_bars">Duas barras de Wi-Fi.</string>
     <string name="accessibility_wifi_three_bars">Três barras de Wi-Fi.</string>
     <string name="accessibility_wifi_signal_full">Sinal Wi-Fi cheio.</string>
+    <string name="process_kernel_label">Sistema operacional Android</string>
     <string name="data_usage_uninstalled_apps">Apps removidos</string>
     <string name="data_usage_uninstalled_apps_users">Apps e usuários removidos</string>
     <string name="tether_settings_title_usb">Tethering USB</string>
@@ -402,7 +403,7 @@ qualidade de reprodução"</string>
     <string name="sum_loading_settings">Carregando configurações…</string>
     <string name="sum_hide_caller_id">Número oculto nas chamadas enviadas</string>
     <string name="sum_show_caller_id">Número exibido nas chamadas enviadas</string>
-    <string name="sum_default_caller_id">Usar configurações padrão da operadora para mostrar meu número em chamadas efetuadas</string>
+    <string name="sum_default_caller_id">Use default carrier settings to display my number in outgoing calls</string>
     <string name="labelCW">Chamada em espera</string>
     <string name="sum_cw_enabled">Durante uma chamada, me avise sobre chamadas recebidas</string>
     <string name="sum_cw_disabled">Durante uma chamada, me avise sobre chamadas recebidas</string>
@@ -417,6 +418,7 @@ qualidade de reprodução"</string>
     <string name="sum_cfu_disabled">Desativado</string>
     <string name="set_time_period">Definir período de tempo</string>
     <string name="all_day">" O dia todo "</string>
+    <string name="time_interval_char">:</string>
     <string name="time_start">" De "</string>
     <string name="time_start_hour">time start hour</string>
     <string name="time_start_minute">time start minute</string>
@@ -430,12 +432,12 @@ qualidade de reprodução"</string>
     <string name="messageCFB">Encaminhar chamadas para</string>
     <string name="sum_cfb_enabled">Encaminhando para {0}</string>
     <string name="sum_cfb_disabled">Desativado</string>
-    <string name="disable_cfb_forbidden">"Your operator doesn't support turning off call forwarding when your phone is busy."</string>
+    <string name="disable_cfb_forbidden">"Your carrier doesn't support turning off call forwarding when your phone is busy."</string>
     <string name="labelCFNRy">Encaminhar quando não atendida</string>
     <string name="messageCFNRy">Encaminhar chamadas para</string>
     <string name="sum_cfnry_enabled">Encaminhando para {0}</string>
     <string name="sum_cfnry_disabled">Desativado</string>
-    <string name="disable_cfnry_forbidden">"Your operator doesn't support turning off call forwarding when your phone doesn't answer."</string>
+    <string name="disable_cfnry_forbidden">"Your carrier doesn't support turning off call forwarding when your phone doesn't answer."</string>
     <string name="labelCFNRc">Encaminhar quando inacessível</string>
     <string name="messageCFNRc">Encaminhar chamadas para</string>
     <string name="sum_cfnrc_enabled">Encaminhando para {0}</string>
@@ -582,9 +584,9 @@ O próximo período começa em %2$d dias (%3$s)"</string>
     <string name="enable_disable_atr">Area traffic reports</string>
     <string name="atr_enable">Area traffic reports are on</string>
     <string name="atr_disable">Area traffic reports are off</string>
-    <string name="enable_disable_lafs">Local airport flight fchedules</string>
-    <string name="lafs_enable">Local airport flight fchedules are on</string>
-    <string name="lafs_disable">Local airport flight fchedules are off</string>
+    <string name="enable_disable_lafs">Local airport flight schedules</string>
+    <string name="lafs_enable">Local airport flight schedules are on</string>
+    <string name="lafs_disable">Local airport flight schedules are off</string>
     <string name="enable_disable_restaurants">Restaurantes</string>
     <string name="restaurants_enable">Restaurants are on</string>
     <string name="restaurants_disable">Restaurants are off</string>
@@ -728,7 +730,7 @@ O próximo período começa em %2$d dias (%3$s)"</string>
     <string name="card_title_MTcall_forwarding">Incoming call is forwarded</string>
     <string name="card_title_forwarded_MTcall">Forwarded incoming call</string>
     <string name="card_title_callonhold">Put on hold</string>
-    <string name="card_title_callretrieved">Call retreived</string>
+    <string name="card_title_callretrieved">Call retrieved</string>
     <string name="card_title_multipartycall">Multiparty call</string>
     <string name="card_title_callonhold_released">Call released</string>
     <string name="card_title_forwardcheckreceived">Forward check received</string>
@@ -853,6 +855,10 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
     <string name="accessibility_settings_activity_title">Acessibilidade</string>
     <string name="status_hint_label_incoming_wifi_call">Chamada Wi-Fi de</string>
     <string name="status_hint_label_wifi_call">Chamada Wi-Fi</string>
+    <string name="voicemail_visual_voicemail_key">voicemail_visual_voicemail_key</string>
+    <string name="voicemail_change_pin_key">voicemail_change_pin_key</string>
+    <string name="tty_mode_key">button_tty_mode_key</string>
+    <string name="wifi_calling_settings_key">button_wifi_calling_settings_key</string>
     <string name="emergency_action_launch_hint">Toque novamente para abrir</string>
     <string name="message_decode_error">Ocorreu um erro durante a decodificação da mensagem.</string>
     <string name="callFailed_cdma_activation">Um cartão SIM ativou seu serviço e atualizou as capacidades de roaming do seu telefone.</string>
@@ -882,6 +888,38 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
     <string name="incall_status_dialed_mmi">Iniciando sequência MMI…</string>
     <string name="search_app_name">Telefone;Gravação de chamadas;Encaminhar chamadas;encaminhamento;Chamada em espera;Lista de bloqueio;Código do país;Código de área;Código do país;Códigos de área;Gravar chamadas;Gravar chamada;Discador;Chamada;Chamadas;Telefonia;VoIP;VoLTE;Chamada perdida;Chamadas perdidas;SIP;T9;Telefonia IP;FDN</string>
     <string name="search_antispam_setting">Lista de bloqueio</string>
+    <string name="search_call_record_setting">@string/call_record_setting</string>
+    <string name="search_call_forwarding_settings">@string/call_forwarding_settings</string>
+    <string name="search_call_waiting_title">@string/call_waiting_title</string>
+    <string name="search_answer_state_setting_title">@string/answer_state_setting_title</string>
+    <string name="search_cloud_antispam_title">@string/cloud_antispam_title</string>
+    <string name="search_preference_telocation_title">@string/preference_telocation_title</string>
+    <string name="search_auto_answer_pref_title">@string/auto_answer_pref_title</string>
+    <string name="search_call_recording_notification_toggle_title">@string/call_recording_notification_toggle_title</string>
+    <string name="search_call_record_auto_title">@string/call_record_auto_title</string>
+    <string name="search_turnover_mute_title">@string/turnover_mute_title</string>
+    <string name="search_handon_ringer_title">@string/handon_ringer_title</string>
+    <string name="search_crescendo_ringer_title">@string/crescendo_ringer_title</string>
+    <string name="search_flash_when_ring_title">@string/flash_when_ring_title</string>
+    <string name="search_enable_proximity_title">@string/enable_proximity_title</string>
+    <string name="search_enable_antispam_strange_title">@string/enable_antispam_strange_title</string>
+    <string name="search_telocation_enable_title">@string/telocation_enable_title</string>
+    <string name="search_telocation_custom_location_title">@string/telocation_custom_location_title</string>
+    <string name="search_telocation_contacts_countrycode">@string/telocation_contacts_countrycode</string>
+    <string name="search_telocation_auto_country_code">@string/telocation_auto_country_code</string>
+    <string name="search_preference_dial_pad_touch_tone_title">@string/preference_dial_pad_touch_tone_title</string>
+    <string name="search_autoip_phone">@string/autoip_phone</string>
+    <string name="search_missed_call_notify_times_title">@string/missed_call_notify_times_title</string>
+    <string name="search_connect_disconnect_vibrate_title">@string/connect_disconnect_vibrate_title</string>
+    <string name="search_call_waiting_tone_title">@string/call_waiting_tone_title</string>
+    <string name="search_reject_via_sms">@string/reject_via_sms</string>
+    <string name="search_sip_settings">@string/sip_settings</string>
+    <string name="search_caller_id_title">@string/caller_id_title</string>
+    <string name="search_fdn">@string/fdn</string>
+    <string name="search_voicemail_settings">@string/voicemail_settings</string>
+    <string name="search_dtmf_tones_title">@string/dtmf_tones_title</string>
+    <string name="search_t9_indexing_method_title">@string/t9_indexing_method_title</string>
+    <string name="search_auto_retry_mode_title">@string/auto_retry_mode_title</string>
     <string name="path_app_name">Apps do sistema/Telefone</string>
     <string name="path_call_record_setting">Apps do sistema/Telefone/Gravação de chamadas</string>
     <string name="path_call_forwarding_settings">Apps do sistema/Telefone/Encaminhamento de chamadas</string>
@@ -1366,23 +1404,29 @@ Funções relacionadas ao PIN2 serão bloqueadas após outra tentativa incorreta
     <string name="voice_service_switch_title">Usar serviços de chamada VoLTE</string>
     <string name="voice_service_switch_summary">Ative para poder usar a funcionalidade de chamada VoLTE em redes VoLTE</string>
     <string name="voice_service_warning_dialog_title">Chamadas VoLTE</string>
-    <string name="voice_service_warning_dialog_body">"Este tablet suporta chamadas VoLTE em redes 4G. Certifique-se de que as redes que o seu dispositivo está conectado suportam esta funcionalidade. Os serviços VoLTE são fornecidos pela sua operadora. Entre em contato com a sua operadora para saber se o VoLTE está disponível na sua área.
+    <string name="voice_service_warning_dialog_body">"This tablet supports VoLTE calls in 4G networks. Make sure the networks that your device is connected to support this functionality. VoLTE services are provided by your carrier. Contact your local carrier to learn whether VoLTE is supported in your area.
 
-Se você ver _ na sua barra de status, chamadas VoLTE não estão disponíveis. Se você não puder fzer ou receber chamadas, ou se suas chamadas forem interrompidas, certifique-se de que sua rede é compatível com o VoLTE.
+If you see _ in your status bar, VoLTE calls aren't available. If you can't make or receive calls, or your calls are interrupted, make sure your network is compatible with VoLTE.
 
-Este tablet não possui auriculares. Você pode alterar para o modo viva-voz ou usar um fone de ouvido para fazer chamadas."</string>
+This tablet doesn't have an earpiece. You can switch to hands-free mode or use earphones to make calls."</string>
     <string name="voice_service_warning_dialog_cancel">Cancelar</string>
     <string name="voice_service_warning_dialog_ok_timer">Entendi (%d)</string>
     <string name="voice_service_warning_dialog_ok">Entendi</string>
     <string name="voice_service_cannot_call_notification_title">Não é possível fazer chamadas na rede atual</string>
     <string name="voice_service_cannot_call_notification_content">Você pode enfrentar problemas de conectividade enquanto tentar realizar chamadas.</string>
-    <string name="wificall_switch_title">Fazer chamadas usando Wi-Fi</string>
-    <string name="wificall_switch_summary">Seu dispositivo pode alternar entre o Wi-Fi e o VoLTE quando a conexão estiver ruim</string>
+    <string name="wificall_switch_title">Make calls using Wi-Fi</string>
+    <string name="wificall_switch_summary">Your device will switch between Wi-Fi and VoLTE when connection is poor</string>
     <string name="preferred_wificall_title">Preferências de rede</string>
-    <string name="wfcmode_wifi_only">Apenas Wi-Fi</string>
-    <string name="wfcmode_wifi_preferred">Wi-Fi preferencial</string>
-    <string name="wfcmode_mobile_preferred">Rede móvel preferencial</string>
-    <string name="wifi_call_setting">Chamadas Wi-Fi</string>
+    <string name="wfcmode_wifi_only">Wi-Fi only</string>
+    <string name="wfcmode_wifi_preferred">Prefer Wi-Fi</string>
+    <string name="wfcmode_mobile_preferred">Prefer mobile networks</string>
+    <string name="wifi_call_setting">Wi-Fi calls</string>
+    <string name="cloud_sim_enabled_preferred_network_summary">"Can't change network preferences while using Mi Roaming"</string>
+    <string name="cloud_sim_enabled_dual_4g_summary">"Can't turn off Dual 4G while using Mi Roaming"</string>
+    <string name="dc_alert_dialog_title">Data usage warning</string>
+    <string name="dc_alert_dialog_message">Some apps require mobile data connection. You can contact your carrier to learn what %s are available to you.</string>
+    <string name="do_not_show_again">"Don't show again"</string>
+    <string name="data_plan">mobile data plans</string>
     <string name="stk_cc_ss_to_dial_video_error">Requisição SS alterada para requisição de Video DIAL.</string>
     <string name="network_select_title">Rede</string>
     <string name="forbidden_network">(Restricted)</string>
