@@ -8,6 +8,7 @@
     <string name="ac_privacy_mode_sum">Exigir uma senha para desativar o Modo convidado</string>
     <string name="ac_privacy_mode_title">Senha</string>
     <string name="ac_set_apps_title">Escolher apps para bloquear</string>
+    <string name="accelerometer_title">Girar a tela automaticamente</string>
     <string name="access_control_app_entry_multiple">Abrir %s</string>
     <string name="access_control_app_entry_single">Abrir app</string>
     <string name="access_control_need_password">"A aplicação %s foi protegida
@@ -188,7 +189,7 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="battery_info_status_unknown">Descohecido</string>
     <string name="battery_info_technology_label">Tecnologia da bateria:</string>
     <string name="battery_info_temperature_label">Temperatura da bateria:</string>
-    <string name="battery_info_uptime">Tempo desde a inicialização:</string>
+    <string name="battery_info_uptime">Tempo de atividade:</string>
     <string name="battery_info_voltage_label">Voltagem da bateria:</string>
     <string name="battery_light_summary">Ativar LED de notificações quando o dispositivo estiver carregando</string>
     <string name="battery_light_title">Ativar LED durante carregamento</string>
@@ -259,6 +260,11 @@ Qualidade de reprodução"</string>
 Taxa de amostra"</string>
     <string name="bluetooth_select_avrcp_version_dialog_title">Selecionar versão Bluetooth AVRCP</string>
     <string name="bluetooth_select_avrcp_version_string">Versão Bluetooth AVRCP</string>
+    <string name="bluetooth_tether_checkbox_text">Compartilhamento por Bluetooth</string>
+    <string name="bluetooth_tethering_available_subtext">Compartilhando Internet do telefone</string>
+    <string name="bluetooth_tethering_device_connected_subtext">Compartilhando Internet do telefone com 1 dispositivo</string>
+    <string name="bluetooth_tethering_devices_connected_subtext">Compartilhando Internet do telefone com %1$d dispositivos</string>
+    <string name="bluetooth_tethering_off_subtext">Não está compartilhando Internet deste telefone</string>
     <string name="bluetooth_unlock_add_device">Adicionar dispositivo</string>
     <string name="bluetooth_unlock_change_device_confirm_msg">O dispositivo antigo será substituído pelo atual.</string>
     <string name="bluetooth_unlock_change_matched_device">Escolha outro dispositivo</string>
@@ -415,6 +421,7 @@ Taxa de amostra"</string>
     <string name="crypt_keeper_decrypt_methods">Após você criptografar seu telefone, assumindo que você configurou um bloqueio de tela (padrão, senha ou PIN), você precisará desbloquear a tela para descriptografar o telefone sempre que você ligá-lo. A única outra forma de descriptografar o telefone é efetuando uma restauração para configurações de fábrica, apagando todos os seus dados.</string>
     <string name="crypt_keeper_decrypt_methods_cannot_decrypt">Se você criptografou seu telefone, será necessário inserir sua senha, PIN ou padrão sempre que você reiniciar o dispositivo para descriptografá-lo.</string>
     <string name="crypt_keeper_decrypt_methods_title">Descriptografando seu dispositivo</string>
+    <string name="current_input_method">Teclado atual</string>
     <string name="current_use_ese">Usando elemento de segurança integrado</string>
     <string name="current_use_ese_wallet">Você está usando a Mi Wallet.</string>
     <string name="current_use_hce_wallet">Você está usando a HCE Wallet</string>
@@ -467,7 +474,7 @@ Taxa de amostra"</string>
     <string name="device_edit_title">Renomear telefone</string>
     <string name="device_internal_memory">Armazenamento interno</string>
     <string name="device_miui_more">Ver mais</string>
-    <string name="device_miui_version">Versão do MIUI</string>
+    <string name="device_miui_version">Versão da MIUI</string>
     <string name="device_miui_version_update">Atualização MIUI disponível</string>
     <string name="device_name">Nome do dispositivo</string>
     <string name="device_name_input_error">Não foi possível salvar o nome do dispositivo</string>
@@ -817,6 +824,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="keywords_wifi">wifi;wi-fi;Wi-Fi-;WiFi;wlan;WLAN</string>
     <string name="kilobyte_per_second">KB/s</string>
     <string name="label_mi_stats">Mi Analytics</string>
+    <string name="language_keyboard_settings_title">Idioma e entrada</string>
     <string name="lattice_smartcover_title">Capa frontal estrutural</string>
     <string name="launch_camera">Iniciar Câmera</string>
     <string name="launch_google_search">Iniciar Assistente do Google</string>
@@ -888,6 +896,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="location_network_based">Wi-Fi &amp; rede móvel</string>
     <string name="lock_screen_notifications_summary_hide">Mostrar notificações mas ocultar conteúdos</string>
     <string name="lock_screen_notifications_summary_show">Mostrar todas as notificações e seus conteúdos</string>
+    <string name="lock_screen_notifications_title">Na tela de bloqueio</string>
     <string name="lock_screen_signature_summary">Esta mensagem será exibida na Tela de bloqueio</string>
     <string name="lock_screen_signature_title">Info. do proprietário na Tela de bloqueio</string>
     <string name="lock_screen_unlock_show">Pular Tela de bloqueio</string>
@@ -1749,6 +1758,7 @@ Selecione seu sistema operacional:"</string>
     <string name="security_encryption_title">Criptografar dispositivo com senha da tela de bloqueio</string>
     <string name="security_keyguard_category_name">Tela de bloqueio</string>
     <string name="security_password_category_name">Bloqueio de tela</string>
+    <string name="security_patch">Nível do patch de segurança</string>
     <string name="security_privacy_settings_title">Privacidade</string>
     <string name="security_relative">Segurança</string>
     <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">" A opção de bloqueio de tela está desativada. Para saber mais, entre em contato com o administrador da sua organização. "<annotation id="admin_details">Mais detalhes</annotation>"
@@ -1771,6 +1781,7 @@ Você ainda pode usar sua impressão digital para autorizar compras e acessar ap
     <string name="settings_ad_loading">Carregando…</string>
     <string name="settings_ad_loading_unavailable">Não foi possível carregar as informações.</string>
     <string name="settings_forbidden_message">Esta configuração é restrita</string>
+    <string name="settings_label">Configurações</string>
     <string name="settings_notify_need_backup">Faça o backup de suas configurações na Mi Cloud para acessá-las quando trocar de telefone.</string>
     <string name="settings_notify_phone_recycled">Seu número de telefone foi reciclado. Toque para adicionar um número diferente.</string>
     <string name="settings_toggle_position_divider_list">Atalhos acima da barra estão ativos</string>
@@ -1961,6 +1972,8 @@ A mudança leva cerca de ^2 e irá liberar ^3 no armazenamento interno. Alguns a
     <string name="tether_over_limit_warning_notify_title">Limite de dados do Hotspot atingido</string>
     <string name="tether_settings_disabled">Hotspot portátil</string>
     <string name="tether_settings_title_all">Compartilhamento de internet</string>
+    <string name="tether_settings_title_bluetooth">Compartilhamento por Bluetooth</string>
+    <string name="tether_settings_title_usb">Compartilhamento USB</string>
     <string name="tether_settings_title_wifi">Hotspot portátil</string>
     <string name="tether_share_qrcode_title">Compartilhar código QR</string>
     <string name="tethering_settings_not_available">Altere as configurações de vínculo no Primeiro Espaço</string>
@@ -2078,6 +2091,8 @@ A mudança leva cerca de ^2 e irá liberar ^3 no armazenamento interno. Alguns a
     <string name="use_personalized_ad_service_summary">Quando as recomendações estão desativadas, você ainda verá a mesma quantidade de anúncios, mas eles não serão baseados nos seus dados de comportamento ou nas suas informações pessoais.</string>
     <string name="use_privacy_password_immediate">Usar</string>
     <string name="use_system_language_to_select_input_method_subtypes">Usar idioma do sistema</string>
+    <string name="usb_tethering_active_subtext">Conectado</string>
+    <string name="usb_tethering_available_subtext">Ligado via USB. Confirme para Conectar</string>
     <string name="use_this_wlan">Continuar</string>
     <string name="user_add_user_message_long">"Você pode compartilhar este dispositivo com outras pessoas por meio da criação de usuários adicionais. Cada usuário tem seu próprio espaço, o qual pode ser personalizado com os próprios apps, plano de fundo, etc. Os usuários também podem ajustar as configurações do dispositivo, como Wi-Fi, que afetam a todos.
 
