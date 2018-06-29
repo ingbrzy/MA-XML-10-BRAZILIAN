@@ -1,4 +1,4 @@
-# MIUI V10 Portuguese Translation
+# MIUI V10 Brazilian Portuguese Translation
 
 ![My image](https://i.imgur.com/s5PsCYM.png)
 
