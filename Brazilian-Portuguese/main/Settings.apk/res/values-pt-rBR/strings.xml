@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="Accounts_settings_title">Contas</string>
     <string name="about_ad_service_instructions">Sobre o serviço de anúncios e privacidade</string>
     <string name="about_phone_enter_xiaomi_net">Saiba mais</string>
     <string name="about_settings">Sobre o telefone</string>
+    <string name="about_settings_summary">Ver informações legais, estado, versão de software</string>
     <string name="ac_enable_summary">Definir uma senha para apps individuais</string>
     <string name="ac_enable_title">Bloqueio de apps</string>
     <string name="ac_privacy_mode_sum">Exigir uma senha para desativar o Modo convidado</string>
     <string name="ac_privacy_mode_title">Senha</string>
     <string name="ac_set_apps_title">Escolher apps para bloquear</string>
+    <string name="accelerometer_summary_off">Trocar orientação automaticamente ao rodar o telefone</string>
+    <string name="accelerometer_summary_on">Trocar orientação automaticamente ao rodar o telefone</string>
     <string name="accelerometer_title">Girar a tela automaticamente</string>
     <string name="access_control_app_entry_multiple">Abrir %s</string>
     <string name="access_control_app_entry_single">Abrir app</string>
@@ -18,7 +22,34 @@
     <string name="access_control_password_title">Senha</string>
     <string name="access_control_recording_intro_header">Desenhe um padrão para desbloqueio:</string>
     <string name="access_control_reset_by_account">Faça o login em sua Conta Mi para redefinir a senha</string>
+    <string name="access_point_names">Pontos de acesso (APN)</string>
+    <string name="accessibility_autoclick_delay_preference_title">Atraso antes de clicar</string>
+    <string name="accessibility_autoclick_preference_title">Clicar após o ponteiro parar de mexer</string>
+    <string name="accessibility_captioning_title">Legendas</string>
+    <string name="accessibility_category_personal">Contas de perfil pessoal</string>
+    <string name="accessibility_category_work">Contas de perfil de trabalho - %s</string>
     <string name="accessibility_close_tab">Fechar guia atual</string>
+    <string name="accessibility_display_inversion_preference_title">Inversão de cor</string>
+    <string name="accessibility_display_title">Tela</string>
+    <string name="accessibility_feature_or_input_method_not_allowed">Não permitido pela sua organização</string>
+    <string name="accessibility_feature_state_off">Desligado</string>
+    <string name="accessibility_feature_state_on">Ligado</string>
+    <string name="accessibility_global_gesture_preference_description">"Quando esta funcionalidade está ligada, pode activar rapidamente funcionalidades de acessibilidade em dois passos:
+
+Passo 1: Prima e segure o botão Ligar/Desligar até ouvir um som ou sentir uma vibração
+
+Passo 2: Toque e segure dois dedos até ouvir a confirmação de áudio
+        
+    Se o dispositivo tiver vários utilizadores, ao utilizar este atalho na tela de bloqueio ativa temporariamente a acessibilidade até que o dispositivo seja desbloqueado"</string>
+    <string name="accessibility_global_gesture_preference_summary_off">Desligado</string>
+    <string name="accessibility_global_gesture_preference_summary_on">Ligado</string>
+    <string name="accessibility_global_gesture_preference_title">Atalho de acessibilidade</string>
+    <string name="accessibility_lock_screen_progress">%1$d de %2$d caracteres utilizados</string>
+    <string name="accessibility_long_press_timeout_preference_title">Atraso de tocar sem soltar</string>    
+    <string name="accessibility_display_daltonizer_preference_subtitle">Esta funcionalidade é experimental e pode afetar o desempenho</string>
+    <string name="accessibility_display_daltonizer_preference_title">Correcção de cor</string>
+    <string name="accessibility_display_inversion_preference_subtitle">(Experimental) Pode afetar o desempenho</string>
+    <string name="accessibility_display_inversion_preference_title">Inversão de cor</string>
     <string name="accessibility_enable">Acessibilidade</string>
     <string name="accessibility_more_settings">Configurações adicionais</string>
     <string name="accessibility_no_wifi">Desconectado do Wi-Fi.</string>
@@ -43,6 +74,29 @@ Não é possível aumentar o zoom no teclado ou na barra de navegação."</strin
 "<li>Levante o dedo para diminuir o zoom</li></ul>"
 
 Não é possível aumentar o zoom no teclado e na barra de navegação."</string>
+    
+    <string name="accessibility_screen_magnification_title">Gestos de ampliação</string>
+    <string name="accessibility_service_default_description">Sem descrição fornecida</string>
+    <string name="accessibility_services_title">Serviços</string>
+    <string name="accessibility_settings">Acessibilidade</string>
+    <string name="accessibility_settings_title">Definições de acessibilidade</string>
+    <string name="accessibility_shortcut_description">Quando o atalho estiver ligado, pode apertar os dois botões de volume por 3 segundos para iniciar uma função de acessibilidade</string>
+    <string name="accessibility_shortcut_service_on_lock_screen_title">Permitir na tela de bloqueio</string>
+    <string name="accessibility_shortcut_service_title">Atalho de serviços</string>
+    <string name="accessibility_sync_disabled">Sincronização desativada</string>
+    <string name="accessibility_sync_enabled">Sincronização ativada</string>
+    <string name="accessibility_sync_error">Erro de sincronização</string>
+    <string name="accessibility_sync_in_progress">A sincronizar agora</string>
+    <string name="accessibility_system_title">Sistema</string>
+    <string name="accessibility_toggle_high_text_contrast_preference_title">Texto de alto contraste</string>
+    <string name="accessibility_toggle_large_pointer_icon_title">Ponteiro de mouse grande</string>
+    <string name="accessibility_toggle_master_mono_summary">Combinar canais ao reproduzir áudio</string>
+    <string name="accessibility_toggle_master_mono_title">Áudio mono</string>
+    <string name="accessibility_toggle_large_text_preference_title">Texto grande</string>
+    <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Atualizar ampliação da tela na transição de aplicações</string>
+    <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Atualizar automaticamente a ampliação da tela</string>
+    <string name="accessibility_toggle_screen_magnification_preference_title">Ampliação da tela </string>
+    <string name="accessibility_toggle_speak_password_preference_title">Falar senhas</string>
     <string name="accessibility_vpn_settings_info">Configuração de VPN</string>
     <string name="accessibility_wifi_off">O Wi-Fi está desativado.</string>
     <string name="accessibility_wifi_one_bar">Wi-Fi uma barra.</string>
@@ -58,6 +112,11 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="activating">Ativando…</string>
     <string name="active_input_method_subtypes">Métodos de entrada ativos</string>
     <string name="ad_service">Serviços de anúncio</string>
+    <string name="adb_keys_warning_message">Revogar o acesso à depuração USB para todos os computadores autorizados?</string>
+    <string name="adb_warning_message">A depuração USB serve apenas para fins de desenvolvimento. Pode ser utilizada para copiar dados entre o computador e o dispositivo, instalar aplicações neste dispositivo sem notificação e ler dados de registo</string>
+    <string name="adb_warning_title">Permitir a depuração USB?</string>
+    <string name="add_a_language">Adicionar um idioma</string>
+    <string name="add_account_label">Adicionar conta</string>
     <string name="add_auto_startup_application">Adicionar apps</string>
     <string name="add_back_fingerprint_instruction_msg">Coloque seu dedo no sensor</string>
     <string name="add_facerecoginition_text">Adicionar dados faciais</string>
@@ -83,6 +142,15 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="add_rule">Adicionar regras</string>
     <string name="additional_system_update_settings_list_item_title">Atualizações adicionais do sistema</string>
     <string name="adjust_3d_depth_title">Ajustar profundidade 3D para jogos</string>
+    <string name="admin_device_owner_message">O administrador pode monitorizar e gerenciar as aplicações e os dados associados a este dispositivo, incluindo as definições, as autorizações, o acesso empresarial, a atividade da rede e as informações de localização do dispositivo</string>
+    <string name="admin_disabled_other_options">As outras opções estão desactivadas pelo administrador</string>
+    <string name="admin_more_details">Mais detalhes</string>
+    <string name="admin_profile_owner_message">O administrador pode monitorizar e gerir as aplicações e os dados associados ao seu perfil de trabalho, incluindo as definições, as autorizações, o acesso empresarial, a atividade da rede e as informações de localização do dispositivo</string>
+    <string name="admin_profile_owner_user_message">O administrador pode monitorizar e gerenciar as aplicações e os dados associados a este usuário, incluindo as definições, as autorizações, o acesso empresarial, a atividade da rede e as informações de localização do dispositivo</string>
+    <string name="admin_support_more_info">Mais detalhes</string>
+    <string name="advanced_apps">Avançadas</string>
+    <string name="advanced_section_header">Avançadas</string>
+    <string name="advanced_security_title">Avançadas</string>
     <string name="advanced_settings">Configurações adicionais</string>
     <string name="agps_roaming">A-GPS em roaming</string>
     <string name="agps_roaming_dia">O uso do A-GPS em roaming pode aumentar seu uso de dados móveis. Caso você exceda o seu plano de dados, sua operadora poderá cobrar o excedente.</string>
@@ -105,17 +173,64 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="aod_mode_title">Modo Always on</string>
     <string name="aod_mode_turn_off">Desativado</string>
     <string name="aod_mode_turn_on">Ativado</string>
+    <string name="apn_apn">APN</string>
+    <string name="apn_auth_type">Tipo de autenticação</string>
+    <string name="apn_auth_type_chap">CHAP</string>
+    <string name="apn_auth_type_none">Nenhum</string>
+    <string name="apn_auth_type_pap">PAP</string>
+    <string name="apn_auth_type_pap_chap">PAP ou CHAP</string>
+    <string name="apn_chinaunicom_3gnet_general">Ligação à Internet para usuários de banda larga Wal</string>
+    <string name="apn_chinaunicom_3gwap_general">Usuários de Internet móvel de banda larga Waugh</string>
+    <string name="apn_edit">Editar ponto de acesso</string>
+    <string name="apn_http_port">Porta</string>
+    <string name="apn_http_proxy">Proxy</string>
+    <string name="apn_mcc">MCC</string>
+    <string name="apn_mms">MMS</string>
+    <string name="apn_mms_port">Porta MMS</string>
+    <string name="apn_mms_proxy">Proxy MMS</string>
+    <string name="apn_mmsc">MMSC</string>
+    <string name="apn_mnc">MNC</string>
+    <string name="apn_name">Nome</string>
+    <string name="apn_new">Novo ponto de acesso</string>
+    <string name="apn_not_set">Não definido</string>
+    <string name="apn_password">Palavra-passe</string>
+    <string name="apn_protocol">Protocolo APN</string>
+    <string name="apn_roaming_protocol">Protocolo de roaming APN</string>
     <string name="apn_general">Geral</string>
     <string name="apn_new">Novo APN</string>
     <string name="apn_ppp_number">Número de telefone APN PPP</string>
     <string name="apn_save">Salvar alterações?</string>
     <string name="apn_save_msg">Salvar alterações ao APN?</string>
+    <string name="apn_server">Servidor</string>
+    <string name="apn_settings">Pontos de acesso (APN)</string>
+    <string name="apn_settings_not_available">Configurações de pontos de acesso não estão disponíveis para este usuário</string>
+    <string name="apn_type">Tipo APN</string>
+    <string name="apn_user">Usuário</string>
+    <string name="app_backup">Cópia</string>
+    <string name="app_data_usage">Utilização de dados da aplicação</string>
+    <string name="app_disable_dlg_positive">Desativar aplicação</string>
+    <string name="app_disable_dlg_text">Se desativar este aplicativo? outros aplicativos podem não funcionar como pretendido</string>
+    <string name="app_disable_dlg_title">Desativar aplicação do sistema?</string>
+    <string name="app_disable_notifications_dlg_text">Se desligar as notificações para este aplicativo pode perder alertas e atualizações importantes</string>
+    <string name="app_disable_notifications_dlg_title">Desligar notificações?</string>
+    <string name="app_factory_reset">Desinstalar actualizações</string>
     <string name="app_detail">Detalhes</string>
     <string name="app_factory_reset_dlg_text">Todas as atualizações deste app de sistema serão desinstaladas.</string>
     <string name="app_factory_reset_dlg_title">Desinstalar atualizações?</string>
     <string name="app_floating_window_dlg_disable">Desativar as janelas flutuantes para %1$s fará com que o app seja reiniciado.</string>
     <string name="app_floating_window_dlg_enable">Ativar as janelas flutuantes para %1$s fará com que o app seja reiniciado.</string>
     <string name="app_invisible">Apps invisíveis</string>
+    <string name="app_launch_domain_links_title">Links da aplicação</string>
+    <string name="app_launch_open_domain_urls_summary">Abrir sem perguntar</string>
+    <string name="app_launch_open_domain_urls_title">Abrir links suportados</string>
+    <string name="app_launch_other_defaults_title">Outras predefinições</string>
+    <string name="app_launch_supported_domain_urls_title">Links suportados</string>
+    <string name="app_link_open_always">Abrir neste aplicativo</string>
+    <string name="app_link_open_ask">Perguntar sempre</string>
+    <string name="app_link_open_never">Não abrir neste aplicativo</string>
+    <string name="app_list_memory_use">Utilização do aplicativo</string>
+    <string name="app_list_preference_none">Nenhuma</string>
+    <string name="app_memory_use">Memória utilizada</string>
     <string name="app_mobile">Dados móveis</string>
     <string name="app_name_na">Uso de dados</string>
     <string name="app_notifications_switch_label">Notificações personalizadas</string>
