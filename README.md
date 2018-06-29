@@ -1,2 +1,2 @@
-# MA-XML-10-BRAZILIAN-Global
-BRAZILIAN Global translation for MIUI xiaomi.eu builds 
+# MIUI V10 Portuguese Translation
+MIUI-v10 Braziliam Portuguese translation for all supported devices. MIUI Translation: Feurrado
