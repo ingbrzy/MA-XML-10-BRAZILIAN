@@ -20,6 +20,7 @@
     <string name="access_control_reset_by_account">Faça o login em sua Conta Mi para redefinir a senha</string>
     <string name="accessibility_close_tab">Fechar guia atual</string>
     <string name="accessibility_enable">Acessibilidade</string>
+    <string name="accessibility_menu_item_settings">Configurações</string>
     <string name="accessibility_more_settings">Configurações adicionais</string>
     <string name="accessibility_no_wifi">Desconectado do Wi-Fi.</string>
     <string name="accessibility_screen_magnification_enable">Gestos de ampliação</string>
