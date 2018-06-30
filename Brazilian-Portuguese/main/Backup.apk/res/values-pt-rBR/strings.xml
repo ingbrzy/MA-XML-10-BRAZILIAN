@@ -8,13 +8,10 @@ Atualização incremental: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">Armazenamento indisponível, verifique seu cartão SD.</string>
     <string name="xiaomi_connect_download_manager_fail">Não foi possível iniciar o download. Certifique-se que o Gerenciador de Downloads está funcionando normalmente.</string>
     <string name="app_name">Backup</string>
-    <string name="apps_and_data_item_desc">Aplicações e dados</string>
-    <string name="auto_backup_user_data">Aplicativos</string>
-    <string name="backup">Backup</string>
     <string name="local_app_name">Backup</string>
     <string name="local_home_title">Backup localmente</string>
     <string name="button_backup">Fazer backup</string>
-    <string name="start_backup">Iniciar backup</string>
+    <string name="start_backup">Fazer backup</string>
     <string name="button_cancel">Cancelar</string>
     <string name="button_send">Enviar</string>
     <string name="backup_empty">Nenhum backup.</string>
