@@ -1134,6 +1134,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="input_settings">Configurações de entrada</string>
     <string name="install_no_market_app_summary">Verificar apps de terceiros por vírus antes de instalá-los</string>
     <string name="install_no_market_app_title">Verificar apps de terceiros</string>
+    <string name="install_other_apps">Instalar aplicativos desconhecidos</string>    
     <string name="install_preinstall_app">Carregando apps…</string>
     <string name="install_whole_rom">Download da ROM</string>
     <string name="instruction_privacy_password">Esta senha protege os seguintes itens</string>
@@ -1239,8 +1240,9 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="location_agps_si_mode_summary">Escolher método preferencial para o A-GPS</string>
     <string name="location_agps_supl_server_addr">Endereço do servidor</string>
     <string name="location_agps_supl_server_port">Porta do servidor</string>
-    <string name="location_agps_supl_settings">Configurações de SUPL</string>
+    <string name="location_agps_supl_settings">Configurações de SUPL</string>  
     <string name="location_mode_battery_saving_description">Usar Wi-Fi e redes móveis para determinar a localização</string>
+    <string name="location_mode_battery_saving_title">Economia de bateria</string>    
     <string name="location_mode_high_accuracy_description">Usar GPS, Wi-Fi e redes móveis para determinar a localização</string>
     <string name="location_neighborhood_level">Permitir que apps usem redes móveis e Wi-Fi para estimar a sua localização</string>
     <string name="location_network_based">Wi-Fi &amp; rede móvel</string>
@@ -1256,6 +1258,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="lock_settings_common_title">Configurações de bloqueio</string>
     <string name="lock_settings_picker_settings">Definir bloqueio de tela</string>
     <string name="lock_settings_with_fingerprint">Bloqueio de tela &amp; senhas</string>
+    <string name="lock_sounds_enable_title">Som de bloqueio de tela</string>    
     <string name="lockpassword_choose_for_second_user">Definir senha do Segundo Espaço</string>
     <string name="lockpassword_choose_lock_generic_header">Escolher bloqueio de tela</string>
     <string name="lockpassword_choose_your_password_header">Defina sua senha</string>
@@ -1321,6 +1324,8 @@ para o Segundo Espaço"</string>
     <string name="manage_facerecoginition_text">Gerenciar dados faciais</string>
     <string name="manage_fakecell_settings">Proteção contra estações-base falsas</string>
     <string name="manage_fingerprint_text">Gerenciar impressões digitais</string>
+    <string name="manage_trust_agents">Agentes Confiáveis</string>
+    <string name="manage_trust_agents_summary">Ver ou desativar agentes confiáveis</string>    
     <string name="manage_xiaomi_router">Configurações do Mi Router</string>
     <string name="managed_profile_location_category">Perfil de trabalho</string>
     <string name="managed_profile_location_switch_lockdown">Desativado pelo administrador da empresa.</string>
@@ -1538,6 +1543,13 @@ Selecione seu sistema operacional:"</string>
     <string name="notes_privacy_password_role_instruction">Suas anotações privadas serão armazenadas aqui.</string>
     <string name="notification_breathing_light_color_title">Cor do LED para notificações</string>
     <string name="notification_breathing_light_freq_title">Frequência de pulsação para notificações</string>
+    <string name="notification_importance_default">Sem interrupções de tela inteira e não mostrar na tela</string>
+    <string name="notification_importance_high">Mostrar na tela</string>
+    <string name="notification_importance_low">Sem interrupções de tela inteira</string>
+    <string name="notification_importance_max">Sem interrupções de tela inteira</string>
+    <string name="notification_importance_min">Sem interrupções de tela inteira</string>
+    <string name="notification_importance_none">Não definida</string>
+    <string name="notification_importance_title">Importância</string>    
     <string name="notification_reboot_btn">Reiniciar</string>
     <string name="notification_reboot_summary_hm">Toque para reiniciar o dispositivo.</string>
     <string name="notification_reboot_title">Reinicie para atualizar</string>
@@ -1642,6 +1654,12 @@ Selecione seu sistema operacional:"</string>
     <string name="personal_section_title">Pessoal</string>
     <string name="phone_call_noise_suppression">Redução de ruído durante chamadas</string>
     <string name="pick_up_gesture_wakeup_title">Levantar para ligar tela</string>
+    <string name="picture_in_picture_app_detail_summary">Permitir que este aplicativo crie uma janela de reprodução sobreposta enquanto o aplicativo está aberto ou depois de sair do mesmo (por exemplo, para continuar a ver um vídeo). Esta janela é apresentada sobre os outros aplicativos que estiver a utilizando</string>
+    <string name="picture_in_picture_app_detail_switch">Permitir Picture-in-picture</string>
+    <string name="picture_in_picture_app_detail_title">Picture-in-picture</string>
+    <string name="picture_in_picture_empty_text">Nenhum aplicativo instalado é compatível com picture-in-picture</string>
+    <string name="picture_in_picture_keywords">PIP tela no</string>
+    <string name="picture_in_picture_title">Picture-in-picture</string>    
     <string name="please_type_passphrase">Senha</string>
     <string name="pointer_location_summary">Mostrar coordenadas de toque</string>
     <string name="popup_window">Restringir notificações flutuantes</string>
@@ -1994,7 +2012,7 @@ Selecione seu sistema operacional:"</string>
     <string name="search_music_headset_settings">Fones de ouvido &amp; efeitos de áudio;Fones de ouvido e efeitos de áudio;Fones de ouvido;Earphones;Efeitos de áudio</string>
     <string name="search_music_mi_effect_title">Amplificador Mi Soud;melhorar som</string>
     <string name="search_networks_title">Redes móveis;Operadora;Operadora móvel</string>
-    <string name="search_nfc_se_route_title">Posição do elemento de segurança</string>
+    <string name="search_nfc_se_route_title">Pagamentos por NFC (segurança)</string>
     <string name="search_notification_sound_title">Toque padrão de notificações;toque de notificação;toque de notificações</string>
     <string name="search_ntts_settings_title">TTS;Configurações de TTS</string>
     <string name="search_oldman_mode_entry_name">Modo Simplificado;Modo simples;Modo lite</string>
@@ -2159,6 +2177,7 @@ Você ainda pode usar sua impressão digital para autorizar compras e acessar ap
     <string name="show_notification_channel_warnings_summary">Exibe alertas na tela quando um app publicar uma notificação sem um canal válido</string>
     <string name="show_owner_info_on_lockscreen_label">Mostrar assinatura na Tela de bloqueio</string>
     <string name="show_rounded_corners">Exibir cantos de tela arredondados</string>
+    <string name="show_password">Mostrar senhas</string>    
     <string name="show_user_info_on_lockscreen_label">Mostrar info. do proprietário na Tela de bloqueio</string>
     <string name="shut_down_find_device_network_failure_content">"Não foi possível desativar o 'Encontrar dispositivo'. Certifique-se de que o dispositivo tem uma conexão com a internet."</string>
     <string name="shut_down_find_device_network_failure_title">Não é possível conectar-se à rede</string>
@@ -2416,6 +2435,7 @@ A mudança leva cerca de ^2 e irá liberar ^3 no armazenamento interno. Alguns a
     <string name="update_progress_for_updates">Atualizando (%s)</string>
     <string name="upload_debug_log_summary">Estatísticas de uso que nos ajudam a localizar e corrigir problemas podem conter suas informações pessoais</string>
     <string name="upload_debug_log_title">Enviar dados de diagnóstico automaticamente</string>
+    <string name="usage_access_title">Aplicativos com acesso de utilização</string>    
     <string name="usage_log">Estatísticas de uso do app</string>
     <string name="usage_type_data_wifi_recv">Dados recebidos por Wi-Fi</string>
     <string name="usage_type_data_wifi_send">Dados enviados por Wi-Fi</string>
