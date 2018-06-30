@@ -457,7 +457,7 @@
   <string name="save_to_local">Transferir</string>
   <string name="search_app">Aplicativos e pastas</string>
   <string name="search_app_more">Mais</string>
-  <string name="search_description">Ficheiros no dispositivo</string>
+  <string name="search_description">Arquivos no dispositivo</string>
   <string name="search_download">Downloads;Downloads recentes</string>
   <string name="search_empty_view_hint">Sem resultados</string>
   <string name="search_error_hint">Pesquisar</string>
@@ -466,7 +466,7 @@
   <string name="search_file_type_music">Música</string>
   <string name="search_file_type_picture">Fotos</string>
   <string name="search_file_type_video">Vídeo</string>
-  <string name="search_guid_hint">Pesquisar ficheiros</string>
+  <string name="search_guid_hint">Pesquisar arquivos</string>
   <string name="search_hint">Pesquisar</string>
   <string name="search_history">Pesquisar histórico</string>
   <string name="search_hot_sticker">Stickers; Transferir stickers</string>
