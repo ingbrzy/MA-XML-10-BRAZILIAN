@@ -50,7 +50,6 @@ Passo 2: Toque e segure dois dedos até ouvir a confirmação de áudio
     <string name="accessibility_display_daltonizer_preference_subtitle">Esta funcionalidade é experimental e pode afetar o desempenho</string>
     <string name="accessibility_display_daltonizer_preference_title">Correcção de cor</string>
     <string name="accessibility_display_inversion_preference_subtitle">(Experimental) Pode afetar o desempenho</string>
-    <string name="accessibility_display_inversion_preference_title">Inversão de cor</string>
     <string name="accessibility_enable">Acessibilidade</string>
     <string name="accessibility_more_settings">Configurações adicionais</string>
     <string name="accessibility_no_wifi">Desconectado do Wi-Fi.</string>
@@ -243,7 +242,6 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="apn_protocol">Protocolo APN</string>
     <string name="apn_roaming_protocol">Protocolo de roaming APN</string>
     <string name="apn_general">Geral</string>
-    <string name="apn_new">Novo APN</string>
     <string name="apn_ppp_number">Número de telefone APN PPP</string>
     <string name="apn_save">Salvar alterações?</string>
     <string name="apn_save_msg">Salvar alterações ao APN?</string>
