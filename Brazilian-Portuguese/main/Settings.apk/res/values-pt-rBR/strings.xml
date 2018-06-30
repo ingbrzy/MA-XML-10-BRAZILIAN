@@ -50,7 +50,6 @@ Passo 2: Toque e segure dois dedos até ouvir a confirmação de áudio
     <string name="accessibility_display_daltonizer_preference_subtitle">Esta funcionalidade é experimental e pode afetar o desempenho</string>
     <string name="accessibility_display_daltonizer_preference_title">Correcção de cor</string>
     <string name="accessibility_display_inversion_preference_subtitle">(Experimental) Pode afetar o desempenho</string>
-    <string name="accessibility_enable">Acessibilidade</string>
     <string name="accessibility_menu_item_settings">Configurações</string>
     <string name="accessibility_more_settings">Configurações adicionais</string>
     <string name="accessibility_no_wifi">Desconectado do Wi-Fi.</string>
@@ -242,8 +241,6 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="apn_ppp_number">Número de telefone APN PPP</string>
     <string name="apn_protocol">Protocolo APN</string>
     <string name="apn_roaming_protocol">Protocolo de roaming APN</string>
-    <string name="apn_general">Geral</string>
-    <string name="apn_ppp_number">Número de telefone APN PPP</string>
     <string name="apn_save">Salvar alterações?</string>
     <string name="apn_save_msg">Salvar alterações ao APN?</string>
     <string name="apn_server">Servidor</string>
@@ -260,7 +257,6 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="app_disable_notifications_dlg_text">Se desligar as notificações para este aplicativo pode perder alertas e atualizações importantes</string>
     <string name="app_disable_notifications_dlg_title">Desligar notificações?</string>
     <string name="app_factory_reset">Desinstalar actualizações</string>
-    <string name="app_detail">Detalhes</string>
     <string name="app_factory_reset_dlg_text">Todas as atualizações deste app de sistema serão desinstaladas.</string>
     <string name="app_factory_reset_dlg_title">Desinstalar atualizações?</string>
     <string name="app_floating_window_dlg_disable">Desativar as janelas flutuantes para %1$s fará com que o app seja reiniciado.</string>
@@ -298,7 +294,6 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="app_notification_sensitive_title">Ocultar conteúdo sensível</string>
     <string name="app_notifications_dialog_done">Concluído</string>
     <string name="app_notifications_switch_label">Personalizar notificações</string>
-    <string name="app_notifications_switch_label">Notificações personalizadas</string>
     <string name="app_ops_never_used">(Nunca utilizado)</string>
     <string name="app_ops_running">Em execução</string>
     <string name="app_ops_settings">Aplicativos ops</string>
@@ -313,7 +308,7 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="app_special_disable_dlg_text">Se desativar este aplicativo, outros aplicativos podem não funcionar como pretendido. Os seus dados também vão ser eliminados</string>
     <string name="app_special_disable_dlg_title">Eliminar dados e desativar aplicativo?</string>
     <string name="app_switch_key">Recentes</string>
-    <string name="app_usage_preference">Preferências de utilização do aplicativo</string
+    <string name="app_usage_preference">Preferências de utilização do aplicativo</string>
     <string name="app_version">Versão</string>
     <string name="app_wifi">Wi-Fi</string>
     <string name="application_forbid_auto_startup">Impedir %s de iniciar em segundo plano</string>
@@ -376,7 +371,7 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="auto_punctuate_summary">Pressiona a tecla Espaço duas vezes para inserir \".\"</string>
     <string name="auto_replace">Correção automática</string>
     <string name="auto_replace_summary">Corrigir erros ortográficos</string>
-    <string name="auto_restore_summary">Ao reinstalar um aplicativo, restaurar os dados e configurações/string>
+    <string name="auto_restore_summary">Ao reinstalar um aplicativo, restaurar os dados e configurações</string>
     <string name="auto_restore_title">Restauração automático</string>
     <string name="auto_rule">Temporizador</string>
     <string name="auto_silent">Programar hora para ligar</string>
@@ -481,7 +476,6 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="battery_level_title">Nível da bateria</string>
     <string name="battery_light_title">LED da bateria</string>    
     <string name="battery_light_summary">Ativar LED de notificações quando o dispositivo estiver carregando</string>
-    <string name="battery_light_title">Ativar LED durante carregamento</string>
     <string name="battery_saver">Economia de bateria</string>
     <string name="battery_saver_turn_on_automatically_never">Nunca</string>
     <string name="battery_saver_turn_on_automatically_pct">com %1$s de bateria</string>
@@ -762,7 +756,6 @@ Taxa de amostra"</string>
     <string name="credentials_unlock_hint">Insira a senha do armazenamento de credenciais</string>
     <string name="credentials_wrong_password">Senha incorreta</string>
     <string name="crypt_keeper_button_text">Encriptar dispositivo</string>
-    <string name="credentials_password_too_short">Mínimo de 8 caracteres</string>
     <string name="crypt_keeper_conditions">A criptografia levará 1 hora ou mais. Você precisa iniciar o procedimento com a bateria carregada e manter seu telefone conectado ao carregador durante todo o processo. Se você interrompê-lo, você perderá seus dados de forma parcial ou total.</string>
     <string name="crypt_keeper_conditions_title">Sobre a criptografia do seu dispositivo</string>
     <string name="crypt_keeper_content">Você pode criptografar contas, configurações, apps transferidos e seus dados, mídias e outros arquivos.</string>
