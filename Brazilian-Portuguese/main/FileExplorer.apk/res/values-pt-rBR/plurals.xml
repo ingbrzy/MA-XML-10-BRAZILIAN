@@ -41,12 +41,12 @@
     <item quantity="many"> (%1$d arquivos)</item>
   </plurals>
   <plurals name="search_head_hint_app">
-    <item quantity="other">Arquivos relacionados com o apls (%2$d itens)</item>
-    <item quantity="zero">Arquivos relacionados com a aplicação %1$s (%2$d itens)</item>
-    <item quantity="one">Arquivos relacionado com a aplicação %1$s (%2$d item)</item>
-    <item quantity="two">Aquivos relacionados com a aplicação %1$s (%2$d itens)</item>
-    <item quantity="few">Aquivos relacionados com a aplicação %1$s (%2$d itens)</item>
-    <item quantity="many">Aquivos relacionados com a aplicação %1$s (%2$d itens)</item>
+    <item quantity="other">Arquivos relacionados com o aplicativo %1$s (%2$d itens)</item>
+    <item quantity="zero">Arquivos relacionados com o aplicativo %1$s (%2$d itens)</item>
+    <item quantity="one">Arquivos relacionado com o aplicativo %1$s (%2$d item)</item>
+    <item quantity="two">Aquivos relacionados com o aplicativo %1$s (%2$d itens)</item>
+    <item quantity="few">Aquivos relacionados com o aplicativo %1$s (%2$d itens)</item>
+    <item quantity="many">Aquivos relacionados com o aplicativo %1$s (%2$d itens)</item>
   </plurals>
   <plurals name="file_count">
     <item quantity="other"> %1$d itens</item>
@@ -57,20 +57,20 @@
     <item quantity="many"> %1$d itens</item>
   </plurals>
   <plurals name="search_head_hint_file">
-    <item quantity="other">Ficheiros relacionados com %1$s (%2$d itens)</item>
-    <item quantity="zero">Ficheiros relacionados com %1$s (%2$d itens)</item>
-    <item quantity="one">Ficheiro relacionado com %1$s (%2$d item)</item>
-    <item quantity="two">Ficheiros relacionados com %1$s (%2$d itens)</item>
-    <item quantity="few">Ficheiros relacionados com %1$s (%2$d itens)</item>
-    <item quantity="many">Ficheiros relacionados com %1$s (%2$d itens)</item>
+    <item quantity="other">Arquivos relacionados com %1$s (%2$d itens)</item>
+    <item quantity="zero">Arquivos relacionados com %1$s (%2$d itens)</item>
+    <item quantity="one">Arquivos relacionado com %1$s (%2$d item)</item>
+    <item quantity="two">Arquivos relacionados com %1$s (%2$d itens)</item>
+    <item quantity="few">Arquivos relacionados com %1$s (%2$d itens)</item>
+    <item quantity="many">Arquivos relacionados com %1$s (%2$d itens)</item>
   </plurals>
   <plurals name="search_head_hint_tag">
-    <item quantity="other">Etiquetar ficheiros relacionados com %1$s (%2$d itens)</item>
-    <item quantity="zero">Etiquetar ficheiros relacionados com %1$s (%2$d itens)</item>
-    <item quantity="one">Etiquetar ficheiro relacionado com %1$s (%2$d item)</item>
-    <item quantity="two">Etiquetar ficheiros relacionados com %1$s (%2$d itens)</item>
-    <item quantity="few">Etiquetar ficheiros relacionados com %1$s (%2$d itens)</item>
-    <item quantity="many">Etiquetar ficheiros relacionados com %1$s (%2$d itens)</item>
+    <item quantity="other">Marcar arquivos relacionados com %1$s (%2$d itens)</item>
+    <item quantity="zero">Marcar arquivos relacionados com %1$s (%2$d itens)</item>
+    <item quantity="one">Marcar arquivos relacionado com %1$s (%2$d item)</item>
+    <item quantity="two">Marcar arquivos relacionados com %1$s (%2$d itens)</item>
+    <item quantity="few">Marcar arquivos relacionados com %1$s (%2$d itens)</item>
+    <item quantity="many">Marcar arquivos relacionados com %1$s (%2$d itens)</item>
   </plurals>
   <plurals name="mins_ago">
     <item quantity="other">%1$d minutos atrás</item>
@@ -97,20 +97,20 @@
     <item quantity="many">%1$d dias atrás</item>
   </plurals>
   <plurals name="found_new_files">
-    <item quantity="other">Encontrados %1$d ficheiros novos</item>
-    <item quantity="zero">Encontrados %1$d ficheiros novos</item>
-    <item quantity="one">Encontrado %1$d ficheiro novo</item>
-    <item quantity="two">Encontrados %1$d ficheiros novos</item>
-    <item quantity="few">Encontrados %1$d ficheiros novos</item>
-    <item quantity="many">Encontrados %1$d ficheiros novos</item>
+    <item quantity="other">Encontrados %1$d novos arquivos</item>
+    <item quantity="zero">Encontrados %1$d novos arquivos</item>
+    <item quantity="one">Encontrado %1$d novo arquivo</item>
+    <item quantity="two">Encontrados %1$d novos arquivos</item>
+    <item quantity="few">Encontrados %1$d novos arquivos</item>
+    <item quantity="many">Encontrados %1$d novos arquivos</item>
   </plurals>
   <plurals name="file_notify_title">
-    <item quantity="other">Recebeu %1$d ficheiros de %2$s</item>
-    <item quantity="zero">Recebeu %1$d ficheiros de %2$s</item>
-    <item quantity="one">Recebeu %1$d ficheiro de %2$s</item>
-    <item quantity="two">Recebeu %1$d ficheiros de %2$s</item>
-    <item quantity="few">Recebeu %1$d ficheiros de %2$s</item>
-    <item quantity="many">Recebeu %1$d ficheiros de %2$s</item>
+    <item quantity="other">Recebeu %1$d arquivos de %2$s</item>
+    <item quantity="zero">Recebeu %1$d arquivos de %2$s</item>
+    <item quantity="one">Recebeu %1$d arquivo de %2$s</item>
+    <item quantity="two">Recebeu %1$d arquivos de %2$s</item>
+    <item quantity="few">Recebeu %1$d arquivos de %2$s</item>
+    <item quantity="many">Recebeu %1$d arquivos de %2$s</item>
   </plurals>
   <plurals name="file_notify_title_wechat_video">
     <item quantity="other">Recebeu %1$d ficheiros do WeChat</item>
