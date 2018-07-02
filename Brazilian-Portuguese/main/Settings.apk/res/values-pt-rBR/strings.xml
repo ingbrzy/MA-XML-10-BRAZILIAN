@@ -688,6 +688,7 @@ Taxa de amostra"</string>
     <string name="cancel_alert">Descartar suas alterações?</string>
     <string name="cancel_button">Cancelar</string>
     <string name="cancel_download_buton_text">Cancelar</string>
+    <string name="cellular_data_title">Dados móveis</string>
     <string name="change_password">Alterar bloqueio de tela</string>
     <string name="change_security_lock">Tente outros métodos de desbloqueio</string>
     <string name="check_importance">Marcar como importante?</string>
@@ -770,6 +771,7 @@ Taxa de amostra"</string>
     <string name="current_use_uicc_se">Usando elemento de segurança no cartão SIM</string>
     <string name="current_use_uicc_wallet">Você está usando o Wallet no SIM %1$s</string>
     <string name="current_zone">(atual)</string>
+    <string name="data_usage_cellular_data">Rede móvel</string>
     <string name="data_usage_disable_wifi_limit">Definir limite de dados Wi-Fi</string>
     <string name="data_usage_menu_show_wifi">Mostrar uso do Wi-Fi</string>
     <string name="data_usage_metered_body">Selecione as redes Wi-Fi que são Hotspots móveis. Apps em segundo plano podem ser impedidos de usar estas redes. Os apps também podem avisar antes de usar estas redes para grandes downloads.</string>
