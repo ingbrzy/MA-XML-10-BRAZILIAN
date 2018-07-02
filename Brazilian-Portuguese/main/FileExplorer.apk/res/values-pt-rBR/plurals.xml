@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <plurals name="delete_files_confirm">
-    <item quantity="other">Eliminar %1$d ficheiros</item>
-    <item quantity="zero">Eliminar %1$d ficheiros</item>
-    <item quantity="one">Eliminar %1$d ficheiro</item>
-    <item quantity="two">Eliminar %1$d ficheiros</item>
-    <item quantity="few">Eliminar %1$d ficheiros</item>
-    <item quantity="many">Eliminar %1$d ficheiros</item>
+    <item quantity="other">Eliminar %1$d arquivos</item>
+    <item quantity="zero">Eliminar %1$d arquivos</item>
+    <item quantity="one">Eliminar %1$d arquivos</item>
+    <item quantity="two">Eliminar %1$d arquivos</item>
+    <item quantity="few">Eliminar %1$d arquivos</item>
+    <item quantity="many">Eliminar %1$d arquivos</item>
   </plurals>
   <plurals name="delete_folders_confirm">
     <item quantity="other">" e %1$d pastas?"</item>
@@ -17,36 +17,36 @@
     <item quantity="many">" e %1$d pastas?"</item>
   </plurals>
   <plurals name="directory_item_count">
-    <item quantity="other">%d ficheiros</item>
-    <item quantity="zero">%d ficheiros</item>
-    <item quantity="one">%d ficheiro</item>
-    <item quantity="two">%d ficheiros</item>
-    <item quantity="few">%d ficheiros</item>
-    <item quantity="many">%d ficheiros</item>
+    <item quantity="other">%d arquivos</item>
+    <item quantity="zero">%d arquivos</item>
+    <item quantity="one">%d arquivo</item>
+    <item quantity="two">%d arquivos</item>
+    <item quantity="few">%d arquivos</item>
+    <item quantity="many">%d arquivos</item>
   </plurals>
   <plurals name="numSelectedFile">
-    <item quantity="other">%1$d seleccionados</item>
-    <item quantity="zero">%1$d seleccionados</item>
-    <item quantity="one">%1$d seleccionado</item>
-    <item quantity="two">%1$d seleccionados</item>
-    <item quantity="few">%1$d seleccionados</item>
-    <item quantity="many">%1$d seleccionados</item>
+    <item quantity="other">%1$d selecionados</item>
+    <item quantity="zero">%1$d selecionados</item>
+    <item quantity="one">%1$d selecionado</item>
+    <item quantity="two">%1$d selecionados</item>
+    <item quantity="few">%1$d selecionados</item>
+    <item quantity="many">%1$d selecionados</item>
   </plurals>
   <plurals name="items_picture">
-    <item quantity="other"> (%1$d ficheiros)</item>
-    <item quantity="zero"> (%1$d ficheiros)</item>
-    <item quantity="one"> (%1$d ficheiro)</item>
-    <item quantity="two"> (%1$d ficheiros)</item>
-    <item quantity="few"> (%1$d ficheiros)</item>
-    <item quantity="many"> (%1$d ficheiros)</item>
+    <item quantity="other"> (%1$d arquivos)</item>
+    <item quantity="zero"> (%1$d arquivos)</item>
+    <item quantity="one"> (%1$d arquivo)</item>
+    <item quantity="two"> (%1$d arquivos)</item>
+    <item quantity="few"> (%1$d arquivos)</item>
+    <item quantity="many"> (%1$d arquivos)</item>
   </plurals>
   <plurals name="search_head_hint_app">
-    <item quantity="other">Ficheiros relacionados com a aplicação %1$s (%2$d itens)</item>
-    <item quantity="zero">Ficheiros relacionados com a aplicação %1$s (%2$d itens)</item>
-    <item quantity="one">Ficheiro relacionado com a aplicação %1$s (%2$d item)</item>
-    <item quantity="two">Ficheiros relacionados com a aplicação %1$s (%2$d itens)</item>
-    <item quantity="few">Ficheiros relacionados com a aplicação %1$s (%2$d itens)</item>
-    <item quantity="many">Ficheiros relacionados com a aplicação %1$s (%2$d itens)</item>
+    <item quantity="other">Arquivos relacionados com o apls (%2$d itens)</item>
+    <item quantity="zero">Arquivos relacionados com a aplicação %1$s (%2$d itens)</item>
+    <item quantity="one">Arquivos relacionado com a aplicação %1$s (%2$d item)</item>
+    <item quantity="two">Aquivos relacionados com a aplicação %1$s (%2$d itens)</item>
+    <item quantity="few">Aquivos relacionados com a aplicação %1$s (%2$d itens)</item>
+    <item quantity="many">Aquivos relacionados com a aplicação %1$s (%2$d itens)</item>
   </plurals>
   <plurals name="file_count">
     <item quantity="other"> %1$d itens</item>
