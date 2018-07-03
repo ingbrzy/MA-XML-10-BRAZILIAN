@@ -534,6 +534,7 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="bluetooth_device_misc_title">Dispositivos Bluetooth raramente usados</string>
     <string name="bluetooth_device_name">Nome:</string>
     <string name="bluetooth_device_searchable">Detectável</string>
+    <string name="bluetooth_disable_absolute_volume">Desativar volume absoluto</string>
     <string name="bluetooth_disable_absolute_volume_summary">Desativar volume absoluto para o Bluetooth no caso de problemas com dispositivos remotos, como volumes extremamente altos ou a impossibilidade de controlá-lo.</string>
     <string name="bluetooth_dun_profile_summary_connected">Conectado ao Servidor DUN</string>
     <string name="bluetooth_dun_profile_summary_use_for">Usar para acesso a redes dial-up</string>
@@ -789,6 +790,7 @@ Taxa de amostra"</string>
     <string name="date_time_set_timezone">Selecionar fuso horário</string>    
     <string name="day_of_week">Dia da semana</string>
     <string name="debug_app">Selecionar aplicativo de depuração</string>
+    <string name="debug_hw_overdraw">Depurar GPU</string>
     <string name="debug_hw_renderer">Definir renderizador da GPU</string>
     <string name="debug_view_attributes">Ativar visualização de atributos</string>
     <string name="defalut_launcher_title">Tela inicial padrão</string>
@@ -808,6 +810,7 @@ Taxa de amostra"</string>
     <string name="dev_logpersist_clear_warning_message">Quando não estamos mais monitorando com o logger persistente, somos requeridos a apagar os dados do logger presentes no seu dispositivo.</string>
     <string name="dev_logpersist_clear_warning_title">Limpar armazenamento persistente do logger?</string>
     <string name="dev_settings_warning_message">Estas configurações são direcionadas apenas a desenvolvedores. Ativar estes recursos pode causar erros em seu dispositivo ou nos apps instalados.</string>
+    <string name="developer_smallest_width">Menor largura</string>
     <string name="development_enable">Opções do desenvolvedor</string>
     <string name="development_settings_title">Opções de desenvolvedor</string>
     <string name="device_available_memory">Armazenamento disponível</string>
@@ -1033,6 +1036,8 @@ Taxa de amostra"</string>
     <string name="force_immersive_compatibility_hint_title">Problemas de compatibilidade</string>
     <string name="force_resizable_activities">Forçar atividades a serem redimensionáveis</string>
     <string name="force_resizable_activities_summary">Torna todas as atividades redimensionáveis para várias janelas, independentemente dos valores do manifesto.</string>
+    <string name="force_rtl_layout_all_locales">Forçar direção do RTL</string>
+    <string name="force_rtl_layout_all_locales_summary">Forçar direção RTL da disposição da tela para todos os locais</string>
     <string name="force_touch_demo">Demonstração</string>
     <string name="force_touch_enable">Ativar 3D Touch</string>
     <string name="force_touch_enable_tips">Aperte nos ícones do Launcher para ver menus de atalhos quando o 3D Touch estiver ativado.</string>
@@ -2185,6 +2190,7 @@ Você ainda pode usar sua impressão digital para autorizar compras e acessar ap
     <string name="show_hw_screen_updates_summary">Piscar janelas renderizadas pela GPU</string>
     <string name="show_magnifier_when_input">Lupa para texto</string>
     <string name="show_menu">Mostrar o menu</string>
+    <string name="show_non_rect_clip">Depuração de operações clipe não retangulares</string>
     <string name="show_notification_channel_warnings">Mostrar alertas no canal de notificações</string>
     <string name="show_notification_channel_warnings_summary">Exibe alertas na tela quando um app publicar uma notificação sem um canal válido</string>
     <string name="show_owner_info_on_lockscreen_label">Mostrar assinatura na Tela de bloqueio</string>
@@ -2388,6 +2394,7 @@ A mudança leva cerca de ^2 e irá liberar ^3 no armazenamento interno. Alguns a
     <string name="touch_sensitive_turn_off_summary">Desativar também o Modo de bolso?</string>
     <string name="touch_sensitive_turn_off_title">Modo com luvas desativado</string>
     <string name="touch_title">Toque</string>
+    <string name="track_frame_time">Perfil da GPU</string>
     <string name="trackball_wake_title">Ligar a tela com trackball</string>
     <string name="traffic_none">N/A</string>
     <string name="translation_contributors_title">Colaboradores</string>
@@ -2494,6 +2501,7 @@ Toque no + para adicionar palavras."</string>
     <string name="user_experience_program_summary">Ajude-nos a melhorar nossos produtos e serviços compartilhando suas estatísticas de uso conosco</string>
     <string name="user_experience_program_title">Programa de Experiência do Usuário</string>
     <string name="user_settings_forbidden">Não é possível alterar as configurações de administrador no espaço atual. Volte ao Primeiro Espaço.</string>
+    <string name="verify_apps_over_usb_title">Verificar aplicativos USB</string>
     <string name="vibrate_category_title">Vibrar</string>
     <string name="vibrate_in_normal_title">Vibrar quando tocando</string>
     <string name="vip_list">Permitir chamadas de entrada</string>
