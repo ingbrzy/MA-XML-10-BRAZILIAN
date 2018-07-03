@@ -2107,6 +2107,7 @@ Selecione seu sistema operacional:"</string>
     <string name="search_wifi_advanced_mac_address_title">Endereço MAC do Wi-Fi;Endereço MAC da WLAN</string>
     <string name="search_wifi_enable">WiFi;Wi-Fi;WLAN;Ativar Wifi;Ativar Wi-Fi;Ativar WLAN</string>
     <string name="search_wifi_install_credentials">Instalar certificados;Certificados</string>
+    <string name="search_wifi_menu_p2p">Wi-Fi Direct;WLAN Direct</string>
     <string name="search_wifi_menu_wps_pin">Entrada de PIN WPS;WPS;PIN WPS</string>
     <string name="search_wifi_scan_always_available">Verificação sempre disponível;Pesquisar redes;Pesquisar Wifi;Pesquisar WLAN</string>
     <string name="search_wifi_setting_frequency_band_title">Banda de frequência do Wi-Fi;Frequência do Wi-Fi;Frequência do Wifi;Frequência da WLAN;Banda de frequência</string>
@@ -2347,6 +2348,7 @@ A mudança leva cerca de ^2 e irá liberar ^3 no armazenamento interno. Alguns a
     <string name="system_storage">Armazenamento do sistema</string>
     <string name="telephony_monitor_switch_summary">O Monitor de telefonia coletará logs quando detectar problemas com funcionalidades de telefonia/modem e enviará uma notificação ao usuário para reportar o bug.</string>
     <string name="tether_and_hotspot_title">Vínculo &amp; hotspot portátil</string>
+    <string name="tether_auto_disable_title">Desligar hotspot automaticamente</string>
     <string name="tether_auto_disable_summary">Desativar hotspot automaticamente quando nenhum dispositivo estiver conectado</string>
     <string name="tether_auto_disable_title">Desativar hotspot automaticamente</string>
     <string name="tether_custom_dialog_title">Limite de dados móveis</string>
@@ -2652,7 +2654,9 @@ Toque no + para adicionar palavras."</string>
     <string name="wifi_enable_watchdog_service_summary">Evitar conexões ruins</string>
     <string name="wifi_fail_to_scan">Não é possível procurar por redes</string>
     <string name="wifi_hide_password">Ocultar senha</string>
+    <string name="wifi_hotspot_off_subtext">Não está compartilhando sua querida internet via hotspot</string>
     <string name="wifi_info_reconnect">Não foi possível conectar-se, tente novamente.</string>
+    <string name="wifi_menu_p2p">Wi-Fi Direct</string>
     <string name="wifi_menu_wfd">Display sem fios</string>
     <string name="wifi_network_optimization">Conexão otimizada</string>
     <string name="wifi_network_prefix_length">Tamanho do prefixo</string>
@@ -2666,6 +2670,7 @@ Toque no + para adicionar palavras."</string>
     <string name="wifi_off_airplane_on_not_remind">Não mostrar novamente</string>
     <string name="wifi_off_airplane_on_title">Atenção</string>
     <string name="wifi_other_connection_mode">Outras opções de conectividade</string>
+    <string name="wifi_p2p_settings_title">Wi-Fi Direct</string>
     <string name="wifi_p2p_wps_setup">Configuração WPS</string>
     <string name="wifi_poor_network_detection_summary">Não usar uma rede Wi-Fi a não ser que a conexão esteja boa</string>
     <string name="wifi_priority_changed" formatted="false">Valor antigo: %s | Novo valor: %s</string>
@@ -2784,6 +2789,7 @@ Toque em"<b> Voltar</b> para conectar-se a uma rede Wi-Fi diferente.</string>
     <string name="work_space_delete_description">Você não conseguirá entrar no Espaço de trabalho após excluí-lo. Todos os dados serão movidos ou excluídos.</string>
     <string name="wps_connect_summary">Certifique-se de que o roteador suporta WPS e que o mesmo encontra-se ativo</string>
     <string name="wps_connect_title">Conexão WPS</string>
+    <string name="wps_connect_summary">Confirme se o roteador tem suporte a WPS e se ele está ativo</string>
     <string name="xiaomi_account">Conta Mi</string>
     <string name="xiaomi_cloud_service_description">A Mi Cloud sincroniza contatos, fotos e outros itens entre seus dispositivos. O \"Encontrar dispositivo\" também precisa da Mi Cloud para funcionar normalmente.</string>
     <string name="xiaomi_cloud_service_disabled">Desativado</string>
