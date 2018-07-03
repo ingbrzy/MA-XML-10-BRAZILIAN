@@ -852,6 +852,7 @@ Taxa de amostra"</string>
     <string name="dialog_title_login">Faça o login em sua Conta Mi</string>
     <string name="dialog_yes">Sim</string>
     <string name="direct_boot_unaware_dialog_message">Nota: você poderá usar este teclado depois que reiniciar apenas se desbloquear o dispositivo.</string>
+    <string name="disable_overlays">Desativar sobreposição HW</string>
     <string name="disable_overlays_summary">Sempre usar a GPU para renderização de tela</string>
     <string name="disable_power_key_long_press_under_keyguard">Desativar o menu do botão Liga/Desliga</string>
     <string name="disabled_authorised_apps_title">Autorização revogada</string>
@@ -1121,7 +1122,8 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="http_invoke_app_summary">Abra apps rapidamente sem instalá-los</string>
     <string name="ime_security_warning">%1$s pode gravar tudo o que você digitar, inclusive senhas, números de cartões de crédito e outros dados pessoais.</string>
     <string name="immediately_destroy_activities_summary">Encerrar atividades assim que o usuário sair dela</string>
-    <string name="inactive_app_active_summary">Ativo. Toque para alternar.</string>
+    <string name="inactive_apps_title">Aplicativos inativos</string>
+    <string name="inactive_app_active_summary">Toque para alternar.</string>
     <string name="inactive_app_inactive_summary">Inativo. Toque para alternar.</string>
     <string name="incoming_call_breathing_light_color_title">Cor do LED para chamadas</string>
     <string name="incoming_call_breathing_light_freq_title">Frequência de pulsação em chamadas</string>
@@ -1139,6 +1141,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="install_whole_rom">Download da ROM</string>
     <string name="instruction_privacy_password">Esta senha protege os seguintes itens</string>
     <string name="instruction_title">Instruções</string>
+    <string name="immediately_destroy_activities">Não manter atividades em segundo plano</string>
     <string name="item_system_app">Apps do sistema</string>
     <string name="keep_legacy_fingerprint">Manter</string>
     <string name="keep_screen_on">Manter ativa</string>
@@ -1389,6 +1392,7 @@ para o Segundo Espaço"</string>
     <string name="mms_breathing_light_color_title">Cor do LED para mensagens</string>
     <string name="mms_breathing_light_freq_title">Frequêcia de pulsação para SMS</string>
     <string name="mms_privacy_password_role_instruction">Suas conversas com contatos privados serão armazenadas aqui.</string>
+    <string name="mobile_data_always_on">Dados móveis sempre ativos</string>
     <string name="mock_location_app">Selecionar aplicativo de localização fictícia</string>
     <string name="mode_disable">Desativado</string>
     <string name="mode_enable">Ativado</string>
@@ -2171,6 +2175,7 @@ Você ainda pode usar sua impressão digital para autorizar compras e acessar ap
     <string name="show_connected_devices_title">Dispositivos conectados</string>
     <string name="show_fc">Apps fechados forçadamente</string>
     <string name="show_fc_summary">Mostrar apps que foram fechados à força</string>
+    <string name="show_hw_layers_updates">Mostrar atualizações de hardware</string>
     <string name="show_hw_layers_updates_summary">Itens de hardware sendo atualizados piscam em verde</string>
     <string name="show_hw_screen_updates">Visualizar render. da GPU</string>
     <string name="show_hw_screen_updates_summary">Piscar janelas renderizadas pela GPU</string>
@@ -2180,6 +2185,7 @@ Você ainda pode usar sua impressão digital para autorizar compras e acessar ap
     <string name="show_notification_channel_warnings_summary">Exibe alertas na tela quando um app publicar uma notificação sem um canal válido</string>
     <string name="show_owner_info_on_lockscreen_label">Mostrar assinatura na Tela de bloqueio</string>
     <string name="show_rounded_corners">Exibir cantos de tela arredondados</string>
+    <string name="show_screen_updates">Mostrar atualizações da tela</string>
     <string name="show_password">Mostrar senhas</string>    
     <string name="show_user_info_on_lockscreen_label">Mostrar info. do proprietário na Tela de bloqueio</string>
     <string name="shut_down_find_device_network_failure_content">"Não foi possível desativar o 'Encontrar dispositivo'. Certifique-se de que o dispositivo tem uma conexão com a internet."</string>
@@ -2448,6 +2454,8 @@ A mudança leva cerca de ^2 e irá liberar ^3 no armazenamento interno. Alguns a
     <string name="usage_type_wifi_running">Wi-Fi executando</string>
     <string name="usb_adb_input">Depuração USB (Config. de segurança)</string>
     <string name="usb_adb_input_desc">Conceder permissões de acesso e simulação de entrada via depuração USB</string>
+    <string name="usb_audio_disable_routing">Desativar encaminhamento áudio USB</string>
+    <string name="usb_audio_disable_routing_summary">Desativar encaminhamento automático para periféricos de áudio USB</string>
     <string name="usb_charging_summary">Desativa todos os outros recursos da conexão USB para acelerar o carregamento.</string>
     <string name="usb_charging_title">Acelerar carregamento</string>
     <string name="usb_eject">Ejetar armazenamento USB</string>
@@ -2727,6 +2735,7 @@ Toque em"<b> Voltar</b> para conectar-se a uma rede Wi-Fi diferente.</string>
     <string name="wifi_traffic_priority_summary">Priorizar velocidade de conexão automaticamente</string>
     <string name="wifi_type_approval_dialog_title">NTC NO.</string>
     <string name="wifi_type_approval_title">Homologação</string>
+    <string name="wifi_verbose_logging">Ativar registo extenso do Wi-Fi</string>
     <string name="wifi_verbose_logging_summary">Aumentar nível de registro do Wi-Fi, mostrar RSSI para todos os SSIDs na lista de redes Wi-Fi.</string>
     <string name="wifi_wapi_as_cert">Certificado AS</string>
     <string name="wifi_wapi_cert_cancel_button">Cancelar</string>
