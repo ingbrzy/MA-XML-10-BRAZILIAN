@@ -1364,6 +1364,7 @@ para o Segundo Espaço"</string>
     <string name="menu_check">Experiência</string>
     <string name="menu_restore">Redefinir</string>
     <string name="menu_share">Compartilhar</string>
+    <string name="menu_stats_refresh">Atualizar</string>
     <string name="mi_pay_summary">Cartão de transporte/Mi Pay/Emulador de cartão</string>
     <string name="mi_service_app_detail">Detalhes de uso de dados</string>
     <string name="mi_upi_settings">Conta Mi Pay</string>
@@ -1811,6 +1812,8 @@ Selecione seu sistema operacional:"</string>
     <string name="radioInfo_menu_viewADN">Ver o catálogo de endereços do SIM</string>
     <string name="radio_controls_summary">Gerenciar Wi-Fi, Bluetooth, Modo avião, Redes móveis &amp; VPNs</string>
     <string name="radio_info_asdiv_switch_label">Status ASDiv:</string>
+    <string name="radio_info_smsc_refresh_label">Atualizar</string>
+    <string name="radio_info_smsc_update_label">Atualizar</string>
     <string name="reading_data">Obtendo informações…</string>
     <string name="rebootiing_for_updates">Reiniciando…</string>
     <string name="receiver_clean">Liberar espaço</string>
@@ -2679,6 +2682,7 @@ Toque no + para adicionar palavras."</string>
 
 Toque em"<b> Voltar</b> para conectar-se a uma rede Wi-Fi diferente.</string>
     <string name="wifi_setup_eap_not_supported">Você não pode configurar uma conexão Wi-Fi EAP durante a instalação. Após a instalação inicial, acesse Configurações > Redes sem fio e outras.</string>
+    <string name="wifi_setup_refresh_list">Atualizar</string>
     <string name="wifi_setup_wizard_title">Selecionar rede Wi-Fi</string>
     <string name="wifi_share">Compartilhar Wi-Fi</string>
     <string name="wifi_share_action_turn_off">Parar de compartilhar redes</string>
@@ -2735,6 +2739,7 @@ Toque em"<b> Voltar</b> para conectar-se a uma rede Wi-Fi diferente.</string>
     <string name="wifi_traffic_priority_summary">Priorizar velocidade de conexão automaticamente</string>
     <string name="wifi_type_approval_dialog_title">NTC NO.</string>
     <string name="wifi_type_approval_title">Homologação</string>
+    <string name="wifi_update">Atualizar</string>
     <string name="wifi_verbose_logging">Ativar registo extenso do Wi-Fi</string>
     <string name="wifi_verbose_logging_summary">Aumentar nível de registro do Wi-Fi, mostrar RSSI para todos os SSIDs na lista de redes Wi-Fi.</string>
     <string name="wifi_wapi_as_cert">Certificado AS</string>
