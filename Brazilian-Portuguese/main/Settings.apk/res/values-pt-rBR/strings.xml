@@ -29,7 +29,6 @@
     <string name="accessibility_category_personal">Contas de perfil pessoal</string>
     <string name="accessibility_category_work">Contas de perfil de trabalho - %s</string>
     <string name="accessibility_close_tab">Fechar guia atual</string>
-    <string name="accessibility_display_daltonizer_preference_title">Correção de cor</string>
     <string name="accessibility_display_inversion_preference_title">Inversão de cor</string>
     <string name="accessibility_display_title">Tela</string>
     <string name="accessibility_enable">Acessibilidade</string>
