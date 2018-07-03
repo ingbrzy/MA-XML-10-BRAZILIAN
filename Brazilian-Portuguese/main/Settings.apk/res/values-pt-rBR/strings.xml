@@ -1031,6 +1031,7 @@ Taxa de amostra"</string>
     <string name="force_immersive_compatibility_hide">Ocultar</string>
     <string name="force_immersive_compatibility_hint_message">Alguns apps podem não funcionar corretamente se você optar por ocultar os botões virtuais.</string>
     <string name="force_immersive_compatibility_hint_title">Problemas de compatibilidade</string>
+    <string name="force_resizable_activities">Forçar atividades a serem redimensionáveis</string>
     <string name="force_resizable_activities_summary">Torna todas as atividades redimensionáveis para várias janelas, independentemente dos valores do manifesto.</string>
     <string name="force_touch_demo">Demonstração</string>
     <string name="force_touch_enable">Ativar 3D Touch</string>
@@ -1803,6 +1804,7 @@ Selecione seu sistema operacional:"</string>
     <string name="proxy_exclusionlist_label">Ignorar para</string>
     <string name="proxy_hostname_label">Nome do host</string>
     <string name="proxy_port_label">Porta</string>
+    <string name="quick_settings_developer_tiles">Configurações de desenvolvedor rápidas</string>
     <string name="quiet">Não perturbe</string>
     <string name="quiet_group">Não perturbe</string>
     <string name="quiet_important_interruptions_mode">Permitir apenas exceções</string>
