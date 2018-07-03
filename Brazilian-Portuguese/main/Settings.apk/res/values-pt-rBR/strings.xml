@@ -29,6 +29,7 @@
     <string name="accessibility_category_personal">Contas de perfil pessoal</string>
     <string name="accessibility_category_work">Contas de perfil de trabalho - %s</string>
     <string name="accessibility_close_tab">Fechar guia atual</string>
+    <string name="accessibility_display_daltonizer_preference_title">Correção de cor</string>
     <string name="accessibility_display_inversion_preference_title">Inversão de cor</string>
     <string name="accessibility_display_title">Tela</string>
     <string name="accessibility_enable">Acessibilidade</string>
@@ -256,7 +257,7 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="app_disable_dlg_title">Desativar aplicação do sistema?</string>
     <string name="app_disable_notifications_dlg_text">Se desligar as notificações para este aplicativo pode perder alertas e atualizações importantes</string>
     <string name="app_disable_notifications_dlg_title">Desligar notificações?</string>
-    <string name="app_factory_reset">Desinstalar actualizações</string>
+    <string name="app_factory_reset">Desinstalar atualizações</string>
     <string name="app_factory_reset_dlg_text">Todas as atualizações deste app de sistema serão desinstaladas.</string>
     <string name="app_factory_reset_dlg_title">Desinstalar atualizações?</string>
     <string name="app_floating_window_dlg_disable">Desativar as janelas flutuantes para %1$s fará com que o app seja reiniciado.</string>
@@ -563,6 +564,7 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="bluetooth_profile_sap">Usado para acesso ao SIM</string>
     <string name="bluetooth_sap_profile_summary_connected">Conectado ao SAP</string>
     <string name="bluetooth_sap_profile_summary_use_for">Usar para acesso ao SIM</string>
+    <string name="bluetooth_search_for_devices">Atualizar</string>    
     <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bits por amostra de áudio Bluetooth</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Selecionar codec de áudio Bluetooth:
 Bits por amostra"</string>
@@ -773,6 +775,7 @@ Taxa de amostra"</string>
     <string name="current_zone">(atual)</string>
     <string name="data_usage_cellular_data">Rede móvel</string>
     <string name="data_usage_disable_wifi_limit">Definir limite de dados Wi-Fi</string>
+    <string name="data_usage_enable_mobile">Dados móveis</string>  
     <string name="data_usage_menu_show_wifi">Mostrar uso do Wi-Fi</string>
     <string name="data_usage_metered_body">Selecione as redes Wi-Fi que são Hotspots móveis. Apps em segundo plano podem ser impedidos de usar estas redes. Os apps também podem avisar antes de usar estas redes para grandes downloads.</string>
     <string name="data_usage_metered_wifi">Redes Wi-Fi</string>
@@ -784,7 +787,9 @@ Taxa de amostra"</string>
     <string name="data_usage_sweep_warning"><font size="18">^1</font> <font size="9">^2</font>"
 "<font size="12">aviso</font></string>
     <string name="date_time_settings">Data &amp; hora</string>
+    <string name="date_time_set_timezone">Selecionar fuso horário</string>    
     <string name="day_of_week">Dia da semana</string>
+    <string name="debug_app">Selecionar aplicativo de depuração</string>
     <string name="debug_hw_renderer">Definir renderizador da GPU</string>
     <string name="debug_view_attributes">Ativar visualização de atributos</string>
     <string name="defalut_launcher_title">Tela inicial padrão</string>
@@ -805,6 +810,7 @@ Taxa de amostra"</string>
     <string name="dev_logpersist_clear_warning_title">Limpar armazenamento persistente do logger?</string>
     <string name="dev_settings_warning_message">Estas configurações são direcionadas apenas a desenvolvedores. Ativar estes recursos pode causar erros em seu dispositivo ou nos apps instalados.</string>
     <string name="development_enable">Opções do desenvolvedor</string>
+    <string name="development_settings_title">Opções de desenvolvedor</string>
     <string name="device_available_memory">Armazenamento disponível</string>
     <string name="device_battery">Bateria</string>
     <string name="device_build_id">Número da versão</string>
@@ -1135,6 +1141,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="instruction_title">Instruções</string>
     <string name="item_system_app">Apps do sistema</string>
     <string name="keep_legacy_fingerprint">Manter</string>
+    <string name="keep_screen_on">Manter ativa</string>
     <string name="keep_screen_on_summary">A tela nunca entrará em inatividade enquanto estiver carregando</string>
     <string name="key_combination_power_back">Liga/Desliga + Voltar</string>
     <string name="key_combination_power_home">Liga/Desliga + Início</string>
@@ -1382,6 +1389,7 @@ para o Segundo Espaço"</string>
     <string name="mms_breathing_light_color_title">Cor do LED para mensagens</string>
     <string name="mms_breathing_light_freq_title">Frequêcia de pulsação para SMS</string>
     <string name="mms_privacy_password_role_instruction">Suas conversas com contatos privados serão armazenadas aqui.</string>
+    <string name="mock_location_app">Selecionar aplicativo de localização fictícia</string>
     <string name="mode_disable">Desativado</string>
     <string name="mode_enable">Ativado</string>
     <string name="model_name">Nome do modelo</string>
@@ -2130,6 +2138,7 @@ Você ainda pode usar sua impressão digital para autorizar compras e acessar ap
     <string name="security_settings_summary">Definir Meu local, desbloqueio de tela, bloqueio do SIM e do armazenamento de credenciais</string>
     <string name="security_status">Status de segurança</string>
     <string name="security_update">Atualização de segurança</string>
+    <string name="select_application">Selecionar aplicativo</string>
     <string name="select_logd_level">Selecionar nível de log</string>
     <string name="select_logd_size_dialog_title">Selecionar tamanho para o buffer de log</string>
     <string name="select_logd_size_title">Tamanhos de buffer de log</string>
@@ -2223,6 +2232,7 @@ PIN possivelmente incorreto."</string>
     <string name="standard">Silencioso</string>
     <string name="standard_info">Chamadas e notificações serão silenciadas</string>
     <string name="start_silent_mode">Ativar Modo silencioso</string>
+    <string name="status_awake_time">Tempo de atividade</string>    
     <string name="status_bar_and_notification_bar">Área de notificações e Barra de status</string>
     <string name="status_bar_app_disable_notification">Notificações ocultas</string>
     <string name="status_bar_app_enable_floating">Notificações flutuantes</string>
@@ -2276,6 +2286,7 @@ PIN possivelmente incorreto."</string>
     <string name="status_sim_1">Cartão SIM 1</string>
     <string name="status_sim_2">Cartão SIM 2</string>
     <string name="status_summary">Toque para ver detalhes.</string>
+    <string name="status_up_time">Tempo de atividade</string>    
     <string name="status_wifi_mac_address">Endereço MAC do Wi-Fi</string>
     <string name="statusbar_permission_desc">As seguintes permissões só são válidas para notificações importantes.</string>
     <string name="storage_format">Formatar</string>
@@ -2344,6 +2355,7 @@ A mudança leva cerca de ^2 e irá liberar ^3 no armazenamento interno. Alguns a
     <string name="theme_settings_title">Temas</string>
     <string name="thememanager_not_found">Não foi possível abrir o Gerenciador de Temas. Certifique-se de que o app está instalado.</string>
     <string name="three_gesture_down">Deslizar 3 dedos para baixo</string>
+    <string name="time_zone_auto_stub">Selecionar fuso horário</string>  
     <string name="timezone_settings">Fuso horário</string>
     <string name="title_color_calibration">Predefinição de correção de cor</string>
     <string name="title_font">Fonte</string>
