@@ -2350,7 +2350,6 @@ A mudança leva cerca de ^2 e irá liberar ^3 no armazenamento interno. Alguns a
     <string name="tether_and_hotspot_title">Vínculo &amp; hotspot portátil</string>
     <string name="tether_auto_disable_title">Desligar hotspot automaticamente</string>
     <string name="tether_auto_disable_summary">Desativar hotspot automaticamente quando nenhum dispositivo estiver conectado</string>
-    <string name="tether_auto_disable_title">Desativar hotspot automaticamente</string>
     <string name="tether_custom_dialog_title">Limite de dados móveis</string>
     <string name="tether_data_usage_limit">Limite de dados únicos</string>
     <string name="tether_data_usage_limit_summary">O limite de dados será aplicado na próxima vez que o Hotspot móvel for ativado</string>
@@ -2789,7 +2788,6 @@ Toque em"<b> Voltar</b> para conectar-se a uma rede Wi-Fi diferente.</string>
     <string name="work_space_delete_description">Você não conseguirá entrar no Espaço de trabalho após excluí-lo. Todos os dados serão movidos ou excluídos.</string>
     <string name="wps_connect_summary">Certifique-se de que o roteador suporta WPS e que o mesmo encontra-se ativo</string>
     <string name="wps_connect_title">Conexão WPS</string>
-    <string name="wps_connect_summary">Confirme se o roteador tem suporte a WPS e se ele está ativo</string>
     <string name="xiaomi_account">Conta Mi</string>
     <string name="xiaomi_cloud_service_description">A Mi Cloud sincroniza contatos, fotos e outros itens entre seus dispositivos. O \"Encontrar dispositivo\" também precisa da Mi Cloud para funcionar normalmente.</string>
     <string name="xiaomi_cloud_service_disabled">Desativado</string>
