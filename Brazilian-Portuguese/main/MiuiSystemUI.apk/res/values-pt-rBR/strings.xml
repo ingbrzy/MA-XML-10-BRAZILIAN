@@ -243,7 +243,7 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
     <string name="gps_notification_found_text">Localização definida pelo GPS</string>
     <string name="gps_notification_searching_text">Procurando GPS</string>
     <string name="guest_exit_guest_dialog_message">Todos os apps e dados nesta sesão serão excluídos.</string>
-    <string name="guest_exit_guest_dialog_remove">Remvoer</string>
+    <string name="guest_exit_guest_dialog_remove">Remover</string>
     <string name="guest_notification_text">Para excluir apps e seus dados, remova o usuário convidado</string>
     <string name="guest_wipe_session_dontwipe">Continuar</string>
     <string name="guest_wipe_session_message">Deseja continuar sua sessão?</string>
