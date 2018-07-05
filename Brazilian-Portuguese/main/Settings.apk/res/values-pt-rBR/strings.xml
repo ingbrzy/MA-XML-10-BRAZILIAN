@@ -1025,7 +1025,7 @@ Taxa de amostra"</string>
     <string name="font_size_summary">"Alterar o tamanho do texto para a Tela inicial, Área de notificações, discador e menus de sistema.
 
 "</string>
-    <string name="font_size_summary1">"Se o tamanho dos textos do sistema ainda está pequeno, experimente o "</string>
+    <string name="font_size_summary1">"Se o tamanho dos textos do sistema ainda estiver pequeno, experimente o "</string>
     <string name="font_size_summary2">Modo simplificado.</string>
     <string name="forbidden_switch_apn_string">As configurações selecionadas para o APN não correspondem com o tipo de rede atual</string>
     <string name="force_allow_on_external">Forçar permissão de apps a escrever no armaz. externo</string>
@@ -1073,7 +1073,7 @@ Taxa de amostra"</string>
     <string name="frequently_fragment_tempty">Itens usados frequentemente serão listados aqui</string>
     <string name="fsg_mistake_touch_summary">Em alguns cenários como em jogos ou vídeos em tela cheia, os gestos precisam ser feitos duas vezes para serem efetivos</string>
     <string name="fsg_mistake_touch_title">Verifique o gesto novametne</string>
-    <string name="full_transparent_smarrcover_title">Capa frontal transparente</string>
+    <string name="full_transparent_smarrcover_title">SmartCover transparente</string>
     <string name="gadget_toggle_wifi">Atualizar configurações de Wi-Fi</string>
     <string name="gallery_privacy_password_role_instruction">Suas fotos privadas serão armazenadas aqui.</string>
     <string name="game_mode_settings">Modo de jogo</string>
@@ -1084,14 +1084,14 @@ Taxa de amostra"</string>
     <string name="got_it">Entendi</string>
     <string name="gsm_to_wifi_connect_type_title">GSM para Wi-Fi</string>
     <string name="gxzw_add_fingerprint_continue">Continuar</string>
-    <string name="gxzw_add_fingerprint_edge_message">Mova o seu dedo para o sensor gravar os cantos da sua impressão digital.</string>
+    <string name="gxzw_add_fingerprint_edge_message">Mova o seu dedo para o sensor ler os cantos da sua impressão digital.</string>
     <string name="gxzw_add_fingerprint_edge_title">Mova o seu dedo um pouco</string>
     <string name="gxzw_add_fingerprint_finish">Finalizar</string>
     <string name="gxzw_add_fingerprint_indicate">Pressione com mais força aqui</string>
     <string name="gxzw_add_fingerprint_know">Entendi</string>
     <string name="gxzw_add_fingerprint_message">Mantenha os dedos e a superfície da tela limpos</string>
     <string name="gxzw_add_fingerprint_move_indicate">Mova o seu dedo um pouco</string>
-    <string name="gxzw_add_fingerprint_move_message">Não é possível gravar as áreas restantes da sua impressão digital. Mova o seu dedo um pouco</string>
+    <string name="gxzw_add_fingerprint_move_message">Não é possível ler as áreas restantes da sua impressão digital. Mova o seu dedo um pouco</string>
     <string name="gxzw_add_fingerprint_move_title">Mova o dedo levemente</string>
     <string name="gxzw_add_fingerprint_put_finger_message">Pressione com mais força e levante o seu dedo ao sentir uma vibração. Repita várias vezes.</string>
     <string name="gxzw_add_fingerprint_put_finger_title">Pressione com mais força e levante ao sentir uma vibração</string>
@@ -1384,7 +1384,7 @@ para o Segundo Espaço"</string>
     <string name="miui_lab_feature_applied">Aplicado</string>
     <string name="miui_lab_feature_off">Desativado</string>
     <string name="miui_lab_feature_on">Ativado</string>
-    <string name="miui_lab_features">Recursos do MIUI Lab</string>
+    <string name="miui_lab_features">Recursos da MIUI Lab</string>
     <string name="miui_lab_gallery_search_desc">Pesquisa melhorada de imagens</string>
     <string name="miui_lab_gallery_search_title">Encontrar fotos na Galeria</string>
     <string name="miui_lab_settings">MIUI Lab</string>
@@ -1543,14 +1543,14 @@ Selecione seu sistema operacional:"</string>
     <string name="no_media_button_receiver">Não</string>
     <string name="no_nearby_wifi">Nenhuma rede detectada</string>
     <string name="no_services">Nenhum serviço ativo</string>
-    <string name="no_update_found">Você está executando a versão mais recente do MIUI</string>
-    <string name="no_updates_found">Você está executando a versão mais recente do MIUI</string>
+    <string name="no_update_found">Você está executando a versão mais recente da MIUI</string>
+    <string name="no_updates_found">Você está executando a versão mais recente da MIUI</string>
     <string name="no_updates_warning">Seu sistema está atualizado</string>
     <string name="no_updates_warning2">Nós avisaremos quando uma atualização estiver disponível.</string>
     <string name="noise_suppression">Redução de ruído ambiente</string>
     <string name="normal_info">Todos os sons funcionarão normalmente</string>
     <string name="normal_smartcover_title">Capa frontal opaca</string>
-    <string name="notch_force_black_desc">Escurecer a área ao redor do entalhe da tela</string>
+    <string name="notch_force_black_desc">Escurecer a área ao redor do notch da tela</string>
     <string name="notch_force_black_title">Ocultar entalhe</string>
     <string name="notes_privacy_password_role_instruction">Suas anotações privadas serão armazenadas aqui.</string>
     <string name="notification_breathing_light_color_title">Cor do LED para notificações</string>
@@ -1582,8 +1582,8 @@ Selecione seu sistema operacional:"</string>
     <string name="onehour">30 minutos</string>
     <string name="open_demo_mode">Ativar</string>
     <string name="open_demo_mode_warning_message">Quando o Modo de demonstração está ativado, o relógio da barra de status parará, e os ícones de sinal e bateria serão exibidos totalmente cheios. Você pode desativar o Modo de demonstração ou reiniciar o dispositivo para alterar isto.</string>
-    <string name="open_miui_optimization_title">Ativar otimização MIUI</string>
-    <string name="open_optimization_message">Ative a otimização para aproveitar uma IU mais rápida e suave.</string>
+    <string name="open_miui_optimization_title">Ativar otimização da MIUI</string>
+    <string name="open_optimization_message">Ative a otimização para aproveitar uma UI mais rápida e suave.</string>
     <string name="open_optimization_option">Ativar</string>
     <string name="open_wifi_connect_summary">Toque para ver detalhes</string>
     <string name="open_wifi_connect_title">Conectado a %1$s</string>
@@ -1813,9 +1813,9 @@ Selecione seu sistema operacional:"</string>
     <string name="quiet">Não perturbe</string>
     <string name="quiet_group">Não perturbe</string>
     <string name="quiet_important_interruptions_mode">Permitir apenas exceções</string>
-    <string name="quiet_no_interruptions_mode">Silenciar todos os distúrbios</string>
-    <string name="quiet_off_mode">Sempre permitir distúrbios</string>
-    <string name="radioInfo_menu_viewADN">Ver o catálogo de endereços do SIM</string>
+    <string name="quiet_no_interruptions_mode">Silenciar todas as notificações</string>
+    <string name="quiet_off_mode">Sempre permitir notificações</string>
+    <string name="radioInfo_menu_viewADN">Ver endereços do SIM</string>
     <string name="radio_controls_summary">Gerenciar Wi-Fi, Bluetooth, Modo avião, Redes móveis &amp; VPNs</string>
     <string name="radio_info_asdiv_switch_label">Status ASDiv:</string>
     <string name="radio_info_smsc_refresh_label">Atualizar</string>
@@ -1876,7 +1876,7 @@ Selecione seu sistema operacional:"</string>
     <string name="screen_button">Botões virtuais</string>
     <string name="screen_button_tips">Deslize para baixo para ocultar os botões virtuais</string>
     <string name="screen_color_and_optimize">Cores &amp; contraste</string>
-    <string name="screen_color_and_optimize_disabled">Não é possível ajustar a temperatura da cor no Modo de leitura</string>
+    <string name="screen_color_and_optimize_disabled">Não é possível ajustar a temperatura de cor no Modo de leitura</string>
     <string name="screen_color_temperature">Cores</string>
     <string name="screen_color_temperature_and_saturation">Cores &amp; saturação</string>
     <string name="screen_effect">Contraste &amp; cores</string>
