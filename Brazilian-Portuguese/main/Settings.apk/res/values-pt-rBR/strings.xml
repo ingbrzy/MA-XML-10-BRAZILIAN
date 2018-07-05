@@ -35,9 +35,9 @@
     <string name="accessibility_feature_or_input_method_not_allowed">Não permitido pela sua organização</string>
     <string name="accessibility_feature_state_off">Desligado</string>
     <string name="accessibility_feature_state_on">Ligado</string>
-    <string name="accessibility_global_gesture_preference_description">"Quando esta funcionalidade está ligada, pode activar rapidamente funcionalidades de acessibilidade em dois passos:
+    <string name="accessibility_global_gesture_preference_description">"Quando esta funcionalidade está ligada, pode ativar rapidamente funcionalidades de acessibilidade em dois passos:
 
-Passo 1: Prima e segure o botão Ligar/Desligar até ouvir um som ou sentir uma vibração
+Passo 1: Toque e segure o botão Ligar/Desligar até ouvir um som ou sentir uma vibração
 
 Passo 2: Toque e segure dois dedos até ouvir a confirmação de áudio
         
@@ -132,7 +132,7 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="add_auto_startup_application">Adicionar apps</string>
     <string name="add_back_fingerprint_instruction_msg">Coloque seu dedo no sensor</string>
     <string name="add_facerecoginition_text">Adicionar dados faciais</string>
-    <string name="add_device_admin">Activar</string>
+    <string name="add_device_admin">Ativar</string>
     <string name="add_device_admin_msg">Ativar aplicação admin. do dispositivo?</string>
     <string name="add_fingerprint_cancel_button_text">Voltar</string>
     <string name="add_fingerprint_done_msg">Agora você pode desbloquear seu dispositivo usando sua impressão digital.</string>
@@ -162,11 +162,11 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="additional_permissions_more">%1$d mais</string>
     <string name="additional_system_update_settings_list_item_title">Atualizações adicionais do sistema</string>
     <string name="adjust_3d_depth_title">Ajustar profundidade 3D para jogos</string>
-    <string name="admin_device_owner_message">O administrador pode monitorizar e gerenciar as aplicações e os dados associados a este dispositivo, incluindo as definições, as autorizações, o acesso empresarial, a atividade da rede e as informações de localização do dispositivo</string>
-    <string name="admin_disabled_other_options">As outras opções estão desactivadas pelo administrador</string>
+    <string name="admin_device_owner_message">O administrador pode monitorar e gerenciar os aplicativos e os dados associados a este dispositivo, incluindo as definições, as autorizações, o acesso empresarial, a atividade da rede e as informações de localização do dispositivo</string>
+    <string name="admin_disabled_other_options">As outras opções estão desativadas pelo administrador</string>
     <string name="admin_more_details">Mais detalhes</string>
-    <string name="admin_profile_owner_message">O administrador pode monitorizar e gerir as aplicações e os dados associados ao seu perfil de trabalho, incluindo as definições, as autorizações, o acesso empresarial, a atividade da rede e as informações de localização do dispositivo</string>
-    <string name="admin_profile_owner_user_message">O administrador pode monitorizar e gerenciar as aplicações e os dados associados a este usuário, incluindo as definições, as autorizações, o acesso empresarial, a atividade da rede e as informações de localização do dispositivo</string>
+    <string name="admin_profile_owner_message">O administrador pode monitorar e gerenciar os aplicativso e os dados associados ao seu perfil de trabalho, incluindo as configurações, as autorizações, o acesso empresarial, a atividade da rede e as informações de localização do dispositivo</string>
+    <string name="admin_profile_owner_user_message">O administrador pode monitorar e gerenciar os aplicativos e os dados associados a este usuário, incluindo as configurações, as autorizações, o acesso empresarial, a atividade da rede e as informações de localização do dispositivo</string>
     <string name="admin_support_more_info">Mais detalhes</string>
     <string name="advanced_apps">Avançadas</string>
     <string name="advanced_section_header">Avançadas</string>
@@ -198,7 +198,7 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="always">Sempre</string>
     <string name="always_allow_bind_appwidgets_text">Escolheu permitir que este aplicativo crie widgets e tenha acesso aos dados</string>
     <string name="always_running">Sempre em execução (%s)</string>
-    <string name="amber_alerts_summary">Receber boletins sobre sequestro crianças</string>
+    <string name="amber_alerts_summary">Receber boletins sobre sequestro de crianças</string>
     <string name="amber_alerts_title">Alertas AMBER</string>
     <string name="android_beam_label">Android Beam</string>
     <string name="android_beam_disabled_summary">Para usar esta função, ative o NFC</string>
@@ -237,7 +237,7 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="apn_name">Nome</string>
     <string name="apn_new">Novo ponto de acesso</string>
     <string name="apn_not_set">Não definido</string>
-    <string name="apn_password">Palavra-passe</string>
+    <string name="apn_password">Senha</string>
     <string name="apn_ppp_number">Número de telefone APN PPP</string>
     <string name="apn_protocol">Protocolo APN</string>
     <string name="apn_roaming_protocol">Protocolo de roaming APN</string>
@@ -336,7 +336,7 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="ask_for_delete">Excluir esta regra?</string>
     <string name="assist_access_context_summary">Permitir que o assistente tenha acesso ao conteúdo da tela como texto</string>
     <string name="assist_access_context_title">Utilizar texto da tela</string>
-    <string name="assist_access_screenshot_summary">Permitir que o assistente tenha acesso a uma imagem do ecrã</string>
+    <string name="assist_access_screenshot_summary">Permitir que o assistente tenha acesso a uma imagem da tela</string>
     <string name="assist_access_screenshot_title">Utilizar captura de tela</string>
     <string name="assist_and_voice_input_title">Assistente e entrada de voz</string>
     <string name="assist_footer">Os assistentes podem ajudá-lo com base na informação da tela que está visualizando. Alguns aplicativos suportam tanto o launcher como os serviços de entrada de voz para lhe dar uma ajuda integrada</string>
@@ -398,9 +398,9 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="backup_data_summary">Fazer backup dos aplicativos, senhas de Wi-Fi e outras configurações para os servidores Google</string>
     <string name="backup_data_title">Cópias de segurança</string>
     <string name="backup_erase_dialog_message">Deixar de fazer backup de senha Wi-Fi, marcadores, outras configurações e dados do aplicativo, bem como eliminar todas as cópias nos servidores da Google?</string>
-    <string name="backup_inactive_title">Serviço de backup está inactivo</string>
+    <string name="backup_inactive_title">Serviço de backup está inativo</string>
     <string name="backup_pw_cancel_button_text">Cancelar</string>
-    <string name="backup_pw_set_button_text">Definir palavra-passe do backup</string>
+    <string name="backup_pw_set_button_text">Definir senha do backup</string>
     <string name="backup_section_title">Backup e restauração</string>
     <string name="band_mode_failed">Sem sucesso</string>
     <string name="band_mode_loading">Carregando lista de frequências…</string>
@@ -420,7 +420,7 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="battery_desc_apps">Bateria utilizada pelo aplicativo</string>
     <string name="battery_desc_bluetooth">Bateria utilizada pelo Bluetooth</string>
     <string name="battery_desc_camera">Bateria utilizada pela câmera</string>
-    <string name="battery_desc_display">Bateria utilizada pela teça e luz de fundo</string>
+    <string name="battery_desc_display">Bateria utilizada pela tela e luz de fundo</string>
     <string name="battery_desc_flashlight">Bateria utilizada pela lanterna</string>
     <string name="battery_desc_overcounted">Utilização de bateria contabilizada em excesso</string>
     <string name="battery_desc_radio">Bateria utilizada pela rede móvel</string>
@@ -695,7 +695,7 @@ Taxa de amostra"</string>
     <string name="change_security_lock">Tente outros métodos de desbloqueio</string>
     <string name="check_importance">Marcar como importante?</string>
     <string name="check_update">Procurar atualizações</string>
-    <string name="checking_find_device_status">"Verificando status do 'Encontrar dispositivo'…"</string>
+    <string name="checking_find_device_status">"Verificando estado do 'Encontrar dispositivo'…"</string>
     <string name="checking_for_updates">Procurando atualizações…</string>
     <string name="choose_a_card_to_reset">Selecione o cartão SIM para redefinir</string>
     <string name="choose_smartcover_type">Selecionar tipo de capa</string>
@@ -752,8 +752,8 @@ Taxa de amostra"</string>
     <string name="credentials_reset">Limpar credenciais</string>
     <string name="credentials_reset_hint">Remover todo o conteúdo?</string>
     <string name="credentials_reset_summary">Remover todos os certificados</string>
-    <string name="credentials_reset_warning">Palavra-passe incorrecta. Tem mais uma tentativa antes que o armazenamento de credenciais seja eliminado</string>
-    <string name="credentials_reset_warning_plural">Insira a palavra-passe. Tem mais %1$d tentativas para inserir a senha correta antes que o armazenamento de credenciais seja eliminado</string>
+    <string name="credentials_reset_warning">senha incorreta. Tem mais uma tentativa antes que o armazenamento de credenciais seja eliminado</string>
+    <string name="credentials_reset_warning_plural">Insira a senha. Tem mais %1$d tentativas para inserir a senha correta antes que o armazenamento de credenciais seja eliminado</string>
     <string name="credentials_settings_not_available">As credenciais não estão disponíveis para este usuário</string>
     <string name="credentials_title">Armazenamento de credenciais</string>
     <string name="credentials_unlock_hint">Insira a senha do armazenamento de credenciais</string>
