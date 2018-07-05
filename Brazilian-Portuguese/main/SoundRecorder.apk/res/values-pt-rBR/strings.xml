@@ -7,7 +7,8 @@
     <string name="search_led_indicator_prompt">Durante a gravação, mostrar atalho na barra de status e piscar led de notificações na Tela de bloqueio</string>
     <string name="search_scenes">Tipo de gravação</string>
     <string name="search_silent_mode">Silenciar toque durante gravação</string>
-    <string name="search_enable_earpiece_title">Usar microfone estéreo para reprodução</string>
+    <string name="preference_enable_earpiece_summary">Utilizar fones para reprodução</string>
+    <string name="preference_enable_earpiece_title">Utilizar fones para reprodução externa de áudio</string>
     <string name="search_enable_earpiece_subtitle">Usar microfone estéreo do aparelho para reprodução de áudio externo</string>
     <string name="search_quliaty_title">Qualidade de gravação</string>
     <string name="keywords_search_record_list">Gravador;Transcrição;Transcrições;Gravar;Compartilhar gravação;Compartilhar gravações;Gravação;Gravações</string>
