@@ -386,7 +386,7 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
     <string name="notification_channel_controls_closed_accessibility">Controles de notificação para %1$s fechados</string>
     <string name="notification_channel_controls_opened_accessibility">Controles de notificação para %1$s abertos</string>
     <string name="notification_channel_disabled">Você não receberá mais estas notificações.</string>
-    <string name="notification_channel_general">General messages</string>
+    <string name="notification_channel_general">Todas as mensagens</string>
     <string name="notification_channel_location">Localização</string>
     <string name="notification_channel_switch_accessibility">Permitir notificações deste canal</string>
     <string name="notification_group_collapse_button_text">Recolher</string>
@@ -523,7 +523,7 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
     <string name="quick_settings_wifi_nearby">Selecione uma rede próxima</string>
     <string name="quick_settings_wifi_no_network">Nenhuma rede</string>
     <string name="quick_settings_wifi_off_label">Wi-Fi desativado</string>
-    <string name="quick_settings_work_mode_label">Modo trabalh</string>
+    <string name="quick_settings_work_mode_label">Modo de trabalho</string>
     <string name="recent_cannot_dock">Não é possível usar a Tela dividida no Segundo Espaço</string>
     <string name="recent_dock_tip">Toque para selecionar apps</string>
     <string name="recent_menu_item_info">Info.</string>
