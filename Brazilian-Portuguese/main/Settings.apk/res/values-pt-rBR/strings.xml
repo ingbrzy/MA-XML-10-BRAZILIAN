@@ -866,6 +866,9 @@ Taxa de amostra"</string>
     <string name="display_auto_rotate_stay_in_landscape">Travar em paisagem</string>
     <string name="display_auto_rotate_stay_in_portrait">Travar em retrato</string>
     <string name="display_auto_rotate_title">Girar tela</string>
+    <string name="display_label">Tela</string>
+    <string name="display_settings">Tela</string>
+    <string name="display_settings_title">Tela</string>
     <string name="dndm_alarm_content">Sons</string>
     <string name="dndm_alarm_content_all">Permitir tudo</string>
     <string name="dndm_alarm_content_call">Chamadas</string>
@@ -1688,6 +1691,7 @@ Selecione seu sistema operacional:"</string>
     <string name="power_remaining_charging_duration_only">%1$s até ser carregado</string>
     <string name="power_remaining_duration_only">Cerca de %1$smin restante</string>
     <string name="power_settings_title">Desempenho do sistema</string>
+    <string name="power_screen">Tela</string>
     <string name="power_usage_history">Uso da bateria</string>
     <string name="power_usage_summary_title">Bateria &amp; desempenho</string>
     <string name="pre_installed_application">Apps pré-instalados</string>
