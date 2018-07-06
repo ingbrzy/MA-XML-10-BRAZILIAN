@@ -773,6 +773,7 @@ Taxa de amostra"</string>
     <string name="current_use_uicc_se">Usando elemento de segurança no cartão SIM</string>
     <string name="current_use_uicc_wallet">Você está usando o Wallet no SIM %1$s</string>
     <string name="current_zone">(atual)</string>
+    <string name="dashboard_title">Configurações</string>
     <string name="data_usage_cellular_data">Rede móvel</string>
     <string name="data_usage_disable_wifi_limit">Definir limite de dados Wi-Fi</string>
     <string name="data_usage_enable_mobile">Dados móveis</string>  
@@ -1141,6 +1142,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="information_dialog_button_text">Entendi</string>
     <string name="input_hint_prefix">Introduzir %1$s</string>
     <string name="input_method">Teclado</string>
+    <string name="input_method_settings_button">Configurações</string>
     <string name="input_settings">Configurações de entrada</string>
     <string name="install_no_market_app_summary">Verificar apps de terceiros por vírus antes de instalá-los</string>
     <string name="install_no_market_app_title">Verificar apps de terceiros</string>
@@ -1727,6 +1729,7 @@ Selecione seu sistema operacional:"</string>
     <string name="preferred_sms_title">App de mensagens padrão</string>
     <string name="preferred_sms_warning_message">O uso do app \"%1$s\" como padrão para mensagens pode aumentar o uso de dados móveis ou colocar seus dados pessoais em risco.</string>
     <string name="preferred_sms_warning_use_system">Não usar</string>
+    <string name="print_menu_item_settings">Configurações</string>
     <string name="priority_storage_app_settings">Os dados serão salvos no %1$s</string>
     <string name="priority_storage_settings_summary">Se nenhum cartão SD for detectado, seus dados serão salvos na memória interna do dispositivo automaticamente</string>
     <string name="priority_storage_summary">Escolha onde salvar seus dados</string>
@@ -2171,6 +2174,7 @@ Você ainda pode usar sua impressão digital para autorizar compras e acessar ap
     <string name="setting_privacy_password">Definir Senha de proteção de privacidade</string>
     <string name="settings_ad_loading">Carregando…</string>
     <string name="settings_ad_loading_unavailable">Não foi possível carregar as informações.</string>
+    <string name="settings_button">Configurações</string>
     <string name="settings_forbidden_message">Esta configuração é restrita</string>
     <string name="settings_label">Configurações</string>
     <string name="settings_notify_need_backup">Faça o backup de suas configurações na Mi Cloud para acessá-las quando trocar de telefone.</string>
