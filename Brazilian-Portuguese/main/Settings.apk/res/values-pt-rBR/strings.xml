@@ -1188,6 +1188,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="kilobyte_per_second">KB/s</string>
     <string name="label_mi_stats">Mi Analytics</string>
     <string name="language_keyboard_settings_title">Idioma e entrada</string>
+    <string name="language_settings">Idioma e entrada</string>
     <string name="lattice_smartcover_title">Capa frontal estrutural</string>
     <string name="launch_camera">Iniciar Câmera</string>
     <string name="launch_google_search">Iniciar Assistente do Google</string>
