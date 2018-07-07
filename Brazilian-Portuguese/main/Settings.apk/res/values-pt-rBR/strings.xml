@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">Configurações</string>
     <string name="Accounts_settings_title">Contas</string>
     <string name="about_ad_service_instructions">Sobre o serviço de anúncios e privacidade</string>
     <string name="about_phone_enter_xiaomi_net">Saiba mais</string>
