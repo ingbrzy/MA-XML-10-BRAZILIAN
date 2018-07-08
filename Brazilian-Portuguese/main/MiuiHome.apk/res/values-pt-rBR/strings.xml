@@ -296,7 +296,7 @@
     <string name="settings_shortcut">Configurações</string>
     <string name="share">Compartilhar</string>
     <string name="show_all">Mostrar tudo</string>
-    <string name="show_mem_info_title">Mostrar status da memória</string>
+    <string name="show_mem_info_title">Mostrar estado da memória</string>
     <string name="sort_by_abc">Ordenar por nome</string>
     <string name="sort_by_frequency">Ordenar por uso</string>
     <string name="sort_by_not_defined">Ordenar automaticamente</string>
