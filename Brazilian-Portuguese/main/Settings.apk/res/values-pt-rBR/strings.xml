@@ -465,7 +465,7 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="battery_info_status_charging_wireless">Carregando (sem fio)</string>
     <string name="battery_info_status_discharging">Descarregando</string>
     <string name="battery_info_status_full">Carregada</string>
-    <string name="battery_info_status_label">Status da bateria:</string>
+    <string name="battery_info_status_label">Estado da bateria:</string>
     <string name="battery_info_status_not_charging">Não está carregando</string>
     <string name="battery_info_status_unknown">Descohecido</string>
     <string name="battery_info_technology_label">Tecnologia da bateria:</string>
@@ -1077,7 +1077,7 @@ Taxa de amostra"</string>
     <string name="frequently_fragment_delete">Remover</string>
     <string name="frequently_fragment_tempty">Itens usados frequentemente serão listados aqui</string>
     <string name="fsg_mistake_touch_summary">Em alguns cenários como em jogos ou vídeos em tela cheia, os gestos precisam ser feitos duas vezes para serem efetivos</string>
-    <string name="fsg_mistake_touch_title">Verifique o gesto novametne</string>
+    <string name="fsg_mistake_touch_title">Verifique o gesto novamente</string>
     <string name="full_transparent_smarrcover_title">SmartCover transparente</string>
     <string name="gadget_toggle_wifi">Atualizar configurações de Wi-Fi</string>
     <string name="gallery_privacy_password_role_instruction">Suas fotos privadas serão armazenadas aqui.</string>
@@ -1227,7 +1227,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="local_auto_backup_off">Desativado</string>
     <string name="local_auto_backup_on">Ativado</string>
     <string name="local_auto_backup_section_title">Backup automático</string>
-    <string name="local_backup_password_summary_change">Toque para alterar ou remover a senha para bacups completos da Tela inicial</string>
+    <string name="local_backup_password_summary_change">Toque para alterar ou remover a senha para backups completos da Tela inicial</string>
     <string name="local_backup_password_summary_none">Os backups completos da tela inicial não estão protegidos no momento</string>
     <string name="local_backup_password_title">Senha do backup da Tela inicial</string>
     <string name="local_backup_password_toast_confirmation_mismatch">As senhas não correspondem</string>
@@ -2110,7 +2110,7 @@ Selecione seu sistema operacional:"</string>
     <string name="search_vpn_settings_password">Senha de VPN;Proteger VPN</string>
     <string name="search_vpn_settings_title">VPN;Adicionar VPN;Ativar VPN</string>
     <string name="search_wakeup_for_keyguard_notification_title">Ligar tela para notificações;ligar tela;ligar dispositivo;acordar telefone</string>
-    <string name="search_wallpaper_settings_title">Plano de fundo;Tela inicial;Tela de bloqueio</string>
+    <string name="search_wallpaper_settings_title">Papel de parede;Tela inicial;Tela de bloqueio</string>
     <string name="search_wfd_settings_title">Display sem fios;Ativar Display sem fios</string>
     <string name="search_wifi_advanced_ip_address_title">Endereço IP;IP</string>
     <string name="search_wifi_advanced_mac_address_title">Endereço MAC do Wi-Fi;Endereço MAC da WLAN</string>
@@ -2159,7 +2159,7 @@ Selecione seu sistema operacional:"</string>
 
 Você ainda pode usar sua impressão digital para autorizar compras e acessar apps. "<annotation id="url">Saiba mais</annotation></string>
     <string name="security_settings_summary">Definir Meu local, desbloqueio de tela, bloqueio do SIM e do armazenamento de credenciais</string>
-    <string name="security_status">Status de segurança</string>
+    <string name="security_status">Estado de segurança</string>
     <string name="security_update">Atualização de segurança</string>
     <string name="select_application">Selecionar aplicativo</string>
     <string name="select_logd_level">Selecionar nível de log</string>
