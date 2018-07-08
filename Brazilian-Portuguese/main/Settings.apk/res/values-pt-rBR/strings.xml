@@ -1942,6 +1942,7 @@ Selecione seu sistema operacional:"</string>
     <string name="screen_resolution_ultrahigh_format">Ultra-alta (%1$s)</string>
     <string name="screen_saturation">Saturação</string>
     <string name="screen_shot">Capturar tela</string>
+    <string name="screen_timeout_summary">Após %1$s de inatividade</string>
     <string name="screen_timeout_title">Desativar tela</string>
     <string name="screen_zoom_summary_custom">Personalizado (%d)</string>
     <string name="screen_zoom_summary_extremely_large">Enorme</string>
@@ -2501,7 +2502,7 @@ A mudança leva cerca de ^2 e irá liberar ^3 no armazenamento interno. Alguns a
     <string name="usb_tethering_active_subtext">Conectado</string>
     <string name="usb_tethering_available_subtext">Ligado via USB. Confirme para Conectar</string>
     <string name="use_this_wlan">Continuar</string>
-    <string name="user_add_user_message_long">"Você pode compartilhar este dispositivo com outras pessoas por meio da criação de usuários adicionais. Cada usuário tem seu próprio espaço, o qual pode ser personalizado com os próprios apps, plano de fundo, etc. Os usuários também podem ajustar as configurações do dispositivo, como Wi-Fi, que afetam a todos.
+    <string name="user_add_user_message_long">"Você pode compartilhar este dispositivo com outras pessoas por meio da criação de usuários adicionais. Cada usuário tem seu próprio espaço, o qual pode ser personalizado com os próprios apps, papel de parede, etc. Os usuários também podem ajustar as configurações do dispositivo, como Wi-Fi, que afetam a todos.
 
 Quando você adiciona um novo usuário, essa pessoa precisa configurar o próprio espaço.
 
