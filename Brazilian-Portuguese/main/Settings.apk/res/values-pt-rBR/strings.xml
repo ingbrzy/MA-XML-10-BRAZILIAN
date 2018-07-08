@@ -2169,6 +2169,7 @@ Você ainda pode usar sua impressão digital para autorizar compras e acessar ap
     <string name="select_logpersist_dialog_title">Selecione os buffers de log para armazenar de forma persistente no dispositivo</string>
     <string name="select_logpersist_title">Armazenar dados do logger de forma persistente</string>
     <string name="select_ssid_type_title">Selecionar SSID</string>
+    <string name="select_usb_configuration_dialog_title">Selecionar configuração USB</string> Mude Selecionar
     <string name="select_webview_provider_dialog_title">Definir a implementação do WebView</string>
     <string name="select_webview_provider_toast_text">Esta escolha não é mais válida. Tente novamente.</string>
     <string name="service_manage">Configuração</string>
@@ -2501,6 +2502,9 @@ A mudança leva cerca de ^2 e irá liberar ^3 no armazenamento interno. Alguns a
     <string name="use_system_language_to_select_input_method_subtypes">Usar idioma do sistema</string>
     <string name="usb_tethering_active_subtext">Conectado</string>
     <string name="usb_tethering_available_subtext">Ligado via USB. Confirme para Conectar</string>
+    <string name="usb_use_charging_only">Carregar este dispositivo</string>
+    <string name="usb_use_file_transfers">Transferir arquivos</string>
+    <string name="usb_use_photo_transfers">Transferir fotos(PTP)</string>
     <string name="use_this_wlan">Continuar</string>
     <string name="user_add_user_message_long">"Você pode compartilhar este dispositivo com outras pessoas por meio da criação de usuários adicionais. Cada usuário tem seu próprio espaço, o qual pode ser personalizado com os próprios apps, papel de parede, etc. Os usuários também podem ajustar as configurações do dispositivo, como Wi-Fi, que afetam a todos.
 
