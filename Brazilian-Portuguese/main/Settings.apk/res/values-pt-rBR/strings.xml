@@ -2102,7 +2102,7 @@ Selecione seu sistema operacional:"</string>
     <string name="search_trusted_credentials">Credenciais confiáveis;Assinatura do app;Assinaturas do app;Credenciais;Assinatura</string>
     <string name="search_tts_settings_title">Saída de texto por voz;TTS</string>
     <string name="search_turn_on_security_lock">Escolher bloqueio de tela;Bloqueio de tela;Adicionar bloqueio de tela;bloqueio de tela</string>
-    <string name="search_usb_tethering_button_text">Vínculo USB;Tethering;USB</string>
+    <string name="search_usb_tethering_button_text">Compartilhamento USB;Tethering;USB</string>
     <string name="search_user_agreement">Termos de Serviço</string>
     <string name="search_user_dict_settings_title">Dicionário pessoal;Dicionário</string>
     <string name="search_vibrate_in_silent_title">Vibrar no modo silencioso;vibrar;vibração</string>
@@ -2504,6 +2504,7 @@ A mudança leva cerca de ^2 e irá liberar ^3 no armazenamento interno. Alguns a
     <string name="use_system_language_to_select_input_method_subtypes">Usar idioma do sistema</string>
     <string name="usb_tethering_active_subtext">Conectado</string>
     <string name="usb_tethering_available_subtext">Ligado via USB. Confirme para Conectar</string>
+    <string name="usb_tethering_button_text">Compartilhamento USB</string>
     <string name="usb_use_charging_only">Carregar este dispositivo</string>
     <string name="usb_use_file_transfers">Transferir arquivos</string>
     <string name="usb_use_photo_transfers">Transferir fotos(PTP)</string>
