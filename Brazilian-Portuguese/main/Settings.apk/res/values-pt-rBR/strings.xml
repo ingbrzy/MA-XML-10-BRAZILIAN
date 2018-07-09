@@ -378,6 +378,7 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="auto_silent">Programar hora para ligar</string>
     <string name="auto_startup_application_manage">Início automático</string>
     <string name="auto_startup_count">%d aplicativos estão autorizados a iniciar automaticamente</string>
+    <string name="autofill_app">Preenchimento automático</string>
     <string name="automatic_brightness">Brilho automático</string>   
     <string name="available_size">%s disponível</string>
     <string name="available_via_passpoint">Disponível via %1$s</string>
@@ -742,22 +743,22 @@ Taxa de amostra"</string>
     <string name="credential_storage_type">Tipo de armazenamento</string>
     <string name="credential_storage_type_hardware">Suportado por hardware</string>
     <string name="credential_storage_type_software">Apenas software</string>
-    <string name="credentials_configure_lock_screen_hint">Tem que definir um PIN para o bloqueio de tela ou senha antes de efetuar o armazenamento de credenciais</string>
-    <string name="credentials_enabled">O armazenamento de credenciais está activado</string>
-    <string name="credentials_erased">O armazenamento de credenciais foi eliminado</string>
+    <string name="credentials_configure_lock_screen_hint">Tem que definir um PIN para o bloqueio de tela ou senha antes de efetuar o armazenamento de certificados</string>
+    <string name="credentials_enabled">O armazenamento de certificados está ativado</string>
+    <string name="credentials_erased">O armazenamento de certificados foi eliminado</string>
     <string name="credentials_install">Instalar do armazenamento</string>
     <string name="credentials_install_summary">Instalar certificados a partir do armazenamento</string>
-    <string name="credentials_not_erased">O armazenamento da credencial não pode ser eliminado</string>
+    <string name="credentials_not_erased">O armazenamento do certificado não pode ser eliminado</string>
     <string name="credentials_old_password">Senha atual</string>
     <string name="credentials_password_too_short">Mínimo de 8 caracteres</string>
-    <string name="credentials_reset">Limpar credenciais</string>
+    <string name="credentials_reset">Limpar certificados</string>
     <string name="credentials_reset_hint">Remover todo o conteúdo?</string>
     <string name="credentials_reset_summary">Remover todos os certificados</string>
-    <string name="credentials_reset_warning">senha incorreta. Tem mais uma tentativa antes que o armazenamento de credenciais seja eliminado</string>
-    <string name="credentials_reset_warning_plural">Insira a senha. Tem mais %1$d tentativas para inserir a senha correta antes que o armazenamento de credenciais seja eliminado</string>
-    <string name="credentials_settings_not_available">As credenciais não estão disponíveis para este usuário</string>
-    <string name="credentials_title">Armazenamento de credenciais</string>
-    <string name="credentials_unlock_hint">Insira a senha do armazenamento de credenciais</string>
+    <string name="credentials_reset_warning">senha incorreta. Tem mais uma tentativa antes que o armazenamento de certificados seja eliminado</string>
+    <string name="credentials_reset_warning_plural">Insira a senha. Tem mais %1$d tentativas para inserir a senha correta antes que o armazenamento de certificados seja eliminado</string>
+    <string name="credentials_settings_not_available">Os certificados não estão disponíveis para este usuário</string>
+    <string name="credentials_title">Armazenamento de certificados</string>
+    <string name="credentials_unlock_hint">Insira a senha do armazenamento de certificados</string>
     <string name="credentials_wrong_password">Senha incorreta</string>
     <string name="crypt_keeper_button_text">Encriptar dispositivo</string>
     <string name="crypt_keeper_conditions">A criptografia levará 1 hora ou mais. Você precisa iniciar o procedimento com a bateria carregada e manter seu telefone conectado ao carregador durante todo o processo. Se você interrompê-lo, você perderá seus dados de forma parcial ou total.</string>
@@ -939,8 +940,13 @@ Taxa de amostra"</string>
     <string name="enabled_authorised_apps_summary">Sua autorização será revogada depois que você altere a posição do seletor para apps individuais.</string>
     <string name="enabled_authorised_apps_title">Autorização concedida</string>
     <string name="enalbe_identify_iPhone">Identificação do dispositivo</string>
+    <string name="encryption_and_credential_settings_summary">Encriptação do celular e certificados digitais</string>
+    <string name="encryption_and_credential_settings_title">Encriptação e certificados</string>
     <string name="encryption_progress_summary">Criptografando, não reinicie seu dispositivo.</string>
-    <string name="eq_auto">Pèrsonalizado</string>
+    <string name="enterprise_privacy_ca_certs_device">Certificados confiáveis</string>
+    <string name="enterprise_privacy_ca_certs_personal">Certificados confiáveis no seu perfil pessoal</string>
+    <string name="enterprise_privacy_ca_certs_work">Certificados confiáveis no seu perfil de trabalho</string>
+    <string name="eq_auto">Personalizado</string>
     <string name="eq_cancel">Cancelar</string>
     <string name="eq_classical">Clássica</string>
     <string name="eq_delete">Remover</string>
@@ -1141,6 +1147,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="infinity_display_slogan">Inovação em tela cheia</string>
     <string name="infinity_display_title">Tela infinita</string>
     <string name="information_dialog_button_text">Entendi</string>
+    <string name="input_assistance">Assistente de entrada</string>
     <string name="input_hint_prefix">Introduzir %1$s</string>
     <string name="input_method">Teclado</string>
     <string name="input_method_settings_button">Configurações</string>
@@ -1369,6 +1376,7 @@ para o Segundo Espaço"</string>
     <string name="media_button">Botão de mídia</string>
     <string name="media_feedback_enable_title">Vibrar com a batida</string>
     <string name="megabyte_per_second">MB/s</string>
+    <string name="memory_apps_usage">Aplicativos e dados</string>
     <string name="memory_clear_cache_message">Isto vai limpar os dados em cache de todos os aplicativos</string>    
     <string name="memory_system_rom">Armaz. do sistema</string>
     <string name="memory_system_space">Armaz. do sistema</string>
@@ -1386,6 +1394,7 @@ para o Segundo Espaço"</string>
     <string name="miui_allow_vibrate">Vibrações</string>
     <string name="miui_data_usage_menu_metered">Hotspots móveis</string>
     <string name="miui_experience_optimization">Ativar otimização MIUI</string>
+    <string name="miui_lab_ai_preload_desc">O pré-carregamento IA aumenta a velocidade de execução dos aplicativos</string>
     <string name="miui_lab_drive_mode_desc">Use os controles de voz &amp; ouça mensagens do WeChat</string>
     <string name="miui_lab_drive_mode_title">Modo carro</string>
     <string name="miui_lab_feature_applied">Aplicado</string>
@@ -1554,6 +1563,7 @@ Selecione seu sistema operacional:"</string>
     <string name="no_updates_found">Você está executando a versão mais recente da MIUI</string>
     <string name="no_updates_warning">Seu sistema está atualizado</string>
     <string name="no_updates_warning2">Nós avisaremos quando uma atualização estiver disponível.</string>
+    <string name="no_vr_listeners">Nenhum aplciativo instalado pediu para ser executado como serviço de assistente de RV</string>
     <string name="noise_suppression">Redução de ruído ambiente</string>
     <string name="normal_info">Todos os sons funcionarão normalmente</string>
     <string name="normal_smartcover_title">Capa frontal opaca</string>
@@ -1682,6 +1692,7 @@ Selecione seu sistema operacional:"</string>
     <string name="picture_in_picture_title">Picture-in-picture</string>    
     <string name="please_type_passphrase">Senha</string>
     <string name="pointer_location_summary">Mostrar coordenadas de toque</string>
+    <string name="pointer_settings_category">Mouse/touchpad</string>
     <string name="popup_window">Restringir notificações flutuantes</string>
     <string name="power_autorun_apps_empty">Vazio</string>
     <string name="power_autorun_empty">Vazio</string>
@@ -2413,6 +2424,7 @@ A mudança leva cerca de ^2 e irá liberar ^3 no armazenamento interno. Alguns a
     <string name="trackball_wake_title">Ligar a tela com trackball</string>
     <string name="traffic_none">N/A</string>
     <string name="translation_contributors_title">Colaboradores</string>
+    <string name="trusted_credentials">Certificados confiáveis</string>
     <string name="tts_default_pitch_title">Tom</string>
     <string name="tts_default_sample_string">Este é um exemplo de sintetização de voz</string>
     <string name="tts_engine_settings_title">Configurações para %s</string>
@@ -2514,6 +2526,8 @@ A mudança leva cerca de ^2 e irá liberar ^3 no armazenamento interno. Alguns a
 Quando você adiciona um novo usuário, essa pessoa precisa configurar o próprio espaço.
 
 Qualquer usuário pode atualizar apps para os demais usuários."</string>
+    <string name="user_credentials">Credenciais do usuário</string>
+    <string name="user_credentials_summary">Ver e modificar as Certificados armazenados</string>
     <string name="user_dict_settings_empty_text">"Você não tem nenhum dicionário
 Toque no + para adicionar palavras."</string>
     <string name="user_experience_program">Programa de Experiência do Usuário</string>
