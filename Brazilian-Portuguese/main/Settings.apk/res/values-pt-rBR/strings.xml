@@ -655,6 +655,7 @@ Taxa de amostra"</string>
     <string name="brightness_summary">Ajustar o brilho da tela</string>
     <string name="brightness_title">Brilho</string>
     <string name="bssid_label">BSSID:</string>
+    <string name="bt_hci_snoop_log_summary">Guardar todos os pacotes Bluetooth HCI em um arquivo</string>
     <string name="bt_hci_snoop_log">Registro de Bluetooth HCI</string>
     <string name="bt_rarely_used_device_title">Dispositivos raramente usados (%d)</string>
     <string name="bt_trace_log">Log de traços Bluetooth</string>
@@ -798,8 +799,12 @@ Taxa de amostra"</string>
     <string name="date_time_set_timezone">Selecionar fuso horário</string>    
     <string name="day_of_week">Dia da semana</string>
     <string name="debug_app">Selecionar aplicativo de depuração</string>
+    <string name="debug_app_not_set">Nenhum aplicativo de depuração definido</string>
+    <string name="debug_app_set">Depuração de aplicativo: %1$s</string>
+    <string name="debug_hw_drawing_category">Aceleração de hardware</string>
     <string name="debug_hw_overdraw">Depurar GPU</string>
     <string name="debug_hw_renderer">Definir renderizador da GPU</string>
+    <string name="debug_monitoring_category">Monitoramento</string>
     <string name="debug_view_attributes">Ativar visualização de atributos</string>
     <string name="defalut_launcher_title">Tela inicial padrão</string>
     <string name="default_input_method">Escolher teclado padrão</string>
@@ -1047,6 +1052,7 @@ Taxa de amostra"</string>
     <string name="forbidden_switch_apn_string">As configurações selecionadas para o APN não correspondem com o tipo de rede atual</string>
     <string name="force_allow_on_external">Forçar permissão de apps a escrever no armaz. externo</string>
     <string name="force_allow_on_external_summary">Qualifica apps p/ gravação em armazenamento externo, independentemente de valores de manifestos</string>
+    <string name="force_hw_ui_summary">Forçar a utilização da GPU para aplicativos 2D</string>
     <string name="force_immersive_compatibility_dont_hide">Não ocultar</string>
     <string name="force_immersive_compatibility_hide">Ocultar</string>
     <string name="force_immersive_compatibility_hint_message">Alguns apps podem não funcionar corretamente se você optar por ocultar os botões virtuais.</string>
@@ -1381,6 +1387,7 @@ para o Segundo Espaço"</string>
     <string name="max_cpu2_info">"Dual-core Max "</string>
     <string name="max_fingerprint_number_reached">Não é possível adicionar mais de 5 impressões digitais. Para adicionar uma impressão digital nova, remova uma impressão existente primeiro.</string>
     <string name="media_button">Botão de mídia</string>
+    <string name="media_category">Multimedia</string>
     <string name="media_feedback_enable_title">Vibrar com a batida</string>
     <string name="megabyte_per_second">MB/s</string>
     <string name="memory_apps_usage">Aplicativos e dados</string>
@@ -1421,8 +1428,11 @@ para o Segundo Espaço"</string>
     <string name="mms_breathing_light_color_title">Cor do LED para mensagens</string>
     <string name="mms_breathing_light_freq_title">Frequêcia de pulsação para SMS</string>
     <string name="mms_privacy_password_role_instruction">Suas conversas com contatos privados serão armazenadas aqui.</string>
+    <string name="mobile_data_always_on_summary">Manter sempre os dados móveis ativados, mesmo quando o Wi-Fi estiver ativado (para mudança de rede rápida)</string>
     <string name="mobile_data_always_on">Dados móveis sempre ativos</string>
     <string name="mock_location_app">Selecionar aplicativo de localização fictícia</string>
+    <string name="mock_location_app_not_set">Aplicativo de localização fictícia não definido</string>
+    <string name="mock_location_app_set">Aplicativo de localização fictícia: %1$s</string>
     <string name="mode_disable">Desativado</string>
     <string name="mode_enable">Ativado</string>
     <string name="model_name">Nome do modelo</string>
@@ -2203,8 +2213,10 @@ Você ainda pode usar sua impressão digital para autorizar compras e acessar ap
     <string name="select_logpersist_dialog_title">Selecione os buffers de log para armazenar de forma persistente no dispositivo</string>
     <string name="select_logpersist_title">Armazenar dados do logger de forma persistente</string>
     <string name="select_ssid_type_title">Selecionar SSID</string>
-    <string name="select_usb_configuration_dialog_title">Selecionar configuração USB</string> Mude Selecionar
+    <string name="select_usb_configuration_title">Selecionar configuração USB</string>
+    <string name="select_usb_configuration_dialog_title">Selecionar configuração USB</string>
     <string name="select_webview_provider_dialog_title">Definir a implementação do WebView</string>
+    <string name="select_webview_provider_title">Implementação WebView</string>
     <string name="select_webview_provider_toast_text">Esta escolha não é mais válida. Tente novamente.</string>
     <string name="service_manage">Configuração</string>
     <string name="service_stop_description">O app iniciou este serviço em execução. Pará-lo poderá causar erros.</string>
@@ -2243,7 +2255,9 @@ Você ainda pode usar sua impressão digital para autorizar compras e acessar ap
     <string name="show_owner_info_on_lockscreen_label">Mostrar assinatura na Tela de bloqueio</string>
     <string name="show_rounded_corners">Exibir cantos de tela arredondados</string>
     <string name="show_screen_updates">Mostrar atualizações da tela</string>
-    <string name="show_password">Mostrar senhas</string>    
+    <string name="show_screen_updates_summary">Intermitências da tela ao atualizarem</string>
+    <string name="show_password">Mostrar senhas</string>  
+    <string name="show_touches_summary">Mostrar toques</string>
     <string name="show_user_info_on_lockscreen_label">Mostrar info. do proprietário na Tela de bloqueio</string>
     <string name="shut_down_find_device_network_failure_content">"Não foi possível desativar o 'Encontrar dispositivo'. Certifique-se de que o dispositivo tem uma conexão com a internet."</string>
     <string name="shut_down_find_device_network_failure_title">Não é possível conectar-se à rede</string>
@@ -2557,6 +2571,7 @@ Toque no + para adicionar palavras."</string>
     <string name="user_experience_program_title">Programa de Experiência do Usuário</string>
     <string name="user_installed_services_category_title">Serviços baixados</string>
     <string name="user_settings_forbidden">Não é possível alterar as configurações de administrador no espaço atual. Volte ao Primeiro Espaço.</string>
+    <string name="verify_apps_over_usb_summary">Verificar os aplicativos instalados via ADB/ADT para detectar comportamentos perigosos</string>
     <string name="verify_apps_over_usb_title">Verificar aplicativos USB</string>
     <string name="vibrate_category_title">Vibrar</string>
     <string name="vibrate_in_normal_title">Vibrar quando tocando</string>
