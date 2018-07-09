@@ -4,7 +4,11 @@
 
 MIUI V10 Brazilian Portuguese translation for all supported devices. 
 
-MIUI Translation: Feurrado (Thiago Moreira)
+MIUI Translation:
+
+Feurrado (Thiago Moreira)
+
+Lobianco (Sérgio Lobiando)
 
 Credits to:
 
