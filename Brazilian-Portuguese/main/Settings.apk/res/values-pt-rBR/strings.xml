@@ -49,10 +49,11 @@ Passo 2: Toque e segure dois dedos até ouvir a confirmação de áudio
     <string name="accessibility_lock_screen_progress">%1$d de %2$d caracteres utilizados</string>
     <string name="accessibility_long_press_timeout_preference_title">Atraso de tocar sem soltar</string>    
     <string name="accessibility_display_daltonizer_preference_subtitle">Esta funcionalidade é experimental e pode afetar o desempenho</string>
-    <string name="accessibility_display_daltonizer_preference_title">Correcção de cor</string>
+    <string name="accessibility_display_daltonizer_preference_title">Correção de cor</string>
     <string name="accessibility_display_inversion_preference_subtitle">(Experimental) Pode afetar o desempenho</string>
     <string name="accessibility_menu_item_settings">Configurações</string>
     <string name="accessibility_more_settings">Configurações adicionais</string>
+    <string name="accessibility_no_service_selected">Sem serviços selecionados</string>
     <string name="accessibility_no_wifi">Desconectado do Wi-Fi.</string>
     <string name="accessibility_screen_magnification_enable">Gestos de ampliação</string>
     <string name="accessibility_screen_magnification_navbar_summary">"Se a ampliação estiver ativada, use o botão Acessibilidade localizado na parte inferior da tela para ampliar rapidamente.
@@ -312,6 +313,7 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="app_usage_preference">Preferências de utilização do aplicativo</string>
     <string name="app_version">Versão</string>
     <string name="app_wifi">Wi-Fi</string>
+    <string name="apps_summary_example">24 Aplicativos instalados</string>
     <string name="application_forbid_auto_startup">Impedir %s de iniciar em segundo plano</string>
     <string name="application_info_label">Informações do aplicativo</string>
     <string name="application_item_already_permission">Permitido</string>
@@ -349,6 +351,7 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="assisted_gps_disabled">Utilizar servidor para assistir GPS (ativar para melhorar o desempenho do GPS)</string>
     <string name="assisted_gps_enabled">Utilizar servidor para assistir GPS (desativar para reduzir a utilização de rede)</string>
     <string name="attempt_other_network">Trocar rede</string>
+    <string name="audio_and_captions_category_title">Áudio &amp; texto "on-screen"</string>
     <string name="audio_profile_settings_title">Perfis de áudio</string>
     <string name="audio_list_loading">Carregando…</string>
     <string name="audio_record_proc_title">Redução de ruído</string>
@@ -660,7 +663,7 @@ Taxa de amostra"</string>
     <string name="bugreport_in_power">Atalho para relatório de bugs</string>
     <string name="button_convert_fbe">Limpar e converter…</string>
     <string name="button_disconnect_network">Desconectar-se da rede</string>
-    <string name="button_light_timeout">Manter luz dos botões ativada</string>
+    <string name="button_light_timeout">Ativar luz dos botões por</string>
     <string name="button_text_accept">Aceitar</string>
     <string name="button_text_accept_timer">Aceitar (%d)</string>
     <string name="button_text_cancel">Cancelar</string>
@@ -692,6 +695,7 @@ Taxa de amostra"</string>
     <string name="cancel_alert">Descartar suas alterações?</string>
     <string name="cancel_button">Cancelar</string>
     <string name="cancel_download_buton_text">Cancelar</string>
+    <string name="captioning_preview_title">Exemplo</string>
     <string name="cellular_data_title">Dados móveis</string>
     <string name="change_password">Alterar bloqueio de tela</string>
     <string name="change_security_lock">Tente outros métodos de desbloqueio</string>
@@ -775,6 +779,7 @@ Taxa de amostra"</string>
     <string name="current_use_uicc_se">Usando elemento de segurança no cartão SIM</string>
     <string name="current_use_uicc_wallet">Você está usando o Wallet no SIM %1$s</string>
     <string name="current_zone">(atual)</string>
+    <string name="daltonizer_type">Modo de correção</string>
     <string name="dashboard_title">Configurações</string>
     <string name="data_usage_cellular_data">Rede móvel</string>
     <string name="data_usage_disable_wifi_limit">Definir limite de dados Wi-Fi</string>
@@ -872,6 +877,7 @@ Taxa de amostra"</string>
     <string name="display_label">Tela</string>
     <string name="display_settings">Tela</string>
     <string name="display_settings_title">Tela</string>
+    <string name="display_summary_example">Desligar após 10 minutos de inatividade</string>
     <string name="dndm_alarm_content">Sons</string>
     <string name="dndm_alarm_content_all">Permitir tudo</string>
     <string name="dndm_alarm_content_call">Chamadas</string>
@@ -1159,6 +1165,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="install_whole_rom">Download da ROM</string>
     <string name="instruction_privacy_password">Esta senha protege os seguintes itens</string>
     <string name="instruction_title">Instruções</string>
+    <string name="interaction_control_category_title">Controles de interação</string>
     <string name="immediately_destroy_activities">Não manter atividades em segundo plano</string>
     <string name="item_system_app">Apps do sistema</string>
     <string name="keep_legacy_fingerprint">Manter</string>
@@ -1946,6 +1953,7 @@ Selecione seu sistema operacional:"</string>
     <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Conexão com a internet</string>
     <string name="screen_paper_mode_update_white_pkg_list_summary">Atualizar a lista de apps que usam o Modo de leitura automaticamente</string>
     <string name="screen_paper_mode_update_white_pkg_list_title">Atualizar automaticamente</string>
+    <string name="screen_reader_category_title">Texto para voz</string>
     <string name="screen_resolution_dialog_title">Alterar resolução</string>
     <string name="screen_resolution_high_format">Alta (%1$s)</string>
     <string name="screen_resolution_summary">Diminuir a resolução da tela pode aumentar a duração da bateria e melhorar a resposividade, mas as imagens na tela ficarão menos definidas.</string>
@@ -1956,10 +1964,23 @@ Selecione seu sistema operacional:"</string>
     <string name="screen_shot">Capturar tela</string>
     <string name="screen_timeout_summary">Após %1$s de inatividade</string>
     <string name="screen_timeout_title">Desativar tela</string>
+    <string name="screen_zoom_conversation_icon_alex">T</string>
+    <string name="screen_zoom_conversation_icon_pete">S</string>
+    <string name="screen_zoom_conversation_message_1">Eae Sérgio!</string>
+    <string name="screen_zoom_conversation_message_2">Fala Thiago, vamos acabar a tradução ainda hoje?</string>
+    <string name="screen_zoom_conversation_message_3">Vamos sim, a próxima atualização da MIUI.eu é amanhã, tem como dar uma olhada no repositório?</string>
+    <string name="screen_zoom_conversation_message_4">Já estou verificando o repositório, até mais!</string>
+    <string name="screen_zoom_conversation_timestamp_1">6:02PM</string>
+    <string name="screen_zoom_conversation_timestamp_2">6:05PM</string>
+    <string name="screen_zoom_conversation_timestamp_3">6:11PM</string>
+    <string name="screen_zoom_conversation_timestamp_4">6:13PM</string>
+    <string name="screen_zoom_summary">Faz os itens na sua tela ficarem maiores ou menores. Alguns aplicativos podem mudar de posição.</string>
+    <string name="screen_zoom_summary_default">Padrão</string>
     <string name="screen_zoom_summary_custom">Personalizado (%d)</string>
     <string name="screen_zoom_summary_extremely_large">Enorme</string>
     <string name="screen_zoom_summary_small">Pequeno</string>
     <string name="screen_zoom_summary_very_large">Maior</string>
+    <string name="screen_zoom_title">Tamanho do conteúdo</string>
     <string name="screenshot">Captura de tela</string>
     <string name="screenshot_three_gesture">Deslize 3 dedos para baixo para capturar a tela</string>
     <string name="screenshot_three_gesture_summary">Outros gestos com 3 dedos serão desativados</string>
@@ -2267,6 +2288,7 @@ PIN possivelmente incorreto."</string>
     <string name="sms_received_sound_dialog_title">Escolha o toque de mensagem recebida</string>
     <string name="sms_received_sound_title">Mensagem recebida</string>
     <string name="sound_category_call_ringtone_vibrate_title">Toque &amp; vibração</string>
+    <string name="sound_settings_example_summary">Volume em 80%</string>
     <string name="sound_vibrate_settings">Sons &amp; vibração</string>
     <string name="spellchecker_switch_title">Ativar Corretor ortográfico</string>
     <string name="split_screen">Abrir Tela dividida</string>
@@ -2533,6 +2555,7 @@ Toque no + para adicionar palavras."</string>
     <string name="user_experience_program">Programa de Experiência do Usuário</string>
     <string name="user_experience_program_summary">Ajude-nos a melhorar nossos produtos e serviços compartilhando suas estatísticas de uso conosco</string>
     <string name="user_experience_program_title">Programa de Experiência do Usuário</string>
+    <string name="user_installed_services_category_title">Serviços baixados</string>
     <string name="user_settings_forbidden">Não é possível alterar as configurações de administrador no espaço atual. Volte ao Primeiro Espaço.</string>
     <string name="verify_apps_over_usb_title">Verificar aplicativos USB</string>
     <string name="vibrate_category_title">Vibrar</string>
