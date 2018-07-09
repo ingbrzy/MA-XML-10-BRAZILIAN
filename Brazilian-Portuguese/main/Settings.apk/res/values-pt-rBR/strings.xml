@@ -798,6 +798,7 @@ Taxa de amostra"</string>
     <string name="date_time_settings">Data &amp; hora</string>
     <string name="date_time_set_timezone">Selecionar fuso horário</string>    
     <string name="day_of_week">Dia da semana</string>
+    <string name="debug_applications_category">Aplitivos</string>
     <string name="debug_app">Selecionar aplicativo de depuração</string>
     <string name="debug_app_not_set">Nenhum aplicativo de depuração definido</string>
     <string name="debug_app_set">Depuração de aplicativo: %1$s</string>
@@ -2384,6 +2385,7 @@ Todos os apps armazenados neste ^1 serão desinstalados, e os dados deles serão
     <string name="storage_wizard_format_confirm_third_body">O ^1 está sendo formatado</string>
     <string name="storage_wizard_migrate_body">"Você pode mover suas fotos, arquivos e alguns apps para este novo ^1. 
 A mudança leva cerca de ^2 e irá liberar ^3 no armazenamento interno. Alguns apps podem não funcionar durante a migração."</string>
+    <string name="strict_mode_summary">Intermitência da tela quando aplicativos executem operações longas na janela principal</string>
     <string name="structure_add_facerecoginition_text">Adicionar dados faciais 3D</string>
     <string name="suggest_unrestrict_max_aspect_ratio_title">Estes apps funcionam melhor em tela cheia</string>
     <string name="suggestion_for_phone_recycled">Adicionar um número de telefone diferente</string>
