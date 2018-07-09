@@ -831,6 +831,7 @@ Taxa de amostra"</string>
     <string name="device_battery">Bateria</string>
     <string name="device_build_id">Número da versão</string>
     <string name="device_complete_parameters">Todas as especificações</string>
+    <string name="device_cpu">Processador</string>
     <string name="device_cpu10_info">"Deca-core "</string>
     <string name="device_cpu2_info">"Dual-core "</string>
     <string name="device_cpu4_info">"Quad-core "</string>
@@ -847,9 +848,9 @@ Taxa de amostra"</string>
     <string name="device_name_input_hint">Inserir nome</string>
     <string name="device_name_input_overlength">Você excedeu o limite de caracteres</string>
     <string name="device_name_usage_point">Dispositivos próximos poderão ver este nome.</string>
-    <string name="device_rear_camera">Câmera</string>
-    <string name="device_screen_resolution">Resolução</string>
-    <string name="device_screen_size">Tela</string>
+    <string name="device_rear_camera">Câmera traseira</string>
+    <string name="device_screen_resolution">Resolução da tela</string>
+    <string name="device_screen_size">Tamanho da tela</string>
     <string name="device_sd_memory">Cartão SD</string>
     <string name="device_share_loading">Criando imagem</string>
     <string name="device_total_memory">Armazenamento total</string>
