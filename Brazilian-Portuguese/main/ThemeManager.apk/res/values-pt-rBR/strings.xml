@@ -101,7 +101,6 @@
     <string name="incompatible_dialog_ok">OK</string>
     <string name="incompatible_dialog_title">Problemas de compatibilidade</string>
     <string name="is_setting_wallpaper_message">Definindo plano de fundo…</string>
-    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Alarmes</string>
     <string name="item_resource_audio_optional_color_ring">Tom de chamada</string>
     <string name="item_resource_audio_optional_notification_ring">Notificações</string>
@@ -294,7 +293,6 @@
     <string name="resource_pack_price_info">Preço original: %1$s</string>
     <string name="resource_pack_warning">Você já comprou %1$d componentes neste tema. Será mais barato comprar os componentes restantes individualmente.</string>
     <string name="resource_present">Presente</string>
-    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Grátis</string>
     <string name="resource_price_unit">Mi Credits</string>
     <string name="resource_purchase_common_error">Ocorreu um erro, tente novamente</string>

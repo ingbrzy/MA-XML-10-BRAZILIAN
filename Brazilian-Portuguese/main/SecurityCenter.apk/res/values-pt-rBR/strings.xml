@@ -1365,9 +1365,7 @@ velocidade do seu dispositivo"</string>
     <string name="menu_text_antispam">Lista de bloqueio</string>
     <string name="menu_text_license_manager">Permissões</string>
     <string name="menu_text_garbage_cleanup">Limpeza</string>
-    <string name="menu_text_garbage_cleanup_danger">%s excedido</string>
     <string name="menu_text_power_manager">Uso da bateria</string>
-    <string name="menu_text_power_percent_title">Bateria %s</string>
     <string name="menu_text_power_percent_title_default">Bateria</string>
     <string name="last_check_canceled">A última verificação foi cancelada</string>
     <string name="examination_score_100">Tudo em ordem!</string>
