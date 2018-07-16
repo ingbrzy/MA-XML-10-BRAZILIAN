@@ -2104,6 +2104,7 @@ Selecione seu sistema operacional:"</string>
     <string name="search_privacy_policy">Política de Privacidade</string>
     <string name="search_privacy_settings">Fazer backup &amp; redefinir;Fazer backup e restaurar;Backup;Restaurar;Backup</string>
     <string name="search_radio_controls_title">Mais;Sem fio</string>
+    <string name="search_results_title">Configurações</string>
     <string name="search_ring_volume_option_title">Volumes;volume;Toques &amp; notificações;toque;toques;Alarme;Música</string>
     <string name="search_ringtone_title">Toque do telefone;toque;toques</string>
     <string name="search_screen_effect">Cores &amp; saturação;Cores &amp; contraste;Saturação de cores;contraste</string>
