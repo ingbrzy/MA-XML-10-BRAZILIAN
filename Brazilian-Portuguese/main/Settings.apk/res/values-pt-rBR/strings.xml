@@ -2776,6 +2776,7 @@ Toque no + para adicionar palavras."</string>
     <string name="wifi_scan_always_available_summary">Permitir que o serviço de localização do Google e outros apps verifiquem redes, mesmo que o Wi-Fi esteja desligado</string>
     <string name="wifi_security_none">Nenhum</string>
     <string name="wifi_setting_category">Redes disponíveis</string>
+    <string name="wifi_settings_category">Configurações do Wi-Fi</string>
     <string name="wifi_setting_frequency_band_error">Houve um problema ao definir a banda de frequência.</string>
     <string name="wifi_setting_frequency_band_summary">Especificar a banda de frequência de operação</string>
     <string name="wifi_setting_frequency_band_title">Banda de frequência do Wi-Fi</string>
