@@ -9,7 +9,7 @@
     <string name="ac_enable_summary">Definir uma senha para apps individuais</string>
     <string name="ac_enable_title">Bloqueio de apps</string>
     <string name="ac_privacy_mode_sum">Exigir uma senha para desativar o Modo convidado</string>
-    <string name="ac_privacy_mode_title">Senha</string>
+    <string name="ac_privacy_mode_title">Bloqueio de tela</string>
     <string name="ac_set_apps_title">Escolher apps para bloquear</string>
     <string name="accelerometer_summary_off">Trocar orientação automaticamente ao girar o telefone</string>
     <string name="accelerometer_summary_on">Trocar orientação automaticamente ao girar o telefone</string>
@@ -566,6 +566,8 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="bluetooth_profile_map">Usado para acessar mensagens</string>
     <string name="bluetooth_profile_pan">Acesso à internet</string>
     <string name="bluetooth_profile_pan_nap">Compart. de conexão com a internet</string>
+    <string name="bluetooth_profile_pbap">Compartilhar contatos</string>
+    <string name="bluetooth_profile_pbap_summary">Utilizar para compartilhamento de contatos</string>
     <string name="bluetooth_profile_sap">Usado para acesso ao SIM</string>
     <string name="bluetooth_sap_profile_summary_connected">Conectado ao SAP</string>
     <string name="bluetooth_sap_profile_summary_use_for">Usar para acesso ao SIM</string>
@@ -578,8 +580,12 @@ Modo de canal"</string>
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Codec de áudio Bluetooth LDAC: Qualidade de reprodução</string>
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Codec de áudio Bluetooth LDAC:
 Qualidade de reprodução"</string>
+    <string name="bluetooth_select_a2dp_codec_channel_mode">Modo do Canal Bluetooth</string>
+  <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Selecione o modo de canal desejado"</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Selecionar codec de áudio bluetooth:
 Taxa de amostra"</string>
+      <string name="bluetooth_select_a2dp_codec_sample_rate">Frequência das amostras de audio</string>
+      <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Selecione a frequência desejada"</string>
     <string name="bluetooth_select_avrcp_version_dialog_title">Selecionar versão Bluetooth AVRCP</string>
     <string name="bluetooth_select_avrcp_version_string">Versão Bluetooth AVRCP</string>
     <string name="bluetooth_tether_checkbox_text">Compartilhamento por Bluetooth</string>
@@ -798,10 +804,11 @@ Taxa de amostra"</string>
     <string name="date_time_settings">Data &amp; hora</string>
     <string name="date_time_set_timezone">Selecionar fuso horário</string>    
     <string name="day_of_week">Dia da semana</string>
-    <string name="debug_applications_category">Aplitivos</string>
+    <string name="debug_applications_category">Aplicativos</string>
     <string name="debug_app">Selecionar aplicativo de depuração</string>
     <string name="debug_app_not_set">Nenhum aplicativo de depuração definido</string>
     <string name="debug_app_set">Depuração de aplicativo: %1$s</string>
+    <string name="debug_debugging_category">Depuração</string>
     <string name="debug_hw_drawing_category">Aceleração de hardware</string>
     <string name="debug_hw_overdraw">Depurar GPU</string>
     <string name="debug_hw_renderer">Definir renderizador da GPU</string>
@@ -930,6 +937,8 @@ Taxa de amostra"</string>
     <string name="double_click_power_key">Toque duplo no botão Liga/Desliga</string>
     <string name="download_current_rom">Obter a última versão do MIUI</string>
     <string name="downloading_description">Fazendo download…</string>
+    <string name="draw_overlay">Sobrepor a outros aplicativos</string>
+    <string name="draw_overlay_title">Aplicativos que se podem se sobrepor a outros aplicativos</string>
     <string name="dtmf_tone_enable_title">Tons do discador</string>
     <string name="edge_mode_back">Voltar</string>
     <string name="edge_mode_back_summary">Toque duas vezes na borda do telefone para voltar</string>
@@ -1000,7 +1009,7 @@ Taxa de amostra"</string>
     <string name="fingerprint_and_password_entrance_title">Bloqueio de tela &amp; impressão digital</string>
     <string name="fingerprint_apply_to_privacy_password">Senha de proteção de privacidade</string>
     <string name="fingerprint_apply_to_privacy_password_scenarios">A Senha de proteção de privacidade protege suas mensagens, fotos, arquivos, anotações e apps.</string>
-    <string name="fingerprint_first_open_screen_password_face_tittle">Rosto (definir senha da Tela de bloqueio primeiro)</string>
+    <string name="fingerprint_first_open_screen_password_face_tittle">Reconhecimento facial e digital</string>
     <string name="fingerprint_first_open_screen_password_tittle">Impressão digital (definir senha da Tela de bloqueio primeiro)</string>
     <string name="fingerprint_for_keyguard_disabled">A impressão digital foi desativada pelas configurações de segurança.</string>
     <string name="fingerprint_identify_input_password_msg">Inserir senha</string>
@@ -1203,6 +1212,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="keywords_do_not_disturb">DND;Não perturbe;Modo não perturbe;Noite;Dormir;Ocupado</string>
     <string name="keywords_gps">GPS;Localização;Serviços de localização;Satélite</string>
     <string name="keywords_hotspot">Hotspot;Vínculo;Tethering;Hotspot pessoal;Hotspot portátil</string>
+    <string name="keywords_install_other_apps">instalar apps de fontes desconhecidas</string>
     <string name="keywords_paper_mode">Fluxo;Leitura;Modo de leitura;Luz azul;Proteger olhos</string>
     <string name="keywords_quick_ball">Acesso rápido;atalho;atalhos;botões;botão</string>
     <string name="keywords_silent">Silencioso;Mudo;Desativar toque</string>
@@ -1895,6 +1905,8 @@ Selecione seu sistema operacional:"</string>
     <string name="reset_second_space_passwd_cancel">Cancelar</string>
     <string name="reset_second_space_passwd_confirm">Continuar</string>
     <string name="reset_second_space_passwd_detail">Insira a senha da Conta Mi usada no Primeiro Espaço</string>
+    <string name="reset_shortcut_manager_throttling">Resetar limitação da taxa de "ShortcutManager"</string>
+    <string name="reset_shortcut_manager_throttling_complete">A taca de "ShortcutManager" foi resetada</string>
     <string name="resetting_second_space_passwd">Redefinindo a senha do Segundo Espaço</string>
     <string name="resolver_settings_label">Ordenar</string>
     <string name="restrict_bg_app">Restringir</string>
@@ -2245,6 +2257,8 @@ Você ainda pode usar sua impressão digital para autorizar compras e acessar ap
     <string name="show_all_anrs_summary">Mostrar \"App não responde\" para apps em seg. plano</string>
     <string name="show_connected_devices_summary">Ver dispositivos conectados</string>
     <string name="show_connected_devices_title">Dispositivos conectados</string>
+    <string name="show_dev_already">As opções de desenvolvedor já estão ativas!</string>
+    <string name="show_dev_on">XABLAU, virou um desenvolvedor!</string>
     <string name="show_fc">Apps fechados forçadamente</string>
     <string name="show_fc_summary">Mostrar apps que foram fechados à força</string>
     <string name="show_hw_layers_updates">Mostrar atualizações de hardware</string>
@@ -2308,6 +2322,7 @@ PIN possivelmente incorreto."</string>
     <string name="sound_category_call_ringtone_vibrate_title">Toque &amp; vibração</string>
     <string name="sound_settings_example_summary">Volume em 80%</string>
     <string name="sound_vibrate_settings">Sons &amp; vibração</string>
+    <string name="special_access">Acesso especial de aplicativos</string>
     <string name="spellchecker_switch_title">Ativar Corretor ortográfico</string>
     <string name="split_screen">Abrir Tela dividida</string>
     <string name="stable_build">Estável</string>
@@ -2336,6 +2351,7 @@ PIN possivelmente incorreto."</string>
     <string name="status_bar_settings_custom_carrier">Editar nome da operadora</string>
     <string name="status_bar_settings_custom_wifi_name">Editar nome da rede Wi-Fi</string>
     <string name="status_bar_settings_enable_notification">Mostrar notificações</string>
+    <string name="status_bar_settings_expandable_under_keyguard">Mostrar na tela de bloqueio</string>
     <string name="status_bar_settings_long_click_sort">Pressione &amp; segure para pegar um atalho</string>
     <string name="status_bar_settings_manage_notification">Notificações de apps</string>
     <string name="status_bar_settings_no_carrier">Sem nome</string>
@@ -2732,7 +2748,7 @@ Toque no + para adicionar palavras."</string>
     <string name="wifi_info_reconnect">Não foi possível conectar-se, tente novamente.</string>
     <string name="wifi_menu_p2p">Wi-Fi Direct</string>
     <string name="wifi_menu_wfd">Display sem fios</string>
-    <string name="wifi_network_optimization">Conexão otimizada</string>
+    <string name="wifi_network_optimization">Opções do WI-FI</string>
     <string name="wifi_network_prefix_length">Tamanho do prefixo</string>
     <string name="wifi_no_internet">Não é possível conectar-se à internet</string>
     <string name="wifi_no_internet_no_reconnect">Não é possível conectar-se à internet</string>
@@ -2756,6 +2772,7 @@ Toque no + para adicionar palavras."</string>
     <string name="wifi_priority_type_title">Definir prioridade do AP manualmente</string>
     <string name="wifi_property">Propriedades do Wi-Fi</string>
     <string name="wifi_quick_toggle_summary">Ativar Wi-Fi</string>
+    <string name="wifi_remembered">Salva</string>
     <string name="wifi_remembered_disabled_auto_connect">Salva. Conexão automática desativada.</string>
     <string name="wifi_required_info_text">Para concluir a configuração, seu dispositivo precisa acessar uma rede Wi-Fi. Após a instalação, você poderá alternar entre a conexão de dados móveis e o Wi-Fi.</string>
     <string name="wifi_scan_always_available">Verificação sempre disponível</string>
