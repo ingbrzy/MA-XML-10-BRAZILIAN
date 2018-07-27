@@ -320,7 +320,6 @@ Use somente o carregador fornecido."</string>
     <string name="memory_clear_result_giga">%1$sGB limpos</string>
     <string name="memory_clear_result_mega">%1$sMB limpos</string>
     <string name="miui_ringer_count_down">Contagem regressiva</string>
-    <string name="miui_ringer_count_down_time">Contagem regressiva: %s</string>
     <string name="miui_ringer_standard">Silencioso</string>
     <string name="miui_ringer_standard_description">Silenciar toque para chamadas e notificações recebidas</string>
     <string name="miui_ringer_total">Não perturbe</string>

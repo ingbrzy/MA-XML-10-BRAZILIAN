@@ -119,7 +119,6 @@
     <string name="note_sort_way">Selecione como deseja ordenar as anotações</string>
     <string name="notealert_enter">Abrir anotação</string>
     <string name="notealert_ok">Dispensar</string>
-    <string name="notelist_string_info">...</string>
     <string name="notify_alarm_title">Lembrete da anotação</string>
     <string name="permdesc_accessNote">Apps maliciosos podem usar isto para acessar seus dados pessoais.</string>
     <string name="permlab_accessNote">Acessar anotações</string>
