@@ -581,9 +581,6 @@ Modo de canal"</string>
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Codec de áudio Bluetooth LDAC:
 Qualidade de reprodução"</string>
     <string name="bluetooth_select_a2dp_codec_channel_mode">Modo do Canal Bluetooth</string>
-  <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Selecione o modo de canal desejado"</string>
-    <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Selecionar codec de áudio bluetooth:
-Taxa de amostra"</string>
       <string name="bluetooth_select_a2dp_codec_sample_rate">Frequência das amostras de audio</string>
       <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Selecione a frequência desejada"</string>
     <string name="bluetooth_select_avrcp_version_dialog_title">Selecionar versão Bluetooth AVRCP</string>
