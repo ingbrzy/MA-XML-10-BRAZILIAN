@@ -8,7 +8,7 @@ MIUI Translation:
 
 Feurrado (Thiago Moreira)
 
-Lobianco (Sérgio Lobiando)
+Lobianco (Sérgio Lobianco)
 
 Credits to:
 
