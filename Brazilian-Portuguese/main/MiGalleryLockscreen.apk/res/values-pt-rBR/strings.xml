@@ -19,4 +19,6 @@
     <string name="abc_shareactionprovider_share_with">Compartilhar com</string>
     <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
     <string name="abc_toolbar_collapse_description">Recolher</string>
+    <string name="apply_to_screenlock">Aplicar na tela de bloqueio</string>
+    <string name="apply_to_wallpaper">Aplicar na tela inicial</string>
 </resources>
