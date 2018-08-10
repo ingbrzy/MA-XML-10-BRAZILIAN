@@ -1156,6 +1156,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="high_power_prompt_title">Permitir que o app sempre esteja em execução em segundo plano?</string>
     <string name="home">Configurações da Tela inicial</string>
     <string name="home_key">Início</string>
+    <string name="http_invoke_app">Aplicativos Web</string>
     <string name="http_invoke_app_summary">Abra apps rapidamente sem instalá-los</string>
     <string name="ime_security_warning">%1$s pode gravar tudo o que você digitar, inclusive senhas, números de cartões de crédito e outros dados pessoais.</string>
     <string name="immediately_destroy_activities_summary">Encerrar atividades assim que o usuário sair dela</string>
@@ -1399,6 +1400,7 @@ para o Segundo Espaço"</string>
     <string name="media_button">Botão de mídia</string>
     <string name="media_category">Multimedia</string>
     <string name="media_feedback_enable_title">Vibrar com a batida</string>
+    <string name="media_volume_option_title">Volume multimedia</string>
     <string name="megabyte_per_second">MB/s</string>
     <string name="memory_apps_usage">Aplicativos e dados</string>
     <string name="memory_clear_cache_message">Isto vai limpar os dados em cache de todos os aplicativos</string>    
