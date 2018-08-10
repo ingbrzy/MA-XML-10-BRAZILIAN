@@ -58,7 +58,7 @@
     </plurals>
     <plurals name="manage_trust_agents_summary_on">
         <item quantity="other">%d Agentes confiáveis ativos</item>
-        <item quantity="one">1 Agente confiável ativo/item>
+        <item quantity="one">1 Agente confiável ativo</item>
     </plurals>
     <plurals name="settings_toggle_position_divider_page">
         <item quantity="other">%1$d atalhos aparecerão na Área de notificações</item>
