@@ -412,7 +412,6 @@
     <string name="dual_camera_lens_covered_toast">A lente está coberta.</string>
     <string name="dual_camera_use_hint">Certifique-se de que o objeto não está mais distante do que 2 metros.</string>
     <string name="bokeh_use_hint">Efeito de profundidade</string>
-    <string name="back_bokeh_use_hint">"Make sure the object isn't further than 1.5 meters."</string>
     <string name="pref_camera_zoom_ratio_wide">100</string>
     <string name="pref_camera_zoom_ratio_tele">200</string>
     <string name="pref_camera_zoom_mode_title">LENTES</string>
