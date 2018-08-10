@@ -1404,8 +1404,8 @@ para o Segundo Espaço"</string>
     <string name="megabyte_per_second">MB/s</string>
     <string name="memory_apps_usage">Aplicativos e dados</string>
     <string name="memory_clear_cache_message">Isto vai limpar os dados em cache de todos os aplicativos</string>    
-    <string name="memory_system_rom">Armaz. do sistema</string>
-    <string name="memory_system_space">Armaz. do sistema</string>
+    <string name="memory_system_rom">Armazenamento do sistema</string>
+    <string name="memory_system_space">Armazenamento do sistema</string>
     <string name="memory_title">"Disponível:  %1$s\u0009\u0009Total: %2$s"</string>
     <string name="menu_check">Experiência</string>
     <string name="menu_restore">Redefinir</string>
