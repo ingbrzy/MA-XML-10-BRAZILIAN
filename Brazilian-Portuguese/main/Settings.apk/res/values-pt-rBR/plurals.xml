@@ -56,6 +56,10 @@
         <item quantity="other">Aguarde por %d segundos e tente novamente.</item>
         <item quantity="one">Aguarde por %d segundo e tente novamente.</item>
     </plurals>
+    <plurals name="manage_trust_agents_summary_on">
+        <item quantity="other">%d Agentes confiáveis ativos</item>
+        <item quantity="one">1 Agente confiável ativo/item>
+    </plurals>
     <plurals name="settings_toggle_position_divider_page">
         <item quantity="other">%1$d atalhos aparecerão na Área de notificações</item>
         <item quantity="one">%1$d atalho aparecerá na Área de notificações</item>
