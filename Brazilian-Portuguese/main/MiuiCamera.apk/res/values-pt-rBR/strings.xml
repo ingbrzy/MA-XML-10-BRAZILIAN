@@ -11,6 +11,7 @@
     <string name="camera_label">Câmera</string>
     <string name="video_camera_label">Filmadora</string>
     <string name="wait">Aguarde…</string>
+    <string name="back_bokeh_use_hint">"Certifique-se de que o objeto não está a mais de 1.5 metros."</string>
     <string name="no_storage">Insira o cartão SD antes de usar a câmera</string>
     <string name="not_enough_space">O armazenamento interno está cheio</string>
     <string name="preparing_sd">Verificando o armazenamento interno…</string>
