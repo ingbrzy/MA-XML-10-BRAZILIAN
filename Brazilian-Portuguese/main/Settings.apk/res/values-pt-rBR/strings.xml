@@ -2242,6 +2242,7 @@ Você ainda pode usar sua impressão digital para autorizar compras e acessar ap
     <string name="settings_forbidden_message">Esta configuração é restrita</string>
     <string name="settings_label">Configurações</string>
     <string name="settings_label_launcher">Configurações</string>
+    <string name="settings_license_activity_title">Licenças código aberto</string>
     <string name="settings_notify_need_backup">Faça o backup de suas configurações na Mi Cloud para acessá-las quando trocar de telefone.</string>
     <string name="settings_notify_phone_recycled">Seu número de telefone foi reciclado. Toque para adicionar um número diferente.</string>
     <string name="settings_toggle_position_divider_list">Atalhos acima da barra estão ativos</string>
