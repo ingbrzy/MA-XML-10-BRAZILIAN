@@ -12,7 +12,6 @@
   <string name="bluetooth_in_airplane_mode">Em Modo Avião</string>
   <string name="bluetooth_map_settings_app_icon">Ícone do aplicativo</string>
   <string name="bluetooth_map_settings_cancel">Cancelar</string>
-  <string name="bluetooth_map_settings_count">xablaus restantes:</string>inda tem 
   <string name="bluetooth_map_settings_intro">Selecione as contas que pretende compartilhar através do Bluetooth</string>
   <string name="bluetooth_map_settings_no_account_slots_left">Não é possível selecionar a conta</string>
   <string name="bluetooth_map_settings_save">Salvar</string>
