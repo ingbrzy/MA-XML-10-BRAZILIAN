@@ -149,7 +149,7 @@
     <string name="call_status_dialing">Discando</string>
     <string name="call_status_holding">Em espera</string>
     <string name="call_status_ringing">Tocando</string>
-    <string name="camera_hint">Deslize do ícone para acessar a Câmera</string>
+    <string name="camera_hint">Deslize o ícone para acessar a Câmera</string>
     <string name="camera_key_action_app_title">Abrir app</string>
     <string name="camera_key_action_category_title">Usar se o app da Câmera não estiver aberto</string>
     <string name="camera_key_action_none_title">Nenhuma ação</string>
