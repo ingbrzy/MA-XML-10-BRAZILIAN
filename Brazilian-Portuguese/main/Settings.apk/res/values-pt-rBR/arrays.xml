@@ -76,9 +76,9 @@
         <item>Melhor efeito (taxa de bits adaptável)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
-        <item>Otimizado para qualidade de áudio (990kbps/909kbps)</item>
-        <item>Qualidade balanceada de áudio e conexão (660kbps/606kbps)</item>
-        <item>Otimizado para qualidade de conexão (330kbps/303kbps)</item>
+        <item>Otimizado para qualidade de áudio</item>
+        <item>Qualidade balanceada de áudio e conexão</item>
+        <item>Otimizado para qualidade de conexão</item>
         <item>Melhor efeito (taxa de bits adaptável)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
