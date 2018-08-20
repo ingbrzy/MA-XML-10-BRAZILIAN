@@ -1625,7 +1625,7 @@ Selecione seu sistema operacional:"</string>
     <string name="oldman_mode_entry_name">Modo simplificado</string>
     <string name="oldman_uninstalled_btn">Instalar</string>
     <string name="oldman_uninstalled_des">O Modo simplificado remove alguns itens visuais e mantém a sua Tela inicial simples e minimalista.</string>
-    <string name="onekey_migrate">Mi Drop</string> 
+    <string name="onekey_migrate">Mi Mover</string> 
     <string name="onehour">30 minutos</string>
     <string name="open_demo_mode">Ativar</string>
     <string name="open_demo_mode_warning_message">Quando o Modo de demonstração está ativado, o relógio da barra de status parará, e os ícones de sinal e bateria serão exibidos totalmente cheios. Você pode desativar o Modo de demonstração ou reiniciar o dispositivo para alterar isto.</string>
@@ -2098,7 +2098,7 @@ Selecione seu sistema operacional:"</string>
     <string name="search_notification_sound_title">Toque padrão de notificações;toque de notificação;toque de notificações</string>
     <string name="search_ntts_settings_title">TTS;Configurações de TTS</string>
     <string name="search_oldman_mode_entry_name">Modo Simplificado;Modo simples;Modo lite</string>
-    <string name="search_onekey_migrate">Mi Drop;Migração num clique</string> 
+    <string name="search_onekey_migrate">Mi Mover;Migração num clique</string> 
     <string name="search_other_advanced_settings">Configurações adicionais;Mais configurações</string>
     <string name="search_owner_info_settings_title">Informações do proprietário</string>
     <string name="search_page_layout_settings">Tamanho do texto;Tamanho da fonte;Fonte pequena;Fonte grande;Fonte média;Fonte EEG;Fonte enorme;Tamanho de fonte</string>
