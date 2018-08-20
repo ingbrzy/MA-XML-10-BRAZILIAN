@@ -55,8 +55,8 @@
     <string name="agenda_setting_brief_detail">Ver eventos planejados e lembretes de aniversários.</string>
     <string name="agenda_settings_account">Gerenciar contas de agenda</string>
     <string name="agenda_settings_birthday">Mostrar lembretes de aniversário</string>
-    <string name="app_label">App vault</string>
-    <string name="apps_label">Apps</string>
+    <string name="app_label">Assistente</string>
+    <string name="apps_label">Aplicativos</string>
     <string name="assistant_place">Reconhecer lugares frequentes</string>
     <string name="ball_CricketMatch_title">Cricket</string>
     <string name="ball_add_fav_team">Adicionar times</string>
