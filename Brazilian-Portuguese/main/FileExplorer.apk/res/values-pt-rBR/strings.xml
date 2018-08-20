@@ -515,8 +515,8 @@
   <string name="shortcut_exists">O atalho já existe</string>
   <string name="skip_file">Ignorar</string>
   <string name="smb_loading">Aguarde…</string>
-  <string name="sort_size_asc">Tamanho: Ascendente</string>
-  <string name="sort_size_desc">Tamanho: Descendente</string>
+  <string name="sort_size_asc">Tamanho: Maior</string>
+  <string name="sort_size_desc">Tamanho: Menor</string>
   <string name="start_server">Iniciar servidor</string>
   <string name="stay_awake_summary">Não deixar a tela em modo de suspensão quando estiver utilizando FTP</string>
   <string name="stay_awake_title">Manter a tela ligada</string>
