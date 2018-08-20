@@ -10,6 +10,7 @@
     <string name="accessibility_action_divider_top_50">Superior em 50%</string>
     <string name="accessibility_action_divider_top_70">Superior em 70%</string>
     <string name="accessibility_action_divider_top_full">Superior em tela cheia</string>
+    <string name="accessibility_ambient_display_charging">Carregando</string>
     <string name="accessibility_assistant">Menu de atalhos</string>
     <string name="accessibility_battery_level_charging">Bateria carregando, %d por cento.</string>
     <string name="accessibility_battery_one_bar">Bateria uma barra.</string>
@@ -289,7 +290,8 @@ Use somente o carregador fornecido."</string>
     <string name="keyboard_shortcut_group_applications">Apps</string>
     <string name="keyboard_shortcut_group_system_shortcuts_helper">Atalhos de teclado</string>
     <string name="keyboard_shortcut_group_system_switch_input">Trocar método de entrada</string>
-    <string name="keyguard_indication_charging_time_fast">Carregando rapidamente (%s até concluir)</string>
+    <string name="keyguard_charging_info_tip_text2">Não carregue muito o seu dispositivo. É melhor carregar várias vezes do que deixar carregando a noite toda</string>
+    <string name="keyguard_indication_charging_time_fast">Quick Charge ativado (%s até concluir)</string>
     <string name="keyguard_indication_charging_time_slowly">Carregando lentamente (%s até concluir)</string>
     <string name="label_view">Ver</string>
     <string name="left_icon">Ícone do botão esquerdo</string>
@@ -427,6 +429,7 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
     <string name="notification_template_text">" tem uma notificação. Toque para ver."</string>
     <string name="oldman_airplane_mode_text">Modo avião</string>
     <string name="oldman_incall_text">Voltar à chamada</string>
+    <string name="open_camera_hint_text">Deslize para a esquerda para abrir a Câmera</string>
     <string name="phone_hint">Deslize do ícone para telefonar</string>
     <string name="phone_label">Abrir Telefone</string>
     <string name="pip_menu_title">Menu do picture in picture</string>
