@@ -153,6 +153,8 @@
     <string name="search_setting_description">Procurar texto em suas anotações</string>
     <string name="select_account_prompt">Sincronizar anotações</string>
     <string name="set_alarm_description">Definir alarme</string>
+    <string name="setting_other">Outros</string>
+    <string name="setting_privacy">Política de Privacidade</string>
     <string name="snippet_audio_stub">Anotação com voz</string>
     <string name="snippet_image_stub">Anotação com imagem</string>
     <string name="snippet_image_template">[Imagem %1$s]</string>
