@@ -564,7 +564,7 @@ Lembre-se de que os arquivos que você baixar e favoritos que adicionar serão s
     <string name="pref_security_show_security_warning_summary">Mostrar alerta em caso de problemas com o certificado de um site</string>
     <string name="pref_set_homepage_to">Definir para</string>
     <string name="pref_setting_title">Configurações de página</string>
-    <string name="pref_ua_string">String de User Agent</string>
+    <string name="pref_ua_string">Agente confiável</string>
     <string name="pref_version_info">Info. da versão</string>
     <string name="pref_volume_key_action">Rolar página com botões de vol.</string>
     <string name="progress_dialog_setting_wallpaper">Definindo plano de fundo…</string>
