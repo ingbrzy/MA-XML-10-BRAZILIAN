@@ -321,7 +321,7 @@
   <string name="no_message">Sem mensagens</string>
   <string name="no_recent_files">Sem ficheiros recentes</string>
   <string name="no_network_tip">Não é possível ligar à rede. Verifique a ligação e tente novamente</string>
-  <string name="no_new_content_tip">Todos os itens estão actualizados</string>
+  <string name="no_new_content_tip">Todos os itens estão atualizados</string>
   <string name="no_topic">Sem tópicos</string>
   <string name="no_wifi">Não foram detectadas redes</string>
   <string name="no_wifi_hint">Sem ligação</string>
@@ -335,7 +335,7 @@
   <string name="notification_wechat_expired_empty">Estes vídeos já foram eliminados pelo WeChat</string>
   <string name="oauth_failed_tip">Não foi possível concluir autorização</string>
   <string name="one_account_bind_needed">Adicione pelo menos uma conta</string>
-  <string name="online_not_support">Não é possível ver este ficheiro neste momento</string>
+  <string name="online_not_support">Não é possível ver este arquivo neste momento</string>
   <string name="open_app">Abrir</string>
   <string name="open_private_folder">Largue para ver pastas ocultas</string>
   <string name="operation_add_fav">A adicionar aos favoritos…</string>
@@ -352,12 +352,13 @@
   <string name="operation_delete_confirm_message_folder">"Todos os conteúdos da pasta vão ser eliminados. "</string>
   <string name="operation_deleting">A eliminar…</string>
   <string name="operation_favorite">Adicionar aos favoritos</string>
-  <string name="operation_hide_sys">Não mostrar ficheiros ocultos</string>
+  <string name="operation_hide_sys">Não mostrar arquivos ocultos</string>
+  <string name="operation_show_sys">Mostrar arquivos ocultos</string>
   <string name="operation_info">Detalhes</string>
   <string name="operation_like">Gostar</string>
   <string name="operation_move">Cortar</string>
   <string name="operation_moving">A mover…</string>
-  <string name="operation_other_apps">Abrir noutra aplicação</string>
+  <string name="operation_other_apps">Abrir em outro aplicativo</string>
   <string name="operation_paste">Colar</string>
   <string name="operation_pasting">A copiar…</string>
   <string name="operation_refresh">Actualizar</string>
