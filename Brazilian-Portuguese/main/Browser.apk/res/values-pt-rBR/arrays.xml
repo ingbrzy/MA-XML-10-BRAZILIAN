@@ -44,6 +44,10 @@
         <item>Página inicial padrão</item>
         <item>Página personalizada</item>
     </string-array>
+        <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Vertical</item>
+        <item>Horizontal</item>
+    </string-array>
     <string-array name="pref_nav_mode_summary">
         <item>Telefone</item>
         <item>Tablet</item>
