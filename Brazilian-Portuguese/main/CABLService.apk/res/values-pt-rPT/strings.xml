@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Luz de fundo adaptável</string>
+  <string name="cabl_enable_summary_off">A luz de fundo não vai ser reajustada automaticamente baseada no conteúdo exibido no ecrã</string>
+  <string name="cabl_enable_summary_on">A luz de fundo vai ser reajustada automaticamente baseada no conteúdo exibido no ecrã</string>
+  <string name="cabl_enable_title">Activar luz de fundo adaptável</string>
+  <string name="cabl_levels_summary">Um nível mais reduzido de luz ajuda a economizar energia, mas pode causar interferência na adaptação do brilho do ecrã</string>
+  <string name="cabl_levels_title">Níveis de energia</string>
+  <string name="cabl_settings_title">Definições da luz de fundo adaptável</string>
+  <string name="cabl_version_title">Versão da LFA</string>
+</resources>
