@@ -2352,6 +2352,7 @@ PIN possivelmente incorreto."</string>
     <string name="status_bar_settings_custom_carrier">Editar nome da operadora</string>
     <string name="status_bar_settings_custom_wifi_name">Editar nome da rede Wi-Fi</string>
     <string name="status_bar_settings_enable_notification">Mostrar notificações</string>
+    <string name="status_bar_settings_expand_top_notification">Expandir primeira notificação</string>
     <string name="status_bar_settings_expandable_under_keyguard">Mostrar na tela de bloqueio</string>
     <string name="status_bar_settings_long_click_sort">Pressione &amp; segure para pegar um atalho</string>
     <string name="status_bar_settings_manage_notification">Notificações de apps</string>
