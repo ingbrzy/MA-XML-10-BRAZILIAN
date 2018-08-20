@@ -518,6 +518,7 @@ Lembre-se de que os arquivos que você baixar e favoritos que adicionar serão s
     <string name="pref_force_userscalable_summary">Substituir solicitação do website para controle do zoom da página</string>
     <string name="pref_general_title">Geral</string>
     <string name="pref_key_gesture_title">Botões &amp; gestos</string>
+    <string name="pref_navscreen_layoutstate_title">Gerenciamento de várias telas</string>
     <string name="pref_nav_mode_summary_pad">Tablet</string>
     <string name="pref_nav_mode_summary_phone">Telefone</string>
     <string name="pref_nav_mode_title">Desktop</string>
