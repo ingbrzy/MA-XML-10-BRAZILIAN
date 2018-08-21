@@ -204,8 +204,6 @@
     <string name="contactPickerActivityTitle">Escolha um contato</string>
     <string name="contactSavedErrorToast">Não foi possível salvar as alterações no contato</string>
     <string name="contactSavedToast">Contato salvo</string>
-    <string name="contactsAllLabel">Contatos</string>
-    <string name="contactsList">Contatos</string>
     <string name="contact_clear_search_history">Limpar histórico</string>
     <string name="contact_delete_toast">Contato excluído com sucesso</string>
     <string name="contact_detail_action_item_calllog">Reg. de chamadas</string>
