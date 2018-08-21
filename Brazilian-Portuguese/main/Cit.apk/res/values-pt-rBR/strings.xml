@@ -366,4 +366,5 @@ Vire o telefone, fale para microfone superior. Deve ouvir a sua voz no altifalan
   <string name="testing">A executar Auto Teste…</string>
   <string name="tp_color">Cor TP:</string>
   <string name="tp_version">Versão TP:</string>
-  <string name="wai
+  <string name="waiting">A aguardar 4s</string>
+</resources>
