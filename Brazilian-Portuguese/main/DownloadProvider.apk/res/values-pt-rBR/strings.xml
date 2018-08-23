@@ -35,7 +35,7 @@ Toque em %s para começar este download da próxima vez que você estiver conect
     <string name="button_queue_for_wifi">Fila</string>
     <string name="button_cancel_download">Cancelar</string>
     <string name="button_start_now">Iniciar agora</string>
-    <string name="download_remaining">%s restante(s)</string>
+    <string name="download_remaining">restante %s</string>
     <string name="download_no_application_title">Não é possível abrir o arquivo</string>
     <string name="root_downloads">Downloads</string>
     <string name="download_queued">Na fila</string>
