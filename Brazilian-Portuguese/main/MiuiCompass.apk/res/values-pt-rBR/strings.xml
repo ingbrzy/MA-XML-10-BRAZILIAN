@@ -61,4 +61,6 @@
     <string name="open_perm_title">Permissions required</string>
     <string name="cancel">Cancel</string>
     <string name="allow">Allow</string>
+    <string name="preference_other">Outros</string>
+    <string name="preference_privacy_title">Política de Privacidade</string>
 </resources>
