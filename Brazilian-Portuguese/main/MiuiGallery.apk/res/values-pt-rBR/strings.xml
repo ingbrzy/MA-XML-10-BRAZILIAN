@@ -741,6 +741,7 @@ para personalizar a Galeria"</string>
     <string name="photo">Fotos</string>
     <string name="photo_edit_file_not_exits_tip">Faça o download da foto antes de editá-la</string>
     <string name="photo_editor_adjust">Ajustar</string>
+    <string name="photo_editor_crop_auto">Auto</string>
     <string name="photo_editor_beautify">Beautiful</string>
     <string name="photo_editor_beautify_auto">Automático</string>
     <string name="photo_editor_beauty_compare">Original</string>
