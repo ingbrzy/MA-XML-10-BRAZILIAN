@@ -501,6 +501,7 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
     <string name="quick_settings_dnd_priority_label">Apenas prioridades</string>
     <string name="quick_settings_drivemode_label">Modo carro</string>
     <string name="quick_settings_edit_label">Editar</string>
+    <string name="quick_settings_extreme_batterysaver_label">Economia de bateria</string>
     <string name="quick_settings_hotspot_label">Hotspot</string>
     <string name="quick_settings_mute_label">Silencioso</string>
     <string name="quick_settings_nfc_off">O NFC está desativado</string>
