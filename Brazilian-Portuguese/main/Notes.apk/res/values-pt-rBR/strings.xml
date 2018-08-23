@@ -193,7 +193,8 @@
     <string name="toast_cancel_to_insert_image">Não é possível adicionar uma imagem.</string>
     <string name="toast_message_add_image_fail">Não foi possível adicionar imagem</string>
     <string name="toast_notes_delete_success">Excluído com sucesso</string>
-    <string name="toast_notes_hidden">Anotação ocultada com sucesso</string>
+    <string name="toast_notes_hidden_edit">Esta anotação foi ocultada com sucesso. Puxe para ver as anotações ocultas</string>
+    <string name="toast_notes_hidden_home">Esta anotação foi ocultada com sucesso. Puxe para ver as Anotações ocultas</string>
     <string name="toast_notes_hidden_count">%1$s anotação(ões) ocultada(s) com sucesso</string>
     <string name="toast_notes_unhidden">Anotação desocultada com sucesso</string>
     <string name="toast_notes_unhidden_count">%1$s anotação(ões) desocultada(s) com sucesso</string>
