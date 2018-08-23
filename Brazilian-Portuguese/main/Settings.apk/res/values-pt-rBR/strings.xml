@@ -822,6 +822,7 @@ Modo de canal"</string>
     <string name="delete_or_keep_legacy_passwords_confirm_msg">Excluir esta impressão digital?</string>
     <string name="delete_rule">Remover regras</string>
     <string name="delete_saved_network">Excluir redes salvas</string>
+    <string name="delete_sound_effect">Som de \"Apagado\"</string>
     <string name="deleted_apps">Apps excluídos</string>
     <string name="demo_mode">Modo de demonstração</string>
     <string name="demo_mode_summary">Mostrar ícone de demonstração na barra de status</string>
@@ -1204,6 +1205,8 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="key_system_control">Controle de sistema</string>
     <string name="keyboard_and_input_methods_category">Teclado</string>
     <string name="keyboard_settings_category">Métodos de entrada</string>
+    <string name="keyguard_security_setting_others">Outros</string>
+    <string name="keyguard_security_setting_privacy_policy">Política de Privacidade</string>
     <string name="keyguard_advance_setting_title">Configurações avançadas</string>
     <string name="keywords_airplane">Avão;Modo avião;Voo;Modo Voo;Para avião;Modo para avião</string>
     <string name="keywords_auto_rotate">Rotação;Girar tela;Orientação;Orientação da tela;Modo retrato;Modo paisagem;vertical;horizontal</string>
