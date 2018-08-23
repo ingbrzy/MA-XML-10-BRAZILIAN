@@ -128,6 +128,7 @@
     <string name="audio_effect_settings">Escolher tipo de fones de ouvido</string>
     <string name="auto_disable_screenbuttons_disable_toast_text">Botões de navegação desativados, toque duas vezes em qualquer botão para reativá-los.</string>
     <string name="auto_disable_screenbuttons_enable_toast_text">Botões de navegação ativados</string>
+    <string name="battery_can_use_time">Aproximadamente %s restante</string>
     <string name="battery_detail_charging_summary">A economia de bateria não está disponível durante o carregamento</string>
     <string name="battery_detail_switch_summary">Reduz o desempenho e dados em segundo plano</string>
     <string name="battery_low_percent_format">%d%% restante</string>
@@ -191,9 +192,16 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
     <string name="divider_menu_close">Fechar</string>
     <string name="divider_menu_select_apps">Selecionar</string>
     <string name="divider_menu_swap_task">Trocar</string>
+    <string name="dlg_cancel">Cancelar</string>
+    <string name="dlg_confirm">Ligar</string>
     <string name="dlg_confirm_kill_storage_users_text">Se você ativar o armazenamento USB, alguns apps em uso serão encerrados e poderão ficar indisponíveis até você desativar o armazenamento USB novamente.</string>
     <string name="dlg_confirm_kill_storage_users_title">Ativar armazenamento USB</string>
     <string name="dlg_error_title">A operação USB falhou</string>
+    <string name="dlg_summary_close_app">Restringir notificações e atividades em segundo plano</string>
+    <string name="dlg_summary_close_theme">Restringir temas animados</string>
+    <string name="dlg_summary_close_wifi">Desligar Wi-Fi, Bluetooth e Hotspot</string>
+    <string name="dlg_summary_nfc">Desligar NFC</string>
+    <string name="dlg_summary_title">A economia de bateria extrema para toda a atividade em segundo plano. Se quiser que uma aplicativo seja executado em segundo plano, adicione-a às exceções</string>
     <string name="dnd_is_off">O Não perturbe está desativado</string>
     <string name="do_disclosure_generic">Este dispositivo é gerenciado por sua organização</string>
     <string name="dock_forced_resizable">O app pode não funcionar com a Tela dividida.</string>
@@ -203,6 +211,7 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
     <string name="drive_mode_tip">Modo carro ativado</string>
     <string name="empty_shade_text">Nenhuma notificação</string>
     <string name="enable_bluetooth_message">Para conectar o teclado ao seu tablet, ative o Bluetooth primeiro.</string>
+    <string name="enable_extreme_power_save_mode">Economia de bateria extrema</string>
     <string name="enable_power_save_mode">Ativar Economia de bateria</string>
     <string name="expanded_confirm_disable_notification">Ocultar</string>
     <string name="expanded_header_battery_charged">Carregado</string>
@@ -429,6 +438,7 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
     <string name="notification_template_text">" tem uma notificação. Toque para ver."</string>
     <string name="oldman_airplane_mode_text">Modo avião</string>
     <string name="oldman_incall_text">Voltar à chamada</string>
+    <string name="open_extreme_power_save_mode_title">Ativar economia de bateria extrema</string>
     <string name="open_camera_hint_text">Deslize para a esquerda para abrir a Câmera</string>
     <string name="phone_hint">Deslize do ícone para telefonar</string>
     <string name="phone_label">Abrir Telefone</string>
