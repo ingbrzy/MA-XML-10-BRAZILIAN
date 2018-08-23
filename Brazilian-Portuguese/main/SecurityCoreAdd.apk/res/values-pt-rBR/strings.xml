@@ -223,6 +223,8 @@ Você também pode fazer o download deles separadamente."</string>
     <string name="import_contacts_suc">Contatos privados importados</string>
     <string name="import_photo_suc">Fotos importadas</string>
     <string name="import_file_suc">Itens importados para as pastas</string>
+    <string name="install">Instalar</string>
+    <string name="install_error">Não foi possível instalar. Tente novamente</string>
     <string name="show_private_content">Mostrar itens privados</string>
     <string name="show_normal_content">Não mostrar itens privados</string>
     <string name="guide_contact_title_desc">Mostrar itens privados no Segundo Espaço?</string>
