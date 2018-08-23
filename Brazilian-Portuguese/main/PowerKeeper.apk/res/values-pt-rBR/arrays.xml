@@ -16,4 +16,8 @@
         <item>Desempenho</item>
         <item>Balanceado</item>
     </string-array>
+    <string-array name="emode_app_groups">
+        <item>Aplicativos do sistema</item>
+        <item>Outros aplicativos</item>
+    </string-array>
 </resources>
