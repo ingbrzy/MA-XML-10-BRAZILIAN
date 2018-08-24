@@ -1191,6 +1191,9 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="key_combination_power_back">Liga/Desliga + Voltar</string>
     <string name="key_combination_power_home">Liga/Desliga + Início</string>
     <string name="key_combination_power_menu">Liga/Desliga + Menu</string>
+    <string name="key_fsg_dialog_message">Está a utilizando os gestos de tela inteira para navegação. As funções relacionadas com botões não estão disponíveis. Trocar para botões?</string>
+    <string name="key_fsg_dialog_negative">Cancelar</string>
+    <string name="key_fsg_dialog_positive">Trocar para botões</string>
     <string name="key_gesture_function_dialog_message">%1$s é um atalho para %2$s. Substituir por %3$s?</string>
     <string name="key_gesture_function_dialog_negative">Cancelar</string>
     <string name="key_gesture_function_dialog_positive">Substituir</string>
