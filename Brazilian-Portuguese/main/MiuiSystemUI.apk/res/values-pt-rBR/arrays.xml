@@ -16,7 +16,7 @@
     </string-array>
     <string-array name="miui_volume_timer_segments_title">
         <item>Desativado</item>
-        <item>30 minutes</item>
+        <item>30 minutos</item>
         <item>1 hora</item>
         <item>2 horas</item>
         <item>8 hours</item>

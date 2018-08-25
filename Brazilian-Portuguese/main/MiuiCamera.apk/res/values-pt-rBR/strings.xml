@@ -535,6 +535,6 @@ e otimiza suas fotos com base nestas informações"</string>
     <string name="pref_camera_picturesize_entry_fullscreen">Tela cheia 16:9</string>
     <string name="lens_dirty_detected_title_back">A lente da câmera traseira está suja</string>
     <string name="lens_dirty_detected_title_front">A lente da câmera frontal está suja</string>
-    <string name="lens_dirty_detected_content">"Looks like your camera's lens is dirty.
-Clean the lens for better effect."</string>
+    <string name="lens_dirty_detected_content">"Parece que a lente da câmera está suja.
+Limpe a lente da câmera para um efeito melhor"</string>
 </resources>
