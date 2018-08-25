@@ -286,6 +286,10 @@ Aguardando dispositivo antigo conectar…"</string>
     <string name="trans_select_device_send">Selecione um dispositivo para transferir os dados.</string>
     <string name="trans_sender_connectting">Confirme a ação no novo dispositivo</string>
     <string name="trans_select_device_receive">Selecione um dispositivo para receber os dados.</string>
+    <string name="trans_button_exit">Sair</string>
+    <string name="trans_button_stay">Ficar</string>
+    <string name="trans_cancel_selection_message">Se sair do Mi Mover, a transferência em curso vai ser interrompida. Aguarde até a transferência estar concluída</string>
+    <string name="trans_cancel_selection_title">Ficar no Mi Mover</string>
     <string name="trans_backingup">Fazendo backup…</string>
     <string name="trans_backingup_no_items">Sincronizando…</string>
     <string name="trans_restoring">Restaurando…</string>
@@ -347,6 +351,8 @@ Mantenha os dispositivos pertos um do outro."</string>
     <string name="trans_open_camera_failed_title">Não foi possível conectar-se à Câmera</string>
     <string name="trans_open_camera_failed_message">Reinicie o seu dispositivo ou verifique se o Mi Mover tem permissão para usar a &lt;b>Câmera&lt;/b>.</string>
     <string name="trans_generate_qr_code_failed">Não foi possível criar código QR</string>
+    <string name="trans_select_notification_message">Toque para ver</string>
+    <string name="trans_select_notification_title">Mi Mover está processando…</string>
     <string name="trans_scan_invalid_qrcode">Código QR inválido</string>
     <string name="trans_scan_qr_code_tips">Leia o código QR usando o dispositivo novo</string>
     <string name="trans_show_qr_code_label">Conecte o dispositivo antigo</string>
