@@ -625,7 +625,7 @@
     <string name="title_show_blocked_messages">Mostrar SMS bloqueados</string>
     <string name="title_show_list_avatar">Mostrar fotos de perfil</string>
     <string name="title_show_photo_word">Atribuir fotos a contatos</string>
-    <string name="title_show_sms_template">Checar SMS por códigos de verificação</string>
+    <string name="title_show_sms_template">Mensagens inteligentes</string>
     <string name="title_show_sms_template_in">Checar SMS por códigos de verificação</string>
     <string name="title_timed_message_dialog">Programar mensagem</string>
     <string name="title_use_gsm_alphabet">Usar alfabeto GSM</string>
