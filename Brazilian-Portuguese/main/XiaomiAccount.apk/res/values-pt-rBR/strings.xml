@@ -4,7 +4,6 @@
     <string name="passport_notification_title">Erro de login para %1$s</string>
     <string name="passport_login_prompt">Uma Conta Mi. Todos os nossos serviços.</string>
     <string name="passport_login_using_other_ways">Outras formas de login</string>
-    <string name="passport_register_using_other_ways">Other ways to create account</string>
     <string name="passport_login_title">Faça o login em sua Conta Mi</string>
     <string name="passport_login">Fazer login</string>
     <string name="passport_relogin">Fazer login novamente</string>
