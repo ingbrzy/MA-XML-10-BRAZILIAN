@@ -137,6 +137,7 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="add_device_admin">Ativar</string>
     <string name="add_device_admin_msg">Ativar aplicação admin. do dispositivo?</string>
     <string name="add_fingerprint_cancel_button_text">Voltar</string>
+    <string name="add_fingerprint_dirty_fingerprint">Certifique-se que o sensor está limpo. Tente gravar a sua impressão digital novamente</string>
     <string name="add_fingerprint_done_msg">Agora você pode desbloquear seu dispositivo usando sua impressão digital.</string>
     <string name="add_fingerprint_done_title">Tudo pronto para começar!</string>
     <string name="add_fingerprint_edge_instruction_msg">Mova o seu dedo para o sensor gravar os cantos da sua impressão digital.</string>
