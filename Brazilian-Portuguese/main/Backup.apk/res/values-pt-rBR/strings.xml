@@ -249,7 +249,6 @@ Atualização incremental: %2$s"</string>
     <string name="err_filesystem_mount">Não é possível acessar o armazenamento do roteador</string>
     <string name="err_router_disconnected">Verifique a conexão com o roteador e tente novamente.</string>
     <string name="err_router_files_delete">Não foi possível excluir arquivos de backup no roteador</string>
-    <string name="err_acquire_system_service">"Couldn't start system service."</string>
     <string name="err_not_allow">Não suportado</string>
     <string name="err_bakfile_not_exist">O arquivo do backup não existe.</string>
     <string name="err_pkg_not_exist">Não foi possível encontrar o app.</string>
