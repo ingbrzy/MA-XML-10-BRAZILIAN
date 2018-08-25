@@ -209,6 +209,9 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
     <string name="dock_non_resizeble_failed_to_dock_text">O app não suporta Tela dividida.</string>
     <string name="drag_to_add_tiles">Arraste para adicionar itens</string>
     <string name="drive_mode_tip">Modo carro ativado</string>
+    <string name="drive_mode_tip_idle">O Modo Carro está ligado</string>
+    <string name="drive_mode_tip_idle_notch">Modo Carro</string>
+    <string name="drive_mode_tip_notch">Modo Carro</string>
     <string name="empty_shade_text">Nenhuma notificação</string>
     <string name="enable_bluetooth_message">Para conectar o teclado ao seu tablet, ative o Bluetooth primeiro.</string>
     <string name="enable_extreme_power_save_mode">Economia de bateria extrema</string>
