@@ -62,6 +62,8 @@
     <string name="bluetooth_pairing_pin_error_message">Não foi possível parear com %1$s por causa de um PIN ou senha incorretos.</string>
     <string name="bluetooth_pairing_device_down_error_message">Não é possível se comunicar com %1$s.</string>
     <string name="bluetooth_pairing_rejected_error_message">Pareamento rejeitado por %1$s.</string>
+    <string name="cloud_sim_enabled_dual_4g_summary">Não é possível desligar o Duplo 4G ao utilizar o Mi Roaming</string>
+    <string name="cloud_sim_enabled_preferred_network_summary">Não é possível alterar as preferências de rede ao utilizar o Mi Roaming</string>
     <string name="accessibility_wifi_off">Wi-Fi desligado.</string>
     <string name="accessibility_no_wifi">Wi-Fi desconectado</string>
     <string name="accessibility_wifi_one_bar">Uma barra de Wi-Fi.</string>
@@ -71,6 +73,11 @@
     <string name="data_usage_uninstalled_apps">Apps removidos</string>
     <string name="data_usage_uninstalled_apps_users">Apps e usuários removidos</string>
     <string name="tether_settings_title_usb">Tethering USB</string>
+    <string name="data_plan">Plano de dados</string>
+    <string name="data_usage_uninstalled_apps">Aplicativos removidos</string>
+    <string name="data_usage_uninstalled_apps_users">Aplicativos e usuários removidos</string>
+    <string name="dc_alert_dialog_message">Alguuns aplicativos precisam de uma conexão de dados. Contacte a sua operadora para saber que %s estão disponíveis para ti</string>
+    <string name="dc_alert_dialog_title">Aviso de utilização de dados</string>
     <string name="tether_settings_title_wifi">Ponto de acesso portátil</string>
     <string name="tether_settings_title_bluetooth">Tethering Bluetooth</string>
     <string name="tether_settings_title_usb_bluetooth">Tethering</string>
@@ -181,6 +188,7 @@ qualidade de reprodução"</string>
     <string name="adb_keys_warning_message">Revogar o acesso à depuração USB para todos os computadores autorizados?</string>
     <string name="dev_settings_warning_title">Ativar as configurações de desenvolvimento?</string>
     <string name="dev_settings_warning_message">Essas configurações são destinadas apenas para o uso de desenvolvedores. Elas podem causar a desativação ou mau funcionamento do dispositivo e dos apps contidos nele.</string>
+    <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE necessita da conectividade para ambos os SIM. Trocar para Duplo 4G agora?</string>
     <string name="verify_apps_over_usb_title">Verificar apps por USB</string>
     <string name="verify_apps_over_usb_summary">Verificar comportamento nocivo em apps instalados via ADB/ADT.</string>
     <string name="bluetooth_disable_absolute_volume_summary">Desativa o recurso Bluetooth de volume absoluto em caso de problemas com o volume em dispositivos remotos, como volume excessivamente alto ou falta de controle.</string>
@@ -193,6 +201,7 @@ qualidade de reprodução"</string>
     <string name="debug_app">Selecionar app de depuração</string>
     <string name="debug_app_not_set">Nenhum conjunto de apps de depuração</string>
     <string name="debug_app_set">App de depuração: %1$s</string>
+    <string name="do_not_show_again">Não mostrar novamente</string>
     <string name="select_application">Selecionar app</string>
     <string name="no_application">Nada</string>
     <string name="wait_for_debugger">Aguardar depurador</string>
@@ -216,6 +225,8 @@ qualidade de reprodução"</string>
     <string name="show_hw_screen_updates_summary">Piscar visualizações em janelas ao desenhar c/ GPU</string>
     <string name="show_hw_layers_updates">Atual. camad. de hardware</string>
     <string name="show_hw_layers_updates_summary">Piscar camadas de hardware em verde ao atualizar</string>
+    <string name="turn_off_dual_4g_failed">Não é possível desligar o 4G Duplo</string>
+    <string name="turn_on_dual_4g_failed">Não é possível ligar o 4G Duplo</string>
     <string name="debug_hw_overdraw">Depurar overdraw da GPU</string>
     <string name="debug_hw_renderer">Definir renderiz. de GPU</string>
     <string name="disable_overlays">Desativar sobreposição HW</string>
