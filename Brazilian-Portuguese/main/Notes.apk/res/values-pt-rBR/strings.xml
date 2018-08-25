@@ -202,6 +202,7 @@
     <string name="toast_reach_text_limit_checkbox">Não é possível adicionar uma caixa de seleção porque a anotação é muito longa</string>
     <string name="toast_reach_text_limit_truncate">Esta anotação é muito longa. Parte do texto foi cortado ao final.</string>
     <string name="toast_refuse_to_record_when_in_call">Não é possível usar este recurso durante chamadas</string>
+    <string name="toast_refuse_to_record_when_in_multi_window">Não é possível utilizar no modo de tela dividida</string>
     <string name="toolbar_check_description">Adicionar caixa de seleção</string>
     <string name="toolbar_delete_description">Excluir esta anotação</string>
     <string name="toolbar_gallery_description">Adicionar imagem</string>
