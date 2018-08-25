@@ -95,7 +95,6 @@ Esta função criptografa e envia a ID do seu dispositivo para os servidores da 
     <string name="calendar_sync">Agenda</string>
     <string name="antispam_sync">Configurações de Não perturbe</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
-    <string name="micloud_find_device_guide_alert_title">Memorizar a sua senha</string>
     <string name="micloud_space_duokan_title">Duokan</string>
     <string name="micloud_space_duokan_detail">Faça o download e gerencie ebooks com o app Duokan.</string>
     <string name="micloud_space_applist_title">Gerenciar apps</string>
