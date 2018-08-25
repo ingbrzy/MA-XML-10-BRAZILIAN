@@ -38,6 +38,10 @@
     <string name="accessibility_home">Início</string>
     <string name="accessibility_ime_switch_button">Botão para alternar método de entrada.</string>
     <string name="accessibility_location_active">Solicitação de localização ativada</string>
+    <string name="accessibility_menu_item_split_disable">O aplicativo não suporta tela dividida</string>
+    <string name="accessibility_menu_item_split_enable">O aplicativo suporta tela dividida</string>
+    <string name="accessibility_splite_screen_primary">Adicionar à aplicativo principal da tela dividida</string>
+    <string name="accessibility_splite_screen_secondary">Adicionar à aplicativo secundária da tela dividida</string>
     <string name="accessibility_multi_user_switch_switcher_with_current">Trocar usuário, usuário atual %s</string>
     <string name="accessibility_no_data">Nenhuma rede de dados.</string>
     <string name="accessibility_no_phone">Nenhum sinal.</string>
@@ -209,6 +213,9 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
     <string name="dock_non_resizeble_failed_to_dock_text">O app não suporta Tela dividida.</string>
     <string name="drag_to_add_tiles">Arraste para adicionar itens</string>
     <string name="drive_mode_tip">Modo carro ativado</string>
+    <string name="drive_mode_tip_idle">O Modo Carro está ligado</string>
+    <string name="drive_mode_tip_idle_notch">Modo Carro</string>
+    <string name="drive_mode_tip_notch">Modo Carro</string>
     <string name="empty_shade_text">Nenhuma notificação</string>
     <string name="enable_bluetooth_message">Para conectar o teclado ao seu tablet, ative o Bluetooth primeiro.</string>
     <string name="enable_extreme_power_save_mode">Economia de bateria extrema</string>
@@ -330,6 +337,9 @@ Use somente o carregador fornecido."</string>
     <string name="media_projection_dialog_text">%s começará a capturar tudo o que está exibido em sua tela.</string>
     <string name="memory_clear_result_giga">%1$sGB limpos</string>
     <string name="memory_clear_result_mega">%1$sMB limpos</string>
+    <string name="miui_guide_dialog_button_negative_text">Configurações</string>
+    <string name="miui_guide_dialog_button_positive_text">Entendi</string>
+    <string name="miui_guide_dialog_message">Os sons multimedia (música, vídeos, etc.) ainda vão ser reproduzido no modo Silêncio. Pode alterar isso nas configurações</string>  
     <string name="miui_ringer_count_down">Contagem regressiva</string>
     <string name="miui_ringer_standard">Silencioso</string>
     <string name="miui_ringer_standard_description">Silenciar toque para chamadas e notificações recebidas</string>
@@ -339,6 +349,7 @@ Use somente o carregador fornecido."</string>
     <string name="miui_toast_zen_standard_to_off">Toques restaurados para a configuração padrão</string>
     <string name="miui_toast_zen_to_dnd">Sons silenciados e vibração desativada</string>
     <string name="miui_toast_zen_to_standard">Toques para chamadas e notificações silenciados</string>
+    <string name="miui_toast_zen_to_standard_when_shield_media">Os toques, notificações e sons multimedia vão ser silenciados</string>
     <string name="monitoring_button_view_policies">Ver Políticas</string>
     <string name="monitoring_description_app_personal">Você está conectado a %1$s, o que pode monitorar sua atividade de rede pessoal, incluindo e-mails, apps e websites.</string>
     <string name="monitoring_description_app_personal_work">"Seu perfil de trabalho é gerenciado por %1$s. O perfil está conectado ao %2$s, que pode monitorar sua atividade na rede do trabalho, incluindo e-mails, apps e websites.

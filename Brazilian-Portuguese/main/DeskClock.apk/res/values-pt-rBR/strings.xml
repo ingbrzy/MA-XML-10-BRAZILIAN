@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="add_alarm">Novo alarme</string>
+    <string name="add_clock">Adicionar relógio</string>
     <string name="add_timezone_title">Adicionar fuso horário</string>
     <string name="alarm_alert_alert_silenced">Alarme silenciado após %d minutos.</string>
     <string name="alarm_alert_snooze_set">Em soneca por %d minutos.</string>
@@ -36,6 +37,7 @@
     <string name="close_alarm">Desativar</string>
     <string name="common_settings">Configurações</string>
     <string name="confirm_abort">Descartar</string>
+    <string name="content_desc_keep_screen">Botão \"Manter tela ligada\"</string>
     <string name="control_set_alarm">Definir alarme</string>
     <string name="control_set_alarm_with_existing">Alarme definido: %s</string>
     <string name="day">1 dia</string>

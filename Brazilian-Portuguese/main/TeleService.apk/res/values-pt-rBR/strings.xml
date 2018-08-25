@@ -1377,7 +1377,7 @@ This tablet doesn't have an earpiece. You can switch to hands-free mode or use e
     <string name="voice_service_cannot_call_notification_title">Não é possível fazer chamadas na rede atual</string>
     <string name="voice_service_cannot_call_notification_content">Você pode enfrentar problemas de conectividade enquanto tentar realizar chamadas.</string>
     <string name="wificall_switch_title">Make calls using Wi-Fi</string>
-    <string name="wificall_switch_summary">Your device will switch between Wi-Fi and VoLTE when connection is poor</string>
+    <string name="wificall_switch_summary">O seu dispositivo vai trocar entre Wi-Fi e VoLTE quando a conexão for fraca</string>
     <string name="preferred_wificall_title">Preferências de rede</string>
     <string name="wfcmode_wifi_only">Wi-Fi only</string>
     <string name="wfcmode_wifi_preferred">Prefer Wi-Fi</string>

@@ -137,6 +137,7 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="add_device_admin">Ativar</string>
     <string name="add_device_admin_msg">Ativar aplicação admin. do dispositivo?</string>
     <string name="add_fingerprint_cancel_button_text">Voltar</string>
+    <string name="add_fingerprint_dirty_fingerprint">Certifique-se que o sensor está limpo. Tente gravar a sua impressão digital novamente</string>
     <string name="add_fingerprint_done_msg">Agora você pode desbloquear seu dispositivo usando sua impressão digital.</string>
     <string name="add_fingerprint_done_title">Tudo pronto para começar!</string>
     <string name="add_fingerprint_edge_instruction_msg">Mova o seu dedo para o sensor gravar os cantos da sua impressão digital.</string>
@@ -1971,7 +1972,7 @@ Selecione seu sistema operacional:"</string>
     <string name="screen_paper_mode_off_apps_title">Não usar Modo de leitura</string>
     <string name="screen_paper_mode_range_title">Configurações</string>
     <string name="screen_paper_mode_set_apps_title">Apps no Modo de leitura</string>
-    <string name="screen_paper_mode_summary">Reduzir a emissão de luz azul da tela</string>
+    <string name="screen_paper_mode_summary">O Modo de Leitura torna as cores da sua tela mais quentes, permitindo que os seus olhos relaxem</string>
     <string name="screen_paper_mode_time_summary">Programar hora para ativar e desativar o Modo de leitura</string>
     <string name="screen_paper_mode_time_title">Programar</string>
     <string name="screen_paper_mode_title">Modo de leitura</string>

@@ -750,6 +750,7 @@ Enquanto calibra, o MIUI vai enviar uma mensagem de texto para receber os modelo
     <string name="see_detail">Detalhes</string>
     <string name="choose">Escolher</string>
     <string name="replace_dns">Substituir DNS automaticamente</string>
+    <string name="notify_channel_name_security">Segurança do sistema</string>
     <string name="notify_weekly_traffic_title">%s usados nesta semana</string>
     <string name="notify_weekly_traffic_title_for_slotnum">%1$s usou %2$s esta semana</string>
     <string name="notify_weekly_traffic_body">Para limitar o uso de dados automaticamente, defina seu plano de dados mensal.</string>
@@ -2422,4 +2423,10 @@ velocidade do seu dispositivo"</string>
     <string name="shutdown_time_day">Desligar: %2$s %1$dd</string>
     <string name="shutdown_time_day_tomorrow">Desligar: %1$s</string>
     <string name="shutdown_time">Desligar: %1$s</string>
+    <string name="fod_authentication_shift_button">Cancelar</string>
+    <string name="fod_button_finger">Utilizar impressão digital</string>
+    <string name="fod_button_password">Introduzir senha</string>
+    <string name="fod_finger_notice_title">Bote o seu dedo na tela</string>
+    <string name="fod_finger_windows_tips">Verifique a sua impressão digital</string>
+    <string name="fod_tips_split_screen_more_than_half">Introduzir senha</string>
 </resources>

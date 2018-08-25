@@ -226,7 +226,10 @@
     <string name="scan_code">Código QR</string>
     <string name="scan_doc">Documento</string>
     <string name="scan_parent">Leitor QR</string>
+    <string name="search_add_header">Adicionar imagem de capa</string>
     <string name="search_tip">Pesquisando…</string>
+    <string name="search_change_header">Substituir imagem de capa</string>
+    <string name="search_clear_header">Remover imagem de capa</string>
     <string name="security">Segurança</string>
     <string name="service_unavailiable">Conecte-se à rede e tente novamente.</string>
     <string name="set_home_failed">Não foi possível adicionar o endereço, tente novamente.</string>
