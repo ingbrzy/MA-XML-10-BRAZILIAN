@@ -750,6 +750,7 @@ Enquanto calibra, o MIUI vai enviar uma mensagem de texto para receber os modelo
     <string name="see_detail">Detalhes</string>
     <string name="choose">Escolher</string>
     <string name="replace_dns">Substituir DNS automaticamente</string>
+    <string name="notify_channel_name_security">Segurança do sistema</string>
     <string name="notify_weekly_traffic_title">%s usados nesta semana</string>
     <string name="notify_weekly_traffic_title_for_slotnum">%1$s usou %2$s esta semana</string>
     <string name="notify_weekly_traffic_body">Para limitar o uso de dados automaticamente, defina seu plano de dados mensal.</string>
