@@ -127,6 +127,7 @@ Atualização incremental: %2$s"</string>
     <string name="progress_backup_hint">Fazendo backup…</string>
     <string name="cancel_backup">Parar</string>
     <string name="cancel_restore">Parar</string>
+    <string name="err_acquire_system_service">Não é possível iniciar o serviço de sistema</string>
     <string name="restore_contact">Restaurar contatos</string>
     <string name="restore_contact_content">A restauração poderá criar contatos duplicados.</string>
     <string name="progress_restore_hint">Restaurando…</string>
