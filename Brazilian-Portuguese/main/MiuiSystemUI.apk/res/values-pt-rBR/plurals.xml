@@ -40,4 +40,12 @@
         <item quantity="other">Limpo</item>
         <item quantity="one">Limpo</item>
     </plurals>
+    <plurals name="notification_num_channels">
+        <item quantity="other">%d categorias de notificações</item>
+        <item quantity="one">%d categoria de notificações</item>
+    </plurals>
+    <plurals name="notification_num_channels_desc">
+        <item quantity="other">1 de %d categorias de notificações deste aplicativo</item>
+        <item quantity="one">1 de %d categoria de notificações deste aplicativo</item>
+    </plurals>
 </resources>
