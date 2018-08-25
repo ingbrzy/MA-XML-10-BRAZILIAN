@@ -54,6 +54,7 @@
     <string name="dialog_message_agree">Aceitar</string>
     <string name="dialog_message_for_contact_permission">Para disponibilizar os alarmes de aniversário, o Relógio precisa de acesso aos seus contatos. Aceitar?</string>
     <string name="dialog_message_negative">Não aceitar</string>
+    <string name="dialog_message_not_remind">Não mostrar novamente</string>
     <string name="done">Concluído</string>
     <string name="dynamic_alarm_speech">Alarme inteligente</string>
     <string name="edit_alarm">Editar alarme</string>
