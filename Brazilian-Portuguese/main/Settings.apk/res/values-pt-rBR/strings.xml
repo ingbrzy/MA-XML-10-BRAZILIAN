@@ -1972,7 +1972,7 @@ Selecione seu sistema operacional:"</string>
     <string name="screen_paper_mode_off_apps_title">Não usar Modo de leitura</string>
     <string name="screen_paper_mode_range_title">Configurações</string>
     <string name="screen_paper_mode_set_apps_title">Apps no Modo de leitura</string>
-    <string name="screen_paper_mode_summary">Reduzir a emissão de luz azul da tela</string>
+    <string name="screen_paper_mode_summary">O Modo de Leitura torna as cores da sua tela mais quentes, permitindo que os seus olhos relaxem</string>
     <string name="screen_paper_mode_time_summary">Programar hora para ativar e desativar o Modo de leitura</string>
     <string name="screen_paper_mode_time_title">Programar</string>
     <string name="screen_paper_mode_title">Modo de leitura</string>
