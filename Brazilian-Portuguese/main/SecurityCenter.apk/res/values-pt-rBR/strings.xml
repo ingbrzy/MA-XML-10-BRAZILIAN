@@ -2273,10 +2273,9 @@ velocidade do seu dispositivo"</string>
     <string name="screenrecord_not_find">Instale a última versão do Gravador de Tela e tente novamente.</string>
     <string name="gamebox_qq_not_find">Instale o QQ e tente novamente.</string>
     <string name="gamebox_wechat_not_find">Instale o WeChat e tente novamente.</string>
-    <string name="gamebox_type_close">"Don't show"</string>
+    <string name="gamebox_type_close">"Não mostrar"</string>
     <string name="gamebox_type_float">Fixed shortcut</string>
-    <string name="gamebox_type_gesture">Swipe to show</string>
-    <string name="notify_channel_name_security">System security</string>
+    <string name="gamebox_type_gesture">Arraste para mostrar</string>
     <string name="power_center_consume_rank">Uso da bateria</string>
     <string name="power_center_custom_title">Perfis de bateria</string>
     <string name="power_center_auto_shutdown_summary_default">Ligar ou desligar seu dispositivo em um horário programado</string>
