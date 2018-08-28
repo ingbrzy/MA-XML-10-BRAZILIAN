@@ -20,6 +20,8 @@
     <string name="menu_summary_power_manager_2">%s restante</string>
     <string name="menu_summary_power_manager_3">Ligue o carregador</string>
     <string name="menu_summary_power_manager_4">%s até ficar carregada</string>
+    <string name="network_traffic_warning_text">A MIUI não consegue calcular as estatísticas de utilização de dados para aplicativos de sistema individualmente aqui. Pode ver a utilização de dados nos detalhes do aplicativo</string>
+    <string name="network_traffic_warning_title">Utilização de dados para aplicativos de sistema</string>
     <string name="fw_blocked">Lista de bloqueio</string>
     <string name="fw_oversea">Bloquear chamadas internacionais</string>
     <string name="fw_blocked_count">"Bloqueado "</string>
