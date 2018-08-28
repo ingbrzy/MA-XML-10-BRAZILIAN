@@ -1122,6 +1122,8 @@ Para começar, toque no ícone Unir na parte inferior da tela."</string>
     <string name="title_other_devices">Outros dispositivos disponíveis</string>
     <string name="title_paired_devices">Dispositivos emparelhados</string>
     <string name="toast_call_detail_error">Não foi possível ler os detalhes da chamada solicitada</string>
+    <string name="toast_call_no_SoundRecorder">O aplicativo Gravador não está disponível</string>
+    <string name="toast_call_no_notes">O aplitavo de anotação não está disponível</string>
     <string name="toast_copy_done">Concluído</string>
     <string name="toast_copying">Copiando…</string>
     <string name="toast_displaying_all_contacts">Exibindo todos os contatos</string>
