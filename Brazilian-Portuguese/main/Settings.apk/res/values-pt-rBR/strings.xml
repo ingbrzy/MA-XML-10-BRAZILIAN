@@ -1928,6 +1928,7 @@ Selecione seu sistema operacional:"</string>
     <string name="retail_demo_reset_next">Avançar</string>
     <string name="retail_demo_reset_title">Senha requerida</string>
     <string name="retry">Repetir</string>
+    <string name="rgb_manage_facerecoginition_text">Gerenciar dados de reconhecimento 2D</string>
     <string name="ringtone_slot_setting_title">Configurações de SIM individual</string>
     <string name="ringtone_uniform_setting_title">Configurações de SIM Duplo</string>
     <string name="root">Acesso root</string>
@@ -2421,7 +2422,8 @@ Todos os apps armazenados neste ^1 serão desinstalados, e os dados deles serão
     <string name="storage_wizard_migrate_body">"Você pode mover suas fotos, arquivos e alguns apps para este novo ^1. 
 A mudança leva cerca de ^2 e irá liberar ^3 no armazenamento interno. Alguns apps podem não funcionar durante a migração."</string>
     <string name="strict_mode_summary">Intermitência da tela quando aplicativos executem operações longas na janela principal</string>
-    <string name="structure_add_facerecoginition_text">Adicionar dados faciais 3D</string>
+    <string name="structure_add_facerecoginition_text">Adicionar dados de rosto 3D</string>
+    <string name="structure_manage_facerecoginition_text">Gerenciar dados de reconhecimento 3D</string>
     <string name="suggest_unrestrict_max_aspect_ratio_title">Estes apps funcionam melhor em tela cheia</string>
     <string name="suggestion_for_phone_recycled">Adicionar um número de telefone diferente</string>
     <string name="super_resolution_access_title">Apps acessíveis</string>
