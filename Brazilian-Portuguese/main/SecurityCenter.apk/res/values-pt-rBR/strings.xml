@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="ask_create_shortcut">Criar um atalho na tela inicial?</string>
-    <string name="auto_back_booster">Otimização parada</string>
-    <string name="auto_booster_suc">Otmizado com sucesso</string>
-    <string name="boost_done">Otmizado com sucesso</string>
-    <string name="booster_suc">Otmizado com sucesso</string>
-    <string name="gb_first_window_gamebox_summary_four">Utilizar respostas rápidas, fazer gravações e capturas de tela</string>
-    <string name="gb_first_window_gamebox_summary_six">Limpar cache, fazer gravações e capturas de tela</string>
     <string name="card_main_gamebooster_summary">Acelere a estabilidade de jogos</string>
     <string name="menu_summary_antispam">Bloquear chamadas e mensagens</string>
     <string name="menu_summary_antispam_2">Chamadas e mensagens bloqueadas</string>
