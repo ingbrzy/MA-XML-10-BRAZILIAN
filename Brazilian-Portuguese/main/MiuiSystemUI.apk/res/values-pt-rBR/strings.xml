@@ -669,7 +669,7 @@ Deslize para baixo para bloquear"</string>
     <string name="stream_notification">Notificações</string>
     <string name="stream_ring">Toque</string>
     <string name="stream_voice_call">Chamadas</string>
-    string name="structure_face_data_delete_fail">Não foi possível eliminar os dados de reconhecimento 3D. Tente novamente</string>
+    <string name="structure_face_data_delete_fail">Não foi possível eliminar os dados de reconhecimento 3D. Tente novamente</string>
     <string name="structure_face_data_input_down">Abaixe a sua cabeça</string>
     <string name="structure_face_data_input_error_away_screen">Mova o telefone para um pouco mais longe do seu rosto</string>
     <string name="structure_face_data_input_error_expose_eye">Não é possível ver os seus olhos</string>
