@@ -2204,6 +2204,9 @@ Selecione seu sistema operacional:"</string>
     <string name="second_space">Segundo Espaço</string>
     <string name="secondspace_category">Segundo Espaço</string>
     <string name="secondspace_delete_space_title">Excluir Segundo Espaço</string>
+    <string name="secspace_fod_finger_tips">Não foi possível verificar. Tente novamente</string>
+    <string name="secspace_fod_finger_title">Verificar a sua impressão digital</string>
+    <string name="secspace_fod_use_password">Introduzir senha</string>
     <string name="secure_keyguard_business_title">Definir bloqueio de tela</string>
     <string name="security_encryption_alert_dialog_info_first">Defina uma senha de desbloqueio de tela para ativar esta função. Você precisará inserir a senha da tela de bloqueio sempre que o dispositivo for reiniciado para usaá-lo.</string>
     <string name="security_encryption_alert_dialog_title_first">Defina primeiro um bloqueio de tela</string>
