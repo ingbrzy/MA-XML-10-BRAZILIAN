@@ -537,4 +537,18 @@ e otimiza suas fotos com base nestas informações"</string>
     <string name="lens_dirty_detected_title_front">A lente da câmera frontal está suja</string>
     <string name="lens_dirty_detected_content">"Parece que a lente da câmera está suja.
 Limpe a lente da câmera para um efeito melhor"</string>
+    <string name="lighting_hint_needed">Coloque o seu objeto na luz</string>
+    <string name="lighting_hint_title">Iluminação de estúdio</string>
+    <string name="lighting_hint_too_close">Mova a câmera para longe</string>
+    <string name="lighting_hint_too_far">Mova a câmera para perto</string>
+    <string name="lighting_hint_usage">"Pode utilizar os efeitos de iluminação
+no modo Retrato"</string>
+    <string name="lighting_pattern_dot">Pontos</string>
+    <string name="lighting_pattern_leaf">Folhas</string>
+    <string name="lighting_pattern_movie">Filmes</string>
+    <string name="lighting_pattern_nature">Natural</string>
+    <string name="lighting_pattern_rainbow">Arco-íris</string>
+    <string name="lighting_pattern_shutter">Cortinas</string>
+    <string name="lighting_pattern_stage">Estúdio</string>
+    <string name="pref_camera_super_resolution_title">Ligar SR</string>
 </resources>
