@@ -1003,6 +1003,10 @@ Modo de canal"</string>
     <string name="failed_to_shut_down_find_device_title">Não foi possível desativar</string>
     <string name="file_privacy_password_role_instruction">Seus arquivos privados serão armazenados aqui.</string>
     <string name="filter_apps_cached">Em cache</string>
+    <string name="flash_drive_backup_restore">Fazer cópia ou restaurar utilizando USB</string>
+    <string name="flash_drive_backup_restore_summary">Conecte um armazenamento USB</string>
+    <string name="floating_window_switch_label">Ativar janelas flutuantes</string>
+    <string name="floating_window_switch_label_disable">Desativar janelas flutuantes</string>
     <string name="find_my_device">Encontrar dispositivo</string>
     <string name="find_my_device_disable">Desativado</string>
     <string name="find_my_device_enable">Ativado</string>
