@@ -718,6 +718,8 @@ Deslize para baixo para bloquear"</string>
     <string name="structure_face_unlock_model_other_suggestion_2d">Reconhecimento 2D é menos seguro do que um padrão, PIN ou senha. Quando esta função está ligada, seu dispositivo pode ser desbloqueado com sua foto, e também por pessoas ou objetos que se pareçam com você.</string>
     <string name="structure_face_unlock_model_other_suggestion_3d">"Reconhecimento 3D é relativamente seguro. MAS é altamente improvável que seu dispositivo será desbloqueado por sua foto quando o reconhecimento está ligado, mas ainda assim talvez pode ser desbloqueado por pessoas que se pareçam muito com você."</string>
     <string name="structure_face_unlock_model_other_title">Reconhecimento do rosto</string>
+    <string name="structure_face_unlock_not_same_person">Tem de concluir todos os passos sozinho. Não troque com ninguém</string>
+    <string name="structure_face_unlock_really_person">Parece que substituiu o seu rosto por um objeto</string>
     <string name="system_ui_tuner">Configurador da Interf. do sistema</string>
     <string name="task_access_locked_app_msg">Bloqueio de apps ativado</string>
     <string name="thermal_shutdown_dialog_message">"Seu telefone estava muito quente, então ele foi desligado para resfriar. Seu telefone agora está executando normalmente.
