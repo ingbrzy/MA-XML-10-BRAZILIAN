@@ -339,6 +339,7 @@
     <string name="pref_advance_settings">Configurações adicionais</string>
     <string name="pref_camera_auto_chroma_flash_title">Flash chroma</string>
     <string name="pref_camera_ubifocus_title">Refocalizar</string>
+    <string name="pref_google_lens">Lente do Google</string>
     <string name="simple_mode_button_text_ubifocus">Desligar o Refocalizar</string>
     <string name="cannot_move_warning_message">Tirando foto, mantenha o dispositivo parado</string>
     <string name="ubifocus_capture_warning_message">Para melhores resultados, sua imagem deve conter objetos próximos (a menos de 1 metro da lente) e distantes</string>
