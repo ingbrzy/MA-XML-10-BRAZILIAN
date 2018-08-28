@@ -15,6 +15,7 @@
     <string name="apply_theme_with_ringtones">Usar toques do tema</string>
     <string name="audio_duration_minutes_format">%1$d minutos</string>
     <string name="audio_duration_seconds_format">%1$d segundos</string>
+    <string name="automatically_update_using_theme_tips">Atualizar automaticamente</string>
     <string name="backup_theme_dialog_message">Fazer backup do tema atual?</string>
     <string name="backup_theme_dialog_ok">Backup</string>
     <string name="backup_theme_fail_trial_rights_message">Não é possível fazer backup de temas em teste</string>
@@ -31,6 +32,7 @@
     <string name="card_retry">Tentar novamente</string>
     <string name="change_host_hint">Alterar host</string>
     <string name="change_wallpaper">Plano de fundo</string>
+    <string name="classification_more_understand_you">Selecione a sua categoria favorita</string>
     <string name="close">Fechar</string>
     <string name="component_backup_preference_title">Backup do tema atual</string>
     <string name="component_category_finest_title">GERAL</string>
@@ -97,7 +99,8 @@
     <string name="home_apply_failured">Não é possível aplicar o plano de fundo à Tela inicial</string>
     <string name="home_apply_success">Plano de fundo aplicado à Tela inicial</string>
     <string name="in_the_end">Não há mais itens para mostrar</string>
-    <string name="incompatible_dialog_message">Este tema não é totalmente compatível com o MIUI 9. Alguns elementos poderão ser mostrados incorretamente.</string>
+    <string name="incompatible_dialog_cancel">Não aplicar</string>
+    <string name="incompatible_dialog_message">Este tema não é totalmente compatível com o MIUI 10. Alguns elementos poderão ser mostrados incorretamente.</string>
     <string name="incompatible_dialog_ok">OK</string>
     <string name="incompatible_dialog_title">Problemas de compatibilidade</string>
     <string name="is_setting_wallpaper_message">Definindo plano de fundo…</string>
@@ -141,6 +144,7 @@
     <string name="online_precust_creative">Criativo</string>
     <string name="online_precust_forest_stories">Forest stories</string>
     <string name="online_precust_geometry">Geometria</string>
+    <string name="online_precust_hatsune">Hatsune</string>
     <string name="online_precust_lifestyle">Estilo de vida</string>
     <string name="online_precust_mi_note2">Mi Note 2</string>
     <string name="online_precust_paper_world">Paper world</string>
@@ -149,7 +153,9 @@
     <string name="online_precust_scenery">Cenário</string>
     <string name="online_precust_tiny">Minúsculo</string>
     <string name="online_search_hint">Pesquisar recursos online</string>
+    <string name="password_toggle_content_description">Tornar senha vísivel</string>
     <string name="present_local_themes">Meus temas</string>
+    <string name="present_local_themes_subtitle">Personalize o seu dispositivo</string>
     <string name="present_official_themes">Escolha da equipe</string>
     <string name="present_online_themes">Obter mais temas online</string>
     <string name="provision_default_theme_title">Padrão</string>
@@ -160,6 +166,12 @@
     <string name="purchased_list_current">Temas otimizados</string>
     <string name="purchased_list_legacy">Temas básicos</string>
     <string name="recently_used">Usados recentemente</string>
+    <string name="refresh_footer_all_loaded">É tudo por agora</string>
+    <string name="refresh_footer_failed">Não foi possível carregar informações</string>
+    <string name="refresh_footer_finish">Carregado com sucesso</string>
+    <string name="refresh_footer_loading">Aguarde…</string>
+    <string name="refresh_footer_pullup">Puxe para carregar</string>
+    <string name="refresh_footer_release">Solte para carregar</string>
     <string name="region_not_support">Temas não são suportados na sua região.</string>
     <string name="reload">Repetir</string>
     <string name="resource_account_abnormal_state">Erro na conta. Aguarde alguns minutos e tente novamente.</string>
@@ -367,17 +379,23 @@
     <string name="resource_user_know">OK</string>
     <string name="resource_waiting_download">Aguardando</string>
     <string name="resource_waiting_pause">Pausar</string>
+    <string name="resource_wallpaper_download">Transferir papel de parede</string>
     <string name="ringtone_set_success">Definido com sucesso</string>
     <string name="sdcard_not_mounted_dialog_message">"Insira o cartão SD agora.
 "</string>
     <string name="sdcard_not_mounted_dialog_title">Nenhum cartão SD detectado</string>
+    <string name="search_menu_title">Pesquisa</string>
     <string name="search_hint_header_text">Pesquisa rápida</string>
     <string name="selected_resource_file_invalid">Não é possível usar o arquivo do recurso selecionado</string>
     <string name="settings">Configurações</string>
+    <string name="set_color_ring_back_tone">Definir um toque personalizado</string>
+    <string name="show_free">Mostrar %1$s gratuitos</string>
+    <string name="show_incompatible">Mostrar %1$s incompatíveis</string>
     <string name="system_precust">Préinstalado</string>
     <string name="the_picture_is_not_support">A imagem não é suportada</string>
     <string name="the_picture_is_too_small">A imagem é muito pequena</string>
     <string name="theme_apply_audio_dialog_item_alarm">Alarme</string>
+    <string name="theme_apply_audio_dialog_item_color_ring_back_tone">Toque personalizado</string>
     <string name="theme_apply_audio_dialog_item_notification">Notificação</string>
     <string name="theme_apply_audio_dialog_item_ringtone">Toque</string>
     <string name="theme_apply_failured">Não foi possível aplicar</string>
@@ -457,6 +475,7 @@
     <string name="title_my_audio_resource">Meus toques</string>
     <string name="title_my_miwallpaper_resource">Meus live wallpapers</string>
     <string name="title_my_wallpaper_resource">Meus planos de fundo</string>
+    <string name="title_my_miwallpaper_video_file_resource">Os meus vídeos de papel de parede</string>
     <string name="title_system_audio_notification_resource">Notificações do sistema</string>
     <string name="title_system_audio_resource">Toques do sistema</string>
     <string name="title_system_wallpaper_resource">Planos de fundo do sistema</string>
@@ -465,6 +484,16 @@
     <string name="uid_change_dialog_ok">OK</string>
     <string name="uid_change_dialog_title">Reiniciar dispositivo</string>
     <string name="up_to_the_end">Isto é tudo por agora. Volte mais tarde.</string>
+    <string name="update_immediately">Atualizar agora</string>
+    <string name="using_theme_has_update_tips">Está disponível uma atualização para este tema</string>
+    <string name="using_theme_next_automatic_update">Atualizações automáticas</string>
+    <string name="using_theme_next_automatic_update_summary">Atualizar temas automaticamente Wi-Fi quando a tela estiver bloqueada</string>
+    <string name="video_apply_home">Tela inicial</string>
+    <string name="video_apply_home_lock">Tela inicial e tela de bloqueio</string>
+    <string name="video_audio_apply_success">Vídeo com som configurado com sucesso</string>
+    <string name="video_data_tips_message">Utilizar dados móveis pode gerar custos adicionais. Continuar mesmo assim?</string>
+    <string name="video_data_tips_title">Aviso de utilização de dados</string>
+    <string name="video_silence_apply_success">Vídeo sem som configurado com sucesso</string>
     <string name="wallpaper_apply">Aplicar</string>
     <string name="wallpaper_crop">Cortar</string>
     <string name="wallpaper_decoded_error">Não é possível carregar o plano de fundo</string>
@@ -478,4 +507,7 @@
     <string name="wallpaper_settings_no_history">Nenhum histórico</string>
     <string name="wallpaper_settings_pad_more_page_title">Mais planos de fundo</string>
     <string name="wallpaper_settings_page_title">Plano de fundo</string>
+    <string name="xiaoai_speech_not_installed_download">Transferir</string>
+    <string name="xiaoai_speech_not_installed_message">Transferir e instalar o assistente de voz Mi AI para continuar</string>
+    <string name="xiaoai_speech_not_installed_title">O assistente de voz Mi AI não está instalado</string>
 </resources>
