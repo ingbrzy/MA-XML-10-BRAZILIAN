@@ -1907,6 +1907,7 @@ Selecione seu sistema operacional:"</string>
     <string name="reset_legacy_password_settings_preface_text">Você precisa redefinir a senha da tela de bloqueio.</string>
     <string name="reset_network_category">Isto redefinirá todas as configurações de rede, incluindo:</string>
     <string name="reset_network_data">Dados móveis</string>
+    <string name="reset_network_title">Reposição das configurações de rede</string>
     <string name="reset_network_desc">"Isso redefinirá todas as configurações de rede, inclusive:
 
 "<li>Wi‑Fi;</li>"
