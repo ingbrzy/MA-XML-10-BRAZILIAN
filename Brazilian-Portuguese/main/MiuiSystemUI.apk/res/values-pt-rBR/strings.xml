@@ -241,6 +241,10 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
     <string name="ext_media_unmountable_notification_message">Armazenamento USB danificado. Talvez seja necessário formatá-lo.</string>
     <string name="ext_media_unmountable_notification_title">Armazenamento USB danificado</string>
     <string name="face_data_input_structure_title">Dados de reconhecimento 3D</string>
+    <string name="fingerprint_not_identified_title">Introduzir senha</string>
+    <string name="input_password_hint_text">Introduzir senha</string>
+    <string name="fingerprint_not_identified_msg">Muitas tentativas incorretas. Introduza a senha ou tente novamente daqui a um momento</string>
+    <string name="fingerprint_not_identified_msg_lock">Muitas tentativas incorretas. Introduza a sua senha</string>
     <string name="float_incall_ignore">Ignorar</string>
     <string name="float_incall_message">Mensagem</string>
     <string name="forced_resizable_secondary_display">O app pode não funcionar em uma tela secundária.</string>
