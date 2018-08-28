@@ -72,6 +72,10 @@
         <item quantity="other">Faltam %1$d etapas para você acessar as informações do telefone.</item>
         <item quantity="one">Falta %1$d etapa para você acessar as informações do telefone.</item>
     </plurals>
+    <plurals name="show_reset_countdown">
+        <item quantity="other">Está a %1$d passos de fazer uma restauração de fábrica</item>
+        <item quantity="one">Está a %1$d passo de fazer uma restauração de fábrica</item>
+    </plurals>
     <plurals name="show_rep_countdown">
         <item quantity="other">Faltam %1$d etapas para você gerar o relatório de erros.</item>
         <item quantity="one">Falta %1$d etapa para você gerar o relatório de erros.</item>
