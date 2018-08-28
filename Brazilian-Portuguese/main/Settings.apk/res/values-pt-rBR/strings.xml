@@ -1005,8 +1005,6 @@ Modo de canal"</string>
     <string name="filter_apps_cached">Em cache</string>
     <string name="flash_drive_backup_restore">Fazer cópia ou restaurar utilizando USB</string>
     <string name="flash_drive_backup_restore_summary">Conecte um armazenamento USB</string>
-    <string name="floating_window_switch_label">Ativar janelas flutuantes</string>
-    <string name="floating_window_switch_label_disable">Desativar janelas flutuantes</string>
     <string name="find_my_device">Encontrar dispositivo</string>
     <string name="find_my_device_disable">Desativado</string>
     <string name="find_my_device_enable">Ativado</string>
@@ -2339,7 +2337,6 @@ PIN possivelmente incorreto."</string>
     <string name="sound_category_call_ringtone_vibrate_title">Toque &amp; vibração</string>
     <string name="sound_settings_example_summary">Volume em 80%</string>
     <string name="sound_vibrate_settings">Sons &amp; vibração</string>
-    <string name="sound_settings_example_summary">Volume do toque a 80%</string>
     <string name="sound_settings_summary">Volume do toque a %1$s</string>
     <string name="sound_stereo_mode_summary">Apenas disponível com som no altofalante</string>
     <string name="sound_stereo_mode_title">Som estéreo</string>
