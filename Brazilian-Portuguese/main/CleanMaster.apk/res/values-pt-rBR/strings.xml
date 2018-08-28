@@ -534,9 +534,9 @@
     <string name="whatsapp_delete_confirm_message">Eliminar?</string>
     <string name="whatsapp_delete_done">Concluído!</string>
     <string name="whatsapp_file_show_order">Hoje</string>
-    <string name="whatsapp_function_summery">Limpar lixo do WhatsApp</string>
+    <string name="whatsapp_function_summery">Limpar anexos do WhatsApp</string>
     <string name="whatsapp_function_title">Limpeza do WhatsApp</string>
-    <string name="whatsapp_group_audio">Áudios</string>
+    <string name="whatsapp_group_audio">Arquivos de áudio</string>
     <string name="whatsapp_group_document">Documentos</string>
     <string name="whatsapp_group_gif">GIFs</string>
     <string name="whatsapp_group_image">Imagens</string>
