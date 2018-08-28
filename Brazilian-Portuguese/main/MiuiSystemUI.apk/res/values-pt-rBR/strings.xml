@@ -775,6 +775,14 @@ Qualquer usuário pode atualizar apps para todos os outros usuários."</string>
     <string name="vpn_title_long">Conectando-se à VPN usando %s</string>
     <string name="weather_publish_time">Atualizado às %1$s</string>
     <string name="wifi_is_off">Wi-Fi desativado</string>
+    <string name="window_animation_scale_title">Escala de animação da janela</string>
+    <string name="wireless_change_to_ac_charging">Trocou para carregamento com fios</string>
+    <string name="wireless_charge_current">Carregar</string>
+    <string name="wireless_charge_dialog_cancel">Entendi</string>
+    <string name="wireless_charge_dialog_title">Coloque o seu dispositivo no centro da base de carregamento</string>
+    <string name="wireless_charge_reset_device">Carregamento lento. Ajuste o seu dispositivo</string>
+    <string name="wireless_charge_reset_device_detail">Certifique-se que a posição do seu dispositivo na base está correta</string>
+    <string name="wireless_charge_stop">O carregamento sem fios parou</string>    
     <string name="zen_alarm_warning">Você não ouvirá o seu próximo alarme %1$s</string>
     <string name="zen_alarm_warning_indef">Você não ouvirá o seu próximo alarme %1$s a não ser que você desative isto antes dele tocar</string>
     <string name="zen_alarms_introduction">Você não será interrompido por sons ou vibrações, exceto para alarmes. Você ainda ouvirá qualquer coisa que optar por ouvir, incluindo músicas, vídeos e jogos.</string>
