@@ -5,9 +5,15 @@
     <string name="deskclock_backup">Alarmes</string>
     <string name="button_cancel">Cancelar</string>
     <string name="button_next">Avançar</string>
+    <string name="btn_restore_abort">Cancelar</string>
+    <string name="btn_restore_cancel">Cancelar</string>
+    <string name="btn_restore_resume">Continuar</string>
+    <string name="btn_restore_retry">Repetir</string>
     <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
     <string name="dir_date_format">HHmmss_ddMMyyyy</string>
     <string name="retry">Repetir</string>
+    <string name="msg_alert_cancel_restore">A cópia está sendo restaurada. Parar?</string>
+    <string name="msg_alert_restore_error">A restauração da cópia falhou. Tente novamente</string>
     <string name="cloud_app_current_device">Dispositivo atual</string>
     <string name="cloud_app_other_devices">Outros dispositivos</string>
     <string name="cloud_app_restore_app_and_data">Configure seu dispositivo</string>

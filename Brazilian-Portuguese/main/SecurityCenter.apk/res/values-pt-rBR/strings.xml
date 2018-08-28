@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="ask_create_shortcut">Criar um atalho na tela inicial?</string>
+    <string name="auto_back_booster">Otimização parada</string>
+    <string name="auto_booster_suc">Otmizado com sucesso</string>
+    <string name="boost_done">Otmizado com sucesso</string>
+    <string name="booster_suc">Otmizado com sucesso</string>
+    <string name="gb_first_window_gamebox_summary_four">Utilizar respostas rápidas, fazer gravações e capturas de tela</string>
+    <string name="gb_first_window_gamebox_summary_six">Limpar cache, fazer gravações e capturas de tela</string>
+    <string name="card_main_gamebooster_summary">Acelere a estabilidade de jogos</string>
+    <string name="menu_summary_antispam">Bloquear chamadas e mensagens</string>
+    <string name="menu_summary_antispam_2">Chamadas e mensagens bloqueadas</string>
+    <string name="menu_summary_antivirus">Procurar por vírus no dispositivo</string>
+    <string name="menu_summary_antivirus_2">Encontrados potenciais riscos</string>
+    <string name="menu_summary_antivirus_3">Ainda não verificou o dispositivo</string>
+    <string name="menu_summary_app_manager">Atualizar e desinstalar aplicativos</string>
+    <string name="menu_summary_app_manager_2">Atualizações disponíveis</string>
+    <string name="menu_summary_garbage_cleanup">Sem lixo</string>
+    <string name="menu_summary_garbage_cleanup_2">Tamanho do lixo</string>
+    <string name="menu_summary_garbage_cleanup_3">Limpar lixo agora</string>
+    <string name="menu_summary_networkassistants">Gerenciar o seu plano de dados</string>
+    <string name="menu_summary_networkassistants_2">Ultrapassou o limite</string>
+    <string name="menu_summary_networkassistants_3">Dados restantes suficientes</string>
+    <string name="menu_summary_networkassistants_4">Ficando sem dados</string>
+    <string name="menu_summary_power_manager">A economia de bateria dá mais tempo entre cargas</string>
+    <string name="menu_summary_power_manager_1">A bateria está carregada</string>
+    <string name="menu_summary_power_manager_2">%s restante</string>
+    <string name="menu_summary_power_manager_3">Ligue o carregador</string>
+    <string name="menu_summary_power_manager_4">%s até ficar carregada</string>
+    <string name="network_traffic_warning_text">A MIUI não consegue calcular as estatísticas de utilização de dados para aplicativos de sistema individualmente aqui. Pode ver a utilização de dados nos detalhes do aplicativo</string>
+    <string name="network_traffic_warning_title">Utilização de dados para aplicativos de sistema</string>
     <string name="fw_blocked">Lista de bloqueio</string>
     <string name="fw_oversea">Bloquear chamadas internacionais</string>
     <string name="fw_blocked_count">"Bloqueado "</string>
@@ -85,10 +114,22 @@ Ele será adicionado às exceções, mas os itens bloqueados anteriormente não 
   "&lt;li&gt;Para ter certeza que você poderá usar todas as funções do seu celular, A economia extrema de bateria será desligada quando a bateria carregar 30%.&lt;/li&gt;</string>
     <string name="extreme_power_save_mode_summary">A economiade bateria extrema restringe a atividade em segundo plano, sincronização e reduz as cores do ecrã</string>
     <string name="extreme_power_save_mode_title">Economia de bateria extrema</string>
+    <string name="gb_create_icon_summary">Criar atalho na tela inicial</string>
+    <string name="gb_first_window_antimsg_summary_quick_answer">Utilizar respostas rápidas</string>
+    <string name="gb_first_window_antimsg_summary_transparent_show">Ver texto em fundo transparente</string>
+    <string name="gb_first_window_antimsg_title">Notificações convenientes</string>
+    <string name="gb_first_window_gamebox_summary_four">Limpar cache, fazer gravações e capturas de tela</string>
+    <string name="gb_first_window_gamebox_summary_six">Utilizar respostas rápidas, fazer gravações e capturas de tela</string>
+    <string name="gb_first_window_handsfree_summary">Ligar o altofalante automaticamente</string>
+    <string name="gb_first_window_handsfree_title">Chamadas viva-voz</string>
+    <string name="gb_first_window_start">Começar a jogar</string>
+    <string name="gb_first_window_summary">Aumenta a performance no nível do sistema</string>
+    <string name="gb_first_window_title">Acelerador de jogos</string>
     <string name="toast_update_nonetwork">Não foi possível conectar-se à rede</string>
     <string name="toast_update_fail">Não foi possível atualizar</string>
     <string name="toast_update_success">Atualizado com sucesso</string>
     <string name="toast_update_notneed">Atualizado</string>
+    <string name="manage_hybrid_permissions">Gerenciar permissões do aplicativo</string>
     <string name="menu_call">Chamar</string>
     <string name="menu_sms">Enviar mensagem</string>
     <string name="menu_bl_call_log">Ver chamadas bloqueadas</string>

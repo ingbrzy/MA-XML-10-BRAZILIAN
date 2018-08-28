@@ -8,4 +8,9 @@
         <item quantity="other">Atualização disponível para %1$d temas</item>
         <item quantity="one">Atualização disponível para %1$d tema</item>
     </plurals>
+     </plurals>
+    <plurals name="wallpaper_staggered_item_text">
+        <item quantity="other">%1$s | %2$d imagens</item>
+        <item quantity="one">%1$s | %2$d imagem</item>
+    </plurals>
 </resources>

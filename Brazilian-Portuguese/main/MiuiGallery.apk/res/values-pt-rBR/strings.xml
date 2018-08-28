@@ -54,6 +54,7 @@
     <string name="album_name_people">Pessoas</string>
     <string name="album_name_recent_discovery">Recente</string>
     <string name="album_name_tags">Tags</string>
+    <string name="album_notes">Anotações</string>
     <string name="album_others_share_baby_info_format">Álbum do bebê de %s</string>
     <string name="album_others_share_info_format">De %s</string>
     <string name="album_owner_share">Compartilhado</string>
@@ -473,6 +474,7 @@ Tire mais fotos de seus amigos!"</string>
     <string name="fast_share_auto_render">Beautiful</string>
     <string name="fast_share_auto_render_finish">Beautiful aplicado</string>
     <string name="feature_guidance_photo_effects">Photo effects</string>
+    <string name="feature_guidance_video_editor_smart_effects">Estão disponíveis novos efeitos</string>
     <string name="filter_bi_memory">Memórias</string>
     <string name="filter_bi_mono">Mono</string>
     <string name="filter_bi_pink">Pink</string>
@@ -810,6 +812,10 @@ para personalizar a Galeria"</string>
     <string name="photo_print_package_finish">Carregado com sucesso</string>
     <string name="photo_print_package_installing">Carregando plugin…</string>
     <string name="photo_save_to_msg">Salvo em %s</string>
+    <string name="photomovie_audio_default">Memórias</string>
+    <string name="photomovie_audio_kawaii">Romântico</string>
+    <string name="photomovie_audio_light">Baladas</string>
+    <string name="photomovie_audio_linear">Rock</string>
     <string name="photomovie_audio_custom">Local</string>
     <string name="photomovie_audio_none">Nenhum</string>
     <string name="photomovie_cancel_download">Cancelar</string>
@@ -832,6 +838,11 @@ para personalizar a Galeria"</string>
     <string name="photomovie_tab_edit">Editar</string>
     <string name="photomovie_tab_music">Música</string>
     <string name="photomovie_tab_template">Modelos</string>
+    <string name="photomovie_template_kawaii">Encantos</string>
+    <string name="photomovie_template_light">Brisa</string>
+    <string name="photomovie_template_linear">Viagens</string>
+    <string name="photomovie_template_soft">Juventude</string>
+    <string name="photomovie_template_sport">Vigor</string>
     <string name="photomovie_template_default">Lento</string>
     <string name="pick_from_contact">Escolher dos contatos</string>
     <string name="pick_too_many_recipients">Muitos destinatários</string>
