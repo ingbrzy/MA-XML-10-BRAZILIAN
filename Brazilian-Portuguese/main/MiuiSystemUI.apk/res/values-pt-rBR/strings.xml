@@ -314,6 +314,8 @@ Use somente o carregador fornecido."</string>
     <string name="left_keycode">Código do botão esquerdo</string>
     <string name="lockscreen_carrier_default">Sem serviço</string>
     <string name="lockscreen_none">N/A</string>
+    <string name="lockscreen_sim_error_message_short">Cartão inválido</string>
+    <string name="lockscreen_storage_locked">Desbloquear todos os dados e funcionalidades</string>
     <string name="lockscreen_shortcut_left">Atalho da esquerda</string>
     <string name="lockscreen_shortcut_right">Atalho da direita</string>
     <string name="lockscreen_unlock_left">Atalho da esquerda também desbloqueia</string>
@@ -660,13 +662,41 @@ Deslize para baixo para bloquear"</string>
     <string name="stream_notification">Notificações</string>
     <string name="stream_ring">Toque</string>
     <string name="stream_voice_call">Chamadas</string>
+    string name="structure_face_data_delete_fail">Não foi possível eliminar os dados de reconhecimento 3D. Tente novamente</string>
+    <string name="structure_face_data_input_down">Abaixe a sua cabeça</string>
+    <string name="structure_face_data_input_error_away_screen">Mova o telefone para um pouco mais longe do seu rosto</string>
+    <string name="structure_face_data_input_error_expose_eye">Não é possível ver os seus olhos</string>
+    <string name="structure_face_data_input_error_expose_features">Não é possível ver algumas partes do seu rosto</string>
+    <string name="structure_face_data_input_error_expose_mouth">Não é possível ver os seus lábios</string>
+    <string name="structure_face_data_input_error_keep_inface">Mantenha o seu rosto dentro do círculo</string>
+    <string name="structure_face_data_input_error_near_screen">Mova o telefone para um pouco mais perto do seu rosto</string>
+    <string name="structure_face_data_input_error_open_eye">Abra seus olhos um pouco mais</string>
+    <string name="structure_face_data_input_error_overly_light">A luz de fundo é muito forte</string>
+    <string name="structure_face_data_input_left">Vire a cabeça para a esquerda</string>
+    <string name="structure_face_data_input_ok">Concluído</string>
+    <string name="structure_face_data_input_right">Vire a cabeça para a direita</string>
+    <string name="structure_face_data_input_success">Concluído</string>
+    <string name="structure_face_data_input_up">Mova a cabeça para cima/string>
+    <string name="structure_face_data_introduction_back">Voltar</string>
+    <string name="structure_face_data_introduction_msg">Reconhecimento 3D permite desbloquear seu dispositivo e verificar sua identidade. Você precisa definir uma senha antes de configurar o reconhecimento.</string>
+    <string name="structure_face_data_introduction_next">Continuar</string>
+    <string name="structure_face_data_introduction_settingpassword">Definir</string>
+    <string name="structure_face_data_introduction_title">Adicionar dados de rosto 3D</string>
+    <string name="structure_face_data_ir_input_face">Mova a cabeça levemente</string>
+    <string name="structure_face_data_open_cameraing">Iniciando câmera…</string>
+    <string name="structure_face_data_rgb_input_face">Coloque o seu rosto dentro do círculo</string>
+    <string name="structure_face_data_suggestion_text">"Tenha certeza que todas as partes do seu rosto estão visíveis. Não use bonés, óculos de sol, ou outros acessórios que possam cobrir seu rosto. Também veja se seu rosto está bem iluminado."</string>
+    <string name="structure_face_data_suggestion_warning_text">Obs.: Usar o reconhecimento 3D é um pouco menos seguro do que usar uma senha. Pessoas ou objetos que se pareçam muito com você podem, talvez, desbloquear seu dispositivo.</string>
+    <string name="structure_face_delete_data_dialog_msg">Não foi possível iniciar Câmera. Tente novamente</string>
+    <string name="structure_face_delete_data_dialog_msg_retry">Tente novamente</string>
+    <string name="structure_face_delete_data_dialog_title">Não foi possível iniciar Câmera</string>
     <string name="system_ui_tuner">Configurador da Interf. do sistema</string>
     <string name="task_access_locked_app_msg">Bloqueio de apps ativado</string>
     <string name="thermal_shutdown_dialog_message">"Seu telefone estava muito quente, então ele foi desligado para resfriar. Seu telefone agora está executando normalmente.
 
 Ele pode esquentar em excesso se você:
 \u0009- Usar apps que exigem muito do sistema (como jogos, vídeos ou apps de navegação);
-\u0009- Download ou upload de arquivos grandes
+\u0009- Fazer downloads ou uploads constantes
 \u0009- Usar o telefone em temperaturas altas"</string>
     <string name="thermal_shutdown_message">Seu telefone está funcionando normalmente agora</string>
     <string name="thermal_shutdown_title">Desligando telefone por superaquecimento</string>
