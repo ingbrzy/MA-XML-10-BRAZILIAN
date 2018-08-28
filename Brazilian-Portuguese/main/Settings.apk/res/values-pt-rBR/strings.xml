@@ -2338,6 +2338,10 @@ PIN possivelmente incorreto."</string>
     <string name="sound_category_call_ringtone_vibrate_title">Toque &amp; vibração</string>
     <string name="sound_settings_example_summary">Volume em 80%</string>
     <string name="sound_vibrate_settings">Sons &amp; vibração</string>
+    <string name="sound_settings_example_summary">Volume do toque a 80%</string>
+    <string name="sound_settings_summary">Volume do toque a %1$s</string>
+    <string name="sound_stereo_mode_summary">Apenas disponível com som no altofalante</string>
+    <string name="sound_stereo_mode_title">Som estéreo</string>
     <string name="special_access">Acesso especial de aplicativos</string>
     <string name="spellchecker_switch_title">Ativar Corretor ortográfico</string>
     <string name="split_screen">Abrir Tela dividida</string>
@@ -2374,9 +2378,11 @@ PIN possivelmente incorreto."</string>
     <string name="status_bar_settings_no_carrier">Sem nome</string>
     <string name="status_bar_settings_notification_bar">Área de notificações</string>
     <string name="status_bar_settings_notification_led">LED de notificação</string>
+    <string name="status_bar_settings_notification_led_custom">Personalizar cor</string>
     <string name="status_bar_settings_notification_priority">Prioridade</string>
     <string name="status_bar_settings_notification_priority_summary">Mostrar notificações no topo da lista</string>
     <string name="status_bar_settings_notification_sound">Som</string>
+    <string name="status_bar_settings_notification_sound_custom">Personalizar som</string>
     <string name="status_bar_settings_notification_vibrate">Vibração</string>
     <string name="status_bar_settings_show_carrier">Mostrar nome da operadora</string>
     <string name="status_bar_settings_show_carrier_summary">O nome da operadora ainda será exibido na Tela de bloqueio e na Área de notificações quando este recurso estiver desativado</string>
