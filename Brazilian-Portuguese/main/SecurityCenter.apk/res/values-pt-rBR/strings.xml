@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="ask_create_shortcut">Criar um atalho na tela inicial?</string>
     <string name="card_main_gamebooster_summary">Acelere a estabilidade de jogos</string>
     <string name="menu_summary_antispam">Bloquear chamadas e mensagens</string>
     <string name="menu_summary_antispam_2">Chamadas e mensagens bloqueadas</string>
@@ -107,10 +108,22 @@ Ele será adicionado às exceções, mas os itens bloqueados anteriormente não 
   "&lt;li&gt;Para ter certeza que você poderá usar todas as funções do seu celular, A economia extrema de bateria será desligada quando a bateria carregar 30%.&lt;/li&gt;</string>
     <string name="extreme_power_save_mode_summary">A economiade bateria extrema restringe a atividade em segundo plano, sincronização e reduz as cores do ecrã</string>
     <string name="extreme_power_save_mode_title">Economia de bateria extrema</string>
+    <string name="gb_create_icon_summary">Criar atalho na tela inicial</string>
+    <string name="gb_first_window_antimsg_summary_quick_answer">Utilizar respostas rápidas</string>
+    <string name="gb_first_window_antimsg_summary_transparent_show">Ver texto em fundo transparente</string>
+    <string name="gb_first_window_antimsg_title">Notificações convenientes</string>
+    <string name="gb_first_window_gamebox_summary_four">Limpar cache, fazer gravações e capturas de tela</string>
+    <string name="gb_first_window_gamebox_summary_six">Utilizar respostas rápidas, fazer gravações e capturas de tela</string>
+    <string name="gb_first_window_handsfree_summary">Ligar o altofalante automaticamente</string>
+    <string name="gb_first_window_handsfree_title">Chamadas viva-voz</string>
+    <string name="gb_first_window_start">Começar a jogar</string>
+    <string name="gb_first_window_summary">Aumenta a performance no nível do sistema</string>
+    <string name="gb_first_window_title">Acelerador de jogos</string>
     <string name="toast_update_nonetwork">Não foi possível conectar-se à rede</string>
     <string name="toast_update_fail">Não foi possível atualizar</string>
     <string name="toast_update_success">Atualizado com sucesso</string>
     <string name="toast_update_notneed">Atualizado</string>
+    <string name="manage_hybrid_permissions">Gerenciar permissões do aplicativo</string>
     <string name="menu_call">Chamar</string>
     <string name="menu_sms">Enviar mensagem</string>
     <string name="menu_bl_call_log">Ver chamadas bloqueadas</string>
