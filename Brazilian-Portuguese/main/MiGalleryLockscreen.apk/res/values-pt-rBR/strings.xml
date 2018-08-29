@@ -21,4 +21,10 @@
     <string name="abc_toolbar_collapse_description">Recolher</string>
     <string name="apply_to_screenlock">Aplicar na tela de bloqueio</string>
     <string name="apply_to_wallpaper">Aplicar na tela inicial</string>
+    string name="app_self_upgrade_dlg_checkbox_ignore_version">Ignorar esta versão</string>
+    <string name="app_self_upgrade_dlg_content">Uma nova versão do aplicativo está disponível. Atualizar imediatamente?</string>
+    <string name="app_self_upgrade_dlg_negative_btn">Lembrar me mais tarde</string>
+    <string name="app_self_upgrade_dlg_postive_btn">Atualizar</string>
+    <string name="app_self_upgrade_dlg_title">Atualização do aplicativo</string>
+    <string name="app_self_upgrade_toast_downloading_install">Iniciar a transferência e instalar a nova versão</string>
 </resources>
