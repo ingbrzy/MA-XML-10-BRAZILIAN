@@ -184,6 +184,9 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
     <string name="data_usage_disabled_dialog_4g_title">Dados 4G em pausa</string>
     <string name="data_usage_disabled_dialog_mobile_title">Dados móveis em pausa</string>
     <string name="data_usage_disabled_dialog_title">Dados em pausa</string>
+    <string name="data_saver_description">Para ajudar a reduzir a utilização de dados, a economia de dados previne alguns aplicativos de enviar ou receber dados  em segundo plano</string>
+    <string name="data_saver_enable_button">Ligar</string>
+    <string name="data_saver_enable_title">Ligar economia de dados?</string>
     <string name="demo_mode">Modo de demonstração</string>
     <string name="description_direction_left">Deslizar à esquerda para %s.</string>
     <string name="description_direction_up">Deslizar pra cima para %s.</string>
