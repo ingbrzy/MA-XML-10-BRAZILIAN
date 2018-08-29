@@ -772,6 +772,10 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Permitir</item>
         <item>Negar</item>
     </string-array>
+      <string-array name="status_bar_settings_notification_shade_shortcut_entries">
+        <item>Pesquisa</item>
+        <item>Configurações</item>
+    </string-array>
     <string-array name="track_frame_time_entries">
         <item>Desativado</item>
         <item>Na tela em barras</item>
