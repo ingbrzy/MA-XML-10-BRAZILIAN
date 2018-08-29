@@ -2392,6 +2392,7 @@ PIN possivelmente incorreto."</string>
     <string name="status_bar_settings_show_keyguard_notification">Notificações na tela de bloqueio</string>
     <string name="status_bar_settings_show_network_speed">Mostrar velocidade da conexão</string>
     <string name="status_bar_settings_show_notification_icon">Mostrar ícones de notificação</string>
+    <string name="status_bar_settings_notification_shade_shortcut">Atalho de notificações</string>
     <string name="status_bar_settings_show_wifi_name">Mostrar Wi-Fi</string>
     <string name="status_bar_settings_status_bar">Barra de status</string>
     <string name="status_bar_settings_style">Layout de notificações &amp; atalhos</string>
