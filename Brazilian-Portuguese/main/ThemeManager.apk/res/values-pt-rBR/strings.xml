@@ -316,10 +316,6 @@
     <string name="resource_ranking">Popular</string>
     <string name="resource_ranking_free">Grátis</string>
     <string name="resource_ranking_purchase">Pago</string>
-    <string name="resource_ring_ranking_list_divider">-</string>
-    <string name="resource_ring_ranking_list_rank_1">1</string>
-    <string name="resource_ring_ranking_list_rank_2">2</string>
-    <string name="resource_ring_ranking_list_rank_3">3</string>
     <string name="resource_ringtone_default">Toques</string>
     <string name="resource_ringtone_playing_error">Erro</string>
     <string name="resource_ringtone_volume_mute">Toque silenciado</string>
