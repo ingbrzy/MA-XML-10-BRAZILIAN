@@ -96,7 +96,7 @@ Segure no telefone como se estivesse a atender uma chamada, fale para o microfon
   <string name="cit_charger_plugout_check_title">Carregador (desligado)</string>
   <string name="cit_charger_waiting_in">Ligar carregador</string>
   <string name="cit_charger_waiting_out">Desligar carregador agora</string>
-  <string name="cit_display_check_summary">Confirme que o ficheiro de imagem bmp existe no cartão SD. Confirme se as cores são exibidas de forma consistente por todo o ecrã. Certifique-se de que não existem pontos com brilho irregular ou pontos negros</string>
+  <string name="cit_display_check_summary">Confirme que o arquivo de imagem bmp existe no cartão SD. Confirme se as cores são exibidas de forma consistente por todo o ecrã. Certifique-se de que não existem pontos com brilho irregular ou pontos negros</string>
   <string name="cit_display_check_title">Ecrã</string>
   <string name="cit_display_continue">Toque no ecrã para iniciar o teste</string>
   <string name="cit_exit_test_summary">Quando sair, todos os resultados vão ser eliminados</string>
@@ -188,9 +188,9 @@ Toque no ecrã para iniciar o GPS…"</string>
   <string name="cit_notificationlight_on">LED de notificação ligado</string>
   <string name="cit_otg_not_supported">Este dispositivo não suporta teste OTG</string>
   <string name="cit_pass">Passou</string>
-  <string name="cit_play_sd_mp3_hifi_summary">"Confirme que existe um ficheiro com o nome  \"music.mp3\" no cartão SD. Quando iniciar este teste o ficheiro \"music.mp3\" vai ser reproduzido no dispositivo HIFI associado"</string>
+  <string name="cit_play_sd_mp3_hifi_summary">"Confirme que existe um arquivo com o nome  \"music.mp3\" no cartão SD. Quando iniciar este teste o arquivo \"music.mp3\" vai ser reproduzido no dispositivo HIFI associado"</string>
   <string name="cit_play_sd_mp3_hifi_title">Reproduzir MP3 (Hi-Fi) do cartão SD</string>
-  <string name="cit_play_sd_mp3_summary">"Confirme que existe um ficheiro com o nome  \"music.mp3\" no cartão SD. Quando iniciar este teste o ficheiro \"music.mp3\" vai ser reproduzido nos altifalantes externos do dispositivo"</string>
+  <string name="cit_play_sd_mp3_summary">"Confirme que existe um arquivo com o nome  \"music.mp3\" no cartão SD. Quando iniciar este teste o arquivo \"music.mp3\" vai ser reproduzido nos altifalantes externos do dispositivo"</string>
   <string name="cit_play_sd_mp3_title">Reproduzir MP3 do cartão SD</string>
   <string name="cit_playing_sd_mp3">A reproduzir music.mp3…</string>
   <string name="cit_pointer_location_title">Sensor de toque</string>
@@ -211,8 +211,8 @@ Durante a calibração, verifique que não está nada entre o sensor e a sua mã
   <string name="cit_sd_fail">Ocorreu um erro</string>
   <string name="cit_sd_mount">Montar cartão SD</string>
   <string name="cit_sd_mount_sucess">Cartão SD montado</string>
-  <string name="cit_sd_mp3_not_existed">"Não existe no cartão SD o ficheiro com o nome \"music.mp3\"
-Depois de inserir o ficheiro \"music.mp3\" no cartão SD, toque no ecrã para o reproduzir"</string>
+  <string name="cit_sd_mp3_not_existed">"Não existe no cartão SD o arquivo com o nome \"music.mp3\"
+Depois de inserir o arquivo \"music.mp3\" no cartão SD, toque no ecrã para o reproduzir"</string>
   <string name="cit_sd_plugged_in">Cartão SD detectado, remova agora o cartão SD</string>
   <string name="cit_sd_plugged_out">O cartão SD foi removido, insira agora o cartão SD</string>
   <string name="cit_sd_plugin_check_summary">O texto \"Cartão SD detectado, remova cartão SD agora\" deve ser mostrado abaixo</string>
