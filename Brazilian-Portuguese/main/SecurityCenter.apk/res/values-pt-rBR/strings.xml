@@ -106,7 +106,7 @@ Ele será adicionado às exceções, mas os itens bloqueados anteriormente não 
   "&lt;li&gt;Se você quiser um aplicativo rodando em segundo plano, trave ele na memória e adicione as exceções. Até 4 apps podem estar rodando no plano de fundo quando a economia extrema de bateria está ativada.&lt;/li&gt;"
   "&lt;li&gt;A economia extrema de bateria desliga o NFC por padrão. Você pode mudar isso nas configurações.&lt;/li&gt;"
   "&lt;li&gt;Para ter certeza que você poderá usar todas as funções do seu celular, A economia extrema de bateria será desligada quando a bateria carregar 30%.&lt;/li&gt;</string>
-    <string name="extreme_power_save_mode_summary">A economiade bateria extrema restringe a atividade em segundo plano, sincronização e reduz as cores do ecrã</string>
+    <string name="extreme_power_save_mode_summary">A economiade bateria extrema restringe a atividade em segundo plano, sincronização e reduz as cores da tela</string>
     <string name="extreme_power_save_mode_title">Economia de bateria extrema</string>
     <string name="gb_create_icon_summary">Criar atalho na tela inicial</string>
     <string name="gb_first_window_antimsg_summary_quick_answer">Utilizar respostas rápidas</string>

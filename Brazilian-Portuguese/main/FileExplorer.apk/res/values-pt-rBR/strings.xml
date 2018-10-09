@@ -132,7 +132,7 @@
   <string name="delete_folder">Deletar esta pasta?</string>
   <string name="delete_folders">Deletar %1$d pastas?</string>
   <string name="delete_selected_tasks">Deletar downloads selecionados?</string>
-  <string name="delete_success">Arquivo eliminado</string>
+  <string name="delete_success">Arquivo excluído</string>
   <string name="delete_video">Deletar</string>
   <string name="delete_video_dialog_tip">Não será possível restaurar o vídeo depois de deletá-lo</string>
   <string name="delete_video_dialog_title">Deletar vídeo</string>
@@ -165,7 +165,7 @@
   <string name="error_contains_sharer_path">Não é possível encriptar ficheiros na pasta /MIUI/Gallery/cloud/sharer. Mova o ficheiro para outra pasta e tente novamente</string>
   <string name="error_create_dir">Não foi possível criar pasta</string>
   <string name="error_create_file">Não foi possível criar arquivo</string>
-  <string name="error_delete_failed">Não foi possível eliminar arquivo</string>
+  <string name="error_delete_failed">Não foi possível excluir este arquivo</string>
   <string name="error_filename_too_long">O nome do arquivo é muito longo</string>
   <string name="error_folder_already_exists">Este arquivo já existe</string>
   <string name="error_info_cant_send_folder">Não é possível enviar esse tipo de arquivo</string>
@@ -294,8 +294,8 @@
   <string name="mobile_network_dialog_title">Aviso de dados móveis</string>
   <string name="month_day_format">d \'de\' MMMM</string>
   <string name="move_failed">Não é possível cortar</string>
-  <string name="move_icon_to_desktop_hint">Criar um atalho do Explorador no ecrã inicial para uma melhor gestão de ficheiros</string>
-  <string name="move_icon_to_desktop_success">Atalho adicionado ao ecrã inicial</string>
+  <string name="move_icon_to_desktop_hint">Criar um atalho do Explorador na tela inicial para uma melhor gestão de ficheiros</string>
+  <string name="move_icon_to_desktop_success">Atalho adicionado à tela inicial</string>
   <string name="move_to">Mover para…</string>
   <string name="msg_notify_setting">Definições das notificações</string>
   <string name="msg_set_password">Definir palavra-passe primeiro</string>
@@ -332,7 +332,7 @@
   <string name="notification_dialog_content">Notificar e organizar automaticamente quando os arquivos são adicionados ou alterados em %1$s</string>
   <string name="notification_dialog_title">Notificações</string>
   <string name="notification_name_combine">zh_cn=%1$s&amp;zh_tw=%2$s&amp;=%3$s</string>
-  <string name="notification_wechat_expired_empty">Estes vídeos já foram eliminados pelo WeChat</string>
+  <string name="notification_wechat_expired_empty">Estes vídeos já foram excluídos pelo WeChat</string>
   <string name="oauth_failed_tip">Não foi possível concluir autorização</string>
   <string name="one_account_bind_needed">Adicione pelo menos uma conta</string>
   <string name="online_not_support">Não é possível ver este arquivo neste momento</string>
@@ -347,10 +347,10 @@
   <string name="operation_create_folder_message">Nome da pasta</string>
   <string name="operation_decompressing">Extraindo…</string>
   <string name="operation_del_fav">Removendo dos favoritos…</string>
-  <string name="operation_delete">Eliminar</string>
-  <string name="operation_delete_confirm_message">Eliminar arquivos</string>
-  <string name="operation_delete_confirm_message_folder">"Todos os conteúdos da pasta serão eliminados. "</string>
-  <string name="operation_deleting">Eliminando…</string>
+  <string name="operation_delete">Excluir</string>
+  <string name="operation_delete_confirm_message">Excluir arquivos</string>
+  <string name="operation_delete_confirm_message_folder">"Todos os conteúdos da pasta serão excluídos. "</string>
+  <string name="operation_deleting">Excluindo…</string>
   <string name="operation_favorite">Adicionar aos favoritos</string>
   <string name="operation_hide_sys">Não mostrar arquivos ocultos</string>
   <string name="operation_show_sys">Mostrar arquivos ocultos</string>
@@ -373,7 +373,7 @@
   <string name="overwrite_msg">\"%s\" já existe. Toque para o substituir pelo novo arquivo</string>
   <string name="pad">Armazenamento interno</string>
   <string name="partial_cancel_successful">Não foi possível remover alguns arquivos. O resto dos arquivos foram movidos para sdcard/fileexplorer/decryption</string>
-  <string name="partial_delete_failure">Não foi possível eliminar alguns arquivos. Tente novamente</string>
+  <string name="partial_delete_failure">Não foi possível excluir alguns arquivos. Tente novamente</string>
   <string name="partial_encrypt_success">Não foi possível ocultar alguns arquivos. Tente novamente</string>
   <string name="path_download">Gerir as suas transferências</string>
   <string name="path_hot_sticker">Stickers populares</string>
@@ -556,10 +556,10 @@
   <string name="ui_main_toast_favorite_added">Adicionado aos favoritos</string>
   <string name="ui_main_toast_favorite_removed">Removido dos favoritos</string>
   <string name="ui_main_toast_operation_failed">Não é possível remover %1$s dos favoritos</string>
-  <string name="unbind">Eliminar</string>
-  <string name="unbind_account">Eliminar %s?</string>
-  <string name="unbind_fail">Não foi possível eliminar</string>
-  <string name="unbind_success">Eliminado com sucesso</string>
+  <string name="unbind">Excluir</string>
+  <string name="unbind_account">Excluir %s?</string>
+  <string name="unbind_fail">Não foi possível excluir</string>
+  <string name="unbind_success">Excluído com sucesso</string>
   <string name="unknown_error">Ocorreu um erro desconhecido. Aguarde uns minutos e tente novamente</string>
   <string name="unlock_pattern_msg">O padrão de Proteção de Privacidade também funciona para fotos e mensagens</string>
   <string name="unlock_pattern_title">Novo padrão</string>
