@@ -66,7 +66,7 @@
         <item>iPad</item>
     </string-array>
     <string-array name="shortcut_dialog_delete">
-        <item>Eliminar</item>
+        <item>Excluir</item>
         <item>Não, obrigado</item>
     </string-array>
     <string-array name="shortcut_dialog_keep">

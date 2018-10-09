@@ -41,13 +41,13 @@
 Passo 1: Toque e segure o botão Ligar/Desligar até ouvir um som ou sentir uma vibração
 
 Passo 2: Toque e segure dois dedos até ouvir a confirmação de áudio
-        
+
     Se o dispositivo tiver vários utilizadores, ao utilizar este atalho na tela de bloqueio ativa temporariamente a acessibilidade até que o dispositivo seja desbloqueado"</string>
     <string name="accessibility_global_gesture_preference_summary_off">Desligado</string>
     <string name="accessibility_global_gesture_preference_summary_on">Ligado</string>
     <string name="accessibility_global_gesture_preference_title">Atalho de acessibilidade</string>
     <string name="accessibility_lock_screen_progress">%1$d de %2$d caracteres utilizados</string>
-    <string name="accessibility_long_press_timeout_preference_title">Atraso de tocar sem soltar</string>    
+    <string name="accessibility_long_press_timeout_preference_title">Atraso de tocar sem soltar</string>
     <string name="accessibility_display_daltonizer_preference_subtitle">Esta funcionalidade é experimental e pode afetar o desempenho</string>
     <string name="accessibility_display_daltonizer_preference_title">Correção de cor</string>
     <string name="accessibility_display_inversion_preference_subtitle">(Experimental) Pode afetar o desempenho</string>
@@ -76,7 +76,7 @@ Não é possível aumentar o zoom no teclado ou na barra de navegação."</strin
 "<li>Levante o dedo para diminuir o zoom</li></ul>"
 
 Não é possível aumentar o zoom no teclado e na barra de navegação."</string>
-    
+
     <string name="accessibility_screen_magnification_title">Gestos de ampliação</string>
     <string name="accessibility_service_default_description">Sem descrição fornecida</string>
     <string name="accessibility_services_title">Serviços</string>
@@ -159,7 +159,7 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="add_rule">Adicionar regras</string>
     <string name="add_virtual_keyboard">Gerenciar teclados</string>
     <string name="adding_profile_owner_warning">"Ao continuar, o seu usuário vai ser gerenciado pelo seu Administrador que também pode salvar dados associados.
-    
+
   O seu Administrador pode monitorizar e gerenciar configurações, acessos, aplicativos e dados associados com este Usuário, incluindo atividade de rede e a informação de localização do seu dispositivo"</string>
     <string name="additional_permissions">Permissões adicionais</string>
     <string name="additional_permissions_more">%1$d mais</string>
@@ -308,8 +308,8 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="app_restrictions_custom_label">Definir restrições do aplicativo</string>
     <string name="app_sees_restricted_accounts">Esta aplicação pode ter acesso às suas contas</string>
     <string name="app_sees_restricted_accounts_and_controlled_by">Este aplicativo pode ter acesso às suas contas. Controlado por %1$s</string>
-    <string name="app_special_disable_dlg_text">Se desativar este aplicativo, outros aplicativos podem não funcionar como pretendido. Os seus dados também vão ser eliminados</string>
-    <string name="app_special_disable_dlg_title">Eliminar dados e desativar aplicativo?</string>
+    <string name="app_special_disable_dlg_text">Se desativar este aplicativo, outros aplicativos podem não funcionar como pretendido. Os seus dados também serão excluídos</string>
+    <string name="app_special_disable_dlg_title">Excluir dados e desativar aplicativo?</string>
     <string name="app_switch_key">Recentes</string>
     <string name="app_usage_preference">Preferências de utilização do aplicativo</string>
     <string name="app_version">Versão</string>
@@ -383,7 +383,7 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="auto_startup_application_manage">Início automático</string>
     <string name="auto_startup_count">%d aplicativos estão autorizados a iniciar automaticamente</string>
     <string name="autofill_app">Preenchimento automático</string>
-    <string name="automatic_brightness">Brilho automático</string>   
+    <string name="automatic_brightness">Brilho automático</string>
     <string name="available_size">%s disponível</string>
     <string name="available_via_passpoint">Disponível via %1$s</string>
     <string name="average_memory_use">Utilização média de memória</string>
@@ -403,7 +403,7 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="backup_configure_account_title">Conta de backup</string>
     <string name="backup_data_summary">Fazer backup dos aplicativos, senhas de Wi-Fi e outras configurações para os servidores Google</string>
     <string name="backup_data_title">Cópias de segurança</string>
-    <string name="backup_erase_dialog_message">Deixar de fazer backup de senha Wi-Fi, marcadores, outras configurações e dados do aplicativo, bem como eliminar todas as cópias nos servidores da Google?</string>
+    <string name="backup_erase_dialog_message">Deixar de fazer backup de senha Wi-Fi, marcadores, outras configurações e dados do aplicativo, bem como excluir todas as cópias nos servidores da Google?</string>
     <string name="backup_inactive_title">Serviço de backup está inativo</string>
     <string name="backup_pw_cancel_button_text">Cancelar</string>
     <string name="backup_pw_set_button_text">Definir senha do backup</string>
@@ -475,12 +475,12 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="battery_info_status_unknown">Descohecido</string>
     <string name="battery_info_technology_label">Tecnologia da bateria:</string>
     <string name="battery_info_temperature_label">Temperatura da bateria:</string>
-    <string name="battery_info_temperature_units">°C</string>    
+    <string name="battery_info_temperature_units">°C</string>
     <string name="battery_info_uptime">Tempo de atividade:</string>
     <string name="battery_info_voltage_label">Voltagem da bateria:</string>
     <string name="battery_info_voltage_units">mV</string>
     <string name="battery_level_title">Nível da bateria</string>
-    <string name="battery_light_title">LED da bateria</string>    
+    <string name="battery_light_title">LED da bateria</string>
     <string name="battery_light_summary">Ativar LED de notificações quando o dispositivo estiver carregando</string>
     <string name="battery_saver">Economia de bateria</string>
     <string name="battery_saver_turn_on_automatically_never">Nunca</string>
@@ -491,7 +491,7 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="battery_since_reset">Utilização de bateria desde a reinicialização</string>
     <string name="battery_since_unplugged">Utilização de bateria desde que foi desligado</string>
     <string name="battery_stats_camera_on_label">Câmera ligada</string>
-    <string name="battery_stats_charging_label">A carregar</string>
+    <string name="battery_stats_charging_label">Carregando</string>
     <string name="battery_stats_duration">%1$s desde que foi desligado</string>
     <string name="battery_stats_flashlight_on_label">Lanterna ligada</string>
     <string name="battery_stats_gps_on_label">GPS ligado</string>
@@ -510,7 +510,7 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="battery_sugg_radio">Alterar para o Modo Avião para poupar bateria nas áreas sem cobertura de rede</string>
     <string name="battery_sugg_wifi">Desligar Wi-Fi quando não estiver em utilização ou disponível</string>
     <string name="battery_summary">Utilizou %1$d%% desde o último carregamento completo</string>
-    <string name="bearer">Portador</string>    
+    <string name="bearer">Portador</string>
     <string name="bind_xiaomi_account_confirm">Adicionar</string>
     <string name="bind_xiaomi_account_dialog_summery">Você está prestes a adicionar a Conta Mi %s. Caso você esqueça sua senha, você poderá usar esta conta para redefiní-la.</string>
     <string name="bind_xiaomi_account_success">Conta Mi adicionada com sucesso</string>
@@ -572,7 +572,7 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="bluetooth_profile_sap">Usado para acesso ao SIM</string>
     <string name="bluetooth_sap_profile_summary_connected">Conectado ao SAP</string>
     <string name="bluetooth_sap_profile_summary_use_for">Usar para acesso ao SIM</string>
-    <string name="bluetooth_search_for_devices">Atualizar</string>    
+    <string name="bluetooth_search_for_devices">Atualizar</string>
     <string name="bluetooth_select_a2dp_codec_type">Codec de áudio bluetooth</string>
     <string name="bluetooth_select_a2dp_codec_type_dialog_title">Selecione um codec bluetooth</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bits por amostra de áudio Bluetooth</string>
@@ -681,7 +681,7 @@ Modo de canal"</string>
     <string name="byteShort">B</string>
     <string name="cache_header_label">Cache</string>
     <string name="cache_size_label">Cache</string>
-    <string name="cached">Processo em segundo plano em cache</string>    
+    <string name="cached">Processo em segundo plano em cache</string>
     <string name="calendar_sound_dialog_title">Escolher toque da Agenda</string>
     <string name="calendar_sound_title">Toque da Agenda</string>
     <string name="call_settings_primary_user_only">Altere as configurações de chamada no Primeiro Espaço</string>
@@ -755,17 +755,17 @@ Modo de canal"</string>
     <string name="credential_storage_type_software">Apenas software</string>
     <string name="credentials_configure_lock_screen_hint">Tem que definir um PIN para o bloqueio de tela ou senha antes de efetuar o armazenamento de certificados</string>
     <string name="credentials_enabled">O armazenamento de certificados está ativado</string>
-    <string name="credentials_erased">O armazenamento de certificados foi eliminado</string>
+    <string name="credentials_erased">O armazenamento de certificados foi excluído</string>
     <string name="credentials_install">Instalar do armazenamento</string>
     <string name="credentials_install_summary">Instalar certificados a partir do armazenamento</string>
-    <string name="credentials_not_erased">O armazenamento do certificado não pode ser eliminado</string>
+    <string name="credentials_not_erased">O armazenamento do certificado não pode ser excluído</string>
     <string name="credentials_old_password">Senha atual</string>
     <string name="credentials_password_too_short">Mínimo de 8 caracteres</string>
     <string name="credentials_reset">Limpar certificados</string>
     <string name="credentials_reset_hint">Remover todo o conteúdo?</string>
     <string name="credentials_reset_summary">Remover todos os certificados</string>
-    <string name="credentials_reset_warning">senha incorreta. Tem mais uma tentativa antes que o armazenamento de certificados seja eliminado</string>
-    <string name="credentials_reset_warning_plural">Insira a senha. Tem mais %1$d tentativas para inserir a senha correta antes que o armazenamento de certificados seja eliminado</string>
+    <string name="credentials_reset_warning">senha incorreta. Tem mais uma tentativa antes que o armazenamento de certificados seja excluído</string>
+    <string name="credentials_reset_warning_plural">Insira a senha. Tem mais %1$d tentativas para inserir a senha correta antes que o armazenamento de certificados seja excluído</string>
     <string name="credentials_settings_not_available">Os certificados não estão disponíveis para este usuário</string>
     <string name="credentials_title">Armazenamento de certificados</string>
     <string name="credentials_unlock_hint">Insira a senha do armazenamento de certificados</string>
@@ -789,7 +789,7 @@ Modo de canal"</string>
     <string name="dashboard_title">Configurações</string>
     <string name="data_usage_cellular_data">Rede móvel</string>
     <string name="data_usage_disable_wifi_limit">Definir limite de dados Wi-Fi</string>
-    <string name="data_usage_enable_mobile">Dados móveis</string>  
+    <string name="data_usage_enable_mobile">Dados móveis</string>
     <string name="data_usage_menu_show_wifi">Mostrar uso do Wi-Fi</string>
     <string name="data_usage_metered_body">Selecione as redes Wi-Fi que são Hotspots móveis. Apps em segundo plano podem ser impedidos de usar estas redes. Os apps também podem avisar antes de usar estas redes para grandes downloads.</string>
     <string name="data_usage_metered_wifi">Redes Wi-Fi</string>
@@ -801,7 +801,7 @@ Modo de canal"</string>
     <string name="data_usage_sweep_warning"><font size="18">^1</font> <font size="9">^2</font>"
 "<font size="12">aviso</font></string>
     <string name="date_time_settings">Data &amp; hora</string>
-    <string name="date_time_set_timezone">Selecionar fuso horário</string>    
+    <string name="date_time_set_timezone">Selecionar fuso horário</string>
     <string name="day_of_week">Dia da semana</string>
     <string name="debug_applications_category">Aplicativos</string>
     <string name="debug_app">Selecionar aplicativo de depuração</string>
@@ -1154,7 +1154,7 @@ Modo de canal"</string>
     <string name="high_performance_notif_summary">O dispositivo pode aquecer com o uso intenso.</string>
     <string name="high_performance_notif_title">Modo desempenho ativado</string>
     <string name="high_performance_title">Parece que você está executando um teste de desempenho do dispositivo. Defina o gerenciamento de energia para \"Desempenho\" para melhores resultados.</string>
-    <string name="high_power_prompt_body">"A execução contínua do app %1$s em segundo plano pode reduzir a duração da bateria. 
+    <string name="high_power_prompt_body">"A execução contínua do app %1$s em segundo plano pode reduzir a duração da bateria.
 
 Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notificações\"."</string>
     <string name="high_power_prompt_title">Permitir que o app sempre esteja em execução em segundo plano?</string>
@@ -1180,7 +1180,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="input_settings">Configurações de entrada</string>
     <string name="install_no_market_app_summary">Verificar apps de terceiros por vírus antes de instalá-los</string>
     <string name="install_no_market_app_title">Verificar apps de terceiros</string>
-    <string name="install_other_apps">Instalar aplicativos desconhecidos</string>    
+    <string name="install_other_apps">Instalar aplicativos desconhecidos</string>
     <string name="install_preinstall_app">Carregando apps…</string>
     <string name="install_whole_rom">Download da ROM</string>
     <string name="instruction_privacy_password">Esta senha protege os seguintes itens</string>
@@ -1296,9 +1296,9 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="location_agps_si_mode_summary">Escolher método preferencial para o A-GPS</string>
     <string name="location_agps_supl_server_addr">Endereço do servidor</string>
     <string name="location_agps_supl_server_port">Porta do servidor</string>
-    <string name="location_agps_supl_settings">Configurações de SUPL</string>  
+    <string name="location_agps_supl_settings">Configurações de SUPL</string>
     <string name="location_mode_battery_saving_description">Usar Wi-Fi e redes móveis para determinar a localização</string>
-    <string name="location_mode_battery_saving_title">Economia de bateria</string>    
+    <string name="location_mode_battery_saving_title">Economia de bateria</string>
     <string name="location_mode_high_accuracy_description">Usar GPS, Wi-Fi e redes móveis para determinar a localização</string>
     <string name="location_neighborhood_level">Permitir que apps usem redes móveis e Wi-Fi para estimar a sua localização</string>
     <string name="location_network_based">Wi-Fi &amp; rede móvel</string>
@@ -1314,7 +1314,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="lock_settings_common_title">Configurações de bloqueio</string>
     <string name="lock_settings_picker_settings">Definir bloqueio de tela</string>
     <string name="lock_settings_with_fingerprint">Bloqueio de tela &amp; senhas</string>
-    <string name="lock_sounds_enable_title">Som de bloqueio de tela</string>    
+    <string name="lock_sounds_enable_title">Som de bloqueio de tela</string>
     <string name="lockpassword_choose_for_second_user">Definir senha do Segundo Espaço</string>
     <string name="lockpassword_choose_lock_generic_header">Escolher bloqueio de tela</string>
     <string name="lockpassword_choose_your_password_header">Defina sua senha</string>
@@ -1381,7 +1381,7 @@ para o Segundo Espaço"</string>
     <string name="manage_fakecell_settings">Proteção contra estações-base falsas</string>
     <string name="manage_fingerprint_text">Gerenciar impressões digitais</string>
     <string name="manage_trust_agents">Agentes Confiáveis</string>
-    <string name="manage_trust_agents_summary">Ver ou desativar agentes confiáveis</string>    
+    <string name="manage_trust_agents_summary">Ver ou desativar agentes confiáveis</string>
     <string name="manage_xiaomi_router">Configurações do Mi Router</string>
     <string name="managed_profile_location_category">Perfil de trabalho</string>
     <string name="managed_profile_location_switch_lockdown">Desativado pelo administrador da empresa.</string>
@@ -1412,7 +1412,7 @@ para o Segundo Espaço"</string>
     <string name="media_volume_option_title">Volume multimedia</string>
     <string name="megabyte_per_second">MB/s</string>
     <string name="memory_apps_usage">Aplicativos e dados</string>
-    <string name="memory_clear_cache_message">Isto vai limpar os dados em cache de todos os aplicativos</string>    
+    <string name="memory_clear_cache_message">Isto vai limpar os dados em cache de todos os aplicativos</string>
     <string name="memory_system_rom">Armazenamento do sistema</string>
     <string name="memory_system_space">Armazenamento do sistema</string>
     <string name="memory_title">"Disponível:  %1$s\u0009\u0009Total: %2$s"</string>
@@ -1616,7 +1616,7 @@ Selecione seu sistema operacional:"</string>
     <string name="notification_importance_max">Sem interrupções de tela inteira</string>
     <string name="notification_importance_min">Sem interrupções de tela inteira</string>
     <string name="notification_importance_none">Não definida</string>
-    <string name="notification_importance_title">Importância</string>    
+    <string name="notification_importance_title">Importância</string>
     <string name="notification_reboot_btn">Reiniciar</string>
     <string name="notification_reboot_summary_hm">Toque para reiniciar o dispositivo.</string>
     <string name="notification_reboot_title">Reinicie para atualizar</string>
@@ -1634,7 +1634,7 @@ Selecione seu sistema operacional:"</string>
     <string name="oldman_mode_entry_name">Modo simplificado</string>
     <string name="oldman_uninstalled_btn">Instalar</string>
     <string name="oldman_uninstalled_des">O Modo simplificado remove alguns itens visuais e mantém a sua Tela inicial simples e minimalista.</string>
-    <string name="onekey_migrate">Mi Mover</string> 
+    <string name="onekey_migrate">Mi Mover</string>
     <string name="onehour">30 minutos</string>
     <string name="open_demo_mode">Ativar</string>
     <string name="open_demo_mode_warning_message">Quando o Modo de demonstração está ativado, o relógio da barra de status parará, e os ícones de sinal e bateria serão exibidos totalmente cheios. Você pode desativar o Modo de demonstração ou reiniciar o dispositivo para alterar isto.</string>
@@ -1727,7 +1727,7 @@ Selecione seu sistema operacional:"</string>
     <string name="picture_in_picture_app_detail_title">Picture-in-picture</string>
     <string name="picture_in_picture_empty_text">Nenhum aplicativo instalado é compatível com picture-in-picture</string>
     <string name="picture_in_picture_keywords">PIP tela no</string>
-    <string name="picture_in_picture_title">Picture-in-picture</string>    
+    <string name="picture_in_picture_title">Picture-in-picture</string>
     <string name="please_type_passphrase">Senha</string>
     <string name="pointer_location_summary">Mostrar coordenadas de toque</string>
     <string name="pointer_settings_category">Mouse/touchpad</string>
@@ -1894,12 +1894,12 @@ Selecione seu sistema operacional:"</string>
     <string name="repeat_call_info">Permitir toque de chamadas se elas repetirem dentro de 15 minutos no Modo silencioso</string>
     <string name="reset_aaid">Redefinir identificador de anunciante</string>
     <string name="reset_app_preferences_desc">"Isso redefinirá todas as preferências para:
- 
- "<li>apps desabilitados;</li>" 
- "<li>notificações de apps desabilitados;</li>" 
- "<li>apps padrão para ações;</li>" 
- "<li>restrições de dados em segundo plano para apps;</li>" 
- "<li>qualquer restrição de permissão.</li>" 
+
+ "<li>apps desabilitados;</li>"
+ "<li>notificações de apps desabilitados;</li>"
+ "<li>apps padrão para ações;</li>"
+ "<li>restrições de dados em segundo plano para apps;</li>"
+ "<li>qualquer restrição de permissão.</li>"
 
  Você não perderá os dados dos apps."</string>
     <string name="reset_legacy_password_settings_preface_text">Você precisa redefinir a senha da tela de bloqueio.</string>
@@ -2109,7 +2109,7 @@ Selecione seu sistema operacional:"</string>
     <string name="search_notification_sound_title">Toque padrão de notificações;toque de notificação;toque de notificações</string>
     <string name="search_ntts_settings_title">TTS;Configurações de TTS</string>
     <string name="search_oldman_mode_entry_name">Modo Simplificado;Modo simples;Modo lite</string>
-    <string name="search_onekey_migrate">Mi Mover;Migração num clique</string> 
+    <string name="search_onekey_migrate">Mi Mover;Migração num clique</string>
     <string name="search_other_advanced_settings">Configurações adicionais;Mais configurações</string>
     <string name="search_owner_info_settings_title">Informações do proprietário</string>
     <string name="search_page_layout_settings">Tamanho do texto;Tamanho da fonte;Fonte pequena;Fonte grande;Fonte média;Fonte EEG;Fonte enorme;Tamanho de fonte</string>
@@ -2289,7 +2289,7 @@ Você ainda pode usar sua impressão digital para autorizar compras e acessar ap
     <string name="show_rounded_corners">Exibir cantos de tela arredondados</string>
     <string name="show_screen_updates">Mostrar atualizações da tela</string>
     <string name="show_screen_updates_summary">Intermitências da tela ao atualizarem</string>
-    <string name="show_password">Mostrar senhas</string>  
+    <string name="show_password">Mostrar senhas</string>
     <string name="show_touches_summary">Mostrar toques</string>
     <string name="show_user_info_on_lockscreen_label">Mostrar info. do proprietário na Tela de bloqueio</string>
     <string name="shut_down_find_device_network_failure_content">"Não foi possível desativar o 'Encontrar dispositivo'. Certifique-se de que o dispositivo tem uma conexão com a internet."</string>
@@ -2347,7 +2347,7 @@ PIN possivelmente incorreto."</string>
     <string name="standard">Silencioso</string>
     <string name="standard_info">Chamadas e notificações serão silenciadas</string>
     <string name="start_silent_mode">Ativar Modo silencioso</string>
-    <string name="status_awake_time">Tempo de atividade</string>    
+    <string name="status_awake_time">Tempo de atividade</string>
     <string name="status_bar_and_notification_bar">Área de notificações e Barra de status</string>
     <string name="status_bar_app_disable_notification">Notificações ocultas</string>
     <string name="status_bar_app_enable_floating">Notificações flutuantes</string>
@@ -2405,25 +2405,25 @@ PIN possivelmente incorreto."</string>
     <string name="status_sim_1">Cartão SIM 1</string>
     <string name="status_sim_2">Cartão SIM 2</string>
     <string name="status_summary">Toque para ver detalhes.</string>
-    <string name="status_up_time">Tempo de atividade</string>    
+    <string name="status_up_time">Tempo de atividade</string>
     <string name="status_wifi_mac_address">Endereço MAC do Wi-Fi</string>
     <string name="statusbar_permission_desc">As seguintes permissões só são válidas para notificações importantes.</string>
     <string name="storage_format">Formatar</string>
-    <string name="storage_internal_format_details">"Após a formatação, você pode usar este ^1 em outros dispositivos. 
+    <string name="storage_internal_format_details">"Após a formatação, você pode usar este ^1 em outros dispositivos.
 
-Todos os dados deste ^1 serão apagados. Faça backup primeiro. 
+Todos os dados deste ^1 serão apagados. Faça backup primeiro.
 
-"<b>Backup de fotos e outras mídias</b>" 
-Mova seus arquivos de mídia para um local de armazenamento alternativo neste dispositivo ou transfira-os para um computador usando um cabo USB. 
+"<b>Backup de fotos e outras mídias</b>"
+Mova seus arquivos de mídia para um local de armazenamento alternativo neste dispositivo ou transfira-os para um computador usando um cabo USB.
 
-"<b>Backup de apps</b>" 
+"<b>Backup de apps</b>"
 Todos os apps armazenados neste ^1 serão desinstalados, e os dados deles serão apagados. Para manter esses apps, mova-os para um local de armazenamento alternativo neste dispositivo."</string>
     <string name="storage_internal_title">Armazenamento do usuário</string>
     <string name="storage_usb">Armazenamento USB</string>
-    <string name="storage_wizard_format_confirm_public_body">"Isto requer que o ^1 seja formatado. 
+    <string name="storage_wizard_format_confirm_public_body">"Isto requer que o ^1 seja formatado.
 "<b>A formatação apagará todos os dados armazenados atualmente no ^1.</b> Para evitar a perda de dados, faça o backup primeiro.</string>
     <string name="storage_wizard_format_confirm_third_body">O ^1 está sendo formatado</string>
-    <string name="storage_wizard_migrate_body">"Você pode mover suas fotos, arquivos e alguns apps para este novo ^1. 
+    <string name="storage_wizard_migrate_body">"Você pode mover suas fotos, arquivos e alguns apps para este novo ^1.
 A mudança leva cerca de ^2 e irá liberar ^3 no armazenamento interno. Alguns apps podem não funcionar durante a migração."</string>
     <string name="strict_mode_summary">Intermitência da tela quando aplicativos executem operações longas na janela principal</string>
     <string name="structure_add_facerecoginition_text">Adicionar dados de rosto 3D</string>
@@ -2476,7 +2476,7 @@ A mudança leva cerca de ^2 e irá liberar ^3 no armazenamento interno. Alguns a
     <string name="theme_settings_title">Temas</string>
     <string name="thememanager_not_found">Não foi possível abrir o Gerenciador de Temas. Certifique-se de que o app está instalado.</string>
     <string name="three_gesture_down">Deslizar 3 dedos para baixo</string>
-    <string name="time_zone_auto_stub">Selecionar fuso horário</string>  
+    <string name="time_zone_auto_stub">Selecionar fuso horário</string>
     <string name="timezone_settings">Fuso horário</string>
     <string name="title_color_calibration">Predefinição de correção de cor</string>
     <string name="title_font">Fonte</string>
@@ -2564,7 +2564,7 @@ A mudança leva cerca de ^2 e irá liberar ^3 no armazenamento interno. Alguns a
     <string name="update_progress_for_updates">Atualizando (%s)</string>
     <string name="upload_debug_log_summary">Estatísticas de uso que nos ajudam a localizar e corrigir problemas podem conter suas informações pessoais</string>
     <string name="upload_debug_log_title">Enviar dados de diagnóstico automaticamente</string>
-    <string name="usage_access_title">Aplicativos com acesso de utilização</string>    
+    <string name="usage_access_title">Aplicativos com acesso de utilização</string>
     <string name="usage_log">Estatísticas de uso do app</string>
     <string name="usage_type_data_wifi_recv">Dados recebidos por Wi-Fi</string>
     <string name="usage_type_data_wifi_send">Dados enviados por Wi-Fi</string>

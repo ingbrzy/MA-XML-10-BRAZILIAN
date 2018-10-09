@@ -346,7 +346,7 @@ Use somente o carregador fornecido."</string>
     <string name="memory_clear_result_mega">%1$sMB limpos</string>
     <string name="miui_guide_dialog_button_negative_text">Configurações</string>
     <string name="miui_guide_dialog_button_positive_text">Entendi</string>
-    <string name="miui_guide_dialog_message">Os sons multimedia (música, vídeos, etc.) ainda vão ser reproduzido no modo Silêncio. Pode alterar isso nas configurações</string>  
+    <string name="miui_guide_dialog_message">Os sons multimedia (música, vídeos, etc.) ainda vão ser reproduzido no modo Silêncio. Pode alterar isso nas configurações</string>
     <string name="miui_ringer_count_down">Contagem regressiva</string>
     <string name="miui_ringer_standard">Silencioso</string>
     <string name="miui_ringer_standard_description">Silenciar toque para chamadas e notificações recebidas</string>
@@ -467,34 +467,34 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
     <string name="pip_skip_to_next">Pular para próxima</string>
     <string name="pip_skip_to_prev">Pular para anterior</string>
     <string name="please_slide_agian">Deslize novamente</string>
-    <string name="power_notification_controls_description">"Com o controle individual de configurações, você pode definir um nível de importãncia de 0 a 5 para as notificações de apps. 
+    <string name="power_notification_controls_description">"Com o controle individual de configurações, você pode definir um nível de importãncia de 0 a 5 para as notificações de apps.
 
-"<b>Nível 5</b>" 
-- Mostrar no topo da lista de notificações 
-- Permitir interrupção em tela cheia 
-- Permitir visualização 
+"<b>Nível 5</b>"
+- Mostrar no topo da lista de notificações
+- Permitir interrupção em tela cheia
+- Permitir visualização
 
-"<b>Nível 4</b>" 
-- Impedir interrupção em tela cheia 
-- Permitir visualização 
+"<b>Nível 4</b>"
+- Impedir interrupção em tela cheia
+- Permitir visualização
 
-"<b>Nível 3</b>" 
-- Impedir interrupção em tela cheia 
-- Impedir visualização 
+"<b>Nível 3</b>"
+- Impedir interrupção em tela cheia
+- Impedir visualização
 
-"<b>Nível 2</b>" 
-- Impedir interrupção em tela cheia 
-- Impedir visualização 
-- Impedir sons e vibrações 
+"<b>Nível 2</b>"
+- Impedir interrupção em tela cheia
+- Impedir visualização
+- Impedir sons e vibrações
 
-"<b>Nível 1</b>" 
-- Impedir interrupção em tela cheia 
-- Impedir visualização 
-- Impedir sons e vibrações 
-- Ocultar da tela de bloqueio e barra de status 
-- Mostrar no final da lista de notificações 
+"<b>Nível 1</b>"
+- Impedir interrupção em tela cheia
+- Impedir visualização
+- Impedir sons e vibrações
+- Ocultar da tela de bloqueio e barra de status
+- Mostrar no final da lista de notificações
 
-"<b>Nível 0</b>" 
+"<b>Nível 0</b>"
 - Bloquear todas as notificações do app"</string>
     <string name="prompt_danger">Perigo</string>
     <string name="prompt_detecting">Detectando</string>
@@ -588,7 +588,7 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
     <string name="remove_from_settings_prompt">Remover o Configurador da interface de sistema das Configurações e parar de usar todos os seus recursos?</string>
     <string name="return_to_incall_screen">Retornar à chamada</string>
     <string name="rgb_face_data_introduction_title">Adicionar dados de rosto 2D</string>
-    <string name="rgb_face_data_manage_delete_msg">Eliminar dados de rosto 2D</string>
+    <string name="rgb_face_data_manage_delete_msg">Excluir dados de rosto 2D</string>
     <string name="right_icon">Ícone do botão direito</string>
     <string name="right_keycode">Código do botão direito</string>
     <string name="running_foreground_services_msg">Toque para detalhes de bateria e uso de dados</string>
@@ -669,7 +669,7 @@ Deslize para baixo para bloquear"</string>
     <string name="stream_notification">Notificações</string>
     <string name="stream_ring">Toque</string>
     <string name="stream_voice_call">Chamadas</string>
-    <string name="structure_face_data_delete_fail">Não foi possível eliminar os dados de reconhecimento 3D. Tente novamente</string>
+    <string name="structure_face_data_delete_fail">Não foi possível excluir os dados de reconhecimento 3D. Tente novamente</string>
     <string name="structure_face_data_input_down">Abaixe a sua cabeça</string>
     <string name="structure_face_data_input_error_away_screen">Mova o telefone para um pouco mais longe do seu rosto</string>
     <string name="structure_face_data_input_error_expose_eye">Não é possível ver os seus olhos</string>
@@ -693,7 +693,7 @@ Deslize para baixo para bloquear"</string>
     <string name="structure_face_data_introduction_title">Adicionar dados de rosto 3D</string>
     <string name="structure_face_data_ir_input_face">Mova a cabeça levemente</string>
     <string name="structure_face_data_open_cameraing">Iniciando câmera…</string>
-    <string name="structure_face_data_manage_delete_msg">Eliminar dados de rosto 3D</string>
+    <string name="structure_face_data_manage_delete_msg">Excluir dados de rosto 3D</string>
     <string name="structure_face_data_rgb_input_face">Coloque o seu rosto dentro do círculo</string>
     <string name="structure_face_data_suggestion_text">"Tenha certeza que todas as partes do seu rosto estão visíveis. Não use bonés, óculos de sol, ou outros acessórios que possam cobrir seu rosto. Também veja se seu rosto está bem iluminado."</string>
     <string name="structure_face_data_suggestion_warning_text">Obs.: Usar o reconhecimento 3D é um pouco menos seguro do que usar uma senha. Pessoas ou objetos que se pareçam muito com você podem, talvez, desbloquear seu dispositivo.</string>
@@ -706,9 +706,9 @@ Deslize para baixo para bloquear"</string>
     <string name="structure_face_modules_abnormal_btn">Reiniciar</string>
     <string name="structure_face_modules_abnormal_msg">Não é possível gravar dados do rosto devido a um erro do módulo ótico. Reinicie o seu dispositivo e tente novamente</string>
     <string name="structure_face_modules_abnormal_title">Erro do módulo ótico</string>
-    <string name="structure_face_unlock_model2d_dialog_msg">O reconhecimento 3D vai ser desligado. Os dados do rosto 3D vão ser eliminados. Tem de adicionar os seus dados de rosto 2D. Ligar reconhecimento 2D?</string>
+    <string name="structure_face_unlock_model2d_dialog_msg">O reconhecimento 3D vai ser desligado. Os dados do rosto 3D serão excluídos. Tem de adicionar os seus dados de rosto 2D. Ligar reconhecimento 2D?</string>
     <string name="structure_face_unlock_model2d_dialog_title">Ligar reconhecimento 2D</string>
-    <string name="structure_face_unlock_model3d_dialog_msg">O reconhecimento 2D vai ser desligado. Os dados do rosto 2D vão ser eliminados. Tem de adicionar os seus dados de rosto 3D. Ligar reconhecimento 3D?</string>
+    <string name="structure_face_unlock_model3d_dialog_msg">O reconhecimento 2D vai ser desligado. Os dados do rosto 2D serão excluídos. Tem de adicionar os seus dados de rosto 3D. Ligar reconhecimento 3D?</string>
     <string name="structure_face_unlock_model3d_dialog_title">Ligar reconhecimento 3D</string>
     <string name="structure_face_unlock_model_dialog_enable">Ligar</string>
     <string name="structure_face_unlock_model_dialog_notenable">Não, obrigado</string>
@@ -751,7 +751,7 @@ Ele pode esquentar em excesso se você:
     <string name="usb_accessory_confirm_prompt">Abrir %1$s quando este acessório USB for conectado?</string>
     <string name="usb_accessory_uri_prompt">Nenhum app instalado funciona com este acessório USB. Conheça mais sobre este acessório em %1$s</string>
     <string name="usb_debugging_always">Sempre permitir deste computador</string>
-    <string name="usb_debugging_message">"A impressão RSA do computador é: 
+    <string name="usb_debugging_message">"A impressão RSA do computador é:
 %1$s"</string>
     <string name="usb_debugging_secondary_user_message">O usuário conectado atualmente neste dispositivo não pode ativar a Depuração USB. Para usar este recurso, mude para um usuário com permissões de Administrador.</string>
     <string name="usb_debugging_title">Permitir depuração USB?</string>
@@ -812,7 +812,7 @@ Qualquer usuário pode atualizar apps para todos os outros usuários."</string>
     <string name="wireless_charge_dialog_title">Coloque o seu dispositivo no centro da base de carregamento</string>
     <string name="wireless_charge_reset_device">Carregamento lento. Ajuste o seu dispositivo</string>
     <string name="wireless_charge_reset_device_detail">Certifique-se que a posição do seu dispositivo na base está correta</string>
-    <string name="wireless_charge_stop">O carregamento sem fios parou</string>    
+    <string name="wireless_charge_stop">O carregamento sem fios parou</string>
     <string name="zen_alarm_warning">Você não ouvirá o seu próximo alarme %1$s</string>
     <string name="zen_alarm_warning_indef">Você não ouvirá o seu próximo alarme %1$s a não ser que você desative isto antes dele tocar</string>
     <string name="zen_alarms_introduction">Você não será interrompido por sons ou vibrações, exceto para alarmes. Você ainda ouvirá qualquer coisa que optar por ouvir, incluindo músicas, vídeos e jogos.</string>

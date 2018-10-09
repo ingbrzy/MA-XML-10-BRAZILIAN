@@ -531,7 +531,7 @@
     <string name="whatsapp_clean_exit_confirm_ok">OK</string>
     <string name="whatsapp_clean_exit_confirm_title">Parar limpeza do WhatsApp</string>
     <string name="whatsapp_content_empty">Sem arquivos para limpar</string>
-    <string name="whatsapp_delete_confirm_message">Eliminar?</string>
+    <string name="whatsapp_delete_confirm_message">Excluir?</string>
     <string name="whatsapp_delete_done">Concluído!</string>
     <string name="whatsapp_file_show_order">Hoje</string>
     <string name="whatsapp_function_summery">Limpar anexos do WhatsApp</string>

@@ -212,7 +212,7 @@
     <string name="menu_exit_scene">Sair do Mi Space</string>
     <string name="menu_item_add_item">Colocar na Tela inicial</string>
     <string name="menu_launcher_setting">Configurações do launcher</string>
-    <string name="menu_lock">Bloquear disposição do Ecrã inicial</string>
+    <string name="menu_lock">Bloquear disposição da tela inicial</string>
     <string name="menu_more">Mais</string>
     <string name="menu_picktheme">Escolha um tema</string>
     <string name="menu_reset_scene">Redefinir para o layout padrão</string>
@@ -286,7 +286,7 @@
     <string name="reset_scene_prompt">A tela será redefinida para o layout padrão.</string>
     <string name="reset_title">Restaurar</string>
     <string name="screen_cells_config_title">Layout da Tela inicial</string>
-    <string name="screen_locked_toast">A disposição do Ecrã inicial está bloqueada.</string>
+    <string name="screen_locked_toast">A disposição da tela inicial está bloqueada.</string>
     <string name="screen_number">Tela %d</string>
     <string name="select_all">Selecionar tudo</string>
     <string name="select_frame">Quadro</string>

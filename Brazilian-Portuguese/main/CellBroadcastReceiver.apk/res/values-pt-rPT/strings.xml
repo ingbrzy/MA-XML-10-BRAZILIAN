@@ -6,7 +6,7 @@
   <string name="alert_sound_duration_title">Duração do som de alerta</string>
   <string name="app_label">Transmissões Móveis</string>
   <string name="button_cancel">Cancelar</string>
-  <string name="button_delete">Eliminar</string>
+  <string name="button_delete">Excluir</string>
   <string name="button_dismiss">OK</string>
   <string name="category_brazil_settings_title">Configurações para o Brasil</string>
   <string name="category_dev_settings_title">Opções de programador</string>
@@ -55,8 +55,8 @@
   <string name="cmas_urgency_expected">Esperada</string>
   <string name="cmas_urgency_heading">Urgência:</string>
   <string name="cmas_urgency_immediate">Imediata</string>
-  <string name="confirm_delete_all_broadcasts">Eliminar todas as mensagens de difusão recebidas?</string>
-  <string name="confirm_delete_broadcast">Eliminar esta difusão?</string>
+  <string name="confirm_delete_all_broadcasts">Excluir todas as mensagens de difusão recebidas?</string>
+  <string name="confirm_delete_broadcast">Excluir esta difusão?</string>
   <string name="delivery_time_heading">Recebida:</string>
   <string name="emergency_alert_settings_title">Configurações de Alerta de Emergência</string>
   <string name="enable_alert_speech_summary">Utilize a síntese de voz para dizer mensagens de alerta de emergência</string>
@@ -84,8 +84,8 @@
   <string name="etws_other_emergency_type">Aviso de emergência</string>
   <string name="etws_test_message">Mensagem de teste do ETWS</string>
   <string name="etws_tsunami_warning">Aviso de tsunami</string>
-  <string name="menu_delete">Eliminar transmissão</string>
-  <string name="menu_delete_all">Eliminar todas as transmissões</string>
+  <string name="menu_delete">Excluir transmissão</string>
+  <string name="menu_delete_all">Excluir todas as transmissões</string>
   <string name="menu_preferences">Definições</string>
   <string name="menu_view_details">Ver detalhes</string>
   <string name="message_options">Opções de mensagem</string>
