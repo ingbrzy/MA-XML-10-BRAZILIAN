@@ -46,7 +46,6 @@
     <string name="michat_cant_join_artificial">Não foi possível conectar-se devido a um problema de rede</string>
     <string name="michat_lose_artificial">Ocorreu um problema de rede e o chat foi encerrado</string>
     <string name="michat_transfer_message">Procurando alguém para ajudá-lo…</string>
-    <string name="michat_queue_pos_update">%1$d pessoas estão na sua frente. Aguarde um momento…</string>
     <string name="michat_in_artificial_customer_state">Não é possível fazer isso enquanto uma pessoa o ajuda</string>
     <string name="michat_pull_to_refresh_pull_label">Puxe para ver o histórico</string>
     <string name="michat_pull_to_refresh_release_label">Solte para ver o histórico</string>
@@ -57,6 +56,7 @@
     <string name="save_pic_success">Imagem salva em %s</string>
     <string name="save_pic_fail">Não foi possível salvar imagem, verifique seu cartão SD</string>
     <string name="pic_not_exist">Esta imagem não existe</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">Selecionar produto</string>
     <string name="michat_skillset_business_type_title">Selecionar serviço</string>
     <string name="michat_close_text">Chat encerrado</string>
@@ -132,7 +132,6 @@
     <string name="toast_report_sent_failed">Não é possível enviar o relatório</string>
     <string name="toast_report_copied_to_clipboard">Relatório copiado para a área de transferência</string>
     <string name="toast_description_required">Você precisa escrever uma descrição</string>
-    <string name="toast_feedbackservice_in_submit">Cuidando do relatório anterior…</string>
     <string name="toast_pending_log_collection">Ainda coletando logs…</string>
     <string name="toast_feedback_submitted">O relatório foi enviado</string>
     <string name="toast_feedback_submitting">Enviando…</string>
@@ -161,13 +160,16 @@
     <string name="cta_cancel">Cancelar</string>
     <string name="cta_confirm">OK</string>
     <string name="submit_dialog_title">Enviar relatório</string>
-    <string name="submit_dialog_content">Seu feedback, junto com anexos e logs, será enviado para os servidores do MIUI. Eles poderão conter informações pessoais ou dados de localização.</string>
-    <string name="submit_dialog_content_global">O seu feedback, junto com anexos (caso existam) e logs (você pode desmarcar as caixas correspondentes para os itens que você não quer enviar) serão enviados aos servidores do MIUI e a uma seção restrita do Fórum MIUI para desenvolvedores. Informações sobre os seus tópicos e atividades do fórum também serão coletados para análise e comunicação posterior. Os logs podem conter informações pessoais e seus dados de localização.</string>
+    <string name="submit_dialog_content"><Data>Você precisa aceitar a nossa &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Contrato do Usuário&lt;/a> para poder usar o Feedback. Os problemas que forem reportados, juntamente com itens anexados (que poderão conter informações pessoais, assim como informações sobre o dispositivo e a rede) serão enviados aos servidores do MIUI. Isso nos ajudará a localizar e corrigir os problemas reportados.</Data></string>
+    <string name="submit_dialog_content_global"><Data>Seu feedback, junto com anexos (caso existam) e logs (você pode desmarcar as caixas correspondentes a itens que não quiser fazer o upload), serão enviados aos servidores do MIUI e a uma seção restrita do Fórum MIUI para os desenvolvedores. A informação sobre seus tópicos e atividades do fórum também serão coletadas para análise e comunicação futura. Estes itens podem conter informações pessoais e seus dados de localização. Selecionar \"Aceitar\" significa que você leu e concorda com nossa &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Contrato do Usuário&lt;/a>.</Data></string>
     <string name="submit_dialog_cancel">Não aceitar</string>
     <string name="submit_dialog_confirm">Aceitar</string>
+    <string name="tab_title_preferences">Configurações</string>
+    <string name="privacy_policy_title">Política de Privacidade</string>
+    <string name="privacy_category_title">Privacidade</string>
     <string name="mobile_data_note_dialog_title">Alerta de uso de dados</string>
-    <string name="mobile_data_note_dialog_content">Usar os dados móveis para o upload dos logs poderá gerar tarifas adicionais.</string>
-    <string name="mobile_data_note_dialog_content_with_file_size">Fazer o upload dos logs usando os dados móveis precisará de %sMB de dados.</string>
+    <string name="mobile_data_note_dialog_content">Parece que você está conectado a uma rede paga. O upload dos logs poderá gerar cobranças adicionais.</string>
+    <string name="mobile_data_note_dialog_content_with_file_size">Parece que você está conectado a uma rede paga. O envio dos logs usará %sMB de dados móveis.</string>
     <string name="mobile_data_note_dialog_cancel">Aguardar por Wi-Fi</string>
     <string name="mobile_data_note_dialog_confirm">Fazer upload</string>
     <string name="modem_tool_log_dumping_title">Capturando logs do modem</string>
@@ -177,7 +179,7 @@
     <string name="modem_tool_log_finish_title">Log do modem capturado</string>
     <string name="modem_tool_log_finish_desc">Log salvo como %s</string>
     <string name="bugreport_dialog_not_show_again">Não mostrar novamente</string>
-    <string name="bugreport_dialog_submit_content">Você está salvando logs do software neste dispositivo agora. Os logs podem conter informações pessoais e seus dados de localização. Não compartilhe logs com ninguem se você não quer que esta informação seja exposta.</string>
+    <string name="bugreport_dialog_submit_content"><Data>Você está salvando logs neste dispositivo agora. Os logs podem conter informações pessoais e seus dados de localização. Não compartilhe seus logs com mais ninguém se você não quer que esta informação seja exposta. Selecionar \"Aceitar\" significa que você leu e concorda com nossa &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Contrato do Usuário&lt;/a>.</Data></string>
     <string name="bugreport_dump_start_notification_title">Gerando relatório de erros…</string>
     <string name="bugreport_dump_start_notification_summary">Isto pode levar vários minutos.</string>
     <string name="bugreport_dump_complete_notification_title">Relatório de erros criado</string>
@@ -207,15 +209,17 @@
     <string name="feedback_submit_succ_button">Concluído</string>
     <string name="feedback_title">Título</string>
     <string name="feedback_description">Descrição</string>
-    <string name="feedback_select_images">Adicionar imagens</string>
+    <string name="feedback_select_images">Adicione uma imagem ou um vídeo curto</string>
     <string name="feedback_delete_images">Excluir imagens</string>
     <string name="feedback_select_upload_log">Adicionar logs</string>
     <string name="feedback_select_modem_log">Adicionar logs do modem</string>
     <string name="feedback_select_suggestion">Sugestões</string>
     <string name="feedback_select_problem">Problemas</string>
     <string name="feedback_choose_module">Selecionar item</string>
+    <string name="feedback_choose_app_tag">Selecionar problema</string>
     <string name="feedback_choose_third_app_name">Selecionar nome do app</string>
     <string name="toast_module_required">Selecionar itens</string>
+    <string name="toast_app_tag_required">Selecionar problema</string>
     <string name="feedback_choose_module_hint">Requerido</string>
     <string name="feedback_choose_reproductivity">Reprodutividade</string>
     <string name="feedback_title_reproductivity">Selecionar reprodutividade</string>
@@ -242,7 +246,9 @@
     <string name="feedback_third_packagename_hint">Que app de terceiros está causando o problema?</string>
     <string name="toast_third_packagename_required">Inserir nome do app</string>
     <string name="feedback_contact_info_hint">Número de telefone/E-mail</string>
+    <string name="toast_loading_app_id">Obtendo informações…</string>
     <string name="feedback_status_commit_succ_title">Enviado</string>
+    <string name="feedback_status_commit_in_queue_title">Aguardando…</string>
     <string name="feedback_status_commit_uploading_title">Enviando…</string>
     <string name="feedback_status_commit_failed_title">Não foi possível enviar o relatório</string>
     <string name="feedback_status_processing">Processando…</string>
@@ -259,7 +265,7 @@
     <string name="feedback_status_save_log_info_failed">Não foi possível alterar a URL do anexo</string>
     <string name="feedback_status_submit_bbs_failed">Não foi possível enviar o conteúdo do feedback</string>
     <string name="feedback_status_get_and_save_bbs_info_failed">Não foi possível obter a URL do anexo</string>
-    <string name="feedback_status_upload_log_failed">Não foi possível fazer o upload dos anexos</string>
+    <string name="feedback_status_upload_log_failed">Não foi possível enviar os anexos</string>
     <string name="feedback_status_change_notification_title">O progresso de seu relatório foi atalizado</string>
     <string name="feedback_bug_status_change_notification_desc">Problema de %1$s - \"%2$s\"</string>
     <string name="feedback_suggestion_status_change_notification_desc">Sugestão de %1$s - \"%2$s\"</string>
@@ -285,6 +291,8 @@
     <string name="warning_field_invalid">Seleciona um %1$s válido</string>
     <string name="min_error">Seu %1$s precisa ser mais longo.</string>
     <string name="max_error">Seu %1$s precisa ser mais curto.</string>
+    <string name="reply_option_log_hint">Opcional</string>
+    <string name="reply_select_log_hint">Selecionar log</string>
     <string name="title_mi_family">Mi Homes próximas</string>
     <string name="hint_feedback_main">Descreva o problema</string>
     <string name="goon_feedback_main">Continuar</string>
@@ -318,12 +326,42 @@
     <string name="toast_post_deleted">Este tópico não existe, foi excluído ou editado.</string>
     <string name="toast_log_not_exists">O log solicitado foi excluído ou não existe</string>
     <string name="toast_pic_not_exists">A imagem em cache foi excluída</string>
-    <string name="toast_screenshot_too_large">Não é possível fazer upload de imagens maiores do que 10MB.</string>
-    <string name="toast_log_too_large">Não é possível fazer o upload. O arquivo é muito grande.</string>
-    <string name="title_bbs_feedback_main">Saiba mais sobre os Mi Phones</string>
+    <string name="toast_screenshot_too_large">Não é possível fazer upload de imagens ou vídeos maiores do que 10MB.</string>
+    <string name="toast_log_too_large">Não é possível fazer o upload. O log é muito grande.</string>
     <string name="title_customer_service">Atendimento ao cliente</string>
+    <string name="title_first_aid">Primeiros socorros</string>
+    <string name="title_user_guide">Guia do usuário</string>
     <string name="customer_service_apply">Solicitar suporte ao cliente</string>
     <string name="customer_service_complain">Reportar suporte ao cliente</string>
     <string name="customer_service_station">Local de serviços</string>
+    <string name="title_catch_full_log">Logs</string>
+    <string name="toast_catch_full_log_catching">Você só pode gerar um log por vez.</string>
+    <string name="toast_catch_full_log_open_failed">Não foi possível iniciar a gravação do log.</string>
+    <string name="catch_full_log_item_title_signal">Telefone, sinal e redes móveis</string>
+    <string name="catch_full_log_item_title_wifi">Wi-Fi e Mi Drop</string>
+    <string name="catch_full_log_item_title_gps">Serviços de localização</string>
+    <string name="catch_full_log_item_title_audio">Áudio, gravação de áudio e áudio de chamadas</string>
+    <string name="catch_full_log_item_title_sensor">Sensores</string>
+    <string name="catch_full_log_item_title_bt">Bluetooth</string>
+    <string name="catch_full_log_item_title_dump_heap">Lentidão</string>
+    <string name="catch_full_log_item_content_title">Passos:</string>
+    <string name="catch_full_log_item_content_need_open">"1. Toque em \"Gerar log\".
+2. Volte ao recurso que deseja reportar e reproduza o problema.
+3. Volte para esta página e toque em \"Finalizar e enviar\"."</string>
+    <string name="catch_full_log_item_content_catch_direct">"1. Volte para o recurso que deseja reportar e reproduza o problema.
+2. Volte para esta página e toque em \"Finalizar e enviar\"."</string>
+    <string name="catch_full_log_action_start">Gerar log</string>
+    <string name="catch_full_log_action_complete">Finalizar e fazer upload</string>
+    <string name="catch_full_log_action_cancel">Cancelar</string>
+    <string name="catch_full_log_dialog_content">O MIUI está gerando um log. Isto pode afetar o desempenho geral do seu dispositivo. Se você não puder reproduzir o problema que deseja reportar, volte aos logs e toque em \"Cancelar\".</string>
+    <string name="catch_full_log_dialog_confirm_text">Ir à Tela inicial</string>
+    <string name="catch_full_log_notification_title">Gerando log…</string>
+    <string name="catch_full_log_notification_content">Toque para voltar aos logs</string>
+    <string name="catch_full_log_start_dump_hprof">Gerar logs de lentidão</string>
+    <string name="catch_full_log_dump_hprof_failed">Não foi possível gerar o log de lentidão</string>
+    <string name="catch_full_log_add_original_photo">Adicionar imagem original ou vídeo curto</string>
+    <string name="catch_full_log_add_photo_dialog_content">Se o problema que você está reportando é relacionado com a qualidade de imagens da câmera, adicione uma foto de exemplo original (sem cortes) para nos ajudar a localizar o problema. Adicionar foto agora?</string>
+    <string name="catch_full_log_submit_directly">Enviar</string>
+    <string name="catch_full_log_add_photo">Adicionar foto</string>
     <string name="select_system_app_tag">Selecione um problema</string>
 </resources>

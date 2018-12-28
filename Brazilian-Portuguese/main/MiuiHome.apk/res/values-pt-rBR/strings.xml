@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="action_add_to_workspace">Adicionar ao espaço de trabalho</string>
     <string name="activity_not_found">O app não está instalado no seu dispositivo</string>
     <string name="add_screen">Adicionar tela</string>
+    <string name="announce_for_app_move_in_folder">Movido para a posição %1$d na pasta</string>
     <string name="announce_for_checked">%1$s, selecionado</string>
     <string name="announce_for_choose_default_screen">Tela %1$d definida como padrão</string>
     <string name="announce_for_close_default_preview">Configuração de Tela inicial padrão fechada</string>
     <string name="announce_for_close_folder">Pasta fechada</string>
     <string name="announce_for_close_launcher_menu">Menu fechado</string>
+    <string name="announce_for_create_folder_with_app">Pasta criada com %1$s</string>
     <string name="announce_for_delete_gadget_and_widget">Widget</string>
     <string name="announce_for_delete_item">%1$s foi excluído</string>
     <string name="announce_for_drag_enter_delete_zone">Itens arrastados para a zona de desinstalação</string>
@@ -30,6 +33,7 @@
     <string name="announce_for_open_launcher_menu">Menu aberto</string>
     <string name="announce_for_show_uninstall_dialog">Janela de desinstalação apareceu. Cancele ou confirme.</string>
     <string name="announce_for_unchecked">%1$s, não selecionado</string>
+    <string name="announce_for_widget_span">Largura %1$d, Altura %2$d</string>
     <string name="app_already_exist">O app já existe</string>
     <string name="app_being_backup_message">O backup do app está sendo feito</string>
     <string name="app_being_restored_message">O app está sendo restaurado</string>
@@ -149,6 +153,7 @@
     <string name="gadget_clock_24_label">Relógio 4x2</string>
     <string name="gadget_clock_34_label">Relógio 4x3</string>
     <string name="gadget_clock_label">Relógio</string>
+    <string name="gadget_dual_clock_label">Relógio duplo</string>
     <string name="gadget_error_text">Não é possível carregar o widget</string>
     <string name="gadget_google_search_label">Pesquisa do Google</string>
     <string name="gadget_load_error">Carregando…</string>
@@ -169,7 +174,7 @@
     <string name="gadget_weather_loading">Nenhum dado</string>
     <string name="gadget_weather_low_temp">Temperatura baixa</string>
     <string name="gadget_weather_theme_type">Tipo de gadget</string>
-    <string name="gadget_weather_time_format">"EEEE, dd 'de' MMMM"</string>
+    <string name="gadget_weather_time_format">"EEEE, d 'de' MMMM"</string>
     <string name="gadget_weather_title">Clima</string>
     <string name="gadget_weather_title_14">Clima</string>
     <string name="gadget_weather_title_24">Clima</string>
@@ -212,7 +217,7 @@
     <string name="menu_exit_scene">Sair do Mi Space</string>
     <string name="menu_item_add_item">Colocar na Tela inicial</string>
     <string name="menu_launcher_setting">Configurações do launcher</string>
-    <string name="menu_lock">Bloquear disposição da tela inicial</string>
+    <string name="menu_lock">Bloquear disposição do Ecrã inicial</string>
     <string name="menu_more">Mais</string>
     <string name="menu_picktheme">Escolha um tema</string>
     <string name="menu_reset_scene">Redefinir para o layout padrão</string>
@@ -274,19 +279,21 @@
     <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
     <string name="recommend_apps_default_title">Vazio</string>
     <string name="recommend_apps_no_data">Sem dados</string>
+    <string name="recommend_apps_no_data_toast">Sem recomendações no momento.</string>
     <string name="recommend_apps_notice">Apps promovidos</string>
     <string name="recommend_apps_notice_nodata">Apps promovidos (sem dados)</string>
     <string name="recommend_apps_switch_title">Apps promovidos</string>
     <string name="recommend_apps_tips">Este recurso precisa de uma conexão à internet para funcionar normalmente. Para desativar este recurso, toque no nome da pasta.</string>
     <string name="recommend_loading">Carregando</string>
-    <string name="refresh">Atualizar</string>
+    <string name="recommend_refresh">Atualizar</string>
+    <string name="recommend_xout">Não mostrar</string>
     <string name="reset_description_first_time">Você pode restaurar o layout de %1$s em 2 horas</string>
     <string name="reset_description_others">Você pode restaurar o layout de %1$s</string>
     <string name="reset_fail">Não foi possível restaurar</string>
     <string name="reset_scene_prompt">A tela será redefinida para o layout padrão.</string>
     <string name="reset_title">Restaurar</string>
     <string name="screen_cells_config_title">Layout da Tela inicial</string>
-    <string name="screen_locked_toast">A disposição da tela inicial está bloqueada.</string>
+    <string name="screen_locked_toast">A disposição do Ecrã inicial está bloqueada.</string>
     <string name="screen_number">Tela %d</string>
     <string name="select_all">Selecionar tudo</string>
     <string name="select_frame">Quadro</string>
@@ -296,7 +303,8 @@
     <string name="settings_shortcut">Configurações</string>
     <string name="share">Compartilhar</string>
     <string name="show_all">Mostrar tudo</string>
-    <string name="show_mem_info_title">Mostrar estado da memória</string>
+    <string name="show_mem_info_title">Mostrar status da memória</string>
+    <string name="show_recents_recommend_title">Mostrar sugestões</string>
     <string name="sort_by_abc">Ordenar por nome</string>
     <string name="sort_by_frequency">Ordenar por uso</string>
     <string name="sort_by_not_defined">Ordenar automaticamente</string>

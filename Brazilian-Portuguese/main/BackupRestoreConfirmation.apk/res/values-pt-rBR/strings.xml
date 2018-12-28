@@ -2,12 +2,12 @@
 <resources>
     <string name="backup_confirm_title">Backup completo</string>
     <string name="restore_confirm_title">Restauração completa</string>
-    <string name="backup_confirm_text">"Foi solicitado um backup completo de todos os dados para um computador conectado. Deseja permitir que isso aconteça?
+    <string name="backup_confirm_text">"Foi solicitado um backup completo de todos os dados para um computador conectado. Quer permitir que isso aconteça?
 
 Caso você não tenha solicitado o backup, não permita que a operação prossiga."</string>
     <string name="allow_backup_button_label">Fazer backup de meus dados</string>
     <string name="deny_backup_button_label">Não fazer backup</string>
-    <string name="restore_confirm_text">"Foi solicitada uma restauração completa de todos os dados de um computador conectado. Deseja permitir que isso ocorra?
+    <string name="restore_confirm_text">"Foi solicitada uma restauração completa de todos os dados de um computador conectado. Quer permitir que isso ocorra?
 
 Caso você não tenha solicitado a restauração, não permita que a operação prossiga. Isso substituirá todos os dados existentes no dispositivo!"</string>
     <string name="allow_restore_button_label">Restaurar meus dados</string>

@@ -131,8 +131,11 @@
     <string name="security_permission_xiaomi_account_missed_text">Insira sua ID da Conta Mi</string>
     <string name="security_permission_validate_warning">Obrigado por ajudar a melhorar o MIUI!</string>
     <string name="security_permission_wifi_and_data_opened_text">Dados móveis e Wi-Fi ativados</string>
+    <string name="security_permission_network_failed_text">Não foi possível conectar-se à rede. Verifique suas configurações de rede e tente novamente.</string>
+    <string name="security_permission_open_wifi_settings">Abrir configurações de Wi-Fi</string>
     <string name="xspace_resolver_activity_title">Selecionar app</string>
     <string name="user_switching_dialog_text">Alternando…</string>
+    <string name="xspace_head">Dual app</string>
     <string name="activity_package_delete_confirm_title">Atenção</string>
     <string name="button_text_cancel">Cancelar</string>
     <string name="button_text_delete">Desinstalar</string>
@@ -171,5 +174,16 @@
     <string name="super_resolution_maintain_tips">A super resolução ainda não está disponível.</string>
     <string name="wifi_assistant_wifi_no_internet">Esta rede Wi-Fi não tem acesso à internet</string>
     <string name="wifi_assistant_wifi_no_internet_detail">Toque para ver detalhes</string>
-    <string name="resolver_app_recommend_flag">Recommend</string>
+    <string name="resolver_app_recommend_flag">Recomendado</string>
+    <string name="voice_button_action_up">Pressione para falar</string>
+    <string name="voice_button_action_down">Solte para pesquisar</string>
+    <string name="voice_begin">O que você está procurando?</string>
+    <string name="voice_input_error_network">Não foi possível conectar-se à rede. Verifique suas configurações e tente novamente.</string>
+    <string name="voice_input_error_other">Ocorreu um erro. Aguarde alguns minutos e tente novamente.</string>
+    <string name="miui_warning_button_ok">OK</string>
+    <string name="miui_warning_button_cancel">Cancelar</string>
+    <string name="miui_warning_tip_info">Ocorreu um erro com %1$s. Fechar este app agora?</string>
+    <string name="talk_back_water_mark_string1">O TalkBack está ativado</string>
+    <string name="talk_back_water_mark_string2">Pressione e segure \"Volume +\" e \"Volume -\" por 3 segundos para desativar</string>
+    <string name="start_dump_log">Iniciar obtenção de logs relacionados com o problema</string>
 </resources>

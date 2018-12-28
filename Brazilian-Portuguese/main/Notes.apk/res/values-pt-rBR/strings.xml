@@ -4,6 +4,8 @@
     <string name="action_mode_switcher_grid_description">Visualização em grade</string>
     <string name="action_mode_switcher_list_description">Visualização em lista</string>
     <string name="action_settings_description">Abrir Configurações</string>
+    <string name="actionbar_close_description">Fechar</string>
+    <string name="actionbar_home_description">Voltar</string>
     <string name="add_account_desc">Sincronizar suas anotações com sua Conta Mi?</string>
     <string name="alarm_bar_title">Lembrete</string>
     <string name="alert_action_edit_anyway">Continuar editando</string>
@@ -28,10 +30,14 @@
     <string name="cancel_alarm_description">Cancelar alarme</string>
     <string name="cloud_service_state_open_reminder">Ative a sincronização com a Mi Cloud para sincronizar anotações.</string>
     <string name="cloud_trash_bin_title">Excluir anotações na Mi Cloud</string>
-    <string name="cta_reminder">Este app precisa de uma conexão com a internet para fazer o backup de anotações para a Mi Cloud, assim como ler seus contatos para associá-los às anotações feitas durante chamadas.</string>
-    <string name="date_time_picker_alarm_reminder">Alarmes</string>
+    <string name="cta_confirm_cancel">Não permitir</string>
+    <string name="cta_confirm_ok">Permitir</string>
+    <string name="cta_dialog_message">O app Anotações precisa de permissões para conectar-se à internet, gravar áudio, e acessar seus contatos para funcionar normalmente. Permitir?</string>
+    <string name="cta_dialog_title">Permissões necessárias</string>
+    <string name="cta_reminder">O app Anotações precisa de permissões para conectar-se à internet, gravar áudio, e acessar seus contatos para funcionar normalmente. Permitir?</string>
+    <string name="date_time_picker_alarm_reminder">Alarme</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
-    <string name="date_time_picker_has_not_set_alarm">O alarme não está definido</string>
+    <string name="date_time_picker_has_not_set_alarm">O alarme não foi definido</string>
     <string name="date_time_picker_has_set_alarm">Alarme definido com sucesso</string>
     <string name="db_downgrade_clear_button">Limpar dados do app</string>
     <string name="db_downgrade_clear_date_reminder">Mudar para uma versão diferente do MIUI requer a limpeza dos dados do app Anotações. Antes de fazer isso, certifique-se de que vocẽ fez o backup de suas anotações na Mi Cloud.</string>
@@ -98,12 +104,13 @@
     <string name="menu_delete_forever">Excluir</string>
     <string name="menu_folders">Pastas</string>
     <string name="menu_hide">Ocultar</string>
+    <string name="menu_more_description">Mais</string>
     <string name="menu_move_parent_folder">Pasta anterior</string>
     <string name="menu_move_to">Mover para</string>
     <string name="menu_new_folder">Nova pasta</string>
     <string name="menu_restore">Restaurar</string>
     <string name="menu_send_as_image">Enviar como imagem</string>
-    <string name="menu_send_as_text">Enviar como SMS</string>
+    <string name="menu_send_as_text">Enviar como texto</string>
     <string name="menu_send_to_desktop">Colocar na Tela inicial</string>
     <string name="menu_send_weibo">Enviar para o Weibo</string>
     <string name="menu_source">De %1$s</string>
@@ -111,8 +118,8 @@
     <string name="menu_title_select_folder">Selecionar pasta</string>
     <string name="menu_unhide">Desocultar</string>
     <string name="menu_unstick">Desafixar</string>
+    <string name="micloud_state_total_count">%1$s</string>
     <string name="not_now">Agora não</string>
-    <string name="note_alert_expired">Expirada</string>
     <string name="note_description_content">O app Anotações é uma ótima ferramenta para armazenar sua ideias. ele tem um sistema de lembretes integrado e sincroniza seus itens com a Mi Cloud para que você os acesse de qualquer lugar. Certifique-se de que você não precisará destes recursos antes de excluir o app.</string>
     <string name="note_description_title">Sobre o Anotações</string>
     <string name="note_link_email">Escrever e-mail</string>
@@ -123,6 +130,7 @@
     <string name="note_sort_way">Selecione como deseja ordenar as anotações</string>
     <string name="notealert_enter">Abrir anotação</string>
     <string name="notealert_ok">Dispensar</string>
+    <string name="notelist_string_info">…</string>
     <string name="notify_alarm_title">Lembrete da anotação</string>
     <string name="permdesc_accessNote">Apps maliciosos podem usar isto para acessar seus dados pessoais.</string>
     <string name="permlab_accessNote">Acessar anotações</string>
@@ -157,7 +165,7 @@
     <string name="search_setting_description">Procurar texto em suas anotações</string>
     <string name="select_account_prompt">Sincronizar anotações</string>
     <string name="set_alarm_description">Definir alarme</string>
-    <string name="setting_other">Outros</string>
+    <string name="setting_other">OUTROS</string>
     <string name="setting_privacy">Política de Privacidade</string>
     <string name="snippet_audio_stub">Anotação com voz</string>
     <string name="snippet_image_stub">Anotação com imagem</string>
@@ -167,7 +175,7 @@
     <string name="sns_choose_quality_low">Baixa</string>
     <string name="sns_choose_quality_title">Escolher qualidade da imagem</string>
     <string name="sns_content_default">Compartilhar foto</string>
-    <string name="sns_desc_image_preview">Pré-visualização da mensagem</string>
+    <string name="sns_desc_image_preview">Prévia da mensagem</string>
     <string name="sns_desc_preview_weibo">Pré-visualização de mensagem Weibo</string>
     <string name="sns_footer_text">Criado com o Mi Notes</string>
     <string name="sns_hint_content">Inserir mensagem</string>
@@ -184,7 +192,7 @@
     <string name="theme_title_antique">Outono</string>
     <string name="theme_title_arty">Floral</string>
     <string name="theme_title_blue">Azul</string>
-    <string name="theme_title_candy">Doce</string>
+    <string name="theme_title_candy">Doces</string>
     <string name="theme_title_dark">Escuro</string>
     <string name="theme_title_default">Padrão</string>
     <string name="theme_title_green">Verde</string>
@@ -194,19 +202,19 @@
     <string name="theme_title_yellow">Amarelo</string>
     <string name="theme_white_description">Branco</string>
     <string name="theme_yellow_description">Amarelo</string>
-    <string name="toast_cancel_to_insert_image">Não é possível adicionar uma imagem.</string>
+    <string name="toast_cancel_to_insert_image">Não foi possível adicionar a imagem.</string>
     <string name="toast_message_add_image_fail">Não foi possível adicionar imagem</string>
-    <string name="toast_notes_delete_success">Excluído com sucesso</string>
-    <string name="toast_notes_hidden_edit">Esta anotação foi ocultada com sucesso. Puxe para ver as anotações ocultas</string>
-    <string name="toast_notes_hidden_home">Esta anotação foi ocultada com sucesso. Puxe para ver as Anotações ocultas</string>
-    <string name="toast_notes_hidden_count">%1$s anotação(ões) ocultada(s) com sucesso</string>
-    <string name="toast_notes_unhidden">Anotação desocultada com sucesso</string>
-    <string name="toast_notes_unhidden_count">%1$s anotação(ões) desocultada(s) com sucesso</string>
+    <string name="toast_notes_delete_success">Excluída com sucesso</string>
+    <string name="toast_notes_hidden_count">%1$s ocultada(s) com sucesso</string>
+    <string name="toast_notes_hidden_edit">Esta anotação foi ocultada com sucesso. Puxe para baixo para ver as anotações ocultas.</string>
+    <string name="toast_notes_hidden_home">Esta anotação foi ocultada com sucesso. Puxe para baixo para ver as anotações ocultas.</string>
+    <string name="toast_notes_unhidden">Desocultada com sucesso</string>
+    <string name="toast_notes_unhidden_count">%1$s desocultada(s) com sucesso</string>
     <string name="toast_reach_text_limit_attachment">Não é possível adicionar novos anexos porque a anotação é muito longa</string>
     <string name="toast_reach_text_limit_checkbox">Não é possível adicionar uma caixa de seleção porque a anotação é muito longa</string>
     <string name="toast_reach_text_limit_truncate">Esta anotação é muito longa. Parte do texto foi cortado ao final.</string>
     <string name="toast_refuse_to_record_when_in_call">Não é possível usar este recurso durante chamadas</string>
-    <string name="toast_refuse_to_record_when_in_multi_window">Não é possível utilizar no modo de tela dividida</string>
+    <string name="toast_refuse_to_record_when_in_multi_window">Não é possível usar este recurso com a Tela dividida</string>
     <string name="toolbar_check_description">Adicionar caixa de seleção</string>
     <string name="toolbar_delete_description">Excluir esta anotação</string>
     <string name="toolbar_gallery_description">Adicionar imagem</string>
@@ -220,11 +228,6 @@
     <string name="trash_folder_reminder">As anotações que você excluir serão removidas permanentemente em 30 dias.</string>
     <string name="undo">Desfazer</string>
     <string name="unknown_source">Fonte desconhecida</string>
-    <string name="welcome_note_for_cm">"E muitos outros recursos!
- - Sincronize com a Mi Cloud
- - Defina lembretes"</string>
     <string name="widget_content_loading">Aguarde…</string>
     <string name="widget_havenot_content">Toque para criar uma anotação. Segure o widget para redimensioná-lo.</string>
-    <string name="edit_header_home_description">Voltar</string>
-    <string name="toolbar_more_description">Mais</string>
 </resources>

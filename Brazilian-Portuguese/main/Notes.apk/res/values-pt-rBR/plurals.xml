@@ -17,7 +17,7 @@
         <item quantity="one">%d segundo restante</item>
     </plurals>
     <plurals name="word_count">
-        <item quantity="other">%s caracteres</item>
-        <item quantity="one">%s caractere</item>
+        <item quantity="other">%d caracteres</item>
+        <item quantity="one">%d caractere</item>
     </plurals>
 </resources>
