@@ -23,8 +23,8 @@
         <item>Você pode usar texto, imagens e gravações de áudio em suas anotações. Uma rica biblioteca de estilos e fontes as deixará incrível.</item>
         <item>Checklists e lembretes lhe auxiliam quando você precisa de ferramentas básicas e efetivas para planejar a sua próxima viagem ou ao fazer uma lista de cmpras.</item>
         <item>Compartilhe anotações</item>
-        <item>You can generate scrolling screenshots in Notes automatically, and them share them with your friends.</item>
-        <item>Create &amp; switch between folders</item>
+        <item>Você pode criar capturas de tela estentidas automaticamente nas Anotações, e então compartilhá-las com seus amigos.</item>
+        <item>Criar &amp; alternar entre pastas</item>
         <item>Pressione a seta abaixo para criar uma nova pasta ou alternar entre as já existentes.</item>
     </string-array>
     <string-array name="folder_operations">
@@ -44,5 +44,9 @@
     <string-array name="second_guide_contents">
         <item>Notas de voz</item>
         <item>Crie anotações usando nosso mecanismo de voz para texto anexando a gravação original nas anotações.</item>
+    </string-array>
+    <string-array name="second_guide_contents_pad_or_inter">
+        <item>Notas de voz</item>
+        <item>Você pode criar notas de voz agora. Toque no ícone, grave sua voz, e salve o arquivo de áudio dentro da anotação.</item>
     </string-array>
 </resources>

@@ -76,9 +76,9 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
         <item quantity="other">"O acesso à rede está restrito para &lt;font color='#ff0000'>%d&lt;/font> apps"</item>
         <item quantity="one">"O acesso à rede está restrito para &lt;font color='#ff0000'>%d&lt;/font> app"</item>
     </plurals>
-    <plurals name="om_ill_proc_multi_app_title">
-        <item quantity="other">%d apps não funcionam corretamente e estão descarregando a bateria</item>
-        <item quantity="one">%d app não funciona corretamente e está descarregando a bateria</item>
+    <plurals name="om_locked_apps_title">
+        <item quantity="other">%d apps bloqueados</item>
+        <item quantity="one">%d app bloqueado</item>
     </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d dias "</item>
@@ -119,6 +119,18 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
     <plurals name="quick_optimize_suggest_issue_found">
         <item quantity="other">%d problemas encontrados na bateria, corrija-os</item>
         <item quantity="one">%d problema encontrado na bateria, corrija-o</item>
+    </plurals>
+    <plurals name="notification_battery_consume_abnormal_summary">
+        <item quantity="other">%2$d%% de bateria descarregados nos últimos %1$d minutos</item>
+        <item quantity="one">%2$d%% de bateria descarregados no último %1$d minuto</item>
+    </plurals>
+    <plurals name="power_center_menu_text">
+        <item quantity="other">itens</item>
+        <item quantity="one">item</item>
+    </plurals>
+    <plurals name="power_center_list_item_optimize_button">
+        <item quantity="other">Adiciona %d minutos</item>
+        <item quantity="one">Adiciona %d minuto</item>
     </plurals>
     <plurals name="people">
         <item quantity="other">Transferido por %1$d pessoas</item>
@@ -163,6 +175,22 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
     <plurals name="sp_monitored_apps_list_group_disable">
         <item quantity="other">%s apps não estão protegidos</item>
         <item quantity="one">%s app não está protegido</item>
+    </plurals>
+    <plurals name="menu_text_antivirus_2">
+        <item quantity="other">%d itens</item>
+        <item quantity="one">%d item</item>
+    </plurals>
+    <plurals name="menu_text_antivirus_3">
+        <item quantity="other">%d dias</item>
+        <item quantity="one">%d dia</item>
+    </plurals>
+    <plurals name="menu_text_antispam_2">
+        <item quantity="other">%d itens</item>
+        <item quantity="one">%d item</item>
+    </plurals>
+    <plurals name="menu_text_app_manager_2">
+        <item quantity="other">%d apps</item>
+        <item quantity="one">%d app</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d itens seguros</item>
@@ -236,6 +264,18 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
         <item quantity="other">"Aguarde por %d segundos e tente novamente. "</item>
         <item quantity="one">"Aguarde por %d segundo e tente novamente. "</item>
     </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">Conecte pelo menos %d pontos</item>
+        <item quantity="one">Conecte pelo menos %d ponto</item>
+    </plurals>
+    <plurals name="numeric_recording_incorrect_too_short">
+        <item quantity="other">Insira pelo menos %d dígitos</item>
+        <item quantity="one">Insira pelo menos %d dígito</item>
+    </plurals>
+    <plurals name="mixed_recording_incorrect_too_short">
+        <item quantity="other">Insira pelo menos um %d caracteres</item>
+        <item quantity="one">Insira pelo menos um %d caractere</item>
+    </plurals>
     <plurals name="number_masked">
         <item quantity="other">%d apps</item>
         <item quantity="one">%d app</item>
@@ -263,6 +303,10 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
     <plurals name="found_apps_title">
         <item quantity="other">%d apps encontrados</item>
         <item quantity="one">%d app encontrado</item>
+    </plurals>
+    <plurals name="reset_data_dialog_ok_tick">
+        <item quantity="other">Redefinir dados (%ds)</item>
+        <item quantity="one">Redefinir dados (%ds)</item>
     </plurals>
     <plurals name="section_clear_acc_item_right_tips">
         <item quantity="other">%d apps bloqueados aguardando serem limpos</item>
@@ -320,28 +364,32 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
         <item quantity="other">Check-in feito %d dias seguidos</item>
         <item quantity="one">Check-in feito %d vez</item>
     </plurals>
-     <plurals name="menu_text_antivirus_2">
-        <item quantity="other">%d itens</item>
-        <item quantity="one">%d item</item>
+    <plurals name="hide_txt_hint_with_blank_2">
+        <item quantity="other">    +%1$d caracteres</item>
+        <item quantity="one">    +%1$d caractere</item>
     </plurals>
-    <plurals name="menu_text_antivirus_3">
-        <item quantity="other">%d dias</item>
-        <item quantity="one">%d dia</item>
-    </plurals>
-    <plurals name="menu_text_antispam_2">
-        <item quantity="other">%d itens</item>
-        <item quantity="one">%d item</item>
-    </plurals>
-    <plurals name="menu_text_app_manager_2">
-        <item quantity="other">%d aplicativos</item>
-        <item quantity="one">%d aplicativo</item>
-    </plurals>
-     <plurals name="privacy_apps_enable_header_title">
-        <item quantity="other">Pode ocultar %d aplicativos</item>
-        <item quantity="one">Pode ocultar %d aplicativos</item>
+    <plurals name="privacy_apps_enable_header_title">
+        <item quantity="other">É possível ocultar %d apps</item>
+        <item quantity="one">É possível ocultar %d app</item>
     </plurals>
     <plurals name="privacy_apps_disable_header_title">
-        <item quantity="other">%d aplicativos estão ocultos</item>
-        <item quantity="one">%d aplicativo está oculto</item>
+        <item quantity="other">%d apps estão ocultos</item>
+        <item quantity="one">%d app está oculto</item>
+    </plurals>
+    <plurals name="first_aid_card_float_window_summary">
+        <item quantity="other">%d apps podem ser exibidos incorretamente. Restrinja as notificações flutuantes.</item>
+        <item quantity="one">%d app pode ser exibido incorretamente. Restrinja as notificações flutuantes.</item>
+    </plurals>
+    <plurals name="first_aid_result_summary_exception">
+        <item quantity="other">%1$d problemas requerem otimização</item>
+        <item quantity="one">%1$d problema requer otimização</item>
+    </plurals>
+    <plurals name="game_booster_incoming_call_duration_p1">
+        <item quantity="other">%1$s:</item>
+        <item quantity="one">%1$s:</item>
+    </plurals>
+    <plurals name="game_booster_incoming_call_duration_p2">
+        <item quantity="other">%1$s</item>
+        <item quantity="one">%1$s</item>
     </plurals>
 </resources>

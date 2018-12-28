@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="inCallLabel">UI de chamada</string>
+    <string name="inCallLabel">Telefone</string>
     <string name="unknown">Desconhecido</string>
     <string name="private_num">Número privado</string>
     <string name="payphone">Telefone público</string>
@@ -51,14 +51,12 @@
     <string name="onscreen_note_calls_text">Anotação</string>
     <string name="call_record_wait_label">Aguardando</string>
     <string name="contacts_icon_label">Contatos</string>
-    <string name="conference_call_number">%s pessoa(s)</string>
     <string name="conference_call_description" formatted="false">%s, %s etc., total de %s</string>
     <string name="conference_call_single_description" formatted="false">%s etc., total de %s</string>
     <string name="separate_from_conference">Separar chamada</string>
     <string name="caller_manage_header">Conferência telefônica %s</string>
     <string name="incall_call_type_label_sip">Chamada pela internet</string>
     <string name="incoming_call_forwarded_title">Encaminhar chamadas recebidas</string>
-    <string name="call_title_redialing_with_times">Rediscado %d vezes</string>
     <string name="card_title_dialing">Discando</string>
     <string name="card_title_conf_call">Conferência telefônica</string>
     <string name="card_title_video_conf_call">Vídeochamada de conferência</string>
@@ -112,6 +110,7 @@
     <string name="description_image_button_dialpad">Discador</string>
     <string name="description_image_button_tools">Opções</string>
     <string name="description_target_answer">Atender</string>
+    <string name="description_message_list_title">Lista de respostas rápidas</string>
     <string name="ok">OK</string>
     <string name="cancel">Cancelar</string>
     <string name="wait_prompt_str">"Enviar os toques a seguir
@@ -128,6 +127,8 @@
     <string name="select_sim_hint">Não é possível usar o cartão SIM %2$d enquanto o cartão SIM %1$d está em uso.</string>
     <string name="select_one_sim_title">Só é possível usar o SIM %1$d</string>
     <string name="can_not_use">Não é possível usar</string>
+    <string name="sim1_description">SIM1</string>
+    <string name="sim2_description">SIM2</string>
     <string name="call_description_recording">Gravando…</string>
     <string name="call_recording_error_privacy">Não é possível gravar enquanto você está no Modo convidado</string>
     <string name="call_recording_error_sd_access">Não é possível acessar o cartão SD</string>
@@ -143,7 +144,6 @@
     <string name="call_recording_deny_permission_msg">A permissão de gravação foi negada, não é possível gravar.</string>
     <string name="call_contacts_deny_permission_msg">Você negou as permissões de leitura de contatos, não é possível exibir as informações.</string>
     <string name="conference_call_recorder_title">Chamada em conferência</string>
-    <string name="antispam_marked_count">Reportado por %1$d usuários MIUI</string>
     <string name="antispam_local_marked">Marcado localmente</string>
     <string name="antispam_provider">Identificado por %s</string>
     <string name="antispam_notification_title">Número desconhecido</string>
@@ -171,7 +171,7 @@
     <string name="close_camera_requesting">Desligando câmera…</string>
     <string name="close_camera_failed">Não foi possivel desligar a câmera…</string>
     <string name="change_to_voice_tips_when_background">O outro usuário mudou para uma chamada de voz</string>
-    <string name="video_crbt_title">%s VRBT</string>
+    <string name="video_crbt_title">O VRBT do outro usuário está tocando</string>
     <string name="crbt_second_hold_prompt">%s está em espera…</string>
     <string name="crbt_second_hold_prompt_no_name">A chamada anterior está em espera…</string>
     <string name="crbt_second_hold_prompt_conference">A chamada de conferência está em espera…</string>
@@ -197,4 +197,6 @@
     <string name="dialpad_eight">8</string>
     <string name="dialpad_nine">9</string>
     <string name="prompt_no_volte_when_failed">Não é possível fazer chamadas. Certifique-se de que seu dispositivo está conectado a uma rede 4G com suporte a VoLTE.</string>
+    <string name="volume_boost_text">Volume otimizado com sucesso</string>
+    <string name="supp_service_notification_call_waiting">O número que você discou está ocupado. Por favor, aguarde…</string>
 </resources>

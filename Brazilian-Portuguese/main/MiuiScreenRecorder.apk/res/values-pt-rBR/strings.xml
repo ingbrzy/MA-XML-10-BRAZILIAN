@@ -24,6 +24,8 @@
     <string name="description_title">Sobre o Gravador de Tela</string>
     <string name="deselect_all">Desmarcar tudo</string>
     <string name="error_open_file_failed_no_app_found">Não foi possível encontrar um app para abrir este arquivo</string>
+    <string name="first_using_mic_dialog_message">O Gravador de tela precisa de acesso ao seu microfone para gravar áudio. Permitir?</string>
+    <string name="first_using_mic_dialog_title">Permissões necessárias</string>
     <string name="fixed_frame_rate">Taxa fixa de quadros</string>
     <string name="fixed_frame_rate_summary">Gravar vídeos com uma taxa fixa de quadros melhora a reprodução em plataformas de mídias sociais e reduz a duração da bateria.</string>
     <string name="frames">Taxa de quadros</string>
@@ -72,6 +74,7 @@
     <string name="show_screen_touch_summary">Mostrar gestos de toque usando um ponto branco na tela</string>
     <string name="sound_source">Fonte de áudio</string>
     <string name="sound_source_summary">Sons do sistema ou microfone</string>
+    <string name="sound_source_summary_without_system_sounds">Usar microfone ou silenciar som</string>
     <string name="start">Iniciar</string>
     <string name="start_recording">Iniciar gravação</string>
     <string name="stop_by_second_space">Trocar de Espaços interromperá a gravação</string>
@@ -82,4 +85,6 @@
     <string name="storage_location_summary">Selecione sua opção de armazenamento preferida</string>
     <string name="timer_format">%s</string>
     <string name="unchecked">Não selecionado</string>
+    <string name="using_record_confirm_cancel">Negar</string>
+    <string name="using_record_confirm_ok">Permitir</string>
 </resources>

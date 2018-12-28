@@ -8,13 +8,13 @@
     <string name="close_panel">Desativar botões de Acesso rápido</string>
     <string name="customize_entries">Selecionar atalhos</string>
     <string name="enable_touch_assistant">Ativar botões de Acesso rápido</string>
-    <string name="enabled_for_pad_hint">Funciona quando \"Bloquear botões de navegação em modo paisagem\" estiver ligado</string>
     <string name="function_settings">Configuração dos atalhos</string>
     <string name="handy_mode_default_to_close_whether_open">O Modo para uma mão está desativado por padrão. Ativar o Modo para uma mão?</string>
     <string name="hide_touch_assistant">Ocultar automaticamente</string>
     <string name="hide_touch_assistant_intro">Oculta o Acesso rápido nos apps selecionados.</string>
     <string name="hide_when_fullscreen">Ocultar em tela cheia</string>
     <string name="hide_when_fullscreen_intro">Ocultar ao entrar em modo tela cheia.</string>
+    <string name="mi_wallet_summary">Cartão de transporte/Mi Pay/Cartão de acesso</string>
     <string name="motion_behavior">Gesto preferido</string>
     <string name="name_alipay_payment_code">Pagamentos Alipay</string>
     <string name="name_alipay_scan">Digitalizar código Alipay</string>
@@ -22,6 +22,7 @@
     <string name="name_handy_mode">Modo para uma mão</string>
     <string name="name_long_press_power_key">Segurar botão Liga/Desliga</string>
     <string name="name_memory_clean">Limpar cache</string>
+    <string name="name_mi_wallet">Mi Wallet</string>
     <string name="name_music_next_song">Próxima música</string>
     <string name="name_music_prev_song">Música anterior</string>
     <string name="name_music_toggle">Reproduzir/pausar música</string>
@@ -53,6 +54,4 @@
     <string name="show_on_keyguard">Mostrar na Tela de bloqueio</string>
     <string name="theme_manager_not_supported">O Gerenciador de temas não é suportado.</string>
     <string name="three_seconds_auto_hide">Ocultar na lateral após 3s de inatividade</string>
-    <string name="mi_wallet_summary">Cartão de transporte/Mi Pay/Cartão de acesso</string>
-    <string name="name_mi_wallet">Mi Wallet</string>
 </resources>

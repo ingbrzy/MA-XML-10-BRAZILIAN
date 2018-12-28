@@ -4,10 +4,6 @@
         <item quantity="other">Em soneca por %d minutos.</item>
         <item quantity="one">Em soneca por %d minuto.</item>
     </plurals>
-    <plurals name="auto_silence_summary">
-        <item quantity="other">Os alarmes silenciarão após %d minutos</item>
-        <item quantity="one">Os alarmes silenciarão após %d minuto</item>
-    </plurals>
     <plurals name="delete_alarm_confirm">
         <item quantity="other">Excluir os alarmes selecionados?</item>
         <item quantity="one">Excluir este alarme?</item>
@@ -20,17 +16,13 @@
         <item quantity="other">%d segundos</item>
         <item quantity="one">%d segundo</item>
     </plurals>
+    <plurals name="snooze_duration_summary">
+        <item quantity="other">O alarme disparará %2$s vezes (%1$s min. cada)</item>
+        <item quantity="one">O alarme disparará %2$s vez (%1$s min.)</item>
+    </plurals>
     <plurals name="snooze_message">
         <item quantity="other">Soneca por %d min</item>
         <item quantity="one">Soneca por %d min</item>
-    </plurals>
-    <plurals name="timer_item_duration_display_minutes">
-        <item quantity="other">%1$d minutos</item>
-        <item quantity="one">1 minuto</item>
-    </plurals>
-    <plurals name="timer_item_duration_display_seconds">
-        <item quantity="other">%1$d segundos</item>
-        <item quantity="one">1 segundo</item>
     </plurals>
     <plurals name="timer_message_hour">
         <item quantity="other">"%1$d horas "</item>

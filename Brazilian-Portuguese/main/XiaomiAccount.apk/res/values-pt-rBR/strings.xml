@@ -4,11 +4,12 @@
     <string name="passport_notification_title">Erro de login para %1$s</string>
     <string name="passport_login_prompt">Uma Conta Mi. Todos os nossos serviços.</string>
     <string name="passport_login_using_other_ways">Outras formas de login</string>
+    <string name="passport_register_using_other_ways">Outras formas de criar uma conta</string>
     <string name="passport_login_title">Faça o login em sua Conta Mi</string>
     <string name="passport_login">Fazer login</string>
     <string name="passport_relogin">Fazer login novamente</string>
     <string name="passport_skip_login">Pular</string>
-    <string name="passport_skip_setup_account_title">Pular configuração</string>
+    <string name="passport_skip_setup_account_title">Não usar a Mi Cloud?</string>
     <string name="passport_skip_setup_account_msg">Você pode configurar uma Conta Mi mais tarde nas Configurações.</string>
     <string name="passport_confirm_login">Continuar</string>
     <string name="passport_find_password_on_web_msg">Visite account.mi.com para redefinir sua senha.</string>
@@ -27,8 +28,9 @@
     <string name="passport_reg_success_summary">%1$s foi vinculado à sua conta. Você poderá usaá-lo para fazer login ou redefinir sua senha.</string>
     <string name="passport_re_register">Registrar novamente</string>
     <string name="passport_register">Criar uma conta</string>
-    <string name="passport_new_user_register">Create an account</string>
+    <string name="passport_new_user_register">Criar conta</string>
     <string name="passport_vcode_sms_send_prompt">Enviar código de verificação para %s</string>
+    <string name="passport_input_phone_password">Inserir senha para %s</string>
     <string name="passport_get_verify_code">Obter código</string>
     <string name="passport_re_get_verify_code">Obter código novamente</string>
     <string name="passport_getting_verify_code">Obtendo</string>
@@ -58,6 +60,7 @@
     <string name="passport_forget_password_no_underline">Esqueci a senha</string>
     <string name="passport_reg_type_email">Endereço de e-mail</string>
     <string name="passport_register_by_email"><u>Criar conta com um endereço de e-mail</u></string>
+    <string name="passport_international_register_by_email">Criar uma conta com um endereço de e-mail</string>
     <string name="passport_account_not_actived">A sua conta não foi ativada</string>
     <string name="passport_active_email_visit">Verifique sua caixa de entrada em %s</string>
     <string name="passport_click_email_to_valid">"
@@ -73,7 +76,7 @@ Para ativar sua conta, siga o
     <string name="passport_skip_register">Pular registro</string>
     <string name="passport_account_not_activated">A conta ainda não foi ativada</string>
     <string name="passport_change_account"><u>Mudar conta</u></string>
-    <string name="passport_btn_change_account">Change account</string>
+    <string name="passport_btn_change_account">Trocar conta</string>
     <string name="passport_register_account_verified_confirm">Conta verificada</string>
     <string name="passport_register_account_goto_email">Ir para caixa de entrada</string>
     <string name="passport_error_dup_email">O e-mail inserido já está associado com outra conta.</string>
@@ -87,13 +90,13 @@ Para ativar sua conta, siga o
     <string name="passport_delete_account">Sair</string>
     <string name="passport_vcode_notification_title">Sua verificação de login está incompleta</string>
     <string name="passport_account_name">Conta: %1$s</string>
-    <string name="passport_account_hint_text">Email/Phone number/Mi Account ID</string>
+    <string name="passport_account_hint_text">E-mail/Número de telefone/ID da Conta Mi</string>
     <string name="passport_email_or_id_hint_text">E-mail/ID da Conta Mi</string>
     <string name="passport_phone_num_hint_text">Número do telefone</string>
     <string name="passport_input_password_hint">Insira sua senha</string>
     <string name="passport_input_captcha_hint">Insira o código</string>
     <string name="passport_input_vcode_hint">Insira o código de verificação</string>
-    <string name="passport_input_voice_hint">Enter voice code</string>
+    <string name="passport_input_voice_hint">Inserir código de voz</string>
     <string name="passport_email">Endereço de e-mail</string>
     <string name="passport_vcode_prompt_long">Insira o código de verificação</string>
     <string name="passport_input_phone_hint">Insira o número do telefone</string>
@@ -107,7 +110,7 @@ Para ativar sua conta, siga o
     <string name="passport_error_empty_pwd">Insira sua senha</string>
     <string name="passport_error_illegal_pwd">Senha inválida</string>
     <string name="passport_error_empty_captcha_code">Inserir captcha</string>
-    <string name="passport_error_empty_voice_code">Enter captcha</string>
+    <string name="passport_error_empty_voice_code">Inserir captcha</string>
     <string name="passport_error_empty_vcode">Insira o código de verificação</string>
     <string name="passport_i_know">OK</string>
     <string name="passport_retry">Tente novamente</string>
@@ -120,7 +123,7 @@ Para ativar sua conta, siga o
     <string name="passport_yes">Sim</string>
     <string name="passport_no">Não</string>
     <string name="passport_continue">Continuar</string>
-    <string name="passport_Resend">Resend</string>
+    <string name="passport_Resend">Reenviar</string>
     <string name="passport_loading">Carregando…</string>
     <string name="passport_reging">Criando conta…</string>
     <string name="passport_checking_account">Verificando senha…</string>
@@ -145,14 +148,14 @@ Para ativar sua conta, siga o
     <string name="passport_license_host_unreachable">Não é possível conectar-se à rede. Você pode ver esta página em %s.</string>
     <string name="passport_login_failed">Não é possível fazer o login</string>
     <string name="passport_reg_failed">Não é possível configurar a conta</string>
-    <string name="passport_verification_failed">Falha na autenticação</string>
+    <string name="passport_verification_failed">Não foi possível verificar a conta</string>
     <string name="passport_reset_fail_title">Não foi possível redefinir</string>
     <string name="passport_identification_expired">Código de verificação expirado, tente novamente</string>
     <string name="passport_bad_authentication">Usuário ou senha incorretos</string>
     <string name="passport_error_user_name">O usuário inserido está incorreto.</string>
     <string name="passport_access_denied">Acesso negado</string>
     <string name="passport_wrong_captcha">O código inserido está incorreto</string>
-    <string name="passport_wrong_voice">The code you entered is incorrect</string>
+    <string name="passport_wrong_voice">O código inserido está incorreto</string>
     <string name="passport_wrong_vcode">O código inserido está incorreto</string>
     <string name="passport_error_device_id">Não é possível obter a id do dispositivo</string>
     <string name="passport_error_invalid_dev_id">Sua ID de dispositivo é inválida.</string>
@@ -176,6 +179,7 @@ Para ativar sua conta, siga o
     <string name="passport_quick_register_notice"><u>Não tem uma Conta Mi? Crie uma.</u></string>
     <string name="passport_password_phone_login">Fazer login na Conta Mi</string>
     <string name="passport_sms_verification_code_login">Fazer login por SMS</string>
+    <string name="passport_sms_verification_code_login_or_register">Fazer login ou criar conta usando SMS</string>
     <string name="passport_login_other_account">Outra conta</string>
     <string name="passport_reg_new_account">Criar conta</string>
     <string name="passport_select_the_login_account">Selecione a conta para login</string>
@@ -209,12 +213,12 @@ Para ativar sua conta, siga o
     <string name="passport_get_innetdate_agree">Verificar</string>
     <string name="passport_get_innetdate_disagree">Não</string>
     <string name="passport_extra_gdpr_license">Criar sua Conta Mi significa que você aceita que a Xiaomi colete, processe e use seus dados pessoais, incluindo dados de verificação (ex.: códigos de verificação), dados do Segundo Espaço (ex.: informações sobre o uso do segundo Espaço, IDs usadas no Primeiro e Segundo espaços), e outros dados especificados na nossa Política de Privacidade. Consulte nossa Política de Privacidade para entender como processamos e usamos os dados pessoais.</string>
-    <string name="passport_talkback_image_captcha">Image verification code</string>
-    <string name="passport_talkback_voice_captcha">Play voice verification code</string>
-    <string name="passport_talkback_switch_voice_captcha">Switch to voice verification code</string>
-    <string name="passport_talkback_switch_image_captcha">Switch to image verification code</string>
-    <string name="passport_license_info_open">Details</string>
-    <string name="passport_license_info_collapse">Collapse</string>
+    <string name="passport_talkback_image_captcha">Código de verificação por imagem</string>
+    <string name="passport_talkback_voice_captcha">Reproduzir código de verificação por voz</string>
+    <string name="passport_talkback_switch_voice_captcha">Mudar para código de verificação por voz</string>
+    <string name="passport_talkback_switch_image_captcha">Mudar para código de verificação por imagem</string>
+    <string name="passport_license_info_open">Detalhes</string>
+    <string name="passport_license_info_collapse">Recolher</string>
     <string name="search_app_name">Conta Mi</string>
     <string name="search_mi_account">Conta Mi</string>
     <string name="search_mi_account_key_words">Mi Cloud,Configurações da conta,Mi Pay,Sair</string>
@@ -299,6 +303,7 @@ Para ativar sua conta, siga o
     <string name="user_avatar_uploading">Aguarde…</string>
     <string name="user_avatar_update_title">Alterar foto de perfil</string>
     <string name="photoPickerNotFoundText">Nenhuma foto disponível.</string>
+    <string name="account_invalid_user_avatar">Esta foto é inválida. Tente uma diferente.</string>
     <string name="account_none_binded_info">Não definido</string>
     <string name="account_bind_secure_phone_title">Adicionar número de telefone</string>
     <string name="account_bind_secure_email_title">Adicionar e-mail</string>
@@ -346,7 +351,7 @@ Para ativar sua conta, siga o
     <string name="account_user_details">Informações pessoais</string>
     <string name="account_security">Segurança da conta</string>
     <string name="account_mibi_center">Mi Credits</string>
-    <string name="account_mibi_charge">Carregar</string>
+    <string name="account_mibi_charge">Recarregar</string>
     <string name="account_mipay_info">Mi Pay</string>
     <string name="account_xiaomi_service">Serviços</string>
     <string name="cloud_service">Mi Cloud</string>
@@ -472,6 +477,15 @@ ID da sua conta: %s"</string>
     <string name="sim_changed_notification_title">Alterar o número de telefone?</string>
     <string name="sim_changed_notification_msg">Toque para atualizar seu número de telefone de recuperação e mantenha a sua conta mais segura.</string>
     <string name="recycle_phone_notification_title">Risco de segurança da Conta Mi</string>
-    <string name="passport_register_using_other_ways">Outros métodos de criação de conta</string>
     <string name="recycle_phone_notification_msg">Parece que seu número de telefone já está em uso. Toque para atualizar.</string>
+    <string name="send_diagnosis_log">Enviar log de diagnósticos</string>
+    <string name="for_diagnosis_usage_only">Usado apenas para localizar problemas.</string>
+    <string name="collect_diagnosis_log">Gerar log de diagnósticos</string>
+    <string name="sending">Enviando…</string>
+    <string name="diagnosis_log_sent_format">"Log enviado com sucesso.
+ID: %s
+Envie este código para o supervisor."</string>
+    <string name="diagnosis_log_send_failed">Não foi possível enviar o log.</string>
+    <string name="temporary_not_available">Este recurso ainda não está disponível.</string>
+    <string name="ok">OK</string>
 </resources>
