@@ -304,7 +304,6 @@ e destaca quem está à frente."</string>
     <string name="pref_camera_beautify_entry_low">Baixo</string>
     <string name="pref_camera_beautify_entry_normal">Médio</string>
     <string name="pref_camera_beautify_entry_high">Alto</string>
-    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="button_front_camera_title">Tirar uma selfie</string>
     <string name="button_normal_video_title">Gravar vídeo</string>
     <string name="button_fisheye_camera_title">Olho de peixe</string>
@@ -556,7 +555,6 @@ no Modo Retrato"</string>
     <string name="pref_camera_zoom_mode_entry_high_pixel">POUCA ILUMINAÇÃO</string>
     <string name="pref_camera_portrait_mode_entry_off">Modo retrato desativado</string>
     <string name="pref_camera_portrait_mode_entry_on">Modo retrato ativado</string>
-    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="portrait_mode_use_hint_for_bokeh">"Experimente o Modo Retrato.
 Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="pref_camera_square_mode_title">Quadrado</string>

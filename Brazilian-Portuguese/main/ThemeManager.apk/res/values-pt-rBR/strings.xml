@@ -45,7 +45,6 @@
     <string name="s6">Permitir que os anúncios criem um evento na agenda?</string>
     <string name="s7">Anúncio de teste</string>
     <string name="search_menu_title">Pesquisar</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="accessibiliy_description_content_account">Perfil</string>
     <string name="accessibiliy_description_content_ad">Anúncio</string>
     <string name="accessibiliy_description_content_add_resource">Adicionar itens</string>
@@ -168,7 +167,6 @@
     <string name="incompatible_dialog_ok">OK</string>
     <string name="incompatible_dialog_title">Problemas de compatibilidade</string>
     <string name="is_setting_wallpaper_message">Definindo plano de fundo…</string>
-    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Alarmes</string>
     <string name="item_resource_audio_optional_color_ring">Tom de chamada</string>
     <string name="item_resource_audio_optional_notification_ring">Notificações</string>
@@ -390,7 +388,6 @@
     <string name="resource_pack_price_info">Preço original: %1$s</string>
     <string name="resource_pack_warning">Você já comprou %1$d componentes neste tema. Será mais barato comprar os componentes restantes individualmente.</string>
     <string name="resource_present">Presente</string>
-    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Grátis</string>
     <string name="resource_price_unit"> Mi Credits</string>
     <string name="resource_purchase_common_error">Ocorreu um erro, tente novamente</string>
@@ -402,10 +399,6 @@
     <string name="resource_ranking">Popular</string>
     <string name="resource_ranking_free">Grátis</string>
     <string name="resource_ranking_purchase">Pago</string>
-    <string name="resource_ring_ranking_list_divider">-</string>
-    <string name="resource_ring_ranking_list_rank_1">1</string>
-    <string name="resource_ring_ranking_list_rank_2">2</string>
-    <string name="resource_ring_ranking_list_rank_3">3</string>
     <string name="resource_ringtone_default">Toques</string>
     <string name="resource_ringtone_playing_error">Erro</string>
     <string name="resource_ringtone_volume_mute">Toque silenciado</string>
@@ -541,7 +534,6 @@
     <string name="theme_is_external_priority_storage">Salvar para o cartão SD</string>
     <string name="theme_is_external_priority_storage_summary">O app Temas reiniciará imediatamente para aplicar a configuração.</string>
     <string name="theme_multiple_button_title_customize">Personalizar</string>
-    <string name="theme_name">%1$s</string>
     <string name="theme_no">Não</string>
     <string name="theme_purchased_list_empty">Você não comprou nenhum tema.</string>
     <string name="theme_purchased_non_local">Online</string>

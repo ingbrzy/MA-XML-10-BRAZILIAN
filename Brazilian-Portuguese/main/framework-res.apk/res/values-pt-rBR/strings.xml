@@ -23,7 +23,6 @@
     <string name="dialog_alert_title">Atenção</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Este vídeo não é válido para transmissão neste dispositivo.</string>
     <string name="selectTextMode">Selecionar texto</string>
-    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="fingerprint_icon_content_description">Ícone de impressão digital</string>
     <string name="paste_as_plain_text">Colar como texto simples</string>
     <string name="autofill">Preenchimento automático</string>
@@ -385,7 +384,6 @@ Em caso de dúvidas, entre em contato com o administrador da sua organização."
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">Código de recurso concluído.</string>
     <string name="fcError">Problema de conexão ou código de recurso inválido.</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="find">Localizar</string>
     <string name="find_next">Localizar próximo</string>
     <string name="find_on_page">Localizar na página</string>
@@ -591,7 +589,6 @@ Acesse "<b>google.com.br/accounts/recovery</b>.</string>
     <string name="kg_reordering_delete_drop_target_text">Remover</string>
     <string name="kg_sim_pin_instructions">Digite o PIN do cartão SIM</string>
     <string name="kg_sim_unlock_progress_dialog_message">Desbloqueando o cartão SIM…</string>
-    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"Você digitou sua senha incorretamente %1$d vezes. 
 
 Tente novamente em %2$d segundos."</string>
@@ -883,7 +880,6 @@ Tente novamente em %2$d segundos."</string>
     <string name="notification_channel_wfc">Chamadas por Wi-Fi</string>
     <string name="notification_hidden_text">Nova notificação</string>
     <string name="notification_listener_binding_label">Ouvinte de notificações</string>
-    <string name="notification_messaging_title_template">%1$s: %2$s</string>
     <string name="notification_ranker_binding_label">Serviço de classificação de notificação</string>
     <string name="notification_reply_button_accessibility">Responder</string>
     <string name="notification_title">Erro de login para %1$s</string>
@@ -1608,7 +1604,6 @@ Quer fechá-la?"</string>
     <string name="zen_mode_feature_name">Não perturbe</string>
     <string name="zen_mode_forever">Até você desativar</string>
     <string name="zen_mode_forever_dnd">Até que você desative \"Não perturbe\"</string>
-    <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
     <string name="zen_mode_until">Até às %1$s</string>
     <string name="zen_upgrade_notification_content">Toque para verificar o que está bloqueado.</string>
     <string name="zen_upgrade_notification_title">O modo \"Não perturbe\" foi alterado</string>

@@ -205,7 +205,6 @@
     <string name="download_method">Download</string>
     <string name="download_no_application_title">Não é possível abrir o arquivo</string>
     <string name="download_paused_in_power_save_mode">Os downloads ficam em pausa quando a Economia de bateria está ativada</string>
-    <string name="download_percent">%d%%</string>
     <string name="download_processing">Fazendo o download…</string>
     <string name="download_quality">Qualidade do download</string>
     <string name="download_quality_summary">Configurações adicionais para o download de músicas</string>
@@ -511,7 +510,6 @@
     <string name="priority_storage">Usar um cartão SD externo</string>
     <string name="priority_storage_summary">Fazer download automaticamente para o cartão SD externo quando disponível</string>
     <string name="privacy_policy">Política de Privacidade</string>
-    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=en</string>
     <string name="pro_member">Membro PRO</string>
     <string name="project_device">Mi Phone</string>
     <string name="prompt_grant_write_settings_permission">Permita a alteração das configurações de sistema</string>
@@ -609,7 +607,6 @@
     <string name="start_to_check_new_version">Procurando por atualizações…</string>
     <string name="start_to_download">Fazendo o download…</string>
     <string name="start_to_play">Reproduzir</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_internal">Armazenamento interno</string>
     <string name="storage_sd_card">Cartão SD</string>
     <string name="storage_usb">Armazenamento USB</string>
@@ -670,7 +667,6 @@
     <string name="upgrade_music_message">As atualizações estão prontas. Reinicie para atualizar.</string>
     <string name="upgrading_in_backstage">Atualizando em segundo plano…</string>
     <string name="user_agreement">Acordo do Usuário</string>
-    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=en</string>
     <string name="version_info">Versão</string>
     <string name="video_play_cellular">Seu dispositivo não está conectado ao Wi-Fi. Usar dados móveis?</string>
     <string name="video_replay_btn">Reproduzir novamente</string>

@@ -4,11 +4,6 @@
         <item>Menino</item>
         <item>Menina</item>
     </string-array>
-    <string-array name="menu_copy_or_move">
-        <item>Mover</item>
-        <item>Copiar</item>
-        <item>@string/cancel</item>
-    </string-array>
     <string-array name="month">
         <item>Janeiro</item>
         <item>Fevereiro</item>

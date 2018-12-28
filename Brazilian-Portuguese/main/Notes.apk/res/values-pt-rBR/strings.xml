@@ -118,7 +118,6 @@
     <string name="menu_title_select_folder">Selecionar pasta</string>
     <string name="menu_unhide">Desocultar</string>
     <string name="menu_unstick">Desafixar</string>
-    <string name="micloud_state_total_count">%1$s</string>
     <string name="not_now">Agora não</string>
     <string name="note_description_content">O app Anotações é uma ótima ferramenta para armazenar sua ideias. ele tem um sistema de lembretes integrado e sincroniza seus itens com a Mi Cloud para que você os acesse de qualquer lugar. Certifique-se de que você não precisará destes recursos antes de excluir o app.</string>
     <string name="note_description_title">Sobre o Anotações</string>
@@ -130,7 +129,6 @@
     <string name="note_sort_way">Selecione como deseja ordenar as anotações</string>
     <string name="notealert_enter">Abrir anotação</string>
     <string name="notealert_ok">Dispensar</string>
-    <string name="notelist_string_info">…</string>
     <string name="notify_alarm_title">Lembrete da anotação</string>
     <string name="permdesc_accessNote">Apps maliciosos podem usar isto para acessar seus dados pessoais.</string>
     <string name="permlab_accessNote">Acessar anotações</string>

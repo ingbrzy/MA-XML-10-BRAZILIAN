@@ -50,8 +50,6 @@
     <string name="self_device_second_space">Segundo Espaço deste telefone</string>
     <string name="other_device_main_space">Primeiro Espaço</string>
     <string name="other_device_second_space">Segundo Espaço</string>
-    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
-    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">Restaurando \"%s\"</string>
     <string name="size_unknown">Tamanho desconhecido</string>
     <string name="recovering">Restaurando %s</string>
@@ -133,7 +131,6 @@
     <string name="provision_error_connect_msg">Teste a rede e tente novamente. Backups não estão disponíveis quando seu dispositivo está offline.</string>
     <string name="provision_error_connect_title">Não é possível conectar-se</string>
     <string name="loading_user_backup">Carregando backups do usuário…</string>
-    <string name="loading_progress_num">(%s%%)</string>
     <string name="error_num_placeholder">--</string>
     <string name="authentication_failed">Não foi possível verificar a conta.</string>
     <string name="no_account">Não conectado a uma Conta Mi.</string>

@@ -1088,7 +1088,6 @@ Taxa de amostra"</string>
     <string name="bootloader_summary">Atualize seu dispositivo por USB</string>
     <string name="bootloader_tips">Depois que você adicionar sua Conta Mi, não faça o logout, execute uma redefinição para os dados de fábrica, ou limpe os dados de apps do sistema. Caso execute qualquer uma das ações acima, adicione sua conta novamente ou você não será capaz de desbloquear seu dispositivo.</string>
     <string name="bootloader_tips_ok">Entendido</string>
-    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="breathing_light_color_menu_title">Cor do LED</string>
     <string name="breathing_light_color_summary">Cor do LED ao receber uma notificação</string>
     <string name="breathing_light_freq_summary">Pulsar LED para novas notificações</string>
@@ -1771,10 +1770,8 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
     <string name="dialog_title_hdmi_color_calibration">Predefinição de correção de cores</string>
     <string name="dialog_title_login">Faça o login em sua Conta Mi</string>
     <string name="dialog_yes">Sim</string>
-    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">Nota: você poderá usar este teclado depois que reiniciar apenas se desbloquear o dispositivo.</string>
     <string name="directory_access">Acesso ao diretório</string>
-    <string name="directory_on_volume">%1$s (%2$s)</string>
     <string name="disable_overlays">Desativar sobreposição HW</string>
     <string name="disable_overlays_summary">Sempre usar a GPU para renderização de tela</string>
     <string name="disable_power_key_long_press_under_keyguard">Desativar o menu do botão Liga/Desliga</string>
@@ -1841,7 +1838,6 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
     <string name="dndm_auto_button_title">Repetir horário do Não perturbe</string>
     <string name="dndm_auto_setting_group">Programado</string>
     <string name="dndm_auto_time_setting">Configurar horário</string>
-    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">A</string>
     <string name="dndm_auto_time_turn_off_title">Desativar Não perturbe automaticamente</string>
     <string name="dndm_auto_time_turn_on">De</string>
@@ -2216,7 +2212,6 @@ Para saber mais detalhes, entre em contato com o administrador da sua organizaç
     <string name="firewall_temp_rule_reason">%2$s restringiu a conexão de internet para %1$s</string>
     <string name="firewall_wifi">Wi-Fi</string>
     <string name="firewall_wifi_dialog_message">O app instalado não poderá coenctar-se à internet através do Wi-Fi enquanto esta opção estiver desativada.</string>
-    <string name="firmware_title">Android</string>
     <string name="firmware_version">Versão do Android</string>
     <string name="flash_drive_backup_restore">Fazer backup ou restaurar usando USB</string>
     <string name="flash_drive_backup_restore_summary">Conecte um drive USB</string>
@@ -2326,7 +2321,6 @@ Quando você ativa o backup automático, os dados do dispositivo e de apps são 
     <string name="gadget_picker_title">Escolher o gadget</string>
     <string name="gadget_state_off">desativado</string>
     <string name="gadget_state_on">ativado</string>
-    <string name="gadget_state_template">%1$s %2$s</string>
     <string name="gadget_state_turning_off">desativando</string>
     <string name="gadget_state_turning_on">ativando</string>
     <string name="gadget_sync">Sincronização</string>
@@ -2687,7 +2681,6 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="lift_to_wake_title">Levantar para ativar</string>
     <string name="line_breaking_summary">Otimizar quebra de texto em parágrafos</string>
     <string name="line_breaking_title">Otimizar texto</string>
-    <string name="link_speed">%1$d Mbps</string>
     <string name="list_bg_header_text">Se você restringir a conexão em segundo plano, novos apps não poderão conectar-se à internet em segundo plano depois que forem instalados. Eles não poderão receber mensagens ou fazer download de conteúdo depois disso.</string>
     <string name="list_empty_text">Vazio</string>
     <string name="loading_notification_apps">Carregando apps…</string>
@@ -3080,7 +3073,6 @@ Há outros usuários presentes neste dispositivo.
     <string name="memory_title">"Disponível:  %1$s\u0009\u0009Total: %2$s"</string>
     <string name="memory_usage">Uso de memória</string>
     <string name="memory_usage_apps">Memória usada por apps</string>
-    <string name="memory_use_running_format">%1$s / %2$s</string>
     <string name="memory_use_summary">%1$s de memória média usada nas últimas três horas</string>
     <string name="menu_cancel">Descartar</string>
     <string name="menu_check">Experiência</string>
@@ -3388,7 +3380,6 @@ Selecione seu sistema operacional:"</string>
     <string name="nfc_how_it_works_got_it">Entendi</string>
     <string name="nfc_how_it_works_title">Como pagar no terminal</string>
     <string name="nfc_more_title">Mais...</string>
-    <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
     <string name="nfc_payment_default">Pagamento padrão</string>
     <string name="nfc_payment_default_not_set">Não definido</string>
     <string name="nfc_payment_favor_default">Sempre usar o app padrão</string>
@@ -3623,7 +3614,6 @@ Isso também permitira que o app ative ou desative o modo \"Não perturbe\" e al
     <string name="overlay_display_devices_title">Simular telas secundárias</string>
     <string name="overlay_settings">Sobrepor a outros apps</string>
     <string name="owner_info_settings_edit_text_hint">por exemplo, Android do João.</string>
-    <string name="owner_info_settings_status">%1$d / %2$d</string>
     <string name="owner_info_settings_summary">Nenhuma</string>
     <string name="owner_info_settings_title">Assinatura na Tela de bloqueio</string>
     <string name="owner_space">Primeiro Espaço</string>
@@ -3750,7 +3740,6 @@ Isso também permitira que o app ative ou desative o modo \"Não perturbe\" e al
     <string name="power_cell">Rede móvel em espera</string>
     <string name="power_center">Energia</string>
     <string name="power_charge_remaining">%1$s até carregar</string>
-    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - %2$s até estar carregada</string>
     <string name="power_checker">Verificação de energia</string>
     <string name="power_discharge_by">Deve durar até cerca de %1$s (%2$s)</string>
@@ -3789,7 +3778,6 @@ Isso também permitira que o app ative ou desative o modo \"Não perturbe\" e al
     <string name="power_remaining_less_than_duration_only">Menos de %1$s restante(s)</string>
     <string name="power_remaining_more_than_subtext">Mais de %1$s restante(s) (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">Mais de %1$s restante(s)</string>
-    <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_screen">Tela</string>
     <string name="power_settings_title">Desempenho do sistema</string>
     <string name="power_unaccounted">Diversos</string>
@@ -3970,8 +3958,6 @@ Isso também permitira que o app ative ou desative o modo \"Não perturbe\" e al
     <string name="private_sms_recording_intro_header">Desenhe um padrão de desbloqueio:</string>
     <string name="private_sms_reset_by_account">Para redefinir sua senha, faça o login em sua Conta Mi</string>
     <string name="process_dex2oat_label">Otimização do app</string>
-    <string name="process_format">%1$s (%2$d)</string>
-    <string name="process_kernel_label">SO Android</string>
     <string name="process_mediaserver_label">Servidor de mídia</string>
     <string name="process_provider_in_use_description">O provedor %1$s está em uso.</string>
     <string name="process_service_in_use_description">O serviço %1$s está em uso.</string>
@@ -4609,7 +4595,6 @@ Para usar a fixação de tela:
     <string name="security_encryption_attention_3">Você precisará definir uma nova senha de desbloqueio.</string>
     <string name="security_encryption_attention_4">Certifique-se de lembrar da senha de desbloqueio, senão o dispositivo deverá ser restaurado para os padrões de fábrica, apagando todos os dados contidos nele.</string>
     <string name="security_encryption_attention_info">Você pode criptografar contas, configurações, apps transferidos e seus dados, mídias e outros arquivos.</string>
-    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">Importante</string>
     <string name="security_encryption_close_dialog_info">Escolher não criptografar o dispositivo com a senha de desbloqueio pode fazer com que alguns serviços do Google fiquem indisponíveis.</string>
     <string name="security_encryption_close_dialog_title">Voltar para segurança padrão</string>
@@ -4867,7 +4852,6 @@ PIN possivelmente incorreto."</string>
     <string name="sim_select_card">Selecionar um cartão SIM</string>
     <string name="sim_selection_channel_title">Seleção de SIM</string>
     <string name="sim_selection_required_pref">Seleção necessária</string>
-    <string name="sim_settings_summary">%1$s - %2$s</string>
     <string name="sim_settings_title">Cartões SIM</string>
     <string name="sim_setup_wizard_title">Cartões SIM</string>
     <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
@@ -4883,7 +4867,6 @@ PIN possivelmente incorreto."</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
-    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip_anyway_button_label">Pular mesmo assim</string>
     <string name="skip_label">Pular</string>
@@ -5005,7 +4988,6 @@ Uma credencial confiável instalada no dispositivo permite isso."</string>
     <string name="status_bar_app_enable_message">Ícone de notificação</string>
     <string name="status_bar_carrier_settings_no_sim_card">Nenhum cartão SIM</string>
     <string name="status_bar_key_position_custom">Alterar posição dos botões</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_screen_button_force_immersive_desc">Deslize para cima da parte inferior da tela para mostrar os botões virtuais</string>
     <string name="status_bar_screen_button_key_force_immersive">Ocultar botões virtuais</string>
     <string name="status_bar_screen_key_back">Botão Voltar</string>
@@ -5017,7 +4999,6 @@ Uma credencial confiável instalada no dispositivo permite isso."</string>
     <string name="status_bar_settings_all_app_display_loading">Aguarde…</string>
     <string name="status_bar_settings_app_notification_preferences">Configurações do app</string>
     <string name="status_bar_settings_basic_settings">Configurações básicas</string>
-    <string name="status_bar_settings_carrier_sim">"Cartão SIM %1$s: "</string>
     <string name="status_bar_settings_custom_carrier">Editar nome da operadora</string>
     <string name="status_bar_settings_custom_wifi_name">Editar nome da rede Wi-Fi</string>
     <string name="status_bar_settings_customer_feedback">Feedback</string>
@@ -5306,7 +5287,6 @@ Tente usar um ^3 mais rápido ou use esse ^4 apenas como armazenamento portátil
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_divider_text">", "</string>
     <string name="summary_font_size_v2">Ajustar tamanho para textos, imagens e ícones</string>
-    <string name="summary_range_symbol_combination">%1$s - %2$s</string>
     <string name="summary_range_verbal_combination">%1$s a %2$s</string>
     <string name="supl_not_set">(Não definido)</string>
     <string name="support_country_format">%1$s - %2$s</string>
@@ -6350,14 +6330,12 @@ Permitir isto para todos os apps que quiserem verificar?"</string>
     <string name="wifi_security_none">Nenhum</string>
     <string name="wifi_security_owe">OWE</string>
     <string name="wifi_security_passpoint">Passpoint</string>
-    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_sae">SAE</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_dpp">DPP</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_short_owe">OWE</string>
-    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_sae">SAE</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
@@ -6801,10 +6779,8 @@ Observações importantes: as notificações críticas para atividades e status 
     <string name="zone_auto_summaryOff">Usar fuso horário fornecido pela rede</string>
     <string name="zone_auto_summaryOn">Usar fuso horário fornecido pela rede</string>
     <string name="zone_change_to_from_dst">O %1$s começa em: %2$s.</string>
-    <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_footer">Usa %1$s. %2$s começa em %3$s.</string>
     <string name="zone_info_footer_no_dst">Usa %1$s. Sem horário de verão.</string>
-    <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
     <string name="zone_list_menu_sort_alphabetically">Classificar em ordem alfabética</string>
     <string name="zone_list_menu_sort_by_timezone">Classificar por fuso horário</string>
     <string name="zone_menu_by_offset">Selecionar por compensação UTC</string>

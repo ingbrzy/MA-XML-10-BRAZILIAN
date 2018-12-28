@@ -63,7 +63,6 @@
     <string name="accessibility_camera_button">Câmera</string>
     <string name="accessibility_carrier_network_change_mode">Operadora de rede alterando.</string>
     <string name="accessibility_cast_name">Conectado a %s.</string>
-    <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_casting_turned_off">A transmissão da tela parou.</string>
     <string name="accessibility_cell_data">Dados móveis</string>
     <string name="accessibility_cell_data_off">Dados móveis desativados</string>
@@ -859,10 +858,6 @@ Use somente o carregador fornecido."</string>
     <string name="keyguard_charging_back_to_lockscreen">Voltar à Tela de bloqueio</string>
     <string name="keyguard_charging_info_battery_used_time_text">Na bateria</string>
     <string name="keyguard_charging_info_click_to_detail">Ver detalhes</string>
-    <string name="keyguard_charging_info_data_c">%sºC</string>
-    <string name="keyguard_charging_info_data_ma">%smA</string>
-    <string name="keyguard_charging_info_data_percent">%s%%</string>
-    <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_drained_power_percent_text">Descarregou</string>
     <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">Hoje %s</string>
@@ -889,7 +884,6 @@ Use somente o carregador fornecido."</string>
     <string name="keyguard_missing_sim_instructions_long">O cartão SIM está ausente ou não pode ser lido. Insira um cartão SIM.</string>
     <string name="keyguard_missing_sim_message">Nenhum cartão SIM no telefone.</string>
     <string name="keyguard_missing_sim_message_short">Nenhum cartão SIM</string>
-    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">A rede está bloqueada</string>
     <string name="keyguard_password_enter_password_code">Insira a senha para desbloquear</string>
     <string name="keyguard_password_enter_pin_code">Inserir código PIN</string>
@@ -973,7 +967,6 @@ Tente novamente em %2$d segundos."</string>
     <string name="left_keycode">Código do botão esquerdo</string>
     <string name="left_nav_bar_button_type">Tipo de botão esquerdo extra</string>
     <string name="legacy_vpn_name">VPN</string>
-    <string name="list_delimeter">", "</string>
     <string name="local_backup_password_summary_change">Toque para alterar ou remover a senha para bacups completos da Tela inicial</string>
     <string name="local_backup_password_summary_none">Os backups completos da tela inicial não estão protegidos no momento</string>
     <string name="local_backup_password_title">Senha do backup da Tela inicial</string>
@@ -1039,7 +1032,6 @@ Tente novamente em %2$d segundos."</string>
     <string name="miui_guide_dialog_message">Sons de mídia (música, vídeos, etc.) ainda serão reproduzidos no Modo silencioso. Você pode alterar isto nas Configurações.</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Desbloqueado por um dispositivo Bluetooth</string>
     <string name="miui_ringer_count_down">Contagem regressiva</string>
-    <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">Silencioso</string>
     <string name="miui_ringer_standard_description">Silenciar toques para chamadas e notificações recebidas</string>
     <string name="miui_ringer_total">Não perturbe</string>
@@ -1067,14 +1059,12 @@ Você está conectado ao %3$s, que pode monitorar o seu tráfego de rede pessoal
 
 Para mais informações, entre em contato com o seu administrador."</string>
     <string name="monitoring_description_ca_cert_settings">Abrir credenciais confiáveis</string>
-    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">Uma autoridade de certificado está instalada neste dispositivo. Seu tráfego de rede seguro pode ser monitorado ou modificado.</string>
     <string name="monitoring_description_do_body">Seu administrador pode monitorar e gerenciar suas configurações, o acesso corporativo, seus apps, dados associados ao seu dispositivo e suas informações de localização.</string>
     <string name="monitoring_description_do_body_vpn">Você está conectado a %1$s, que pode monitorar sua atividade de rede, incluindo e-mails, apps e websites.</string>
     <string name="monitoring_description_do_header_generic">Seu dispositivo é gerenciado por %1$s.</string>
     <string name="monitoring_description_do_header_with_name">%1$s usa o %2$s para gerenciar seu dispositivo.</string>
     <string name="monitoring_description_do_learn_more">Saiba mais</string>
-    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">Sua organização instalou uma autoridade de certificado em seu perfil de trabalho. Seu tráfego de rede seguro pode ser monitorado ou modificado.</string>
     <string name="monitoring_description_managed_profile_named_vpn">Seu perfil de trabalho está conectado a %1$s, que pode monitorar sua atividade de rede, incluindo e-mails, apps e websites.</string>
     <string name="monitoring_description_management">"Seu dispositivo é gerenciado por sua organização.
@@ -1106,7 +1096,6 @@ Para mais informações, entre em contato com o seu administrador.
 
 Você também está conectado a uma VPN, que pode monitorar sua atividade de rede."</string>
     <string name="monitoring_description_vpn_settings">Abrir Configurações de VPN</string>
-    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">Certificados CA</string>
     <string name="monitoring_subtitle_network_logging">Registro de rede</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1121,7 +1110,6 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
     <string name="nav_guide_message">Usar gestos para exibir ou ocultar os botões virtuais.</string>
     <string name="nav_guide_ok">Configurar</string>
     <string name="nav_guide_title">Ocultar botões virtuais</string>
-    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">Nada</string>
     <string name="no_multi_window_app">Nenhum app com suporte à Tela dividida</string>
     <string name="no_notification_tips">Nenhuma notificação</string>
@@ -1230,7 +1218,6 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
     <string name="please_slide_agian">Deslize novamente</string>
     <string name="pointer_location">Localização do ponteiro</string>
     <string name="pointer_location_summary">Exibir dados de toque</string>
-    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - %2$s até estar carregada</string>
     <string name="power_discharge_by">Deve durar até cerca de %1$s (%2$s)</string>
     <string name="power_discharge_by_enhanced">Deve durar até cerca de %1$s com base na sua utilização (%2$s)</string>
@@ -1284,7 +1271,6 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
     <string name="private_dns_mode_provider">Nome do host do provedor de DNS</string>
     <string name="private_dns_mode_provider_failure">Não foi possível conectar</string>
     <string name="private_dns_mode_provider_hostname_hint">Insira o nome do host do provedor de DNS</string>
-    <string name="process_kernel_label">SO Android</string>
     <string name="profile_owned_footer">O perfil pode ser monitorado</string>
     <string name="prompt_danger">Perigo</string>
     <string name="prompt_detecting">Detectando</string>
@@ -1863,7 +1849,6 @@ Qualquer usuário pode atualizar apps para todos os outros usuários."</string>
     <string name="wapi_psk_type_ascii">ASCII</string>
     <string name="wapi_psk_type_hex">Hexadecimal</string>
     <string name="wapi_yes">Sim</string>
-    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">Atualizado às %1$s</string>
     <string name="wifi_ap_unable_to_handle_new_sta">Ponto de acesso temporariamente cheio</string>
     <string name="wifi_auto_sel_wapi_cert">Selecionar automaticamente</string>
@@ -1897,14 +1882,12 @@ Qualquer usuário pode atualizar apps para todos os outros usuários."</string>
     <string name="wifi_security_none">Nenhum</string>
     <string name="wifi_security_owe">OWE</string>
     <string name="wifi_security_passpoint">Passpoint</string>
-    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_sae">SAE</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_dpp">DPP</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_short_owe">OWE</string>
-    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_sae">SAE</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
