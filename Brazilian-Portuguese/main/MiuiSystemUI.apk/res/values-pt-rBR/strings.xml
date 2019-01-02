@@ -43,14 +43,14 @@
     <string name="accessibility_action_divider_top_70">Superior em 70%</string>
     <string name="accessibility_action_divider_top_full">Superior em tela cheia</string>
     <string name="accessibility_airplane_mode">Modo avião.</string>
-    <string name="accessibility_ambient_display_charging">Carregando</string>
+    <string name="accessibility_ambient_display_charging">Carregando...</string>
     <string name="accessibility_aspect_button">Modo Tela cheia</string>
     <string name="accessibility_assistant">Menu de atalhos</string>
     <string name="accessibility_back">Voltar</string>
     <string name="accessibility_battery_details">Abrir detalhes da bateria</string>
     <string name="accessibility_battery_full">Bateria cheia.</string>
     <string name="accessibility_battery_level">Bateria em %d por cento.</string>
-    <string name="accessibility_battery_level_charging">Bateria carregando, %d por cento.</string>
+    <string name="accessibility_battery_level_charging">Bateria carregando..., %d por cento.</string>
     <string name="accessibility_battery_one_bar">Bateria uma barra.</string>
     <string name="accessibility_battery_three_bars">Bateria três barras.</string>
     <string name="accessibility_battery_two_bars">Bateria duas barras.</string>
@@ -312,8 +312,8 @@
     <string name="battery_detail_charging_summary">A economia de bateria não está disponível durante o carregamento</string>
     <string name="battery_detail_switch_summary">Reduz o desempenho e dados em segundo plano</string>
     <string name="battery_detail_switch_title">Economia de bateria</string>
-    <string name="battery_info_status_charging">Carregando</string>
-    <string name="battery_info_status_charging_lower">Carregando</string>
+    <string name="battery_info_status_charging">Carregando...</string>
+    <string name="battery_info_status_charging_lower">Carregando...</string>
     <string name="battery_info_status_discharging">Não está carregando</string>
     <string name="battery_info_status_full">Carregada</string>
     <string name="battery_info_status_not_charging">Não está carregando</string>
@@ -790,8 +790,7 @@ Assim que ele tiver resfriado, ele voltará ao normal."</string>
     <string name="interruption_level_alarms_twoline">"Apenas
 alarmes"</string>
     <string name="interruption_level_none">Silêncio total</string>
-    <string name="interruption_level_none_twoline">"Silêncio
-total"</string>
+    <string name="interruption_level_none_twoline">"Silêncio total"</string>
     <string name="interruption_level_none_with_warning">Silêncio total. Isto também silenciará leitores de tela.</string>
     <string name="interruption_level_priority">Apenas prioridades</string>
     <string name="interruption_level_priority_twoline">"Apenas
@@ -866,7 +865,7 @@ Use somente o carregador fornecido."</string>
     <string name="keyguard_charging_info_tip_text1">Mantenha o dispositivo com pelo menos 10% de carga para estender a vida útil da bateria.</string>
     <string name="keyguard_charging_info_tip_text2">Não carregue o dispositivo em excesso. Várias cargas curtas são melhores do que uma carga durante a noite toda.</string>
     <string name="keyguard_charging_info_tip_text3">Evite carregar seu dispositivo quando a temperatura do ambiente for inferior a 0ºC.</string>
-    <string name="keyguard_charging_info_tip_text4">Não use seu dispositivo constantemente quando estiver carregando para evitar o superaquecimento.</string>
+    <string name="keyguard_charging_info_tip_text4">Não utilize seu dispositivo constantemente quando estiver carregando para evitar o superaquecimento.</string>
     <string name="keyguard_charging_info_tip_text5">Leva mais tempo para as baterias carregarem quando estão mais quentes que o normal.</string>
     <string name="keyguard_charging_info_tip_text6">Desligue a tela e deixe de usar o dispositivo para resfriá-lo.</string>
     <string name="keyguard_indication_charging_time">Carregando (%s até concluir)</string>
