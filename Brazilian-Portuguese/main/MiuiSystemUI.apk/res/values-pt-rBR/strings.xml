@@ -774,7 +774,7 @@ Assim que ele tiver resfriado, ele voltará ao normal."</string>
     <string name="inactive_apps_title">Apps inativos</string>
     <string name="incorrect_pincode">Código PIN incorreto</string>
     <string name="incorrect_pukcode">Código PUK incorreto</string>
-    <string name="input_password_after_boot_msg">Para desbloquear o dispositivo, insira sua senha</string>
+    <string name="input_password_after_boot_msg">Para desbloquear o dispositivo, introduza a sua senha</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">Não é possível trocar de Espaços durante uma chamada</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Não é possível trocar entre espaços quando o controle parental está ativado</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">Você precisa acessar o Primeiro Espaço depois do dispositivo ser reiniciado</string>
@@ -846,7 +846,7 @@ Use somente o carregador fornecido."</string>
     <string name="keyboard_shortcut_group_system_recents">Recentes</string>
     <string name="keyboard_shortcut_group_system_shortcuts_helper">Atalhos de teclado</string>
     <string name="keyboard_shortcut_group_system_switch_input">Trocar método de entrada</string>
-    <string name="keyboardview_keycode_delete">Delete</string>
+    <string name="keyboardview_keycode_delete">Apagar</string>
     <string name="keyboardview_keycode_enter">Enter</string>
     <string name="keyguard_accessibility_next_alarm">Próximo alarme configurado para %1$s</string>
     <string name="keyguard_accessibility_pin_area">Área do PIN</string>
