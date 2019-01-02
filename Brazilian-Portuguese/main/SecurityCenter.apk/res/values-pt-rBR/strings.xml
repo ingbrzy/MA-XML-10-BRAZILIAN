@@ -499,6 +499,7 @@ da operadora"</string>
     <string name="input_used_hint">Inserir limite de dados</string>
     <string name="input_used_max_hint">Insira o uso de dados (menos de %s)</string>
     <string name="text_day" />
+    <string name="handle_title_abnormal">Bateria descarregando</string>
     <string name="text_cycle_day">%s</string>
     <string name="settings">Configurações do limite de dados</string>
     <string name="adjust_traffic_data">Definir uso de dados</string>
@@ -1108,6 +1109,8 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="charging_text_battery_nearly_full">Quase carregada</string>
     <string name="charging_text_battery_full_time">"Última carga "</string>
     <string name="charging_text_battery_perfect">Bateria carregada</string>
+    <string name="app_manager_advanced_setting">Configurações avançadas</string>
+    string name="power_center_list_item_deep_save_title">Configurações avançadas</string>
     <string name="auto_task_main_title">Tarefas automáticas</string>
     <string name="auto_task_mamange_activity_title">Configurações</string>
     <string name="auto_task_manager_group_title">Minhas tarefas automáticas</string>
