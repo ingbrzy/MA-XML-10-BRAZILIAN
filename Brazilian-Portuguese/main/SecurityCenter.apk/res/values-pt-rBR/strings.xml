@@ -2406,6 +2406,8 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
     <string name="power_center_low_battery_title">Economia de energia</string>
     <string name="power_center_low_battery_summary_default">Alternar entre perfis quando a bateria estiver fraca</string>
     <string name="power_center_low_battery_summary_dynamic">Às %1$d%% mudar para %2$s</string>
+    <string name="power_center_list_item_set_lockscreen_time">Pôr tela em suspensão após 30 segundos de inatividade</string>
+    <string name="power_center_list_item_auto_brightness">Ajustar o brilho da tela automaticamente</string>
     <string name="power_center_on_time_title">Mudança de perfil agendada</string>
     <string name="power_center_on_time_summary_default">Alternar entre perfis de bateria em horários agendados</string>
     <string name="power_center_on_time_summary_dynamic">%1$s - %2$s mudar para %3$s</string>
