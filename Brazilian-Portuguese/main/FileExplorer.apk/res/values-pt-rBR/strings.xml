@@ -124,7 +124,7 @@
   <string name="decrypt_error">Não foi possível desencriptar</string>
   <string name="decrypt_to">Desencriptar e guardar para…</string>
   <string name="decrypting">A desencriptar…</string>
-  <string name="delete_dialog_button">Deletar</string>
+  <string name="delete_dialog_button">Excluir</string>
   <string name="delete_error">Não foi possível deletar arquivos. Tente novamente</string>
   <string name="delete_file">Deletar este arquivo?</string>
   <string name="delete_file_error">"Não foi possível deletar o arquivor"</string>
@@ -348,7 +348,7 @@
   <string name="operation_decompressing">Extraindo…</string>
   <string name="operation_del_fav">Removendo dos favoritos…</string>
   <string name="operation_delete">Excluir</string>
-  <string name="operation_delete_confirm_message">Excluir arquivos</string>
+  <string name="operation_delete_confirm_message">Excluir arquivos?</string>
   <string name="operation_delete_confirm_message_folder">"Todos os conteúdos da pasta serão excluídos. "</string>
   <string name="operation_deleting">Excluindo…</string>
   <string name="operation_favorite">Adicionar aos favoritos</string>
