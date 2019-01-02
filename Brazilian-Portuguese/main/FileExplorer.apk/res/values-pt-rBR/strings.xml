@@ -115,11 +115,11 @@
   <string name="decompress_encrypted_rar_not_supported">Ficheiros rar encriptados não são suportados</string>
   <string name="decompress_fail">Não foi possível extrair</string>
   <string name="decompress_input_password">Introduzir palavra-chave…</string>
-  <string name="decompress_password_error">A palavra-chave que introduziu está incorrecta</string>
+  <string name="decompress_password_error">A palavra-chave que introduziu está incorreta</string>
   <string name="decompress_success">Extração concluída</string>
   <string name="decompress_title">Extrair</string>
-  <string name="decompress_to">Extrair ficheiros para…</string>
-  <string name="decompress_to_here">Extrair para aqui</string>
+  <string name="decompress_to">Extrair arquivos para…</string>
+  <string name="decompress_to_here">Extrair aqui</string>
   <string name="decrypt">Mostrar</string>
   <string name="decrypt_error">Não foi possível desencriptar</string>
   <string name="decrypt_to">Desencriptar e guardar para…</string>
@@ -157,10 +157,10 @@
   <string name="enable_documentsui">Ligar %s em Definições &gt; Aplicações instaladas primeiro</string>
   <string name="enable_sd_card">Insira o cartão SD ou desative o armazenamento em massa USB</string>
   <string name="enable_usb">Ligar dispositivo USB</string>
-  <string name="encrypt_error">Não foi possível ocultar ficheiros. Tente novamente</string>
+  <string name="encrypt_error">Não foi possível ocultar arquivos. Tente novamente</string>
   <string name="encrypt_prefix">Ocultos</string>
   <string name="encrypt_success">Ocultados com sucesso</string>
-  <string name="encrypt_success_first_five">Ficheiro encriptado e ocultado. Para ver os ficheiros ocultados desça a página inicial do Explorador</string>
+  <string name="encrypt_success_first_five">Arquivo encriptado e ocultado. Para ver os arquivos ocultados desça a página inicial do Explorador</string>
   <string name="encrypting">Encriptando…</string>
   <string name="error_contains_sharer_path">Não é possível encriptar ficheiros na pasta /MIUI/Gallery/cloud/sharer. Mova o ficheiro para outra pasta e tente novamente</string>
   <string name="error_create_dir">Não foi possível criar pasta</string>
