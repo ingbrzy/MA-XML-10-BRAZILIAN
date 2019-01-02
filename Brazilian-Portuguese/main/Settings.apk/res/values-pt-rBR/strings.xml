@@ -1300,8 +1300,8 @@ Este recurso pode ser desativado nas [Configurações]"</string>
     <string name="color_yellow">Amarelo</string>
     <string name="common_settings">Configurações rápidas</string>
     <string name="complete_parameters">Todas as especificações</string>
-    <string name="complete_settings">Configurações gerais</string>
     <string name="computing_size">Calculando…</string>
+    <string name="complete_settings">Configurações gerais</string>
     <string name="condition_airplane_summary">Quando o modo avião está ativado, o Wi-Fi, o Bluetooth e a rede móvel são desativados. É possível reativar o Wi-Fi e o Bluetooth.</string>
     <string name="condition_airplane_title">Modo avião ativado</string>
     <string name="condition_battery_summary">A Economia de bateria desativa alguns recursos do dispositivo e restringe os apps</string>
@@ -5599,6 +5599,7 @@ Suas impressões digitais salvas também serão removidas deste perfil e não se
     <string name="unlock_set_unlock_summary">Definir um bloqueio de tela</string>
     <string name="unlock_setup_wizard_fingerprint_details">Depois que você configura um bloqueio de tela, pode configurar sua impressão digital em Config. > Segurança.</string>
     <string name="unmount_inform_text">O armazenamento USB será desconectado.</string>
+    <string name="unmute_sound_title">Aviso de som ativado</string>
     <string name="unrestrict_max_aspect_ratio_title">Estes apps são otimizados para tela cheia</string>
     <string name="unrestricted_app_summary">Permitir acesso irrestrito a dados quando Econ. de dados estiver ativ.</string>
     <string name="unrestricted_app_title">Uso irrestrito de dados</string>
