@@ -280,7 +280,7 @@
         <item>400</item>
     </string-array>
     <string-array name="usb_configuration_titles">
-        <item>Carregar dispositivo</item>
+        <item>Carregando</item>
         <item>MTP (Media Transfer Protocol)</item>
         <item>PTP (Picture Transfer Protocol)</item>
         <item>RNDIS (USB Ethernet)</item>
