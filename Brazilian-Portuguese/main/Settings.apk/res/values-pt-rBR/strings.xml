@@ -4701,7 +4701,7 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
     <string name="settings_backup_summary">Fazer backup de minhas configurações</string>
     <string name="settings_button">Configurações</string>
     <string name="settings_forbidden_message">Esta configuração é restrita</string>
-    <string name="settings_label">Configurações</string>
+    <string name="settings_label">Configurar</string>
     <string name="settings_label_launcher">Configurar</string>
     <string name="settings_license_activity_loading">Carregando...</string>
     <string name="settings_license_activity_title">Licenças de código aberto</string>
