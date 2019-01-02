@@ -790,8 +790,7 @@ Assim que ele tiver resfriado, ele voltará ao normal."</string>
     <string name="interruption_level_alarms_twoline">"Apenas
 alarmes"</string>
     <string name="interruption_level_none">Silêncio total</string>
-    <string name="interruption_level_none_twoline">"Silêncio
-total"</string>
+    <string name="interruption_level_none_twoline">"Silêncio total"</string>
     <string name="interruption_level_none_with_warning">Silêncio total. Isto também silenciará leitores de tela.</string>
     <string name="interruption_level_priority">Apenas prioridades</string>
     <string name="interruption_level_priority_twoline">"Apenas
