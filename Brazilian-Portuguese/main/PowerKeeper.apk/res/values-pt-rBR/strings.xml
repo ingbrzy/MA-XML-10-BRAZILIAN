@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Bateria e desempenho</string>
+    <string name="adaptive_battery_summary">Limita bateria para aplicativos não usados frequentemente</string>
+    <string name="adaptive_battery_title">Usar bateria adaptativa</string>
     <string name="error_filename_too_long">O nome do arquivo inserido é muito longo.</string>
     <string name="power_config_select_apps_title">Apps</string>
     <string name="power_config_event_delete">Excluir</string>
