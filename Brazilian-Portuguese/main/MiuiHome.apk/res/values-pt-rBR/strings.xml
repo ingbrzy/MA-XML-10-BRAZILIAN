@@ -338,6 +338,7 @@
     <string name="uninstall_xspace_dialog_title_format">Desinstalar Dual app \"%s\"?</string>
     <string name="unknown_artist_name">Artista desconhecido</string>
     <string name="unnamed_folder_name">Pasta</string>
+    <string name="use_theme_screen_cells_title">Permitir que o tema sobreponha o layout da tela inicial</string>
     <string name="wallpaper">Plano de fundo</string>
     <string name="wallpaper_auto_change_title">Tela de bloqueio</string>
     <string name="wallpaper_failed_message">Não é possível definir o plano de fundo</string>
