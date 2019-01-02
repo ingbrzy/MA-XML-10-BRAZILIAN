@@ -1182,7 +1182,7 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
     <string name="open_camera_hint_text">Deslize para a esquerda para abrir a Câmera</string>
     <string name="open_extreme_power_save_mode_title">Ativar a Economia extrema de bateria</string>
     <string name="open_lock_screen_magazine_hint_text">Deslize para a esquerda para mais opções</string>
-    <string name="open_remote_center_hint_text">Deslize para a direita para abrir o Centro de controle</string>
+    <string name="open_remote_center_hint_text">Deslizar para a direita para abrir atalhos</string>
     <string name="other">Outros</string>
     <string name="overlay_display_devices_title">Simular telas secundárias</string>
     <string name="overview">Visão geral</string>
