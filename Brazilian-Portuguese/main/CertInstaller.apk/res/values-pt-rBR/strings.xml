@@ -30,6 +30,7 @@
     <string name="sdcard_not_present">Armazenam. USB não disponível.</string>
     <string name="only_primary_user_allowed">Somente o dono do dispositivo pode instalar certificados.</string>
     <string name="credential_usage_label">Uso da credencial:</string>
+    <string name="certificate_capabilities_warning">Observação: o emissor deste certificado pode inspecionar todo o tráfego de e para o dispositivo.</string>
     <string name="wifi_title">Perfil de Wi-Fi</string>
     <string name="wifi_detail_title">Detalhes sobre %s</string>
     <string name="wifi_detail_label">Detalhes</string>

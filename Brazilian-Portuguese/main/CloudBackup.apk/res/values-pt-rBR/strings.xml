@@ -5,15 +5,9 @@
     <string name="deskclock_backup">Alarmes</string>
     <string name="button_cancel">Cancelar</string>
     <string name="button_next">Avançar</string>
-    <string name="btn_restore_abort">Cancelar</string>
-    <string name="btn_restore_cancel">Cancelar</string>
-    <string name="btn_restore_resume">Continuar</string>
-    <string name="btn_restore_retry">Repetir</string>
-    <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
+    <string name="date_format">HH:mm:ss, dd/MM/yyyy</string>
     <string name="dir_date_format">HHmmss_ddMMyyyy</string>
     <string name="retry">Repetir</string>
-    <string name="msg_alert_cancel_restore">A cópia está sendo restaurada. Parar?</string>
-    <string name="msg_alert_restore_error">A restauração da cópia falhou. Tente novamente</string>
     <string name="cloud_app_current_device">Dispositivo atual</string>
     <string name="cloud_app_other_devices">Outros dispositivos</string>
     <string name="cloud_app_restore_app_and_data">Configure seu dispositivo</string>
@@ -36,12 +30,12 @@
     <string name="cloud_back_up_share_activity_title">Atualizar Conta Mi</string>
     <string name="cloud_back_up_share_activity_discription">Obtenha mais armazenamento, backups diários e mais.</string>
     <string name="cloud_back_up_share_activity_confirm">Atualizar</string>
-    <string name="cloud_back_up_detail_discription">"Estes itens serão salvos na Mi Cloud quando seu dispositivo estiver conectado na rede Wi-Fi: 
-*\u0009\u0009\u0009\u0009Apps, layout da Tela inicial e planos de fundo 
-*\u0009\u0009\u0009\u0009Configurações do relógio e alarme 
-*\u0009\u0009\u0009\u0009Configuração de notificações 
-*\u0009\u0009\u0009\u0009Configurações do MIUI e sistema 
-Nota: Os dados dos apps instalados não serão salvos na Mi Cloud."</string>
+    <string name="cloud_back_up_detail_discription">"Estes itens serão salvos na Mi Cloud quando o seu dispositivo estiver conectado ao Wi-Fi: 
+*  Apps, Layout da Tela inicial, planos de fundo 
+*  Configurações de alarme, relógio e hora 
+*  Configurações de notificações 
+*  Configurações do MIUI e do sistema 
+\"Nota: Apps de dados que você tem instalados não serão salvos na Mi Cloud.\""</string>
     <string name="cloud_app_no_data">Nenhum backup</string>
     <string name="cloud_app_restore_error">Não foi possível restaurar</string>
     <string name="cloud_app_restore_success">Apps restaurados</string>
@@ -50,11 +44,13 @@ Nota: Os dados dos apps instalados não serão salvos na Mi Cloud."</string>
     <string name="cloud_app_no_network">Não é possível conectar-se à rede</string>
     <string name="button_delete">Excluir</string>
     <string name="customization"><u>Personalizar</u></string>
-    <string name="home_hint_global_launcher">Tela inicial Poco</string>
-    <string name="self_phone">Este telefone</string>
-    <string name="self_phone_home">Este telefone: %s</string>
+    <string name="home_hint_global_launcher">POCO Launcher</string>
+    <string name="home_hint_other_launcher">Outro launcher</string>
+    <string name="self_device_main_space">Primeiro Espaço deste telefone</string>
+    <string name="self_device_second_space">Segundo Espaço deste telefone</string>
+    <string name="other_device_main_space">Primeiro Espaço</string>
+    <string name="other_device_second_space">Segundo Espaço</string>
     <string name="process_whole_recovery">Restaurando \"%s\"</string>
-    <string name="device_xiaomi">Mi Phone</string>
     <string name="size_unknown">Tamanho desconhecido</string>
     <string name="recovering">Restaurando %s</string>
     <string name="start_recover">Restaurar %s</string>
@@ -82,9 +78,8 @@ Nota: Os dados dos apps instalados não serão salvos na Mi Cloud."</string>
     <string name="open_wifi">Ativar Wi-Fi agora</string>
     <string name="open_wifi_description">Conecte-se a uma rede Wi-Fi para restaurar o app</string>
     <string name="open_wifi_setting">Configurações de Wi-Fi</string>
-    <string name="name_model">%2$s de %1$s</string>
     <string name="download_settings">Fazendo o download de itens da Tela Inicial %s%%</string>
-    <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
+    <string name="cloud_back_up_date_format">HH:mm, dd/MM/yyyy</string>
     <string name="recover_home_settings">Restaurar configurações da Tela inicial</string>
     <string name="cancel_recover_settings"><u>Cancelar</u></string>
     <string name="recover_settings_description">Mantenha seu dispositivo ligado</string>
@@ -135,12 +130,17 @@ Nota: Os dados dos apps instalados não serão salvos na Mi Cloud."</string>
     <string name="restore_data_title">Restaurar dados</string>
     <string name="provision_error_connect_msg">Teste a rede e tente novamente. Backups não estão disponíveis quando seu dispositivo está offline.</string>
     <string name="provision_error_connect_title">Não é possível conectar-se</string>
+    <string name="loading_user_backup">Carregando backups do usuário…</string>
+    <string name="error_num_placeholder">--</string>
     <string name="authentication_failed">Não foi possível verificar a conta.</string>
     <string name="no_account">Não conectado a uma Conta Mi.</string>
     <string name="no_backup">Nenhum backup na Mi Cloud.</string>
     <string name="download_meta_failed">Não foi possível carregar os dados.</string>
     <string name="home_restore_error">Não foi possível restaurar a Tela inicial</string>
     <string name="get_device_id_error">Não foi possível obter a ID do dispositivo</string>
+    <string name="unsupported_home">Atualize o MIUI para a versão mais recente.</string>
+    <string name="error_retry_later">Não foi possível completar a ação. Aguarde alguns minutos e tente novamente…</string>
+    <string name="try_continue">Toque para continuar</string>
     <string name="download_home_data">Fazendo o download do layout da Tela inicial…</string>
     <string name="restore_home_failed">Não foi possível restaurar a Tela inicial.</string>
     <string name="arrange_restore_order">Reordenando apps…</string>
@@ -151,10 +151,14 @@ Nota: Os dados dos apps instalados não serão salvos na Mi Cloud."</string>
     <string name="download_meta_again">Não foi possível carregar o backup, tente novamente.</string>
     <string name="cancel_restore_home">Cancelando…</string>
     <string name="cancel_backup">Cancelando backup…</string>
+    <string name="load_backup_failed">Não foi possível carregar os backups</string>
     <string name="dialog_title_require_wlan">Conecte-se ao Wi-Fi</string>
     <string name="dialog_msg_restore_require_wlan">A restauração de backups requer uma conexão Wi-Fi.</string>
     <string name="dialog_btn_next">Avançar</string>
     <string name="dialog_btn_restore_skip">Restaurar depois</string>
+    <string name="dialog_btn_cancel_backup">Cancelar</string>
+    <string name="dialog_btn_overwrite_backup">Substituir</string>
+    <string name="dialog_msg_overwrite_backup">O backup local é diferente do existente na Mi Cloud. Se você continuar, o backup atual substituirá o anterior.</string>
     <string name="cloud_backup">Backups na Mi Cloud</string>
     <string name="open_backup_switch">Alterne o botão de backup</string>
     <string name="restore_cloud_backup_to_phone">Restaurar itens da Mi Cloud</string>
@@ -169,4 +173,14 @@ Nota: Os dados dos apps instalados não serão salvos na Mi Cloud."</string>
     <string name="notification_channel_remind">Lembrete</string>
     <string name="done_remove">Removido com sucesso</string>
     <string name="doing_restore_home">Restaurando Tela inicial e configurações…</string>
+    <string name="title_alert_cancel_restore">Parar restauração</string>
+    <string name="msg_alert_cancel_restore">Restaurando itens. Parar agora?</string>
+    <string name="btn_restore_cancel">Cancelar</string>
+    <string name="btn_restore_resume">Continuar</string>
+    <string name="title_alert_restore_error">Não foi possível restaurar</string>
+    <string name="msg_alert_restore_error">Não foi possível restaurar itens da Mi Cloud. Tente novamente.</string>
+    <string name="btn_restore_retry">Tentar novamente</string>
+    <string name="btn_restore_abort">Cancelar</string>
+    <string name="backup_stopped_title">O backup foi pausado</string>
+    <string name="backup_stopped_msg">O backup atual substituirá o anterior. Toque para ver.</string>
 </resources>

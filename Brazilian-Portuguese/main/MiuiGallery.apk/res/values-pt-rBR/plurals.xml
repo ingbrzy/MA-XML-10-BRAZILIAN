@@ -56,6 +56,10 @@
         <item quantity="other">Retomar backup em %d horas</item>
         <item quantity="one">Retomar backup em %d hora</item>
     </plurals>
+    <plurals name="backup_file_over_size_title">
+        <item quantity="other">%d itens são muito grandes para fazer backup</item>
+        <item quantity="one">%d item é muito grande para fazer backup</item>
+    </plurals>
     <plurals name="backup_pause_desc">
         <item quantity="other">%d fotos ou vídeos | Em pausa</item>
         <item quantity="one">%d foto ou vídeo | Em pausa</item>
@@ -75,6 +79,10 @@
     <plurals name="cloud_storage_video_num">
         <item quantity="other">%d vídeos</item>
         <item quantity="one">%d vídeo</item>
+    </plurals>
+    <plurals name="creation_max_image">
+        <item quantity="other">Selecione até %d fotos</item>
+        <item quantity="one">Selecione até %d foto</item>
     </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d itens selecionados</item>
@@ -255,6 +263,10 @@
     <plurals name="sync_error_title">
         <item quantity="other">%d fotos ou vídeos sem backup</item>
         <item quantity="one">%d foto ou vídeo sem backup</item>
+    </plurals>
+    <plurals name="sync_oversized_count">
+        <item quantity="other">%d itens são muito grandes para fazer backup</item>
+        <item quantity="one">%d item é muito grande para fazer backup</item>
     </plurals>
     <plurals name="sync_total_count">
         <item quantity="other">%d itens</item>

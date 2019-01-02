@@ -39,8 +39,8 @@
   <string name="bt_toast_6">Parou de enviar o arquivo para \"%1$s\"</string>
   <string name="btopp_live_folder">Recebido por Bluetooth</string>
   <string name="defaultname">Kit mãos livres</string>
-  <string name="deleteAll_record">Eliminar todos os registos</string>
-  <string name="delete_record">Eliminar registo</string>
+  <string name="deleteAll_record">Excluir todos os registos</string>
+  <string name="delete_record">Excluir registo</string>
   <string name="download_cancel">Parar</string>
   <string name="download_fail_line1">Arquivo não recebido</string>
   <string name="download_fail_line2">Arquivo: %1$s</string>
@@ -129,7 +129,7 @@
   <string name="unknownNumber">Desconhecido</string>
   <string name="unknown_device">Dispositivo desconhecido</string>
   <string name="unknown_file">Ficheiro desconhecido</string>
-  <string name="unknown_file_desc">"Não existe um aplicativo associado a este arquivo. 
+  <string name="unknown_file_desc">"Não existe um aplicativo associado a este arquivo.
 "</string>
   <string name="update_record">Confirmar registo</string>
   <string name="upload_fail_cancel">Fechar</string>

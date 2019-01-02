@@ -25,7 +25,7 @@
   <string name="downloading">Baixando…</string>
   <string name="downloading_desc">Download em curso. Verifique o estado na área de notificações</string>
   <string name="install_desc">"O dispositivo vai reiniciar para o modo recovery e instalar a atualização: <b>%1$s</b>.
-Os dados não vão ser eliminados"</string>
+Os dados não serão excluídos"</string>
   <string name="install_title">Tem certeza que quer continuar?</string>
   <string name="menu_title_current_version_log">O que há de novo?</string>
   <string name="menu_title_pick_rom_file">Escolher pacote de atualização</string>

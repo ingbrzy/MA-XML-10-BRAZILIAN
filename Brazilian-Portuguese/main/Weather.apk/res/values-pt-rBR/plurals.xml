@@ -12,6 +12,10 @@
         <item quantity="other">%d dias atrás</item>
         <item quantity="one">%d dia atrás</item>
     </plurals>
+    <plurals name="aqi_all_city_cur_num">
+        <item quantity="other">Média de %1$s estações</item>
+        <item quantity="one">Média de %1$s estação</item>
+    </plurals>
     <plurals name="daily_forcast_drawer_on_top">
         <item quantity="other">Previsão para %1$s dias</item>
         <item quantity="one">Previsão para %1$s dia</item>

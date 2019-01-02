@@ -72,6 +72,10 @@
         <item quantity="other">em %d a</item>
         <item quantity="one">em %d a</item>
     </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">Tente novamente em %d segundos.</item>
+        <item quantity="one">Tente novamente em %d segundo.</item>
+    </plurals>
     <plurals name="last_num_days">
         <item quantity="other">Últimos %d dias</item>
         <item quantity="one">Últimos %d dias</item>
@@ -90,7 +94,7 @@
     </plurals>
     <plurals name="selected_count">
         <item quantity="other">%1$d selecionados</item>
-        <item quantity="one">%1$d selecionados</item>
+        <item quantity="one">%1$d selecionado</item>
     </plurals>
     <plurals name="ssl_ca_cert_warning">
         <item quantity="other">Autoridades de certificação instaladas</item>
@@ -106,15 +110,15 @@
     </plurals>
     <plurals name="zen_mode_duration_hours">
         <item quantity="other">Por %d horas</item>
-        <item quantity="one">Por %d horas</item>
+        <item quantity="one">Por %d hora</item>
     </plurals>
     <plurals name="zen_mode_duration_hours_short">
         <item quantity="other">Por %d horas</item>
         <item quantity="one">Por %d horas</item>
     </plurals>
     <plurals name="zen_mode_duration_hours_summary">
-        <item quantity="other">Por %1$d horas (até às %2$s)</item>
-        <item quantity="one">Por %1$d horas (até às %2$s)</item>
+        <item quantity="other">Por %1$d horas (até %2$s)</item>
+        <item quantity="one">Por %1$d hora (até %2$s)</item>
     </plurals>
     <plurals name="zen_mode_duration_hours_summary_short">
         <item quantity="other">Por %1$d horas (até %2$s)</item>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <plurals name="delete_files_confirm">
-    <item quantity="other">Eliminar %1$d arquivos</item>
-    <item quantity="zero">Eliminar %1$d arquivos</item>
-    <item quantity="one">Eliminar %1$d arquivo</item>
-    <item quantity="two">Eliminar %1$d arquivos</item>
-    <item quantity="few">Eliminar %1$d arquivos</item>
-    <item quantity="many">Eliminar %1$d arquivos</item>
+    <item quantity="other">Excluir %1$d arquivos</item>
+    <item quantity="zero">Excluir %1$d arquivos</item>
+    <item quantity="one">Excluir %1$d arquivo</item>
+    <item quantity="two">Excluir %1$d arquivos</item>
+    <item quantity="few">Excluir %1$d arquivos</item>
+    <item quantity="many">Excluir %1$d arquivos</item>
   </plurals>
   <plurals name="delete_folders_confirm">
     <item quantity="other">" e %1$d pastas?"</item>

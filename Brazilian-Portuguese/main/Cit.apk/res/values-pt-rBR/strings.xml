@@ -15,7 +15,7 @@
   <string name="cit_OTG_plugout_check_title">OTG (remoção)</string>
   <string name="cit_OTG_waiting_in">Ligar dispositivo USB OTG agora</string>
   <string name="cit_OTG_waiting_out">Desligar dispositivo USB OTG agora</string>
-  <string name="cit_ac_charger_in">A carregar por CA</string>
+  <string name="cit_ac_charger_in">Carregando por CA</string>
   <string name="cit_ac_charger_out">Carregador CA desligado</string>
   <string name="cit_accelermeter_sensor_check_summary">"Mova o dispositivo rapidamente numa direção. Os valores das coordenadas de X，Y，Z vão ser mostrados em baixo. (quando o telefone está em movimento: o X representa esquerda/direita, o Y representa frente/trás e o Z acima/abaixo).
 Antes de calibrar o dispositivo, coloque-o numa superfície plana"</string>
@@ -36,7 +36,7 @@ Antes de calibrar o dispositivo, coloque-o numa superfície plana"</string>
   <string name="cit_audio_lb_summary_backmic_to_speaker">Teste de funcionamento do microfone traseiro.
 
 Vire o telefone, fale para o microfone traseiro. Deve ouvir a voz no altofalante"</string>
-  <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Teste de funcionamento do microfone principal para o altofalante. 
+  <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Teste de funcionamento do microfone principal para o altofalante.
 
 Segure no telefone como se estivesse a fazer uma chamada, fale para o microfone principal. Deve ouvir a voz no altofalante"</string>
   <string name="cit_audio_lb_summary_phonecall">"Simulação de teste de chamada.
@@ -47,17 +47,17 @@ Segure no telefone como se estivesse a fazer uma chamada, fale para o microfone 
  Vire o telefone, fale para o microfone superior. Deve ouvir a voz no altofalante"</string>
   <string name="cit_audio_lb_topmic_to_speaker_title">Teste de funcionamento do microfone superior</string>
   <string name="cit_audio_loopback_check_one_title">Teste de funcionamento do microfone principal</string>
-  <string name="cit_audio_loopback_check_summary_first">"Teste de funcionamento do microfone principal. 
+  <string name="cit_audio_loopback_check_summary_first">"Teste de funcionamento do microfone principal.
 
 Segure no telefone como se estivesse a fazer uma chamada, fale para o microfone. Deve ouvir a sua voz no altofalante"</string>
-  <string name="cit_audio_loopback_check_summary_second">"Teste de funcionamento do microfone secundário. 
+  <string name="cit_audio_loopback_check_summary_second">"Teste de funcionamento do microfone secundário.
 
 Vire o telefone ao contrário, fale para o microfone. Deve ouvir a sua voz no altofalante externo"</string>
   <string name="cit_audio_loopback_check_two_title">Teste de funcionamento do microfone secundário</string>
   <string name="cit_audio_loopback_dualmic_earpiece_title">Teste de redução de ruído ambiente</string>
   <string name="cit_audio_loopback_next">Seguinte</string>
   <string name="cit_audio_loopback_previous">Anterior</string>
-  <string name="cit_audio_loopback_summary_dualmic_earpiece">"Teste de redução de ruídos ambiente 
+  <string name="cit_audio_loopback_summary_dualmic_earpiece">"Teste de redução de ruídos ambiente
 
 Segure no telefone como se estivesse a atender uma chamada, fale para o microfone. Deve ouvir a sua voz no altofalante com o ruído de fundo reduzido"</string>
   <string name="cit_battery_temp_fail">Temperatura da bateria não é normal (valor=%d)</string>
@@ -113,19 +113,19 @@ Segure no telefone como se estivesse a atender uma chamada, fale para o microfon
   <string name="cit_fm_open_2">Iniciar FM - 107.9</string>
   <string name="cit_fm_open_bluetooth">A abrir Bluetooth…</string>
   <string name="cit_fm_start_service">Iniciar áudio</string>
-  <string name="cit_front_camera_check_summary">"Instruções do teste: 
+  <string name="cit_front_camera_check_summary">"Instruções do teste:
 
 1.Toque no botão da câmara em baixo para entrar na interface da câmara frontal.
 2.Toque no botão de disparo.
 3.Toque no ícone Verificar. O sistema vai guardar a fotografia automaticamente.
-4.A fotografia que tirou vai ser exibida em baixo. Toque em Eliminar para concluir o teste"</string>
+4.A fotografia que tirou vai ser exibida em baixo. Toque em Excluir para concluir o teste"</string>
   <string name="cit_front_camera_check_title">Câmara frontal</string>
   <string name="cit_get_signature_failed">Obter assinatura FALHOU</string>
   <string name="cit_gps_check_summary">A informação correspondente ao GPS deve ser exibida em baixo</string>
   <string name="cit_gps_check_title">GPS</string>
   <string name="cit_gps_disabled">"O GPS não foi iniciado
 
-Toque no ecrã para iniciar o GPS…"</string>
+Toque na tela para iniciar o GPS…"</string>
   <string name="cit_gps_first_fix_time">Tempo de localização: %s</string>
   <string name="cit_gps_location">Localização: %s</string>
   <string name="cit_gps_satellite_count">Contagem de satélites: %d</string>
@@ -161,7 +161,7 @@ Toque no ecrã para iniciar o GPS…"</string>
   <string name="cit_keyboard_back">Botão: VOLTAR</string>
   <string name="cit_keyboard_current">Teclado actual: %s</string>
   <string name="cit_keyboard_menu">Botão: MENU</string>
-  <string name="cit_keyboard_test_summary">Quando premir os botões, o texto correspondente no ecrã deve passar a verde (nota: os botões Início e Ligar/Desligar não estão incluídos no teste)</string>
+  <string name="cit_keyboard_test_summary">Quando apertar os botões, o texto correspondente na tela deve ficar a verde (nota: os botões Início e Ligar/Desligar não estão incluídos no teste)</string>
   <string name="cit_keyboard_test_title">Botões</string>
   <string name="cit_label">Testes de hardware</string>
   <string name="cit_lcdlight_brightness">Luz de fundo</string>
@@ -179,7 +179,7 @@ Toque no ecrã para iniciar o GPS…"</string>
 2.Certifique-se de que o flash está activado
 3.Toque no botão de disparo
 4.Toque no ícone Verificar. O sistema vai guardar a foto automaticamente.
-5.A foto que tirou vai ser mostrada em baixo. Toque em Eliminar para concluir o teste"</string>
+5.A foto que tirou vai ser mostrada em baixo. Toque em Excluir para concluir o teste"</string>
   <string name="cit_main_camera_check_title">Câmara traseira</string>
   <string name="cit_name">Testes de hardware</string>
   <string name="cit_not_available">Este teste não está disponível nesta versão MIUI</string>
@@ -198,14 +198,14 @@ Toque no ecrã para iniciar o GPS…"</string>
   <string name="cit_power_check_title">Indicador da bateria</string>
   <string name="cit_pressure_sensor_check_summary">O valor para a pressão deve aparecer em baixo</string>
   <string name="cit_pressure_sensor_check_title">Sensor de pressão</string>
-  <string name="cit_proximity_sensor_check_summary">"Tape o sensor de proximidade com a mão (o sensor está localizado no topo do dispositivo, perto do altifalante). Depois retire a mão. O valor deve aumentar de 0.0 quando afastar a mão do dispositivo.
-Durante a calibração, verifique que não está nada entre o sensor e a sua mão (p.e. película protectora do ecrã ou luvas)"</string>
+  <string name="cit_proximity_sensor_check_summary">"Pressione o sensor de proximidade com a mão (o sensor está localizado no topo do dispositivo, perto do altifalante). Depois retire a mão. O valor deve aumentar de 0.0 quando afastar a mão do dispositivo.
+Durante a calibração, verifique que não há nada entre o sensor e a sua mão (p.e. película protectora da tela ou luvas)"</string>
   <string name="cit_proximity_sensor_check_title">Sensor de proximidade</string>
   <string name="cit_rear_dual_camera_check_title">Câmara traseira dupla</string>
   <string name="cit_rear_sub_camera_check_title">Câmara traseira inferior</string>
   <string name="cit_recovery_signature_failed">Assinatura do modo restauro FALHOU</string>
   <string name="cit_recovery_signature_passed">Assinatura do modo restauro PASSOU</string>
-  <string name="cit_reset_check_summary">Este teste vai reiniciar o dispositivo. Todos os dados dos testes anteriores vão ser eliminados</string>
+  <string name="cit_reset_check_summary">Este teste vai reiniciar o dispositivo. Todos os dados dos testes anteriores vão ser excluídos</string>
   <string name="cit_reset_check_title">Teste de reinicialização</string>
   <string name="cit_reset_test">Testar</string>
   <string name="cit_sd_fail">Ocorreu um erro</string>
@@ -312,18 +312,18 @@ Depois de inserir o arquivo \"music.mp3\" no cartão SD, toque no ecrã para o r
   <string name="cit_touch_calib_fail">Erro na calibração do toque. Tente novamente</string>
   <string name="cit_touch_calib_instruction">Iniciar calibração</string>
   <string name="cit_touch_calib_pass">Calibração do toque concluída</string>
-  <string name="cit_touch_calib_summary">O próximo passo vai ser calibrar o toque no ecrã, prima o botão confirmar e não toque no ecrã depois do início do teste. Aguarde a mensagem de calibração bem sucedida</string>
+  <string name="cit_touch_calib_summary">O próximo passo vai ser calibrar o toque na tela, aperte o botão confirmar e não toque na tela depois do início do teste. Aguarde a mensagem de calibração bem sucedida</string>
   <string name="cit_touch_calib_title">Calibração do toque</string>
   <string name="cit_usb_OTG_in">Dispositivo USB OTG detectado</string>
   <string name="cit_usb_OTG_out">Dispositivo USB OTG removido</string>
-  <string name="cit_usb_charger_in">A carregar por USB</string>
+  <string name="cit_usb_charger_in">Carregando por USB</string>
   <string name="cit_usb_charger_out">Carregador USB desligado</string>
   <string name="cit_version_check_summary">Em baixo estão as informações do dispositivo. Confirme se a informação destacada em verde está correcta</string>
   <string name="cit_version_check_title">Ver informação da versão</string>
   <string name="cit_vga_camera_capture">Câmara</string>
   <string name="cit_vga_camera_capture_fail">Erro ao tirar foto</string>
-  <string name="cit_vga_camera_delete">Eliminar</string>
-  <string name="cit_vga_camera_deleted">Foto eliminada</string>
+  <string name="cit_vga_camera_delete">Excluir</string>
+  <string name="cit_vga_camera_deleted">Foto excluída</string>
   <string name="cit_vibrator_check_summary">Verificar se a vibração (longa e curta) está a funcionar normalmente</string>
   <string name="cit_vibrator_check_title">Vibração</string>
   <string name="cit_vibrator_don_don_chat">Don-Don-Chat</string>
@@ -342,12 +342,12 @@ Depois de inserir o arquivo \"music.mp3\" no cartão SD, toque no ecrã para o r
   <string name="cit_wifi_ap_scan_retry">A pesquisar novamente…</string>
   <string name="cit_wifi_ap_scanning">A pesquisar…</string>
   <string name="cit_wifi_fail_to_scan">Não foi possível pesquisar redes</string>
-  <string name="cit_wifi_state_refresh">Actualizar</string>
+  <string name="cit_wifi_state_refresh">Atualizar</string>
   <string name="cit_x5_audio_lb_frontmic_to_speaker_title">Teste de funcionamento do microfone frontal</string>
   <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"Teste de funcionamento do microfone frontal para o altifalante.
 
 Vire o telefone, fale para o microfone frontal. Deve ouvir a sua voz no altifalante"</string>
-  <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"Teste de funcionamento do microfone superior para o altifalante. 
+  <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"Teste de funcionamento do microfone superior para o altifalante.
 
 Vire o telefone, fale para microfone superior. Deve ouvir a sua voz no altifalante"</string>
   <string name="cit_x5_audio_lb_top_to_speaker_title">Teste de funcionamento do microfone superior</string>
