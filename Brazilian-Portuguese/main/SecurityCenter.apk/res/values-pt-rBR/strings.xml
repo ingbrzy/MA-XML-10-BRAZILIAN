@@ -1198,7 +1198,6 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="power_center_scan_item_title_running_app">Apps executando em segundo plano</string>
     <string name="power_center_list_item_close_bluetooth">Desativar Bluetooth</string>
     <string name="power_center_list_item_set_lockscreen_time">Desligar a tela com 30 segundos de inatividade</string>
-    <string name="power_center_list_item_deep_save_title">Configurações avançadas</string>
     <string name="power_center_list_item_battery_status_time">h</string>
     <string name="power_center_stop_scan_title">Parar verificação</string>
     <string name="hide_mode_result_summary_text">Personalizar configurações de Economia de bateria para apps individualmente</string>
