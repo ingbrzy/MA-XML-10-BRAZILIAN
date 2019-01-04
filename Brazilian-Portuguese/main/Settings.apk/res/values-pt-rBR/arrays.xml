@@ -766,6 +766,10 @@
         <item>Mostrar áreas de overdraw</item>
         <item>Mostrar áreas para Deuteronomia</item>
     </string-array>
+    </string-array name="default_vol_stream_entries">
+        <item>Toque</item>
+        <item>Multimídia</item>
+    </string-array>
     <string-array name="dream_timeout_entries">
         <item>Nunca</item>
         <item>15 segundos</item>
