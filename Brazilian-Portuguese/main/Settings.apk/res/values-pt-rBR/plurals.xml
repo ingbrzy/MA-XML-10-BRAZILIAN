@@ -192,6 +192,9 @@
         <item quantity="other">Aguarde por %d segundos e tente novamente.</item>
         <item quantity="one">Aguarde por %d segundo e tente novamente.</item>
     </plurals>
+    <plurals name="miui_sos_emergency_contacts_quantity">
+        <item quantity="other">%d adicionados</item>
+    </plurals>
     <plurals name="manage_notification_access_summary_nonzero">
         <item quantity="other">%d apps podem ler notificações</item>
         <item quantity="one">%d apps podem ler notificações</item>
