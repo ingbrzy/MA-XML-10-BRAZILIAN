@@ -1653,6 +1653,7 @@ Como o uso de dados é calculado pelo seu smartphone, e sua operadora pode enten
     <string name="default_spell_checker">Corretor ortográfico padrão</string>
     <string name="default_theme">Padrão</string>
     <string name="default_usb_mode">Conexão USB</string>
+    <string name="default_vol_stream_title">Controle de volume predefinido</string>
     <string name="delete">Excluir</string>
     <string name="delete_fingerprint_confirm_msg">Remover impressão digital?</string>
     <string name="delete_fingerprint_text">Remover impressão digital</string>
