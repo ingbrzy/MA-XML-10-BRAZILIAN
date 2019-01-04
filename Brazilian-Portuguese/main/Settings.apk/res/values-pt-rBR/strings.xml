@@ -316,6 +316,7 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, apps e dad
     <string name="anti_spam">Lista de bloqueio</string>
     <string name="aod_close_color_inversion">Este recurso não pode ser combinado com a inversão de cores. Desative a inversão de cores primeiro.</string>
     <string name="aod_got_it">Entendido</string>
+    <string name="aod_clock_style_title">Estilo do relógio</string>
     <string name="aod_mode_summary">Sempre mostrar hora, data e mensagens com a tela desligada.</string>
     <string name="aod_mode_time_summary">Programar hora para ativar o modo Always On</string>
     <string name="aod_mode_time_title">Programar</string>
