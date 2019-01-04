@@ -5019,6 +5019,7 @@ Uma credencial confiável instalada no dispositivo permite isso."</string>
     <string name="status_bar_settings_notification_style">Estilo das notificações</string>
     <string name="status_bar_settings_notification_vibrate">Vibração</string>
     <string name="status_bar_settings_peek_notification_icon">Mostrar ícones para notificações recebidas</string>
+    <string name="status_bar_settings_qs_layout">Layout do acesso rápido</string>
     <string name="status_bar_settings_show_carrier">Mostrar nome da operadora</string>
     <string name="status_bar_settings_show_carrier_summary">O nome da operadora ainda será exibido na Tela de bloqueio e na Área de notificações quando este recurso estiver desativado</string>
     <string name="status_bar_settings_show_carrier_under_keyguard">Mostrar operadora com o dispositivo bloqueado</string>
