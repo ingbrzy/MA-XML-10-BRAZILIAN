@@ -106,6 +106,7 @@
     <string name="deselect_all">Desmarcar tudo</string>
     <string name="disable_wallpaper_scroll">Desativar deslizamento lateral</string>
     <string name="download_action">Fazer download</string>
+    <string name="double_tap_to_lock_title">Tocar duas vezes para bloquear a tela</string>
     <string name="drag_multiple_item_name" />
     <string name="drag_single_item_name" />
     <string name="edit_folder_title">Editar nome da pasta</string>
