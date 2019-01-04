@@ -417,6 +417,6 @@ qualidade de reprodução"</string>
     <string name="notification_AllMissedCallTitle">Todas as chamadas perdidas</string>
     <string name="close">Fechar</string>
     <string name="callFailed_simError">Erro no cartão SIM</string>
-    <string name="incall_error_supp_service_unknown">Este serviço não é suportado.</string>
     <string name="incall_error_power_off">Desative o Modo avião para fazer uma chamada.</string>
+    <string name="incall_error_supp_service_unknown">Este serviço não é suportado.</string>
 </resources>
