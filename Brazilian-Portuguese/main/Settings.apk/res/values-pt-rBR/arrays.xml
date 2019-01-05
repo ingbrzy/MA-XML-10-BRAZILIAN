@@ -766,7 +766,7 @@
         <item>Mostrar áreas de overdraw</item>
         <item>Mostrar áreas para Deuteronomia</item>
     </string-array>
-    </string-array name="default_vol_stream_entries">
+    <string-array name="default_vol_stream_entries">
         <item>Toque</item>
         <item>Multimídia</item>
     </string-array>
