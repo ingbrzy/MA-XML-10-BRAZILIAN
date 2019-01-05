@@ -1502,7 +1502,7 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Escala de animação 5x</item>
         <item>Escala de animação 10x</item>
     </string-array>
-    </string-array name="aod_clock_style_entries">
+    <string-array name="aod_clock_style_entries">
         <item>Horizontal</item>
         <item>Vertical</item>
         <item>Em linha</item>
