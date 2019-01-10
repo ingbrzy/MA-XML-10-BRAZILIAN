@@ -1700,6 +1700,12 @@ Como o uso de dados é calculado pelo seu smartphone, e sua operadora pode enten
     <string name="device_cpu4_info">"Quad-core "</string>
     <string name="device_cpu6_info">"Hexa-core "</string>
     <string name="device_cpu8_info">"Octa-core "</string>
+    <string name="device_description_battery">Bateria</string>
+    <string name="device_description_camera">Câmera</string>
+    <string name="device_description_cpu">CPU</string>
+    <string name="device_description_ram">RAM</string>
+    <string name="device_description_resolution">Resolução</string>
+    <string name="device_description_screen">Tela</string>
     <string name="device_details_title">Detalhes do dispositivo</string>
     <string name="device_display_layout_title">Recursos do Mi 5</string>
     <string name="device_edit_title">Renomear telefone</string>
