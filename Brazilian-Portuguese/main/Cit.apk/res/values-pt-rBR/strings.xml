@@ -96,9 +96,9 @@ Segure no telefone como se estivesse a atender uma chamada, fale para o microfon
   <string name="cit_charger_plugout_check_title">Carregador (desligado)</string>
   <string name="cit_charger_waiting_in">Ligar carregador</string>
   <string name="cit_charger_waiting_out">Desligar carregador agora</string>
-  <string name="cit_display_check_summary">Confirme que o arquivo de imagem bmp existe no cartão SD. Confirme se as cores são exibidas de forma consistente por todo o ecrã. Certifique-se de que não existem pontos com brilho irregular ou pontos negros</string>
-  <string name="cit_display_check_title">Ecrã</string>
-  <string name="cit_display_continue">Toque no ecrã para iniciar o teste</string>
+  <string name="cit_display_check_summary">Confirme que o arquivo de imagem bmp existe no cartão SD. Confirme se as cores são exibidas de forma consistente por todo a tela. Certifique-se de que não existem pontos com brilho irregular ou pontos negros</string>
+  <string name="cit_display_check_title">Tela</string>
+  <string name="cit_display_continue">Toque na tela para iniciar o teste</string>
   <string name="cit_exit_test_summary">Quando sair, todos os resultados vão ser eliminados</string>
   <string name="cit_exit_test_title">Sair do teste</string>
   <string name="cit_fail">Erro</string>
@@ -136,7 +136,7 @@ Toque na tela para iniciar o GPS…"</string>
   <string name="cit_headset_button_check_summary">Quando os auriculares estiverem ligados, toque nos botões de comando (geralmente situados no cabo dos auriculares). O texto correspondente aos botões pressionados ficará verde</string>
   <string name="cit_headset_button_check_title">Botões do auricular</string>
   <string name="cit_headset_button_click">Toque nos botões dos auriculares</string>
-  <string name="cit_headset_button_current">Botão actual: %s</string>
+  <string name="cit_headset_button_current">Botão atual: %s</string>
   <string name="cit_headset_button_fast_forward">Avanço rápido</string>
   <string name="cit_headset_button_next">Seguinte</string>
   <string name="cit_headset_button_pass">Passar</string>
@@ -159,7 +159,7 @@ Toque na tela para iniciar o GPS…"</string>
   <string name="cit_kayboard_volume_down">Botão: VOLUME -</string>
   <string name="cit_kayboard_volume_up">Botão: VOLUME +</string>
   <string name="cit_keyboard_back">Botão: VOLTAR</string>
-  <string name="cit_keyboard_current">Teclado actual: %s</string>
+  <string name="cit_keyboard_current">Teclado atual: %s</string>
   <string name="cit_keyboard_menu">Botão: MENU</string>
   <string name="cit_keyboard_test_summary">Quando apertar os botões, o texto correspondente na tela deve ficar a verde (nota: os botões Início e Ligar/Desligar não estão incluídos no teste)</string>
   <string name="cit_keyboard_test_title">Botões</string>
@@ -212,7 +212,7 @@ Durante a calibração, verifique que não há nada entre o sensor e a sua mão 
   <string name="cit_sd_mount">Montar cartão SD</string>
   <string name="cit_sd_mount_sucess">Cartão SD montado</string>
   <string name="cit_sd_mp3_not_existed">"Não existe no cartão SD o arquivo com o nome \"music.mp3\"
-Depois de inserir o arquivo \"music.mp3\" no cartão SD, toque no ecrã para o reproduzir"</string>
+Depois de inserir o arquivo \"music.mp3\" no cartão SD, toque na tela para o reproduzir"</string>
   <string name="cit_sd_plugged_in">Cartão SD detectado, remova agora o cartão SD</string>
   <string name="cit_sd_plugged_out">O cartão SD foi removido, insira agora o cartão SD</string>
   <string name="cit_sd_plugin_check_summary">O texto \"Cartão SD detectado, remova cartão SD agora\" deve ser mostrado abaixo</string>
@@ -306,7 +306,7 @@ Depois de inserir o arquivo \"music.mp3\" no cartão SD, toque no ecrã para o r
   <string name="cit_tool_wifi_tx_n_txrt">datarate: MCS</string>
   <string name="cit_tool_wifi_tx_st">Tx: ST</string>
   <string name="cit_tool_wifi_tx_st_chan">Canal:</string>
-  <string name="cit_tool_wifi_txrx_chain_selection">Seleccionar antena</string>
+  <string name="cit_tool_wifi_txrx_chain_selection">Selecionar antena</string>
   <string name="cit_torch_off">Desligar a luz de flash</string>
   <string name="cit_torch_on">Ligar a luz de flash</string>
   <string name="cit_touch_calib_fail">Erro na calibração do toque. Tente novamente</string>
