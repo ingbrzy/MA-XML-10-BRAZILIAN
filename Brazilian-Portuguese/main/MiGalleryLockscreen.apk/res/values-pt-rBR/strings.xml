@@ -19,6 +19,13 @@
     <string name="abc_shareactionprovider_share_with">Compartilhar com</string>
     <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
     <string name="abc_toolbar_collapse_description">Recolher</string>
+    <string name="add_launch_hint_text">Criar atalho na tela inicial</string>
+    <string name="sst_subscrible_manager_title_bar_text">Definir subscrições</string>
+    <string name="sst_custom_wallpaper_desc">Selecionar imagens da Galeria e recomendações</string>
+    <string name="sst_sti_desc">Defina a frequência de atualização</string>
+    <string name="sst_sti_title">Frequência de atualização</string>
+    <string name="sst_wifi_only_desc">Desligue para atualizar apenas via Wi-Fi</string>
+    <string name="sst_wifi_only_title">Atualizar papéis de parede utilizando dados móveis</string>
     <string name="apply_to_screenlock">Aplicar na tela de bloqueio</string>
     <string name="apply_to_wallpaper">Aplicar na tela inicial</string>
 </resources>
