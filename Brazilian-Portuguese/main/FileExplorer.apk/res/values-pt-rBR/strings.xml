@@ -621,13 +621,13 @@
   <string name="user_setting_play_num_tip">Receber notificações sobre o número de visualizações que os seus vídeos recebem</string>
   <string name="user_setting_video_has_hot_comment">Notificações sobre os comentários em destaque</string>
   <string name="user_setting_video_has_hot_comment_tip">Receber notificações quando os seus vídeos receber comentários</string>
-  <string name="user_sex">Género</string>
+  <string name="user_sex">Gênero</string>
   <string name="user_sign">Assinatura</string>
   <string name="user_topic_text">Os meus tópicos</string>
   <string name="user_video_text">Os meus vídeos</string>
   <string name="utf8_summary">Codificação do Sistema FTP padrão</string>
   <string name="video_ad_download">Instalar</string>
-  <string name="video_comment_hint">Seleccionar tópico</string>
+  <string name="video_comment_hint">Selecionar tópico</string>
   <string name="video_comment_limit">%1$s caracteres restantes</string>
   <string name="video_comment_publish">Submeter</string>
   <string name="video_comment_topic">\#Adicionar tópico#</string>
@@ -648,7 +648,7 @@
   <string name="video_status_reject">Rejeitado</string>
   <string name="video_status_review">A ser analisado</string>
   <string name="video_tag_search_hint">Personalizar tópico</string>
-  <string name="video_tag_search_title">Seleccionar tópico</string>
+  <string name="video_tag_search_title">Selecionar tópico</string>
   <string name="video_topic_hint">Pesquisar tópicos</string>
   <string name="video_upload_btn">Seguinte</string>
   <string name="video_upload_btn_hint">Vídeos MP4 devem ter entre 3 a 10 minutos</string>
