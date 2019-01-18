@@ -1718,8 +1718,8 @@ Como o uso de dados é calculado pelo seu smartphone, e sua operadora pode enten
     <string name="device_internal_memory">Armazenamento interno</string>
     <string name="device_memory">RAM</string>
     <string name="device_miui_more">Ver mais</string>
-    <string name="device_miui_version">Versão do MIUI</string>
-    <string name="device_miui_version_for_POCO">Versão do MIUI (Para POCO)</string>
+    <string name="device_miui_version">Versão da MIUI</string>
+    <string name="device_miui_version_for_POCO">Versão da MIUI (Para POCO)</string>
     <string name="device_miui_version_update">Atualização MIUI disponível</string>
     <string name="device_name">Nome do dispositivo</string>
     <string name="device_name_input_error">Não foi possível salvar o nome do dispositivo</string>
@@ -1915,7 +1915,7 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
     <string name="double_twist_for_camera_mode_summary" />
     <string name="double_twist_for_camera_mode_title">Virar câmera</string>
     <string name="double_twist_for_camera_suggestion_title">Tirar selfies com mais rapidez</string>
-    <string name="download_current_rom">Obter a última versão do MIUI</string>
+    <string name="download_current_rom">Obter a última versão da MIUI</string>
     <string name="downloading_description">Fazendo download…</string>
     <string name="doze_always_on_summary">Mostrar horário, ícones de notificação e outras informações. Aumento do uso da bateria.</string>
     <string name="doze_always_on_title">Sempre ativado</string>
@@ -2463,9 +2463,9 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="incoming_call_breathing_light_color_title">Cor do LED para chamadas</string>
     <string name="incoming_call_breathing_light_freq_title">Frequência de pulsação em chamadas</string>
     <string name="incoming_call_volume_title">Toque</string>
-    <string name="infinity_display_settings">Tela infinita</string>
+    <string name="infinity_display_settings">Tela Infinita</string>
     <string name="infinity_display_slogan">Inovação em tela cheia</string>
-    <string name="infinity_display_title">Tela infinita</string>
+    <string name="infinity_display_title">Tela Infinita</string>
     <string name="information_dialog_button_text">Entendido</string>
     <string name="input_assistance">Assistência para entrada de texto</string>
     <string name="input_hint_prefix">Introduzir %1$s</string>
@@ -2548,6 +2548,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="keyboard_shortcuts_helper">Assistente de atalhos do teclado</string>
     <string name="keyboard_shortcuts_helper_summary">Mostrar atalhos disponíveis</string>
     <string name="keyguard_advance_setting_title">Configurações avançadas</string>
+	<string name="keyguard_double_tap_to_sleep_title">Toque duplo para apagar na tela de bloqueio</string>
     <string name="keyguard_notification_status_title">Quando receber uma notificação com a tela desligada</string>
     <string name="keyguard_security_setting_others">Outros</string>
     <string name="keyguard_security_setting_privacy_policy">Política de Privacidade</string>
@@ -2795,13 +2796,13 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="lock_screen_notifications_summary_hide_profile">Ocultar conteúdo de trabalho confidencial</string>
     <string name="lock_screen_notifications_summary_show">Mostrar todas as notificações e seus conteúdos</string>
     <string name="lock_screen_notifications_summary_show_profile">Mostrar todo o conteúdo de notificação de trabalho</string>
-    <string name="lock_screen_notifications_title">Na tela de bloqueio</string>
+    <string name="lock_screen_notifications_title">Notificações na tela de bloqueio</string>
     <string name="lock_screen_signature_summary">Esta mensagem será exibida na Tela de bloqueio</string>
     <string name="lock_screen_signature_title">Info. do proprietário na Tela de bloqueio</string>
     <string name="lock_screen_unlock_show">Pular Tela de bloqueio</string>
     <string name="lock_screen_unlock_show_summary">Abrir Tela inicial ou inserir a senha diretamente</string>
     <string name="lock_secure_after_timeout_click_me_to_change_text">Toque para alterar</string>
-    <string name="lock_settings">Bloqueio de tela &amp; senhas</string>
+    <string name="lock_settings">Bloqueio de tela &amp; Senhas</string>
     <string name="lock_settings_common_title">Configurações de bloqueio</string>
     <string name="lock_settings_picker_fingerprint_added_security_message">Para aumentar a segurança, defina um bloqueio de tela alternativo</string>
     <string name="lock_settings_picker_fingerprint_message">Escolha seu método de bloqueio de tela alternativo</string>
@@ -2819,7 +2820,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="lock_settings_profile_unification_title">Usar um bloqueio</string>
     <string name="lock_settings_profile_unified_summary">Igual ao bloqueio de tela do dispositivo</string>
     <string name="lock_settings_title">Segurança do dispositivo</string>
-    <string name="lock_settings_with_fingerprint">Bloqueio de tela &amp; senhas</string>
+    <string name="lock_settings_with_fingerprint">Bloqueio de tela &amp; Senhas</string>
     <string name="lock_setup">A configuração foi concluída.</string>
     <string name="lock_sounds_enable_title">Sons de bloqueio de tela</string>
     <string name="lockdown_settings_summary">Exibir a opção do botão liga/desliga que desativa o Smart Lock, o desbloqueio com impressão digital e as notificações na tela de bloqueio</string>
@@ -3794,7 +3795,7 @@ Isso também permitira que o app ative ou desative o modo \"Não perturbe\" e al
     <string name="power_usage_list_summary">Uso da bateria desde a carga completa</string>
     <string name="power_usage_not_available">Dados de uso da bateria indisponíveis</string>
     <string name="power_usage_summary">O que está consumindo a bateria</string>
-    <string name="power_usage_summary_title">Bateria &amp; desempenho</string>
+    <string name="power_usage_summary_title">Bateria &amp; Desempenho</string>
     <string name="power_wifi">Wi-Fi</string>
     <string name="pre_installed_application">Apps pré-instalados</string>
     <string name="pref_bg_network_title">Conexão em segundo plano</string>
@@ -4399,7 +4400,7 @@ Para usar a fixação de tela:
     <string name="se_wallet_ese">Mi Pay e cartão de transporte NFC</string>
     <string name="se_wallet_hce">Usar a HCE Wallet</string>
     <string name="se_wallet_uicc">Usar Wallet no SIM %1$s</string>
-    <string name="search_about_settings">Sobre o telefone;Número do modelo;Versão do Android;Versão do MIUI;CPU;RAM;Memória interna;Memória;Armazenamento;Armazenamento interno;Versão da banda de base;Versão do Kernel;Número da compilação</string>
+    <string name="search_about_settings">Sobre o telefone;Número do modelo;Versão do Android;Versão da MIUI;CPU;RAM;Memória interna;Memória;Armazenamento;Armazenamento interno;Versão da banda de base;Versão do Kernel;Número da compilação</string>
     <string name="search_accelerometer_title">Girar tela automaticamente;Girar tela;Orientação;Retrato;Paisagem</string>
     <string name="search_access_control">Configurações de privacidade;Segurança de privacidade;Convidado;Modo convidado</string>
     <string name="search_accessibility_captioning_title">Legendas</string>
@@ -4709,8 +4710,8 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
     <string name="settings_backup_summary">Fazer backup de minhas configurações</string>
     <string name="settings_button">Configurações</string>
     <string name="settings_forbidden_message">Esta configuração é restrita</string>
-    <string name="settings_label">Configurar</string>
-    <string name="settings_label_launcher">Configurar</string>
+    <string name="settings_label">Configurações</string>
+    <string name="settings_label_launcher">Configurações</string>
     <string name="settings_license_activity_loading">Carregando...</string>
     <string name="settings_license_activity_title">Licenças de código aberto</string>
     <string name="settings_license_activity_unavailable">Há um problema ao carregar as licenças.</string>
@@ -4959,7 +4960,7 @@ Este recurso precisa de permissões para acessar sua localização, usar as rede
     <string name="sound_settings_summary_vibrate">Campainha configurada para vibrar</string>
     <string name="sound_stereo_mode_summary">Disponível apenas ao reproduzir sons pelo altofalante</string>
     <string name="sound_stereo_mode_title">Som estéreo</string>
-    <string name="sound_vibrate_settings">Sons &amp; vibração</string>
+    <string name="sound_vibrate_settings">Sons &amp; Vibração</string>
     <string name="sound_work_settings">Sons do perfil de trabalho</string>
     <string name="special_access">Acesso especial a apps</string>
     <string name="speed_label_fast">Rápida</string>

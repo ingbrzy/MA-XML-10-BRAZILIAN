@@ -873,7 +873,11 @@ Use somente o carregador fornecido."</string>
     <string name="keyguard_indication_charging_time_slowly">Carregando lentamente (%s até concluir)</string>
     <string name="keyguard_indication_trust_disabled">O dispositivo permanecerá bloqueado até que você o desbloqueie manualmente</string>
     <string name="keyguard_instructions_when_pattern_disabled">Pressione Menu para desbloquear.</string>
-    <string name="keyguard_left_mi_wallet">Mi Wallet</string>
+    <string name="keyguard_left_calculator">Calculadora</string>
+    <string name="keyguard_left_calendar">Agenda</string>
+    <string name="keyguard_left_contacts">Contatos</string>
+    <string name="keyguard_left_music">Música</string>
+    <string name="keyguard_left_notes">Anotações</string>
     <string name="keyguard_left_remotecentral">Mi Remote</string>
     <string name="keyguard_left_smarthome">Mi Home</string>
     <string name="keyguard_left_torch">Lanterna</string>
