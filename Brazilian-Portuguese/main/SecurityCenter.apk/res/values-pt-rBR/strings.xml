@@ -2545,4 +2545,6 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
     <string name="shutdown_time_day">Desligar: %2$s %1$dd</string>
     <string name="shutdown_time_day_tomorrow">Desligar: %1$s</string>
     <string name="shutdown_time">Desligar: %1$s</string>
+    <string name="app_manager_full_screen_title">Modo tela cheia</string>
+    <string name="app_manager_full_screen_summary">Permitir que as aplicações selecionadas funcionem em modo tela cheia</string>
 </resources>
