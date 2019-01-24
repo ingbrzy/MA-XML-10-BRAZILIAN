@@ -1336,9 +1336,9 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="resource_networkassistant_4">Testar rede</string>
     <string name="keywords_networkassistant_4">Conexão;Internet;Testar</string>
     <string name="path_networkassistant_4">Apps do sistema/Segurança/Uso de dados/Testar rede</string>
-    <string name="resource_powercenter_powerrank">Bateria &amp; desempenho</string>
+    <string name="resource_powercenter_powerrank">Bateria e desempenho</string>
     <string name="keywords_powercenter_powerrank">Uso de bateria</string>
-    <string name="path_powercenter_powerrank">Bateria &amp; desempenho/uso de bateria</string>
+    <string name="path_powercenter_powerrank">Bateria e desempenho/uso de bateria</string>
     <string name="resource_gamebooster">Otimizador de jogos</string>
     <string name="keywords_gamebooster">Jogo;Otimizador de velocidade;King of Glory;Modo desempenho;Não perturbe;Jogos;Jogando;Velocidade de jogo;Acelerar</string>
     <string name="path_gamebooster">Apps do sistema/Segurança/Otimizador de jogos</string>
@@ -1687,7 +1687,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="antivirus_toast_network_unavailable">Não foi possível conectar-se à rede</string>
     <string name="handle_title_network">Segurança do Wi-Fi</string>
     <string name="handle_title_pay_env">Ambiente de pagamentos</string>
-    <string name="handle_title_privacy">Privacidade &amp; segurança</string>
+    <string name="handle_title_privacy">Privacidade e segurança</string>
     <string name="risk_count_suffix" />
     <string name="virus_auto_update_engine">Atualização automática: %s</string>
     <string name="hints_scan_danger_result">Risco encontrado, corrija agora</string>
@@ -1899,10 +1899,10 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="lockscreen_access_pattern_cleared">Padrão limpo</string>
     <string name="lockscreen_access_pattern_cell_added">Célula adicionada</string>
     <string name="lockscreen_access_pattern_detected">Padrão concluído</string>
-    <string name="applock_add_account_setting">Conta &amp; privacidade</string>
+    <string name="applock_add_account_setting">Conta e privacidade</string>
     <string name="applock_add_account_info">Adicione sua Conta Mi para redefinir a sua senha caso a esqueça.</string>
     <string name="applock_exit_account_info">A conta será removida automaticamente quando você fizer o logout</string>
-    <string name="applock_login_and_add_account">Fazer login &amp; adicionar</string>
+    <string name="applock_login_and_add_account">Fazer login e adicionar</string>
     <string name="applock_not_add_account"><u>Agora não</u></string>
     <string name="applock_add_account">Adicionar</string>
     <string name="applock_not_login_account">Você não fez o login</string>
@@ -2019,7 +2019,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="sys_app_prot_cracked_confirm">Entendido</string>
     <string name="confirmSecondSpacePassword">Confirmar senha do Segundo Espaço</string>
     <string name="sponsored_sec_fb">Patrocinado</string>
-    <string name="add_game_notification_summary">Toque para executar &amp; otimizar velocidade</string>
+    <string name="add_game_notification_summary">Toque para executar e otimizar velocidade</string>
     <string name="app_manager_title">Gerenciar apps</string>
     <string name="app_manager_uninstall">Desinstalar</string>
     <string name="app_manager_bipartition">Dual apps</string>
@@ -2221,7 +2221,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="booster_suc">Otimizado com sucesso</string>
     <string name="auto_booster_suc">Otimizado com sucesso</string>
     <string name="auto_back_booster">Parar otimização</string>
-    <string name="support_game_booster_tips">Otimizar velocidade &amp; melhorar a experiência em jogos</string>
+    <string name="support_game_booster_tips">Otimizar velocidade e melhorar a experiência em jogos</string>
     <string name="setting">Configuraçõies</string>
     <string name="loading">Aguarde…</string>
     <string name="auto_import_games">Coloque todos os seus jogos em um só lugar</string>

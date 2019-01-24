@@ -246,7 +246,7 @@
     <string name="tax_threshold">Limite de isenção</string>
     <string name="tax_title_primary" />
     <string name="tax_title_secondary" />
-    <string name="tax_total_insurance_provident_fund">Fundo de seguro &amp; habitação</string>
+    <string name="tax_total_insurance_provident_fund">Fundo de seguro e habitação</string>
     <string name="tax_unemployment">Desemprego</string>
     <string name="tax_update_time_format">Dados fornecidos por HeXun (%s)</string>
     <string name="times" />

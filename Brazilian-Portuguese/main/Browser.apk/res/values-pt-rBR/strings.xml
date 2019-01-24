@@ -47,7 +47,7 @@
     <string name="action_menu_text_exit">Sair</string>
     <string name="action_menu_text_find_in_page">Localizar na página</string>
     <string name="action_menu_text_fullscreen">Tela cheia</string>
-    <string name="action_menu_text_history">Favoritos &amp; Histórico</string>
+    <string name="action_menu_text_history">Favoritos e histórico</string>
     <string name="action_menu_text_nightmode">Modo noturno</string>
     <string name="action_menu_text_nightmode_off">Modo noturno</string>
     <string name="action_menu_text_nightmode_on">Modo noturno</string>
@@ -309,7 +309,7 @@ Páginas visitadas não aparecerão no histórico."</string>
     <string name="firstUsingSearchEngineTips">Alterar motor de busca?</string>
     <string name="fling_on_border_gesture_hint">Você pode escolher a função do gesto nas Configurações</string>
     <string name="force_quick_search_title">Pesquisar</string>
-    <string name="force_touch_bookmark_history_title">Favoritos &amp; histórico</string>
+    <string name="force_touch_bookmark_history_title">Favoritos e histórico</string>
     <string name="force_touch_infoflow_title">Notícias</string>
     <string name="forward_description">Avançar</string>
     <string name="geolocation_permissions_prompt_dont_share">Rejeitar</string>
@@ -517,7 +517,7 @@ Lembre-se de que os arquivos que você baixar e favoritos que adicionar serão s
     <string name="pref_force_userscalable">Forçar zoom</string>
     <string name="pref_force_userscalable_summary">Substituir solicitação do website para controle do zoom da página</string>
     <string name="pref_general_title">Geral</string>
-    <string name="pref_key_gesture_title">Botões &amp; gestos</string>
+    <string name="pref_key_gesture_title">Botões e gestos</string>
     <string name="pref_navscreen_layoutstate_title">Gerenciamento de várias telas</string>
     <string name="pref_nav_mode_summary_pad">Tablet</string>
     <string name="pref_nav_mode_summary_phone">Telefone</string>
@@ -551,7 +551,7 @@ Lembre-se de que os arquivos que você baixar e favoritos que adicionar serão s
     <string name="pref_privacy_enable_geolocation_summary">Permitir que o navegador solicite acesso à sua localização</string>
     <string name="pref_privacy_formdata_title">Dados de formulário</string>
     <string name="pref_privacy_location_title">Acesso à localização</string>
-    <string name="pref_privacy_security_title">Privacidade &amp; segurança</string>
+    <string name="pref_privacy_security_title">Privacidade e segurança</string>
     <string name="pref_save_bandwidth_mode_title">Reduzir o uso de dados</string>
     <string name="pref_security_accept_cookies">Aceitar cookies</string>
     <string name="pref_security_accept_cookies_summary">Permitir que sites salvem e leiam dados de cookies</string>
@@ -828,5 +828,5 @@ Lembre-se de que os arquivos que você baixar e favoritos que adicionar serão s
     <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_location_confirm_message">Desativar esta função pode afetar a usabilidade.</string>
     <string name="weather_publish_time">Atualizado às %1$s</string>
-    <string name="webpage_title">Favoritos &amp; Histórico</string>
+    <string name="webpage_title">Favoritos e histórico</string>
 </resources>

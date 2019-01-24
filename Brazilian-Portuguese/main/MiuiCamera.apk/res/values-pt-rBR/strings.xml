@@ -231,7 +231,7 @@
     <string name="pref_camera_exposuretime_entry_1000">1/1000s</string>
     <string name="face_age_info">Idade: %d</string>
     <string name="face_score_info">Pontuação: %.1f</string>
-    <string name="pref_camera_show_gender_age_config_title">Idade &amp; gênero</string>
+    <string name="pref_camera_show_gender_age_config_title">Idade e gênero</string>
     <string name="pref_priority_storage_title">Salvar no cartão SD</string>
     <string name="pref_camera_tilt_shift_entry_circle">Círculo</string>
     <string name="pref_camera_tilt_shift_entry_parallel">Paralelo</string>
@@ -251,7 +251,7 @@
     <string name="pref_qc_focus_position_title">F</string>
     <string name="pref_front_mirror_entry_on">Ligado</string>
     <string name="pref_front_mirror_entry_off">Desligado</string>
-    <string name="pref_camera_long_pressing_shutter_title">Pressione &amp; segure o botão de disparo para bloquear AE/AF/AWB</string>
+    <string name="pref_camera_long_pressing_shutter_title">Pressione e segure o botão de disparo para bloquear AE/AF/AWB</string>
     <string name="pref_camera_long_press_shutter_feature_title">Segurar botão do Disparador</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Focar</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Disparo contínuo</string>
@@ -367,7 +367,7 @@ e então criar uma foto com o mínimo de ruído possível."</string>
     <string name="install_confirmed">Instalar</string>
     <string name="confirm_install_scanner_title">Instalar o Digitalizador</string>
     <string name="confirm_install_scanner_message">O Digitalizador permite que você leia códigos QR, códigos de barra, e mais. Você não precisa de uma conexão com a internet para instalá-lo.</string>
-    <string name="pref_camera_focus_shoot_title">Focar &amp; capturar</string>
+    <string name="pref_camera_focus_shoot_title">Focar e capturar</string>
     <string name="pref_camera_focus_shoot_summary">Toque para focalizar, toque novamente para tirar uma foto.</string>
     <string name="pref_retain_camera_mode_title">Salvar modo anterior</string>
     <string name="pref_retain_camera_mode_summary">Alternar câmera para o modo usado anteriormente ao abrir o app.</string>
@@ -498,11 +498,11 @@ no Modo Retrato"</string>
     <string name="face_beauty_intelligent_level_1">Baixo</string>
     <string name="face_beauty_intelligent_level_2">Médio</string>
     <string name="face_beauty_intelligent_level_3">Alto</string>
-    <string name="pref_camera_show_gender_age_title">Idade &amp; gênero</string>
+    <string name="pref_camera_show_gender_age_title">Idade e gênero</string>
     <string name="pref_camera_show_gender_age_entry_off">Desligado</string>
     <string name="pref_camera_show_gender_age_entry_on">Mostrar idade e gênero com o Beautiful ligado</string>
     <string name="pref_camera_show_gender_age_entry_alias">Mostrar idade com o modo Beautiful ligado</string>
-    <string name="pref_camera_show_gender_age_label_on">Idade &amp; gênero</string>
+    <string name="pref_camera_show_gender_age_label_on">Idade e gênero</string>
     <string name="pref_camera_show_gender_age_label_alias">Idade</string>
     <string name="face_beauty_age_alias_male_0_7">Homem 0-7</string>
     <string name="face_beauty_age_alias_male_8_17">Homem 8-17</string>

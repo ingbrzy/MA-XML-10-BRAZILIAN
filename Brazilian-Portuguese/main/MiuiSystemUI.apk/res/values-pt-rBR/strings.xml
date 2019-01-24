@@ -746,7 +746,7 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
     <string name="hdcp_checking_dialog_title">Config. a verificação HDCP</string>
     <string name="hdcp_checking_title">Verificação HDCP</string>
     <string name="headset">Headset</string>
-    <string name="help_feedback_label">Ajuda &amp; Feedback</string>
+    <string name="help_feedback_label">Ajuda e feedback</string>
     <string name="hidden_notifications_cancel">Não, obrigado</string>
     <string name="hidden_notifications_setup">Configurar</string>
     <string name="hidden_notifications_text">Veja-as antes de desbloquear</string>
@@ -1660,7 +1660,7 @@ Deslize para baixo para bloquear"</string>
     <string name="switch_system_user">Abrir Primeiro Espaço</string>
     <string name="system_ui_tuner">Configurador da Interf. do sistema</string>
     <string name="task_access_locked_app_msg">Bloqueio de apps ativado</string>
-    <string name="tether_settings_title_all">Vínculo &amp; hotspot portátil</string>
+    <string name="tether_settings_title_all">Vínculo e hotspot portátil</string>
     <string name="tether_settings_title_bluetooth">Tethering Bluetooth</string>
     <string name="tether_settings_title_usb">Tethering USB</string>
     <string name="tether_settings_title_usb_bluetooth">Tethering</string>

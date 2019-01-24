@@ -157,7 +157,7 @@ Alterá-los agora?"</string>
     <string name="account_waiting_for_folders_msg">Carregando pastas…</string>
     <string name="activity_folder_selection">Escolher pasta</string>
     <string name="activity_mailbox_selection">Escolher conta</string>
-    <string name="ad_merge">Anúncios &amp; Notificações</string>
+    <string name="ad_merge">Anúncios e notificações</string>
     <string name="add_account">Adicionar conta</string>
     <string name="add_account_keywords">Adicionar conta;Adicionar conta de e-mail</string>
     <string name="add_attachment">Adicionar anexo</string>
@@ -506,7 +506,7 @@ Alterá-los agora?"</string>
     <string name="login_failed_ticker">Falha no login de %s.</string>
     <string name="login_failed_title">Não é possível fazer o login</string>
     <string name="login_support_tip_text">Suporta a maioria de e-mails populares</string>
-    <string name="long_press_to_select_tip">Toque &amp; segure para selecionar uma mensagem, toque em outras para selecionar mais.</string>
+    <string name="long_press_to_select_tip">Toque e segure para selecionar uma mensagem, toque em outras para selecionar mais.</string>
     <string name="mail">E-mail</string>
     <string name="mail_body_turncated">O e-mail é muito grande para ser carregado, acesse-o através de um PC para ver o conteúdo completo</string>
     <string name="mail_description_content">O E-mail é um cliente de e-mails que pode gerenciar várias contas, enviar e receber mensagens e sincronizar suas informações de agenda e contatos. Certifique-se de que não precisará destes recursos antes de desinstalar o app. Suas informações de conta Exchange também serão excluídas.</string>
@@ -839,7 +839,7 @@ para receber lembretes sobre pagamentos e viagens"</string>
     <string name="recognize_ticket_air_state_stopover">Escala</string>
     <string name="recognize_ticket_air_state_transfer">Transferência</string>
     <string name="recognize_ticket_air_user_name">Passageiro: %1$s</string>
-    <string name="recognize_ticket_title">Passagens de avião &amp; trem</string>
+    <string name="recognize_ticket_title">Passagens de avião e trem</string>
     <string name="recognize_ticket_train_alter">Alterado</string>
     <string name="recognize_ticket_train_depart_date">Partida às %3$s:%4$s em %2$s/%1$s</string>
     <string name="recognize_ticket_train_notification_content">Boa viagem!</string>

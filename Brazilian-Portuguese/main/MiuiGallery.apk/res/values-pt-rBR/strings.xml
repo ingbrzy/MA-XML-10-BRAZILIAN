@@ -471,7 +471,7 @@
 Tire mais fotos de seus amigos!"</string>
     <string name="face_album_empty_syncing">Sincronizando dados, volte mais tarde</string>
     <string name="face_album_empty_syncing_when_connect_wifi">Conecte-se a uma rede para sincronizar as informações</string>
-    <string name="face_album_long_tap_tip">Para selecionar múltiplas pessoas ou alterar configurações de grupo, pressione &amp; segure uma imagem de perfil</string>
+    <string name="face_album_long_tap_tip">Para selecionar múltiplas pessoas ou alterar configurações de grupo, pressione e segure uma imagem de perfil</string>
     <string name="face_album_new_name_hint">Novo nome</string>
     <string name="face_album_not_named">Sem nome</string>
     <string name="face_album_rename_hint">Inserir nome</string>
@@ -578,7 +578,7 @@ estão disponíveis"</string>
     <string name="home_menu_print">Imprimir fotos</string>
     <string name="home_page_empty_action">Tirar uma foto</string>
     <string name="home_page_label">Fotos</string>
-    <string name="how_to_set_relation">Pressione &amp; segure em um álbum para criar um grupo</string>
+    <string name="how_to_set_relation">Pressione e segure em um álbum para criar um grupo</string>
     <string name="hybrid_check_network">Configurações de rede</string>
     <string name="hybrid_data_error">Ocorreu um erro</string>
     <string name="hybrid_locating_fail">Não foi possível obter sua localização</string>
@@ -649,10 +649,10 @@ estão disponíveis"</string>
     <string name="loading_video_fail_syncing">Aguarde até os metadados serem baixados e tente novamente</string>
     <string name="loading_video_thumbnail">Fazendo o download da capa do vídeo…</string>
     <string name="login_and_enable_service">Fazer login com a Conta Mi</string>
-    <string name="long_press_to_refocus">Pressione &amp; segure para refocalizar</string>
+    <string name="long_press_to_refocus">Pressione e segure para refocalizar</string>
     <string name="main_discard_confirm_message">Você tem alterações não salvas</string>
     <string name="main_discard_negative_btn">Descartar</string>
-    <string name="main_discard_positive_btn">Salvar &amp; Sair</string>
+    <string name="main_discard_positive_btn">Salvar e Sair</string>
     <string name="main_save_error_msg">Não foi possível salvar as alterações devido a um erro</string>
     <string name="mark_myself_default_name">Eu</string>
     <string name="mark_myself_suggestion_load_more">Este não sou eu</string>

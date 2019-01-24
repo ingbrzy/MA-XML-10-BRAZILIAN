@@ -43,7 +43,7 @@
     <string name="app_category_games">Jogos</string>
     <string name="app_category_health">Saúde</string>
     <string name="app_category_lifestyle">Estilo de vida</string>
-    <string name="app_category_music_movie">TV &amp; Música</string>
+    <string name="app_category_music_movie">TV e Música</string>
     <string name="app_category_news">Notícias</string>
     <string name="app_category_photos">Fotografia</string>
     <string name="app_category_productivity">Produtividade</string>
@@ -138,7 +138,7 @@
     <string name="free_style_edit_bar_select_app">Escolher app</string>
     <string name="free_style_edit_bottom_empty_tip">Toque no retângulo para editar</string>
     <string name="free_style_edit_drawer">Gaveta</string>
-    <string name="free_style_edit_move_tip">Pressione &amp; segure para mover um item</string>
+    <string name="free_style_edit_move_tip">Pressione e segure para mover um item</string>
     <string name="free_style_edit_tab_free_component">Objetos</string>
     <string name="free_style_edit_tab_shortcut">Atalhos</string>
     <string name="free_style_edit_tab_widget">Widgets</string>
@@ -184,7 +184,7 @@
     <string name="group_shortcuts">Atalhos</string>
     <string name="guide_install_app_msg">Este app não está instalado em seu telefone. Procurar o app e instalá-lo agora?</string>
     <string name="guide_install_app_title">Procurar e instalar o app?</string>
-    <string name="guide_tips_editing_mode">Pressione &amp; segure para pegar um widget</string>
+    <string name="guide_tips_editing_mode">Pressione e segure para pegar um widget</string>
     <string name="home_screen">Tela inicial</string>
     <string name="icon_reorganize_channel">Organizar ícones</string>
     <string name="image_too_small_message">A imagem original não é grande o suficiente.</string>
@@ -194,7 +194,7 @@
     <string name="is_system_wallpaper_message">Não é possível excluir recursos do sistema</string>
     <string name="launcher_auto_fill_empty_title">Preencher espaços vazios</string>
     <string name="launcher_not_exist">Ocorreu um erro, volte para a Tela inicial e tente novamente.</string>
-    <string name="launcher_title">Tela inicial &amp; Recentes</string>
+    <string name="launcher_title">Tela inicial e Recentes</string>
     <string name="like">Adicionar aos favoritos</string>
     <string name="liked">Adicionado aos favoritos</string>
     <string name="loading_desktop">Aguarde…</string>

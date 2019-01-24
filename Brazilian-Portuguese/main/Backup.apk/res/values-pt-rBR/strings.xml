@@ -133,7 +133,7 @@ Atualização incremental: %2$s"</string>
     <string name="restore_failed">Não foi possível restaurar</string>
     <string name="local_select_sysdata">Sistema</string>
     <string name="local_select_userapp">Apps</string>
-    <string name="local_select_account_contact">Contas &amp; contatos</string>
+    <string name="local_select_account_contact">Contas e contatos</string>
     <string name="local_select_files">Cartão SD</string>
     <string name="local_select_image">Imagens</string>
     <string name="local_select_audio">Arquivos de áudio</string>

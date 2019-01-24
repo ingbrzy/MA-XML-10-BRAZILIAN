@@ -9,8 +9,8 @@
         <item quantity="one">Abrindo apps recentes, %d app disponível. Deslize para cima para removê-lo, deslize para baixo para bloqueá-lo.</item>
     </plurals>
     <plurals name="block_record_notification_more_text">
-        <item quantity="other">Ocultando notificações de %1$s &amp; %2$d apps.</item>
-        <item quantity="one">Ocultando notificações de %1$s &amp; %2$d app.</item>
+        <item quantity="other">Ocultando notificações de %1$s e %2$d apps.</item>
+        <item quantity="one">Ocultando notificações de %1$s e %2$d app.</item>
     </plurals>
     <plurals name="disable_notification_confirm_title">
         <item quantity="other">Ocultar as notificações destes %d apps?</item>

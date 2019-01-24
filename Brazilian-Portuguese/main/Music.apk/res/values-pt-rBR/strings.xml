@@ -27,7 +27,7 @@
     <string name="action_item_download">Download</string>
     <string name="action_item_favorite">Favorito</string>
     <string name="action_item_hide">Ocultar</string>
-    <string name="action_item_hifi">Fones de ouvido &amp; efeitos de áudio</string>
+    <string name="action_item_hifi">Fones de ouvido e efeitos de áudio</string>
     <string name="action_item_play_all">Misturar tudo</string>
     <string name="action_item_play_next">Reproduzir mais tarde</string>
     <string name="action_item_remove">Remover</string>
@@ -298,9 +298,9 @@
     <string name="fragment_title_artist_album">Álbuns</string>
     <string name="handle_later">Agora não</string>
     <string name="hd_quality_audio">Áudio em qualidade HD</string>
-    <string name="headset_and_audio_effect_category">Fones de ouvido &amp; efeitos de áudio</string>
-    <string name="headset_and_audio_effect_summary">Fones de ouvido &amp; equalizador</string>
-    <string name="headset_and_audio_effect_title">Fones de ouvido &amp; efeitos de áudio</string>
+    <string name="headset_and_audio_effect_category">Fones de ouvido e efeitos de áudio</string>
+    <string name="headset_and_audio_effect_summary">Fones de ouvido e equalizador</string>
+    <string name="headset_and_audio_effect_title">Fones de ouvido e efeitos de áudio</string>
     <string name="hide_album">Ocultar capa do álbum</string>
     <string name="hide_lyric">Ocultar letra</string>
     <string name="higher_quality_music">Músicas com alta qualidade</string>
@@ -354,7 +354,7 @@
     <string name="local_page_artist_more">Mais músicas por %s</string>
     <string name="local_page_playlist">Playlists</string>
     <string name="local_page_song_download_history">Downloads</string>
-    <string name="long_press_to_select_lyric">Pressione &amp; segure para selecionar um arquivo local de letras</string>
+    <string name="long_press_to_select_lyric">Pressione e segure para selecionar um arquivo local de letras</string>
     <string name="lrc_search_failed">Não foi possível encontrar a letra da música</string>
     <string name="lrc_searching">Procurando…</string>
     <string name="lyric_is_empty">Nenhuma letra de música disponível</string>
@@ -396,7 +396,7 @@
     <string name="modify_song_info_success">Informação da música atualizada</string>
     <string name="more">Mais</string>
     <string name="more_add_song_list">Adicionar músicas na fila</string>
-    <string name="more_milink_and_bluetooth">Mi Link &amp; Bluetooth</string>
+    <string name="more_milink_and_bluetooth">Mi Link e Bluetooth</string>
     <string name="more_settings">Configurações avançadas</string>
     <string name="more_settings_summary">Timer de desativação, filtro de arquivos e mais</string>
     <string name="more_share">Compartilhar</string>

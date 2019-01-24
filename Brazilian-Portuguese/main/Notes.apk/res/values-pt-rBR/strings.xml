@@ -94,7 +94,7 @@
     <string name="hint_foler_name">Nome</string>
     <string name="info_note_enter_desktop">Adicionada à Tela inicial</string>
     <string name="loading_text">Aguarde…</string>
-    <string name="login_sync">Fazer login &amp; sincronizar</string>
+    <string name="login_sync">Fazer login e sincronizar</string>
     <string name="menu_add_audio_description">Adicionar nota de voz</string>
     <string name="menu_add_description">Adicionar anotação</string>
     <string name="menu_add_folder">Adicionar à pasta</string>

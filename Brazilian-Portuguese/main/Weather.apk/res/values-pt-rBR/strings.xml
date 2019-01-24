@@ -171,7 +171,7 @@ Toque na tela para adicionar uma cidade manualmente"</string>
     <string name="precipitation_degree_two">Leve</string>
     <string name="pressure_connect">%1$s mb</string>
     <string name="privacy_grant_failed">Não foi possível conceder a autorização. Aguarde alguns minutos e tente novamente.</string>
-    <string name="privacy_grant_or_revoke_settings">Conceder &amp; revogar autorização</string>
+    <string name="privacy_grant_or_revoke_settings">Conceder e revogar autorização</string>
     <string name="privacy_grant_success">Autorização concedida com sucesso</string>
     <string name="privacy_policy">Política de Privacidade</string>
     <string name="privacy_revoke_failed">Não foi possível revogar a autorização. Aguarde alguns minutos e tente novamente.</string>

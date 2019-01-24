@@ -338,7 +338,7 @@
     <string name="mx2_type_description">[%s]</string>
     <string name="mx_activate_allow_notice">Um SMS pode ser requerido para ativar o serviço de voz e texto gratuitos. Sua operadora irá cobrar por esta mensagem. Além disso, quando este recurso estiver ativado, uma pequena quantidade de dados móveis será necessária para verificar se o outro usuário está online. Aceitar?</string>
     <string name="mx_activate_dlg_title">Ativar o Mi Message</string>
-    <string name="mx_activate_dlg_title_ex">Ativar Mi Message &amp; Voice</string>
+    <string name="mx_activate_dlg_title_ex">Ativar Mi Message e Voice</string>
     <string name="mx_activate_error_malformed_info">Você precisa reativar o Mi Message.</string>
     <string name="mx_activate_error_server">Não foi possível ativar</string>
     <string name="mx_activate_error_sim_change">Parece que o cartão SIM foi alterado. Você precisará reativar o Mi Message.</string>
@@ -370,7 +370,7 @@
     <string name="mx_dspt_provision">O Mi Message permite que você envie mensagens para outros usuários MIUI pela internet sem a cobrança de tarifas da operadora. Um SMS pode ser requerido para reativar o Mi Message. Sua operadora irá cobrar por esta mensagem. Além disso, o serviço precisa de acesso aos dados móveis para verificar quando um usuário está ou não online. Aceitar?</string>
     <string name="mx_dspt_provision_ex2">Política de Privacidade</string>
     <string name="mx_enable">Mi Message</string>
-    <string name="mx_enable_ex">Mi Message &amp; Voice</string>
+    <string name="mx_enable_ex">Mi Message e Voice</string>
     <string name="mx_enable_popup_msg">O Mi Message permite que você envie mensagens para outros dispositivos com MIUI sem a cobrança de tarifas.</string>
     <string name="mx_filter_message_from_stranger">Bloquear Mi Messages de números desconhecidos</string>
     <string name="mx_filter_message_from_stranger_dialog_desc">Você ainda receberá mensagens regulares de números desconhecidos. Você pode ativar ou desativar este recurso a qualquer momento em Mensagens > Configurações.</string>
