@@ -44,7 +44,7 @@
     <string name="accessibility_action_divider_top_full">Superior em tela cheia</string>
     <string name="accessibility_airplane_mode">Modo avião.</string>
     <string name="accessibility_ambient_display_charging">Carregando...</string>
-    <string name="accessibility_aspect_button">Modo Tela cheia</string>
+    <string name="accessibility_aspect_button">Modo tela cheia</string>
     <string name="accessibility_assistant">Menu de atalhos</string>
     <string name="accessibility_back">Voltar</string>
     <string name="accessibility_battery_details">Abrir detalhes da bateria</string>
@@ -299,6 +299,8 @@
     <string name="app_process_limit_title">Limite do proc. 2º plano</string>
     <string name="as_important">Importante</string>
     <string name="as_unimportant">Não importante</string>
+    <string name="aspect_message">Esta aplicação vai ser executada novamente em modo tela cheia. Se encontrar algum problema, pode desativar o modo tecla cheia para esta aplicação em Configurações > Tela infinita > Modo tela cheia</string>
+    <string name="aspect_title">Modo tela cheia</string>
     <string name="audio_effect_custom">Configurar</string>
     <string name="audio_effect_info">Otimizar áudio</string>
     <string name="audio_effect_settings">Escolher tipo de fones de ouvido</string>
