@@ -1611,7 +1611,7 @@ Como o uso de dados é calculado pelo seu smartphone, e sua operadora pode enten
     <string name="date_time_set_timezone">Selecionar fuso horário</string>
     <string name="date_time_set_timezone_in_region">Fusos horários nesta região: %1$s</string>
     <string name="date_time_set_timezone_title">Fuso horário</string>
-    <string name="date_time_settings">Data &amp; hora</string>
+    <string name="date_time_settings">Data e hora</string>
     <string name="day_of_week">Dia da semana</string>
     <string name="debug_app">Selecionar app de depuração</string>
     <string name="debug_app_not_set">Nenhum conjunto de apps de depuração</string>
@@ -1661,7 +1661,7 @@ Como o uso de dados é calculado pelo seu smartphone, e sua operadora pode enten
     <string name="delete_or_keep_legacy_passwords_confirm_msg">Excluir esta impressão digital?</string>
     <string name="delete_rule">Remover regras</string>
     <string name="delete_saved_network">Excluir redes salvas</string>
-    <string name="delete_sound_effect">Som de Exclusão</string>
+    <string name="delete_sound_effect">Som de exclusão</string>
     <string name="deleted_apps">Apps excluídos</string>
     <string name="deletion_helper_automatic_title">Modo automático</string>
     <string name="deletion_helper_manual_title">Modo manual</string>
@@ -1837,10 +1837,10 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
     <string name="dndm_alarm_content">Sons</string>
     <string name="dndm_alarm_content_all">Permitir tudo</string>
     <string name="dndm_alarm_content_call">Chamadas</string>
-    <string name="dndm_alarm_content_call_sms">Chamadas &amp; mensagens</string>
+    <string name="dndm_alarm_content_call_sms">Chamadas e mensagens</string>
     <string name="dndm_alarm_content_event">Notificações</string>
-    <string name="dndm_alarm_content_event_and_call">Notificações &amp; chamadas</string>
-    <string name="dndm_alarm_content_event_and_sms">Notificações &amp; mensagens</string>
+    <string name="dndm_alarm_content_event_and_call">Notificações e chamadas</string>
+    <string name="dndm_alarm_content_event_and_sms">Notificações e mensagens</string>
     <string name="dndm_alarm_content_not_all">Silenciar tudo</string>
     <string name="dndm_alarm_content_sms">Mensagens</string>
     <string name="dndm_auto_button_title">Repetir horário do Não perturbe</string>
@@ -2417,7 +2417,7 @@ Quando você ativa o backup automático, os dados do dispositivo e de apps são 
     <string name="header_category_wireless_networks">Sem fio e redes</string>
     <string name="header_data_and_synchronization">Dados e sincronização</string>
     <string name="heavy_weight_stop_description">Não é possível interromper este app com segurança. Se ele for interrompido, alguns de seus trabalhos atuais podem ser perdidos.</string>
-    <string name="help_feedback_label">Ajuda &amp; Feedback</string>
+    <string name="help_feedback_label">Ajuda e feedback</string>
     <string name="help_label">Ajuda e feedback</string>
     <string name="hide">Ocultar</string>
     <string name="hide_extra_apps">Mostrar uso de apps</string>
@@ -2463,7 +2463,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="incoming_call_breathing_light_color_title">Cor do LED para chamadas</string>
     <string name="incoming_call_breathing_light_freq_title">Frequência de pulsação em chamadas</string>
     <string name="incoming_call_volume_title">Toque</string>
-    <string name="infinity_display_settings">Tela Infinita</string>
+    <string name="infinity_display_settings">Tela infinita</string>
     <string name="infinity_display_slogan">Inovação em tela cheia</string>
     <string name="infinity_display_title">Tela Infinita</string>
     <string name="information_dialog_button_text">Entendido</string>
@@ -2660,7 +2660,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="launch_voice_assistant">Iniciar Assistente de voz</string>
     <string name="launch_wifi_text">Ver detalhes</string>
     <string name="launcher_icon">Ícones</string>
-    <string name="launcher_title">Tela inicial &amp; Recentes</string>
+    <string name="launcher_title">Tela inicial e recentes</string>
     <string name="launching_cit">Iniciando CIT</string>
     <string name="launching_pho">Executando as informações do telefone…</string>
     <string name="launching_rep">Enviando relatório…</string>
@@ -2747,7 +2747,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="location_mode_sensors_only_title">Apenas no dispositivo</string>
     <string name="location_neighborhood_level">Permitir que apps usem redes móveis e Wi-Fi para estimar a sua localização</string>
     <string name="location_neighborhood_level_wifi">Localização determinada por Wi-Fi</string>
-    <string name="location_network_based">Wi-Fi &amp; rede móvel</string>
+    <string name="location_network_based">Wi-Fi e rede móvel</string>
     <string name="location_no_recent_apps">Nenhum app solicitou a localização recentemente</string>
     <string name="location_off_summary">Desativado</string>
     <string name="location_on_summary">Ativada</string>
@@ -2802,7 +2802,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="lock_screen_unlock_show">Pular Tela de bloqueio</string>
     <string name="lock_screen_unlock_show_summary">Abrir Tela inicial ou inserir a senha diretamente</string>
     <string name="lock_secure_after_timeout_click_me_to_change_text">Toque para alterar</string>
-    <string name="lock_settings">Bloqueio de tela &amp; Senhas</string>
+    <string name="lock_settings">Bloqueio de tela e senhas</string>
     <string name="lock_settings_common_title">Configurações de bloqueio</string>
     <string name="lock_settings_picker_fingerprint_added_security_message">Para aumentar a segurança, defina um bloqueio de tela alternativo</string>
     <string name="lock_settings_picker_fingerprint_message">Escolha seu método de bloqueio de tela alternativo</string>
@@ -2820,7 +2820,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="lock_settings_profile_unification_title">Usar um bloqueio</string>
     <string name="lock_settings_profile_unified_summary">Igual ao bloqueio de tela do dispositivo</string>
     <string name="lock_settings_title">Segurança do dispositivo</string>
-    <string name="lock_settings_with_fingerprint">Bloqueio de tela &amp; Senhas</string>
+    <string name="lock_settings_with_fingerprint">Bloqueio de tela e senhas</string>
     <string name="lock_setup">A configuração foi concluída.</string>
     <string name="lock_sounds_enable_title">Sons de bloqueio de tela</string>
     <string name="lockdown_settings_summary">Exibir a opção do botão liga/desliga que desativa o Smart Lock, o desbloqueio com impressão digital e as notificações na tela de bloqueio</string>
@@ -3129,7 +3129,7 @@ Há outros usuários presentes neste dispositivo.
     <string name="miui_lab_ai_cloud_closed">O pré-carregamento de IA ainda não está disponível.</string>
     <string name="miui_lab_ai_preload_desc">O pré-carregamento de Ia aumenta a velocidade de carregamento dos apps</string>
     <string name="miui_lab_ai_preload_title">Pré-carregamento de IA</string>
-    <string name="miui_lab_drive_mode_desc">Use controles de voz &amp; ouça mensagens do WeChat</string>
+    <string name="miui_lab_drive_mode_desc">Use controles de voz e ouça mensagens do WeChat</string>
     <string name="miui_lab_drive_mode_title">Modo carro</string>
     <string name="miui_lab_feature_applied">Aplicado</string>
     <string name="miui_lab_feature_off">Desativado</string>
@@ -3302,7 +3302,7 @@ Selecione seu sistema operacional:"</string>
     <string name="music_headset_mode_settings">Botões do fone de ouvido</string>
     <string name="music_headset_mode_volume">Controlar nível de volume</string>
     <string name="music_headset_no_contected">Nenhum fone de ouvido detectado</string>
-    <string name="music_headset_settings">Fones de ouvido &amp; efeitos de áudio</string>
+    <string name="music_headset_settings">Fones de ouvido e efeitos de áudio</string>
     <string name="music_hifi_summary">Reduz o ruído e distorção e aumenta a qualidade do áudio</string>
     <string name="music_hifi_title">Áudio Hi-Fi</string>
     <string name="music_mi_effect_summary">Usar o Mi Sound Enhancer com alto-falantes</string>
@@ -3795,7 +3795,7 @@ Isso também permitira que o app ative ou desative o modo \"Não perturbe\" e al
     <string name="power_usage_list_summary">Uso da bateria desde a carga completa</string>
     <string name="power_usage_not_available">Dados de uso da bateria indisponíveis</string>
     <string name="power_usage_summary">O que está consumindo a bateria</string>
-    <string name="power_usage_summary_title">Bateria &amp; Desempenho</string>
+    <string name="power_usage_summary_title">Bateria e desempenho</string>
     <string name="power_wifi">Wi-Fi</string>
     <string name="pre_installed_application">Apps pré-instalados</string>
     <string name="pref_bg_network_title">Conexão em segundo plano</string>
@@ -3895,7 +3895,7 @@ Isso também permitira que o app ative ou desative o modo \"Não perturbe\" e al
     <string name="privacy_authorize_revoke_failed">Não foi possível revogar a autorização</string>
     <string name="privacy_authorize_revoke_success">Autorização revogada com sucesso</string>
     <string name="privacy_authorize_revoke_time">Revogar (%1$ds)</string>
-    <string name="privacy_authorize_revoke_title">Autorização &amp; revogação</string>
+    <string name="privacy_authorize_revoke_title">Autorização e revogação</string>
     <string name="privacy_authorize_revoking">Revogando autorização…</string>
     <string name="privacy_authorize_success">Autorização concedida com sucesso</string>
     <string name="privacy_authorize_title">Concedendo autorização</string>
@@ -3919,7 +3919,7 @@ Isso também permitira que o app ative ou desative o modo \"Não perturbe\" e al
     <string name="privacy_password">Senha de Proteção de Privacidade</string>
     <string name="privacy_password_add_account">Adicionar</string>
     <string name="privacy_password_add_account_info">Adicione uma Conta Mi para redefinir sua senha caso a esqueça</string>
-    <string name="privacy_password_add_account_setting">Conta &amp; privacidade</string>
+    <string name="privacy_password_add_account_setting">Conta e privacidade</string>
     <string name="privacy_password_bind_account">Adicionar Conta Mi</string>
     <string name="privacy_password_bind_account_immediate">Adicionar</string>
     <string name="privacy_password_confirm_SecondSpace_Password">Confirmar senha do Segundo Espaço</string>
@@ -3931,7 +3931,7 @@ Isso também permitira que o app ative ou desative o modo \"Não perturbe\" e al
     <string name="privacy_password_fingerprint_dialog_error_title">Não foi possível ler a impressão digital, tente novamente</string>
     <string name="privacy_password_fingerprint_dialog_message">Coloque seu dedo no sensor</string>
     <string name="privacy_password_fingerprint_dialog_title">Leia sua impressão digital</string>
-    <string name="privacy_password_login_and_add_account">Fazer login &amp; adicionar</string>
+    <string name="privacy_password_login_and_add_account">Fazer login e adicionar</string>
     <string name="privacy_password_never_remind">Não mostrar novamente</string>
     <string name="privacy_password_not_add_account">Agora não</string>
     <string name="privacy_password_not_login_account">Você não fez o login</string>
@@ -4042,7 +4042,7 @@ Isso também permitira que o app ative ou desative o modo \"Não perturbe\" e al
     <string name="radioInfo_service_off">Rádio desativado</string>
     <string name="radioInfo_service_out">Fora de serviço</string>
     <string name="radioInfo_unknown">Desconhecido</string>
-    <string name="radio_controls_summary">Gerenciar Wi-Fi, Bluetooth, Modo avião, Redes móveis &amp; VPNs</string>
+    <string name="radio_controls_summary">Gerenciar Wi-Fi, Bluetooth, Modo avião, Redes móveis e VPNs</string>
     <string name="radio_controls_title">Mais</string>
     <string name="radio_info_asdiv_switch_label">Status ASDiv:</string>
     <string name="radio_info_band_mode_label">Selecionar frequência de rádio</string>
@@ -4249,13 +4249,13 @@ Esta configuração afeta todos os usuários do telefone."</string>
     <string name="screen">Tela</string>
     <string name="screen_button">Botões virtuais</string>
     <string name="screen_button_tips">Deslize para baixo para ocultar os botões virtuais</string>
-    <string name="screen_color_and_optimize">Cores &amp; contraste</string>
+    <string name="screen_color_and_optimize">Cores e contraste</string>
     <string name="screen_color_and_optimize_disabled">Não é possível ajustar a temperatura da cor no Modo de leitura</string>
     <string name="screen_color_temperature">Cores</string>
-    <string name="screen_color_temperature_and_saturation">Cores &amp; saturação</string>
+    <string name="screen_color_temperature_and_saturation">Cores e saturação</string>
     <string name="screen_compatibility_label">Compatibilidade de tela</string>
     <string name="screen_compatibility_text">Talvez este app não seja desenvolvido para sua tela. É possível controlar o ajuste da tela aqui.</string>
-    <string name="screen_effect">Contraste &amp; cores</string>
+    <string name="screen_effect">Contraste e cores</string>
     <string name="screen_key_long_press">Pressionamento longo dos botões</string>
     <string name="screen_key_long_press_action">Ativar função</string>
     <string name="screen_key_long_press_timeout">Tempo de pressionamento longo</string>
@@ -4264,7 +4264,7 @@ Esta configuração afeta todos os usuários do telefone."</string>
     <string name="screen_key_press_action">Ativar função</string>
     <string name="screen_locking_sounds_title">Sons de bloqueio de tela</string>
     <string name="screen_max_aspect_ratio_desc">Permitir que apps selecionados funcionem em tela cheia</string>
-    <string name="screen_max_aspect_ratio_title">Modo Tela cheia</string>
+    <string name="screen_max_aspect_ratio_title">Modo tela cheia</string>
     <string name="screen_monochrome_mode_apps_loading">Aguarde…</string>
     <string name="screen_monochrome_mode_apps_title">Usar Modo monocromático</string>
     <string name="screen_monochrome_mode_global_summary">Usar Modo monocromático para todos os apps</string>
@@ -4406,7 +4406,7 @@ Para usar a fixação de tela:
     <string name="search_accessibility_captioning_title">Legendas</string>
     <string name="search_accessibility_display_daltonizer_preference_title">Correção de cor;Cor;Cores</string>
     <string name="search_accessibility_global_gesture_preference_title">Atalho de acessibilidade;Acessibilidade</string>
-    <string name="search_accessibility_long_press_timeout_preference_title">Atraso ao tocar &amp; segurar;Atraso ao tocar e segurar;Tocar e segurar;Atraso</string>
+    <string name="search_accessibility_long_press_timeout_preference_title">Atraso ao tocar e segurar;Atraso ao tocar e segurar;Tocar e segurar;Atraso</string>
     <string name="search_accessibility_screen_magnification_title">Gestos de ampliação;Ampliação</string>
     <string name="search_accessibility_settings">Acessibilidade</string>
     <string name="search_account_list">Outras contas;Conta;Contas</string>
@@ -4436,7 +4436,7 @@ Para usar a fixação de tela:
     <string name="search_cloud_restore_section_title">Restaurar da Mi Cloud;Mi Cloud;Backups na Mi Cloud</string>
     <string name="search_copyright_title">Direitos autorais</string>
     <string name="search_credentials_install">Instalar do armazenamento;Instalação direta;Instalar APK</string>
-    <string name="search_date_and_time_settings_title">Data &amp; hora;Data e hora;Data;Hora</string>
+    <string name="search_date_and_time_settings_title">Data e hora;Data e hora;Data;Hora</string>
     <string name="search_description">Pesquisar nas Configurações</string>
     <string name="search_development_settings_title">Opções do desenvolvedor;Assistente</string>
     <string name="search_device_name">Nome do dispositivo</string>
@@ -4466,13 +4466,13 @@ Para usar a fixação de tela:
     <string name="search_key_settings_title">Botões;Botões</string>
     <string name="search_lab_functions_title">Funções beta;Funções alpha</string>
     <string name="search_label">Configurações</string>
-    <string name="search_language_settings">Idioma &amp; entrada;Idioma;Idioma e entrada;Entrada;Teclado</string>
+    <string name="search_language_settings">Idioma e entrada;Idioma;Idioma e entrada;Entrada;Teclado</string>
     <string name="search_led_settings">LED;Led de notificações;Luz de LED</string>
     <string name="search_legal_information">Informações legais</string>
     <string name="search_local_auto_backup_section_title">Backups automáticos;Backup automático;Fazer backup automaticamente</string>
     <string name="search_local_backup_section_title">Backups locais</string>
     <string name="search_location_settings_title">Localização;Serviços de localização;GPS</string>
-    <string name="search_lock_settings">Bloqueio de tela &amp; senhas;Desbloqueio Bluetooth;senha;Desbloquear com disp. Bluetooth</string>
+    <string name="search_lock_settings">Bloqueio de tela e senhas;Desbloqueio Bluetooth;senha;Desbloquear com disp. Bluetooth</string>
     <string name="search_lock_sounds_enable_title">Sons de bloqueio de tela;Ativar sons de bloqueio de tela</string>
     <string name="search_manage_device_admin">Administradores do dispositivo;Admin;Administrador</string>
     <string name="search_manage_notification_access_title">Acesso a notificações;Notificações;Permissão de notificação</string>
@@ -4484,7 +4484,7 @@ Para usar a fixação de tela:
     <string name="search_music_equalizer">Equalizador</string>
     <string name="search_music_headset_calibrate">Atribuir botões;botões</string>
     <string name="search_music_headset_mode_settings">Botões do fone de ouvido;controle remoto</string>
-    <string name="search_music_headset_settings">Fones de ouvido &amp; efeitos de áudio;Fones de ouvido e efeitos de áudio;Fones de ouvido;Earphones;Efeitos de áudio</string>
+    <string name="search_music_headset_settings">Fones de ouvido e efeitos de áudio;Fones de ouvido e efeitos de áudio;Fones de ouvido;Earphones;Efeitos de áudio</string>
     <string name="search_music_mi_effect_title">Amplificador Mi Soud;melhorar som</string>
     <string name="search_networks_title">Redes móveis;Operadora;Operadora móvel</string>
     <string name="search_nfc_quick_toggle_title">NFC</string>
@@ -4503,17 +4503,17 @@ Para usar a fixação de tela:
     <string name="search_power_hide_mode_title">Gerenciar uso de bateria por apps;Uso de bateria por apps;Uso de bateria;Estatísticas da bateria</string>
     <string name="search_power_mode">Configurações de energia;Energia</string>
     <string name="search_power_optimize">Economia de bateria;Economizar bateria</string>
-    <string name="search_power_usage_summary_title">Bateria &amp; desempenho;Bateria e desempenho;Bateria;desempenho;Economia de bateria;Economizar bateria</string>
+    <string name="search_power_usage_summary_title">Bateria e desempenho;Bateria e desempenho;Bateria;desempenho;Economia de bateria;Economizar bateria</string>
     <string name="search_pref_edge_handgrip">Controles de borda</string>
     <string name="search_pref_volume_wake_title">Ligar tela com botões de volume;botões de volume</string>
     <string name="search_preferred_network_type_title">Tipo de rede preferencial;Rede preferencial;Tipo de rede</string>
     <string name="search_privacy_policy">Política de Privacidade</string>
-    <string name="search_privacy_settings">Fazer backup &amp; redefinir;Fazer backup e restaurar;Backup;Restaurar;Backup</string>
+    <string name="search_privacy_settings">Fazer backup e redefinir;Fazer backup e restaurar;Backup;Restaurar;Backup</string>
     <string name="search_radio_controls_title">Mais;Sem fio</string>
     <string name="search_results_title">Configurações</string>
-    <string name="search_ring_volume_option_title">Volumes;volume;Toques &amp; notificações;toque;toques;Alarme;Música</string>
+    <string name="search_ring_volume_option_title">Volumes;volume;Toques e notificações;toque;toques;Alarme;Música</string>
     <string name="search_ringtone_title">Toque do telefone;toque;toques</string>
-    <string name="search_screen_effect">Cores &amp; saturação;Cores &amp; contraste;Saturação de cores;contraste</string>
+    <string name="search_screen_effect">Cores e saturação;Cores e contraste;Saturação de cores;contraste</string>
     <string name="search_screen_key_long_press_timeout">Pressionamento longo dos botões;Pressionamento longo;Pressionamento;Tocar e segurar</string>
     <string name="search_screen_on_proximity_sensor_title">Prevenir discagens acidentais;bolso;discagem acidental;discagens acidentais</string>
     <string name="search_screen_paper_mode_title">Modo de leitura;modo de leitura;leitura;luz azul;luz amarela;modo noturno</string>
@@ -4534,7 +4534,7 @@ Para usar a fixação de tela:
     <string name="search_sms_received_sound_title">Mensagem recebida;Som de mensagem;mensagem recebida;toque de mensagem</string>
     <string name="search_sound_effects_enable_title">Sons de toque;Ativar sons de toque</string>
     <string name="search_sound_settings">Som;Volumes;vibração;Reduzir ruído;Redução de ruídos</string>
-    <string name="search_status_bar_settings">Notificações &amp; barra de status;Notificações;Barra de status</string>
+    <string name="search_status_bar_settings">Notificações e barra de status;Notificações;Barra de status</string>
     <string name="search_status_bar_settings_custom_carrier">Editar nome da operadora;Nome da operadora</string>
     <string name="search_status_bar_settings_expandable_under_keyguard">Mostrar na Tela de bloqueio, mostrar na tela de bloqueio</string>
     <string name="search_status_bar_settings_manage_notification">Notificações do app;Notificações</string>
@@ -4542,7 +4542,7 @@ Para usar a fixação de tela:
     <string name="search_status_bar_settings_show_network_speed">Mostrar velocidade da conexão;Velocidade da conexão</string>
     <string name="search_status_bar_settings_show_notification_icon">Mostrar ícones de notificação;Ícones de notificação;Mostrar ícones de notificação</string>
     <string name="search_status_bar_settings_show_screenshot_notification">Notificações de captura de tela;Notificações de captura de tela;Captura de tela</string>
-    <string name="search_status_bar_settings_style">Layout de notificações &amp; atalhos;atalhos;Layout de atalhos;Atalhos separados;Combinado;Separado;Combinar</string>
+    <string name="search_status_bar_settings_style">Layout de notificações e atalhos;atalhos;Layout de atalhos;Atalhos separados;Combinado;Separado;Combinar</string>
     <string name="search_status_bar_settings_toggle_collapse_after_clicked">Recolher após toque;Recolher;Ocultar</string>
     <string name="search_status_bar_settings_toggle_position">Posição dos atalhos;Toggles;Atalhos;Alterar atalhos</string>
     <string name="search_storage_settings">Armazenamento;Memória</string>
@@ -4579,7 +4579,7 @@ Para usar a fixação de tela:
     <string name="search_wifi_settings_title">Wifi;Wi-Fi;Configurações avançadas;WLAN;Redes sem fio;Sem fio</string>
     <string name="search_wifi_tether_checkbox">Hotspot portátil;Hotspot;Portátil</string>
     <string name="search_wifi_tether_configure_ap_text">Configurar hotspot portátil;Configurar hotspot;Adicionar hotspot;Configurar hotspot</string>
-    <string name="search_wifi_tether_settings_title">Vínculo &amp; hotspot portátil;Tether;compartilhar internet;Hotspot WLAN;Hotspot Wifi;Hotspot Wi-Fi</string>
+    <string name="search_wifi_tether_settings_title">Vínculo e hotspot portátil;Tether;compartilhar internet;Hotspot WLAN;Hotspot Wifi;Hotspot Wi-Fi</string>
     <string name="search_wifi_wapi_cert_install">Instalar certificado WAPI;Certificados WAPI;WAPI</string>
     <string name="search_wifi_wapi_cert_uninstall">Desinstalar certificado WAPI:Certificados WAPI;WAPI</string>
     <string name="search_wps_connect_title">Botão Push WPS;Conexão WPS;WPS</string>
@@ -4841,7 +4841,7 @@ PIN possivelmente incorreto."</string>
     <string name="sim_lock_settings_summary_on">Bloqueado</string>
     <string name="sim_lock_settings_title">Bloqueio do cartão SIM</string>
     <string name="sim_management_title">Redes móveis</string>
-    <string name="sim_management_title_singlesim">Cartão SIM &amp; redes móveis</string>
+    <string name="sim_management_title_singlesim">Cartão SIM e redes móveis</string>
     <string name="sim_multi_sims_summary">Escolha o SIM preferencial para dados móveis.</string>
     <string name="sim_multi_sims_title">Vários SIMs encontrados</string>
     <string name="sim_name_hint">Inserir nome do SIM</string>
@@ -4948,7 +4948,7 @@ PIN possivelmente incorreto."</string>
     <string name="sos_privacy_dialog_message">"Leia e aceite nossa %s antes de usar este recurso.
 Este recurso precisa de permissões para acessar sua localização, usar as redes móveis e ler os seus contatos. Aceitar?"</string>
     <string name="sos_privacy_dialog_title">Termos e Condições</string>
-    <string name="sound_category_call_ringtone_vibrate_title">Toque &amp; vibração</string>
+    <string name="sound_category_call_ringtone_vibrate_title">Toque e vibração</string>
     <string name="sound_category_sound_title">Geral</string>
     <string name="sound_category_system_title">Sistema</string>
     <string name="sound_dashboard_summary">Volume, vibração, Não perturbe</string>
@@ -4960,7 +4960,7 @@ Este recurso precisa de permissões para acessar sua localização, usar as rede
     <string name="sound_settings_summary_vibrate">Campainha configurada para vibrar</string>
     <string name="sound_stereo_mode_summary">Disponível apenas ao reproduzir sons pelo altofalante</string>
     <string name="sound_stereo_mode_title">Som estéreo</string>
-    <string name="sound_vibrate_settings">Sons &amp; Vibração</string>
+    <string name="sound_vibrate_settings">Sons e vibração</string>
     <string name="sound_work_settings">Sons do perfil de trabalho</string>
     <string name="special_access">Acesso especial a apps</string>
     <string name="speed_label_fast">Rápida</string>
@@ -5003,7 +5003,7 @@ Uma credencial confiável instalada no dispositivo permite isso."</string>
     <string name="status_bar_screen_key_home">Botão Início</string>
     <string name="status_bar_screen_key_menu">Botão Menu</string>
     <string name="status_bar_screen_key_recent_apps">Botão Apps recentes</string>
-    <string name="status_bar_settings">Notificações &amp; barra de status</string>
+    <string name="status_bar_settings">Notificações e barra de status</string>
     <string name="status_bar_settings_advanced">Configurações adicionais</string>
     <string name="status_bar_settings_all_app_display_loading">Aguarde…</string>
     <string name="status_bar_settings_app_notification_preferences">Configurações do app</string>
@@ -5014,7 +5014,7 @@ Uma credencial confiável instalada no dispositivo permite isso."</string>
     <string name="status_bar_settings_enable_notification">Mostrar notificações</string>
     <string name="status_bar_settings_expandable_under_keyguard">Mostrar na Tela de bloqueio</string>
     <string name="status_bar_settings_function_description">Sobre este recurso</string>
-    <string name="status_bar_settings_long_click_sort">Pressione &amp; segure para pegar um atalho</string>
+    <string name="status_bar_settings_long_click_sort">Pressione e segure para pegar um atalho</string>
     <string name="status_bar_settings_manage_notification">Notificações de apps</string>
     <string name="status_bar_settings_no_carrier">Sem nome</string>
     <string name="status_bar_settings_notification_bar">Área de notificações</string>
@@ -5040,7 +5040,7 @@ Uma credencial confiável instalada no dispositivo permite isso."</string>
     <string name="status_bar_settings_show_notification_icon">Mostrar ícones de notificação</string>
     <string name="status_bar_settings_show_wifi_name">Mostrar Wi-Fi</string>
     <string name="status_bar_settings_status_bar">Barra de status</string>
-    <string name="status_bar_settings_style">Layout de notificações &amp; atalhos</string>
+    <string name="status_bar_settings_style">Layout de notificações e atalhos</string>
     <string name="status_bar_settings_toggle_collapse_after_clicked">Fechar após toque no item</string>
     <string name="status_bar_settings_toggle_position">Posição dos atalhos</string>
     <string name="status_bar_settings_user_fold">Notificações ocultas</string>
@@ -5342,7 +5342,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="system_alert_window_apps_title">Apps</string>
     <string name="system_alert_window_settings">Sobrepor a outros apps</string>
     <string name="system_alert_window_summary">%1$d de %2$d apps têm permissão para serem sobrepostos a outros apps</string>
-    <string name="system_and_device_section_title">Sistema &amp; dispositivo</string>
+    <string name="system_and_device_section_title">Sistema e dispositivo</string>
     <string name="system_app">(Sistema)</string>
     <string name="system_app_settings">Configurações de apps de sistema</string>
     <string name="system_apps_updater">Atualização de apps do sistema</string>
@@ -5369,7 +5369,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="testing">Testando</string>
     <string name="testing_phone_info">Informações do telefone</string>
     <string name="testing_usage_stats">Estatísticas de uso</string>
-    <string name="tether_and_hotspot_title">Vínculo &amp; hotspot portátil</string>
+    <string name="tether_and_hotspot_title">Vínculo e hotspot portátil</string>
     <string name="tether_auto_disable_summary">Desativar hotspot automaticamente quando nenhum dispositivo estiver conectado</string>
     <string name="tether_auto_disable_title">Desativar hotspot automaticamente</string>
     <string name="tether_custom_dialog_title">Limite de dados móveis</string>
@@ -5904,7 +5904,7 @@ Toque no + para adicionar palavras."</string>
     <string name="volume_notification_mute">Desativar notificações</string>
     <string name="volume_restore">Redefinir níveis</string>
     <string name="volume_restore_alert">Redefinir todos os níveis de volume para os padrões de fábrica?</string>
-    <string name="volume_ring_description">Toques &amp; notificações</string>
+    <string name="volume_ring_description">Toques e notificações</string>
     <string name="volume_ring_mute">Desativar toque e notificações</string>
     <string name="volume_system_description">Câmera, Tela de bloqueio e outras notificações do sistema</string>
     <string name="volume_voice_description">Volume em chamada</string>
