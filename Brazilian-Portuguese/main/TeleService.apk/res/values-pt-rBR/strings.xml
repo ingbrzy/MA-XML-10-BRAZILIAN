@@ -815,7 +815,7 @@ Mudar para o novo provedor?"</string>
     <string name="msim_setting_categery_title">Configurações do cartão SIM</string>
     <string name="msim_setting_no_sim_indicator">Nenhum cartão SIM</string>
     <string name="msim_setting_operator_network_title">Redes móveis</string>
-    <string name="msim_setting_screen_title">Cartões SIM &amp; redes móveis</string>
+    <string name="msim_setting_screen_title">Redes móveis</string>
     <string name="msim_setting_sim_info_editor_title">Editar informações do SIM</string>
     <string name="msim_sim_lock">Bloqueado</string>
     <string name="msim_sim_radio_off">Desativado</string>
@@ -1031,7 +1031,7 @@ Seu telefone será bloqueado automaticamente após outra tentativa incorreta"</s
     <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="prefered_network_type_3g_promp">Você deve desativar o VoLTE antes de selecionar o 3G como seu tipo de rede preferencial. Desativar agora?</string>
     <string name="preference_auto_ip_summary_disable">Desativado</string>
-    <string name="preference_category_ringtone">Toque &amp; vibração</string>
+    <string name="preference_category_ringtone">Toque e vibração</string>
     <string name="preference_data_usage_summary">Defina seu plano de dados para controlar o uso de seus dados móveis</string>
     <string name="preference_data_usage_title">Definir plano de dados</string>
     <string name="preference_dial_pad_touch_tone_default">Padrão</string>
@@ -1210,7 +1210,7 @@ Seu cartão SIM será bloqueado após outra tentativa incorreta."</string>
     <string name="sim_roaming_settings_summary">Conecte-se a redes de dados móveis em roaming</string>
     <string name="sim_roaming_settings_title">Mi Roaming</string>
     <string name="sim_selection_required_pref">Seleção necessária</string>
-    <string name="sim_service_setting">Mi SIM &amp; Roaming</string>
+    <string name="sim_service_setting">Mi SIM e Roaming</string>
     <string name="simulate_color_space">Simular espaço de cores</string>
     <string name="singleContactImportedMsg">Contato importado</string>
     <string name="sip_account_disable">A conta não está ativa. Não é possível aceitar chamadas.</string>
