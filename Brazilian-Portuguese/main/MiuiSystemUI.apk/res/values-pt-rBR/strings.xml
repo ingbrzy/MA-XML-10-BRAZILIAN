@@ -299,7 +299,7 @@
     <string name="app_process_limit_title">Limite do proc. 2º plano</string>
     <string name="as_important">Importante</string>
     <string name="as_unimportant">Não importante</string>
-    <string name="aspect_message">Esta aplicação vai ser executada novamente em modo tela cheia. Se encontrar algum problema, pode desativar o modo tecla cheia para esta aplicação em Configurações > Tela infinita > Modo tela cheia</string>
+    <string name="aspect_message">Esta aplicação vai ser executada novamente em modo tela cheia. Se encontrar algum problema, pode desativar o modo tela cheia para esta aplicação em Configurações > Tela cheia > Modo tela cheia</string>
     <string name="aspect_title">Modo tela cheia</string>
     <string name="audio_effect_custom">Configurar</string>
     <string name="audio_effect_info">Otimizar áudio</string>
@@ -715,7 +715,7 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
     <string name="fs_gesture_back_ready_title">Voltar</string>
     <string name="fs_gesture_final_over">Estou pronto</string>
     <string name="fs_gesture_final_restart">Mais uma vez</string>
-    <string name="fs_gesture_final_summary">Você pode voltar a usar os botões em Configurações > Tela infinita</string>
+    <string name="fs_gesture_final_summary">Você pode voltar a usar os botões em Configurações > Tela cheia</string>
     <string name="fs_gesture_final_title">Você está pronto para começar!</string>
     <string name="fs_gesture_finish">Ótimo!</string>
     <string name="fs_gesture_left_back_ready_summary">Deslize para a direita a partir da borda</string>

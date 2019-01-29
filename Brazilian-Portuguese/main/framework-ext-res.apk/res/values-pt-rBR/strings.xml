@@ -163,7 +163,7 @@
     <string name="configure_input_methods">Escolher teclado</string>
     <string name="miui_upgrading_notification_title">Carregando sistema, alguns recursos podem estar indisponíveis.</string>
     <string name="miui_screen_ratio_hint">Problemas de taxa de tela</string>
-    <string name="miui_screen_ratio_hint_message">Este app tem permissão para executar em tela cheia, o que pode causar uma exibição incorreta de informações. Você pode alterar isto em Configurações > Tela infinita.</string>
+    <string name="miui_screen_ratio_hint_message">Este app tem permissão para executar em tela cheia, o que pode causar uma exibição incorreta de informações. Você pode alterar isto em Configurações > Tela cheia.</string>
     <string name="miui_screen_ratio_hint_dont_show_again">Não mostrar novamente</string>
     <string name="miui_screen_ratio_hint_ok">OK</string>
     <string name="miui_screen_ratio_hint_go_to_settings">Ir às Configurações</string>

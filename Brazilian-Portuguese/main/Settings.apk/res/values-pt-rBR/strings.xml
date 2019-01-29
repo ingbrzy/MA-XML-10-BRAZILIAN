@@ -2463,9 +2463,9 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="incoming_call_breathing_light_color_title">Cor do LED para chamadas</string>
     <string name="incoming_call_breathing_light_freq_title">Frequência de pulsação em chamadas</string>
     <string name="incoming_call_volume_title">Toque</string>
-    <string name="infinity_display_settings">Tela infinita</string>
+    <string name="infinity_display_settings">Tela cheia</string>
     <string name="infinity_display_slogan">Inovação em tela cheia</string>
-    <string name="infinity_display_title">Tela Infinita</string>
+    <string name="infinity_display_title">Tela cheia</string>
     <string name="information_dialog_button_text">Entendido</string>
     <string name="input_assistance">Assistência para entrada de texto</string>
     <string name="input_hint_prefix">Introduzir %1$s</string>
@@ -5400,7 +5400,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="tethering_hardware_offload_summary">Usar aceleração de hardware para vínculo de internet se disponível</string>
     <string name="tethering_help_button_text">Ajuda</string>
     <string name="tethering_settings_not_available">Altere as configurações de vínculo no Primeiro Espaço</string>
-    <string name="the_way_of_wakeup_voice_assistant_summary">Ativar o Assistente de Voz no modo Tela Cheia (sem botões virtuais)</string>
+    <string name="the_way_of_wakeup_voice_assistant_summary">Ativar o Assistente de Voz no modo tela cheia (sem botões virtuais)</string>
     <string name="theme_settings_title">Temas</string>
     <string name="thememanager_not_found">Não foi possível abrir o Gerenciador de Temas. Certifique-se de que o app está instalado.</string>
     <string name="three_gesture_down">Deslizar 3 dedos para baixo</string>
