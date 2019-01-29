@@ -10,6 +10,8 @@ Feurrado (Thiago Moreira)
 
 Lobianco (Sérgio Lobianco)
 
+RicardoGuariento (Ricardo Guariento)
+
 Credits to:
 
 •   Efex
