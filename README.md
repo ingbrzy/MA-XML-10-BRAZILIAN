@@ -4,15 +4,13 @@
 
 MIUI V10 Brazilian Portuguese translation for all supported devices. 
 
-MIUI Translation:
+MIUI PT-BR Translation:
 
-Feurrado (Thiago Moreira)
+RicardoGuariento (ricardo.guariento@hotmail.com)
 
-Lobianco (Sérgio Lobianco)
+Thanks to:
 
-RicardoGuariento (Ricardo Guariento)
-
-Credits to:
+•   Feurrado
 
 •   Efex
 
