@@ -10,7 +10,7 @@ RicardoGuariento (ricardo.guariento@hotmail.com)
 
 Thanks to:
 
-•   Feurrado
+•   Feurrado (Thiago Moreira)
 
 •   Efex
 
