@@ -1000,7 +1000,7 @@ Tente novamente em %2$d segundos."</string>
 
  Tente novamente em %d segundos."</string>
     <string name="lockscreen_failed_attempts_now_wiping">Você tentou desbloquear o telefone incorretamente %d vezes. O telefone será redefinido para os padrões de fábrica.</string>
-    <string name="lockscreen_none">N/A</string>
+    <string name="lockscreen_none">Nenhum</string>
     <string name="lockscreen_shortcut_left">Atalho da esquerda</string>
     <string name="lockscreen_shortcut_right">Atalho da direita</string>
     <string name="lockscreen_sim_error_message_short">O cartão SIM é invalido.</string>

@@ -2530,7 +2530,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="key_gesture_function_optional">Botões e gestos opcionais</string>
     <string name="key_gesture_function_preview">Visualização de botões e gestos</string>
     <string name="key_gesture_function_shortcut">Atalhos de função</string>
-    <string name="key_none">N/A</string>
+    <string name="key_none">Nenhum</string>
     <string name="key_operation_diagram">Diagrama de operação</string>
     <string name="key_position_cat">Posição dos botões</string>
     <string name="key_settings">Botões e atalhos por gestos</string>
@@ -4883,7 +4883,7 @@ PIN possivelmente incorreto."</string>
     <string name="skip_step">Pular</string>
     <string name="slider_app_open">Abrir app</string>
     <string name="slider_app_open_name">Abrir %1$s</string>
-    <string name="slider_app_open_none">N/A</string>
+    <string name="slider_app_open_none">Nenhum</string>
     <string name="slider_button_title">Alterar</string>
     <string name="slider_choose_app">Selecionar app</string>
     <string name="slider_game_page_code">00008</string>
@@ -4903,13 +4903,13 @@ PIN possivelmente incorreto."</string>
     <string name="slider_title_lingdong">Intellect</string>
     <string name="slider_title_zippo">Isqueiro</string>
     <string name="slider_tool_drawer">Abrir ferramentas</string>
-    <string name="slider_tool_none">N/A</string>
+    <string name="slider_tool_none">Nenhum</string>
     <string name="slider_tool_none_summary">Nenhum atalho de slider definido</string>
     <string name="slider_video_tool_summary">Puxe a tela para baixo para ver atalhos disponíveis quando estiver assistindo um vídeo</string>
     <string name="slider_video_tool_title">Atalhos de vídeo</string>
     <string name="slider_vocie_click_too_often">Muito rápido! Aguarde alguns minutos e tente novamente.</string>
     <string name="slider_vocie_online_close">Deslizar para cima</string>
-    <string name="slider_vocie_online_default">N/A</string>
+    <string name="slider_vocie_online_default">Nenhum</string>
     <string name="slider_vocie_online_open">Deslizar para baixo</string>
     <string name="slider_vocie_online_title">Sons online</string>
     <string name="slider_voice_online_theme">Sons online</string>
@@ -5444,7 +5444,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="track_frame_time">Classific. render. GPU</string>
     <string name="trackball_settings">Trackball</string>
     <string name="trackball_wake_title">Ligar a tela com trackball</string>
-    <string name="traffic_none">N/A</string>
+    <string name="traffic_none">Nenhum</string>
     <string name="transition_animation_scale_title">Escala anim. de transição</string>
     <string name="translation_contributors_summary" />
     <string name="translation_contributors_title">Colaboradores</string>
@@ -5599,7 +5599,7 @@ Suas impressões digitais salvas também serão removidas deste perfil e não se
     <string name="unlock_set_unlock_none_title">Nenhum</string>
     <string name="unlock_set_unlock_off_summary" />
     <string name="unlock_set_unlock_off_title">Nenhum</string>
-    <string name="unlock_set_unlock_password_none">N/A</string>
+    <string name="unlock_set_unlock_password_none">Nenhum</string>
     <string name="unlock_set_unlock_password_summary">Insira 4 ou mais letras ou números para desbloquear o dispositivo</string>
     <string name="unlock_set_unlock_password_title">Senha</string>
     <string name="unlock_set_unlock_pattern_summary">Desenhar um padrão de desbloqueio simples com seu dedo para desbloquear o dispositivo</string>

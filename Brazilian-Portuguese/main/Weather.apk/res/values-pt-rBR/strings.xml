@@ -187,7 +187,7 @@ Toque na tela para adicionar uma cidade manualmente"</string>
     <string name="real_time_sunset">Pôr do sol %1$s</string>
     <string name="realtime_aqi_title">Índice de Qualidade do Ar</string>
     <string name="realtime_humidity_title">Umidade relativa</string>
-    <string name="realtime_temperature_no_data">N/A</string>
+    <string name="realtime_temperature_no_data">Nenhum</string>
     <string name="realtime_wind_default_title">Vento</string>
     <string name="refresh_fail">Não foi possível conectar-se à rede</string>
     <string name="reminder_from_xiaomi_weather_app">Alertas do Mi Clima</string>

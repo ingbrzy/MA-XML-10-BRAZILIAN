@@ -683,7 +683,7 @@ para personalizar a Galeria"</string>
     <string name="movie_audio_kawaii">Romântico</string>
     <string name="movie_audio_light">Balada</string>
     <string name="movie_audio_linear">Rock</string>
-    <string name="movie_audio_none">N/A</string>
+    <string name="movie_audio_none">Nenhum</string>
     <string name="movie_audio_soft">Ukulele</string>
     <string name="movie_audio_sport">Techno</string>
     <string name="movie_cancel_download">Cancelar</string>
@@ -1286,7 +1286,7 @@ para personalizar a Galeria"</string>
     <string name="video_editor_smart_effect_halo">Auréola</string>
     <string name="video_editor_smart_effect_high_iframes_text">Este efeito funciona melhor para vídeos de 120fps.</string>
     <string name="video_editor_smart_effect_movie">Filme</string>
-    <string name="video_editor_smart_effect_none">N/A</string>
+    <string name="video_editor_smart_effect_none">Nenhum</string>
     <string name="video_editor_smart_effect_radical">Otimista</string>
     <string name="video_editor_smart_effect_rhythm">Pulso</string>
     <string name="video_editor_smart_effect_street">Metrópole</string>

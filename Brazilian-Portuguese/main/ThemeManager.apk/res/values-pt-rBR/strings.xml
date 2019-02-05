@@ -291,7 +291,7 @@
     <string name="resource_comment_limit">Não tão rápido! Volte depois de usar o tema por um tempo.</string>
     <string name="resource_comment_loading_list">Aguarde…</string>
     <string name="resource_comment_name_default">Apelido</string>
-    <string name="resource_comment_no_average_score">N/A</string>
+    <string name="resource_comment_no_average_score">Nenhum</string>
     <string name="resource_comment_no_comment">Nenhum comentário por aqui ainda. Você pode ser o primeiro a deixar um comentário.</string>
     <string name="resource_comment_over_limit">Seu comentário é muito longo. Diminua-o e tente novamente.</string>
     <string name="resource_comment_publish">Enviar</string>
@@ -371,7 +371,7 @@
     <string name="resource_list_title">Selecionado recentemente</string>
     <string name="resource_local_picker">Escolher toque local</string>
     <string name="resource_menu_refresh">Atualizar</string>
-    <string name="resource_mute">N/A</string>
+    <string name="resource_mute">Nenhum</string>
     <string name="resource_my">Offline</string>
     <string name="resource_network_diagnostics"><u>Testar rede</u></string>
     <string name="resource_no_match_app">Nenhum app encontrado para executar esta ação.</string>

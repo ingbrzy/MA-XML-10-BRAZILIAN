@@ -181,7 +181,7 @@
         <item>Área de transferência</item>
         <item>Código de botão</item>
         <item>Alternador de teclado</item>
-        <item>N/A</item>
+        <item>Nenhum</item>
     </string-array>
     <string-array name="nav_bar_layouts">
         <item>Normal</item>
