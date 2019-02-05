@@ -13,7 +13,7 @@
         <item quantity="one">%d mensagem não foi sincronizada</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">Excluir &lt;g example="15" id="number">%1$s&lt;/g> conversas selecionadas?</item>
+        <item quantity="other">Excluir %1$s conversas selecionadas?</item>
         <item quantity="one">Excluir esta conversa?</item>
     </plurals>
     <plurals name="custom_select_title_items_selected">
