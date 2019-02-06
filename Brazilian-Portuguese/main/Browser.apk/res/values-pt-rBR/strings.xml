@@ -235,8 +235,8 @@ Páginas visitadas não aparecerão no histórico."</string>
     <string name="document_download_open_direct">Abrir diretamente</string>
     <string name="document_download_title">Fazendo o download</string>
     <string name="document_open_file">Abrir %s</string>
-    <string name="document_open_message">Para melhorar sua experiência de leitura e garantir sua segurança, usae a versão personalizada do WPS</string>
-    <string name="document_open_other">Outros apps</string>
+    <string name="document_open_message">Para melhorar sua experiência de leitura e garantir sua segurança, usar a versão personalizada do WPS</string>
+    <string name="document_open_other">Outros aplicativos</string>
     <string name="document_open_title">Abrir com</string>
     <string name="dont_remind_again">Lembrar desta escolha</string>
     <string name="download_btn_select_all">Selecionar tudo</string>
@@ -252,7 +252,7 @@ Páginas visitadas não aparecerão no histórico."</string>
     <string name="download_failed">Não foi possível concluir o download</string>
     <string name="download_filter_all">Todos</string>
     <string name="download_filter_apk">APK</string>
-    <string name="download_filter_application">Apps</string>
+    <string name="download_filter_application">Aplicativos</string>
     <string name="download_filter_audio">Música</string>
     <string name="download_filter_image">Imagens</string>
     <string name="download_filter_others">Outros</string>
@@ -325,7 +325,7 @@ Páginas visitadas não aparecerão no histórico."</string>
     <string name="geolocation_settings_page_summary_not_allowed">Este site não pode acessar a sua localização</string>
     <string name="geolocation_settings_page_title">Limpar acesso à localização</string>
     <string name="go_supermarket_button">Ir</string>
-    <string name="go_supermarket_title">Mais apps, maior velocidade e menos uso de dados na App Store</string>
+    <string name="go_supermarket_title">Mais aplicativos, maior velocidade e menos uso de dados na App Store</string>
     <string name="gold_medals">Medalhas de ouro</string>
     <string name="google_bookmarks">Google</string>
     <string name="have_sent_bookmark_to_home_screen">Colocado na Tela inicial</string>
@@ -571,12 +571,12 @@ Lembre-se de que os arquivos que você baixar e favoritos que adicionar serão s
     <string name="pull_to_refresh">Puxe para baixo para atualizar</string>
     <string name="pull_to_refresh_pull_label">Puxe para atualizar</string>
     <string name="pull_to_refresh_release_label">Solte para recomendar e atualizar</string>
-    <string name="pwa_app_name">Web apps</string>
+    <string name="pwa_app_name">Web aplicativos</string>
     <string name="qr_code_title">Código QR</string>
     <string name="qr_description">Ler código QR</string>
     <string name="quicklink_bookmark_save">Salvar em</string>
     <string name="quicklink_cannot_save_url">Esta URL não pode ser adicionada.</string>
-    <string name="quicklink_folder_text">Top apps</string>
+    <string name="quicklink_folder_text">Top aplicativos</string>
     <string name="quicklink_no_history">Nenhum item aqui.</string>
     <string name="quicklink_not_saved">Não foi possível adicionar à Página inicial</string>
     <string name="quicklink_quick_select">Adicionar websites</string>
@@ -718,7 +718,7 @@ Lembre-se de que os arquivos que você baixar e favoritos que adicionar serão s
     <string name="suggest_item_delete_text">Excluir</string>
     <string name="suggest_open_app_failed">Não foi possível abrir este app</string>
     <string name="switchText">SIM</string>
-    <string name="switch_proxy_dialog_msg">Hijacking de rede detectado. Usae o app de Segurança do MIUI ou reporte este problema para sua operadora.</string>
+    <string name="switch_proxy_dialog_msg">Hijacking de rede detectado. Usar o app de Segurança do MIUI ou reporte este problema para sua operadora.</string>
     <string name="switch_proxy_dialog_title">Hijacking de rede</string>
     <string name="tab_hotpage">Feed de notícias</string>
     <string name="tab_quicklinks">Página inicial</string>

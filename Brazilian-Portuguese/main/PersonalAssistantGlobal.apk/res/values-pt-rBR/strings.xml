@@ -63,7 +63,7 @@
     <string name="ball_dialog_confirm">Instalar</string>
     <string name="ball_dialog_content">Instale o HuPu Sports para usar este recurso. Instalar agora?</string>
     <string name="ball_dialog_tip">Não mostrar novamente</string>
-    <string name="ball_dialog_title">Instale o app primeiro.</string>
+    <string name="ball_dialog_title">Instale o aplicativo primeiro.</string>
     <string name="ball_football_brief">Todas as informações sobre seus times favoritos</string>
     <string name="ball_football_brief_detail">Veja informações, saiba os resultados e siga até 4 times de futebol.</string>
     <string name="ball_football_check_full_schedule">Ver todas as partidas</string>
@@ -123,7 +123,7 @@
     <string name="cta_desc">Colete atalhos e informações importantes aqui.</string>
     <string name="cta_dialog_negative">Sair</string>
     <string name="cta_dialog_positive">Aceitar</string>
-    <string name="cta_dialog_text1">Para usar o App vault, você precisa ler e concordar com o</string>
+    <string name="cta_dialog_text1">Para usar o aplicativo vault, você precisa ler e concordar com o</string>
     <string name="cta_dialog_text2">\"Acordo do Usuário\"</string>
     <string name="cta_dialog_text3">e a</string>
     <string name="cta_dialog_text4">\"Política de Privacidade\".</string>
@@ -131,7 +131,7 @@
     <string name="cta_dialog_title">Termos e Condições</string>
     <string name="cta_negative">Fechar</string>
     <string name="cta_positive">Detalhes</string>
-    <string name="cta_title">Deixe que o App vault o ajude</string>
+    <string name="cta_title">Deixe que o aplicativo vault o ajude</string>
     <string name="data_error">Ocorreu um erro, aguarde alguns minutos e tente novamente.</string>
     <string name="data_error_show">O pedido foi concluído, não é possível ver detalhes.</string>
     <string name="drive">Dirigindo</string>
@@ -144,7 +144,7 @@
     <string name="function_not_support">Este recurso não é suportado neste dispositivo.</string>
     <string name="gmail_compose">Escrever</string>
     <string name="gmail_parent">Gmail</string>
-    <string name="help_quick_start_wechat_video">Obtenha acesso a funções específicas de apps usando atalhos</string>
+    <string name="help_quick_start_wechat_video">Obtenha acesso a funções específicas de aplicativos usando atalhos</string>
     <string name="hold_down_adjustment_order">Segure o ícone na direita para arrastar os itens</string>
     <string name="home">Casa</string>
     <string name="home_and_company">Casa e trabalho</string>
@@ -155,15 +155,15 @@
     <string name="just_now">Agora mesmo</string>
     <string name="launch_else">Outro</string>
     <string name="launch_label">Acesso rápido</string>
-    <string name="launch_no_dapp_dialog_content">O Dual app respondável por este cartão foi excluído. Você pode substituir este cartão por um diferente.</string>
-    <string name="launch_no_dapp_dialog_reset">Configuração dos Dual apps</string>
-    <string name="launch_no_dapp_dialog_title">O Dual app foi excluído</string>
+    <string name="launch_no_dapp_dialog_content">O Dual aplicativo respondável por este cartão foi excluído. Você pode substituir este cartão por um diferente.</string>
+    <string name="launch_no_dapp_dialog_reset">Configuração dos Dual aplicativos</string>
+    <string name="launch_no_dapp_dialog_title">O Dual aplicativo foi excluído</string>
     <string name="launch_noapp_dialog_cancel">Cancelar</string>
-    <string name="launch_noapp_dialog_content">O app responsável por este cartão foi excluído. Você pode substituir este cartão por um diferente.</string>
+    <string name="launch_noapp_dialog_content">O aplicativo responsável por este cartão foi excluído. Você pode substituir este cartão por um diferente.</string>
     <string name="launch_noapp_dialog_redownload">Fazer download novamente</string>
     <string name="launch_noapp_dialog_replace">Substituir</string>
-    <string name="launch_noapp_dialog_title">O app foi excluído</string>
-    <string name="launch_top">Abrir recursos específicos de apps populares</string>
+    <string name="launch_noapp_dialog_title">O aplicativo foi excluído</string>
+    <string name="launch_top">Abrir recursos específicos de aplicativos populares</string>
     <string name="list_icon_add">Adicionar</string>
     <string name="list_icon_delete">Excluir</string>
     <string name="list_icon_drag">Reordenar</string>
@@ -191,7 +191,7 @@
     <string name="navigation_network_location_enable">Aceitar</string>
     <string name="navigation_network_location_enable_later">Cancelar</string>
     <string name="navigation_network_location_enabled">Os serviços de localização estão ativados. Você pode alterar isto nas Configurações.</string>
-    <string name="navigation_network_location_not_enabled_summary">O app precisa de uma conexão com a internet e acesso à sua localização. Aceitar?</string>
+    <string name="navigation_network_location_not_enabled_summary">O aplicativo precisa de uma conexão com a internet e acesso à sua localização. Aceitar?</string>
     <string name="navigation_network_location_not_enabled_title">Ativar serviços de localização</string>
     <string name="network_access_denied">Não é possível conectar-se à rede. Aceite os Termos e Condições primeiro.</string>
     <string name="network_error">Erro de rede</string>
@@ -201,7 +201,7 @@
     <string name="no_matches_for_now">Nenhuma partida programada por agora.</string>
     <string name="no_more_result">Isso é tudo por agora.</string>
     <string name="no_settings">Não definido</string>
-    <string name="not_install_c1">Este app não está instalado em seu telefone. Fazer o download e instalar?</string>
+    <string name="not_install_c1">Este aplicativo não está instalado em seu telefone. Fazer o download e instalar?</string>
     <string name="not_install_c3">Download</string>
     <string name="not_install_c4">Não, obrigado</string>
     <string name="not_installed">Não instalado</string>
@@ -259,7 +259,7 @@
     <string name="setting_football_toast_max">Você pode selecionar até 4 times</string>
     <string name="setting_home_label">Adicionar endereço de casa</string>
     <string name="setting_launch_all_added">Não é possível adicionar mais itens</string>
-    <string name="setting_launch_select_other_app">Selecione outros apps</string>
+    <string name="setting_launch_select_other_app">Selecione outros aplicativos</string>
     <string name="setting_list_guide">Guia</string>
     <string name="setting_list_guide_desc">Adicione recursos e informações frequentes aqui.</string>
     <string name="setting_note">Anotação rápida</string>

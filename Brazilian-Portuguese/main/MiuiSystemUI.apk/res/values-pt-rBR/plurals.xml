@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="accessibility_recent_task_enter">
-        <item quantity="other">Abrindo apps recentes, %d apps disponíveis.</item>
-        <item quantity="one">Abrindo apps recentes, %d app disponível.</item>
+        <item quantity="other">Abrindo aplicativos recentes, %d aplicativos disponíveis.</item>
+        <item quantity="one">Abrindo aplicativos recentes, %d aplicativo disponível.</item>
     </plurals>
     <plurals name="accessibility_recent_task_first_enter_tips">
-        <item quantity="other">Abrindo apps recentes, %d apps disponíveis. Deslize para cima para removê-lo, deslize para baixo para bloqueá-lo.</item>
-        <item quantity="one">Abrindo apps recentes, %d app disponível. Deslize para cima para removê-lo, deslize para baixo para bloqueá-lo.</item>
+        <item quantity="other">Abrindo aplicativos recentes, %d aplicativos disponíveis. Deslize para cima para removê-lo, deslize para baixo para bloqueá-lo.</item>
+        <item quantity="one">Abrindo aplicativos recentes, %d aplicativo disponível. Deslize para cima para removê-lo, deslize para baixo para bloqueá-lo.</item>
     </plurals>
     <plurals name="block_record_notification_more_text">
         <item quantity="other">Ocultando notificações de %1$s e %2$d apps.</item>

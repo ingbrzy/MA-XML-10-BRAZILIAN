@@ -411,9 +411,9 @@ Para ativar sua conta, siga o
     <string name="notify_network_restricted_content_hidden_state">A atividade em segundo plano da Conta Mi está restrita. Toque para permitir.</string>
     <string name="notify_network_restricted_content_bg_network">O acesso à internet da Conta Mi está restrito. Toque para permitir.</string>
     <string name="notify_network_restricted_content_mobile_network">O acesso à internet da Conta Mi está restrito. Toque para permitir.</string>
-    <string name="login_guard_prompt">Solicitar verificação por número de telefone ao fazer login na Conta Mi de um dispositivo ou app desconhecido pela primeira vez.</string>
+    <string name="login_guard_prompt">Solicitar verificação por número de telefone ao fazer login na Conta Mi de um dispositivo ou aplicativo desconhecido pela primeira vez.</string>
     <string name="verified_devices">Dispositivos verificados</string>
-    <string name="verified_apps">Apps verificados</string>
+    <string name="verified_apps">Aplicativos verificados</string>
     <string name="trusted_browsers">Navegadores confiáveis</string>
     <string name="trusted_browsers_prompt">O navegador não será mais confiável ao excluir seus cookies.</string>
     <string name="first_login_time">Primeira tentativa de login: %s</string>

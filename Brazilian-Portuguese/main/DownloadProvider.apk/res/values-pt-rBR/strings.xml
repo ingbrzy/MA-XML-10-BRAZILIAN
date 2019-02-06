@@ -6,19 +6,19 @@
     <string name="download_filesize_unknown">Desconhecido</string>
     <string name="app_label">Downloads</string>
     <string name="permlab_downloadManager">Acessar Downloads.</string>
-    <string name="permdesc_downloadManager">Permite que o app acesse o Gerenciador de Downloads e use-o para baixar arquivos. Apps maliciosos podem usar esta permissão para interromper downloads e acessar informações pessoais.</string>
+    <string name="permdesc_downloadManager">Permite que o aplicativo acesse o Gerenciador de Downloads e use-o para baixar arquivos. aplicativos maliciosos podem usar esta permissão para interromper downloads e acessar informações pessoais.</string>
     <string name="permlab_downloadManagerAdvanced">Recursos avançados de Downloads.</string>
-    <string name="permdesc_downloadManagerAdvanced">Permite que o app acesse recursos avançados do Gerenciador de Downloads e use-o para baixar arquivos. Apps maliciosos podem usar esta permissão para interromper downloads e acessar informações pessoais.</string>
+    <string name="permdesc_downloadManagerAdvanced">Permite que o aplicativo acesse recursos avançados do Gerenciador de Downloads e use-o para baixar arquivos. aplicativos maliciosos podem usar esta permissão para interromper downloads e acessar informações pessoais.</string>
     <string name="permlab_downloadCompletedIntent">Enviar notificações de download.</string>
-    <string name="permdesc_downloadCompletedIntent">Permite que o app envie notificações sobre downloads concluídos. Apps maliciosos podem usar esse envio para confundir outros apps que fazem download de arquivos.</string>
+    <string name="permdesc_downloadCompletedIntent">Permite que o aplicativo envie notificações sobre downloads concluídos. aplicativos maliciosos podem usar esse envio para confundir outros aplicativos que fazem download de arquivos.</string>
     <string name="permlab_seeAllExternal">Ver todos os downloads do armazenamento USB</string>
-    <string name="permdesc_seeAllExternal">Permite que o app veja todos os downloads do cartão SD, independentemente de sua origem.</string>
+    <string name="permdesc_seeAllExternal">Permite que o aplicativo veja todos os downloads do cartão SD, independentemente de sua origem.</string>
     <string name="permlab_downloadCacheNonPurgeable">Reservar espaço no cache de download</string>
-    <string name="permdesc_downloadCacheNonPurgeable">Permite que o app faça o download de arquivos para o cache de downloads, que não podem ser excluídos autom. quando o ger. de downloads precisar de mais espaço.</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Permite que o aplicativo faça o download de arquivos para o cache de downloads, que não podem ser excluídos autom. quando o ger. de downloads precisar de mais espaço.</string>
     <string name="permlab_downloadWithoutNotification">Download de arquivos sem notificação</string>
-    <string name="permdesc_downloadWithoutNotification">Permite que o app faça download de arquivos sem notificações exibidas ao usuário.</string>
+    <string name="permdesc_downloadWithoutNotification">Permite que o aplicativo faça download de arquivos sem notificações exibidas ao usuário.</string>
     <string name="permlab_accessAllDownloads">Acesso a todos os downloads do sistema</string>
-    <string name="permdesc_accessAllDownloads">Permite que o app veja e modifique todos os downloads iniciados por qualquer app.</string>
+    <string name="permdesc_accessAllDownloads">Permite que o aplicativo veja e modifique todos os downloads iniciados por qualquer app.</string>
     <string name="download_unknown_title">&lt;Sem título></string>
     <string name="notification_download_complete">Download concluído.</string>
     <string name="notification_download_failed">Não foi possível fazer download dos itens.</string>
@@ -42,5 +42,5 @@ Toque em %s para começar este download da próxima vez que você estiver conect
     <string name="download_running">Fazendo o download</string>
     <string name="download_error">Não foi possível fazer o download</string>
     <string name="download_running_percent">Fazendo o download %s</string>
-    <string name="common_google_play_services_unknown_issue">O app %1$s está com problemas com o Google Play Services. Tente novamente.</string>
+    <string name="common_google_play_services_unknown_issue">O aplicativo %1$s está com problemas com o Google Play Services. Tente novamente.</string>
 </resources>

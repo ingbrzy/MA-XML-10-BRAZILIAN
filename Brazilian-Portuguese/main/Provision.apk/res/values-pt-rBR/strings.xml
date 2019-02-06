@@ -20,7 +20,7 @@ Ver a Política de Privacidade do teclado selecionado."</string>
     <string name="sim_card_detecting_confirm_turn_on_network">Permitir a conexão às redes de dados móveis? Caso permita, o cartão SIM inserido será usado para conectar-se à redes de dados móveis.</string>
     <string name="other_settings">Configurações adicionais</string>
     <string name="other_settings_location">Localização</string>
-    <string name="other_settings_location_summary">Permitir que apps acessem sua localização</string>
+    <string name="other_settings_location_summary">Permitir que aplicativos acessem sua localização</string>
     <string name="other_settings_user_experience">Programa de Experiência do Usuário</string>
     <string name="other_settings_user_experience_summary">Ajude-nos a melhorar nossos produtos e serviços compartilhando suas estatísticas de uso conosco. Ver detalhes</string>
     <string name="other_settings_user_experience_summary_index">Ver detalhes</string>
@@ -51,7 +51,7 @@ Ver a Política de Privacidade do teclado selecionado."</string>
     <string name="terms_of_use_label">"Sua privacidade é muito importante para nós. Leia nossos Termos de Serviço e a Política de Privacidade para entender quais informações coletamos, como as usamos, e quais escolhas estão disponíveis para você.
 
 Você precisa aceitar nossos Termos de Serviço e a Política de Privacidade antes de usar o MIUI. %s e componentes da Conta Mi usarão a internet e obterão a sua localização."</string>
-    <string name="terms_of_use_lable_apps">Os Serviços Mi, Serviços de Ativação do SIM Mi, Mi Cloud, Encontrar dispositivo, Tela inicial, Centro de Jogos, MAB, Daemon MIUI e Componente de Sistema MSA, Serviços de tradução, Apps rápidos, App Vault, Estatísticas, Mi Link</string>
+    <string name="terms_of_use_lable_apps">Os Serviços Mi, Serviços de Ativação do SIM Mi, Mi Cloud, Encontrar dispositivo, Tela inicial, Centro de Jogos, MAB, Daemon MIUI e Componente de Sistema MSA, Serviços de tradução, aplicativos rápidos, aplicativo Vault, Estatísticas, Mi Link</string>
     <string name="terms_of_use_lable_gms">, Google Play Services</string>
     <string name="terms_of_use_label_systemhelper">, Serviço auto-registrado</string>
     <string name="terms_of_use_lable_smart_cards">, Cartões inteligentes</string>
@@ -80,11 +80,11 @@ Você deve concordar com a Política de Privacidade do Kika antes de usar este r
     <string name="title_fingerprint">Definir senha</string>
     <string name="item_fingerprint">Digital</string>
     <string name="item_lock_screen_password">Bloquear apenas a tela</string>
-    <string name="desc_fingerprint">Use sua impressão digital para desbloquear o dispositivo, verificar transações no Mi Pay, ou para fazer login em apps e serviços.</string>
+    <string name="desc_fingerprint">Use sua impressão digital para desbloquear o dispositivo, verificar transações no Mi Pay, ou para fazer login em aplicativos e serviços.</string>
     <string name="desc_extra_fingerprint" />
     <string name="next_fingerprint">Avançar</string>
     <string name="desc_extra_international_fingerprint" />
-    <string name="desc_international_fingerprint">Use sua impressão digital para desbloquear seu dispositivo ou fazer login em apps e serviços.</string>
+    <string name="desc_international_fingerprint">Use sua impressão digital para desbloquear seu dispositivo ou fazer login em aplicativos e serviços.</string>
     <string name="content_description_start">Iniciar</string>
     <string name="start_up_slogan">Projetado para uma experiência em tela cheia</string>
     <string name="content_description_miui_version">MIUI 10</string>

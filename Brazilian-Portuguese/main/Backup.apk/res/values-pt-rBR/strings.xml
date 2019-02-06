@@ -42,7 +42,7 @@ Atualização incremental: %2$s"</string>
     <string name="restore_report">Detalhes da restauração</string>
     <string name="restore_progress">Restaurando…</string>
     <string name="restore_contacts_hit">Você precisará fazer o login novamente para ver os dados restaurados.</string>
-    <string name="restore_telephony_hit">A restauração reiniciará o app Telefone.</string>
+    <string name="restore_telephony_hit">A restauração reiniciará o aplicativo Telefone.</string>
     <string name="restore_launcher_layout_hit">Restaura as configurações da Tela Inicial</string>
     <string name="settings_summary">Configurações de telefonia e SMS</string>
     <string name="camera_summary">Configurações de câmera (sem incluir fotos)</string>
@@ -132,7 +132,7 @@ Atualização incremental: %2$s"</string>
     <string name="progress_restore_hint">Restaurando…</string>
     <string name="restore_failed">Não foi possível restaurar</string>
     <string name="local_select_sysdata">Sistema</string>
-    <string name="local_select_userapp">Apps</string>
+    <string name="local_select_userapp">Aplicativos</string>
     <string name="local_select_account_contact">Contas e contatos</string>
     <string name="local_select_files">Cartão SD</string>
     <string name="local_select_image">Imagens</string>
@@ -140,7 +140,7 @@ Atualização incremental: %2$s"</string>
     <string name="local_select_video">Vídeos</string>
     <string name="local_select_doc">Documentos</string>
     <string name="data_item_desc">Dados</string>
-    <string name="apps_and_data_item_desc">Apps e dados</string>
+    <string name="apps_and_data_item_desc">Aplicativos e dados</string>
     <string name="local_no_backup">Nenhum backup.</string>
     <string name="auto_backup_setting">Programar rotina de backup</string>
     <string name="auto_backup_open">Backup automático</string>
@@ -150,11 +150,11 @@ Atualização incremental: %2$s"</string>
     <string name="auto_backup_choose_title">Escolha os itens para o backup</string>
     <string name="auto_backup_choose">Itens para o backup</string>
     <string name="auto_backup_choose_empty">Nenhum backup.</string>
-    <string name="auto_backup_all_user_apps">Todos os apps</string>
-    <string name="auto_backup_selected_user_apps">Apps selecionados</string>
-    <string name="auto_backup_select_user_apps">Escolher apps</string>
+    <string name="auto_backup_all_user_apps">Todos os aplicativos</string>
+    <string name="auto_backup_selected_user_apps">Aplicativos selecionados</string>
+    <string name="auto_backup_select_user_apps">Escolher aplicativos</string>
     <string name="auto_backup_system_data">Sistema</string>
-    <string name="auto_backup_user_data">Apps</string>
+    <string name="auto_backup_user_data">Aplicativos</string>
     <string name="auto_backup_progress">Fazendo backup…</string>
     <string name="backup">Backup</string>
     <string name="restore">Restaurar</string>
@@ -172,7 +172,7 @@ Atualização incremental: %2$s"</string>
     <string name="reverse_all">Desmarcar tudo</string>
     <string name="refresh">Atualizar</string>
     <string name="cloud_item_info_summary">" (Local: %1$s | Mi Cloud: %2$s)"</string>
-    <string name="cloud_restore_guide">Para restaurar os dados do app %s, toque em Restaurar</string>
+    <string name="cloud_restore_guide">Para restaurar os dados do aplicativo %s, toque em Restaurar</string>
     <string name="import_from_xiaomi_account_hint1">"1.\u0009Faça o download do Mi Talk e faça o login.
 \u0009http://www.miliao.com
 
@@ -203,9 +203,9 @@ Atualização incremental: %2$s"</string>
     <string name="backup_empty_info">" Fazer backup de seus dados, configurações e apps"</string>
     <string name="backup_empty_info_onpad">" Fazer backup de seus dados, configurações e apps"</string>
     <string name="system_backup_info">Configurações do sistema e disposição da Tela inicial</string>
-    <string name="software_backup_info">Dados de apps</string>
+    <string name="software_backup_info">Dados de aplicativos</string>
     <string name="account_contact_backup_info">Conta Mi, Conta do Google e dados de Contatos</string>
-    <string name="files_backup_info">Todos os arquivos no cartão SD (incluindo fotos, músicas, vídeos, dados de apps, etc.)</string>
+    <string name="files_backup_info">Todos os arquivos no cartão SD (incluindo fotos, músicas, vídeos, dados de aplicativos, etc.)</string>
     <string name="select_backup_item">Escolher itens</string>
     <string name="restore_data">Escolher itens para restaurar</string>
     <string name="backup_data">Escolher itens para backup</string>
@@ -253,7 +253,7 @@ Atualização incremental: %2$s"</string>
     <string name="err_bakfile_not_exist">O arquivo do backup não existe.</string>
     <string name="err_pkg_not_exist">Não foi possível encontrar o app.</string>
     <string name="err_user_abort">Cancelado pelo usuário.</string>
-    <string name="err_binder_died">O app parou inesperadamente.</string>
+    <string name="err_binder_died">O aplicativo parou inesperadamente.</string>
     <string name="backup_is_running">Fazendo o backup do dispositivo</string>
     <string name="restore_is_running">Restaurando o dispositivo</string>
     <string name="notif_backup_title">Fazer backup dos dados</string>
@@ -272,7 +272,7 @@ Atualização incremental: %2$s"</string>
     <string name="remote_receive">Receber</string>
     <string name="click_to_view">Toque para ver</string>
     <string name="trans_one_key_migrate">Mi Mover</string>
-    <string name="trans_main_tutor">Mover contatos, registro de chamadas, mensagens, layout da Tela inicial, apps, configurações, etc. para um novo dispositivo</string>
+    <string name="trans_main_tutor">Mover contatos, registro de chamadas, mensagens, layout da Tela inicial, aplicativos, configurações, etc. para um novo dispositivo</string>
     <string name="trans_sender">Sou o remetente</string>
     <string name="trans_receiver">Sou o destinatário</string>
     <string name="trans_waiting_for_sender">Aguardando a conexão do dispositivo antigo…</string>
@@ -297,7 +297,7 @@ Mantenha os dispositivos pertos um do outro."</string>
     <string name="trans_time_spent">Tempo gasto: %s</string>
     <string name="trans_restoring_no_items">Obtendo informações…</string>
     <string name="trans_detail_category_sysdata">Dados do sistema (incluindo mensagens, contatos e registro de chamadas)</string>
-    <string name="trans_detail_category_userdata">Apps</string>
+    <string name="trans_detail_category_userdata">Aplicativos</string>
     <string name="trans_detail_category_account">Contas e contatos</string>
     <string name="trans_detail_category_files">Arquivos</string>
     <string name="trans_detail_category_audio_video_doc">Áudio, vídeo e arquivos</string>
@@ -307,17 +307,17 @@ Mantenha os dispositivos pertos um do outro."</string>
     <string name="trans_detail_qq_data">Dados do QQ (incluindo histórico de chats)</string>
     <string name="trans_detail_app_data_useless_tip">Você pode restaurar estes através do app, não é necessário transferir.</string>
     <string name="trans_detail_item_app_data_too_large_tip">Parece que o item é muito grande para ser transferido.</string>
-    <string name="trans_detail_item_app_data_selected_tip">Apps correspondentes também foram selecionados.</string>
-    <string name="trans_detail_list_footer">Nota: Você pode optar por transferir os apps separadamente. Entretanto, se você seleciona os dados do app, os apps correspondentes também serão transferidos.</string>
+    <string name="trans_detail_item_app_data_selected_tip">Aplicativos correspondentes também foram selecionados.</string>
+    <string name="trans_detail_list_footer">Nota: Você pode optar por transferir os aplicativos separadamente. Entretanto, se você seleciona os dados do app, os aplicativos correspondentes também serão transferidos.</string>
     <string name="trans_detail_page_tip">Quanto mais itens forem selecionados mais demorada será a transferência.</string>
-    <string name="trans_detail_sys_data_list_title">Apps do sistema</string>
+    <string name="trans_detail_sys_data_list_title">Aplicativos do sistema</string>
     <string name="trans_detail_app_data_list_title">Dados do app</string>
-    <string name="trans_detail_app_apk_list_title">Apps instalados</string>
+    <string name="trans_detail_app_apk_list_title">Aplicativos instalados</string>
     <string name="trans_detail_wechat_qq_list_title">WeChat e QQ</string>
     <string name="trans_detail_audio_video_doc_list_title">Áudio, vídeo e arquivos</string>
-    <string name="trans_detail_sys_data_page_title">Selecionar apps do sistema</string>
+    <string name="trans_detail_sys_data_page_title">Selecionar aplicativos do sistema</string>
     <string name="trans_detail_app_data_page_title">Selecionar dados do app</string>
-    <string name="trans_detail_app_apk_page_title">Selecionar apps</string>
+    <string name="trans_detail_app_apk_page_title">Selecionar aplicativos</string>
     <string name="trans_detail_wechat_qq_page_title">Selecionar WeChat, QQ e dados do app</string>
     <string name="trans_detail_audio_video_doc_page_title">Selecionar áudio, vídeo e arquivos</string>
     <string name="trans_sending_completed">Enviado com sucesso</string>
@@ -354,8 +354,8 @@ Mantenha os dispositivos pertos um do outro."</string>
 Toque em [Sou o destinatário] para criar um código QR"</string>
     <string name="trans_operate_func_one">Método A</string>
     <string name="trans_operate_func_two">Método B</string>
-    <string name="trans_operate_old_phone_tips1">"1. Instale o app Mi Mover no seu dispositivo antigo
-2. Abra o app e toque em Iniciar. Leia o código QR com seu dispositivo antigo"</string>
+    <string name="trans_operate_old_phone_tips1">"1. Instale o aplicativo Mi Mover no seu dispositivo antigo
+2. Abra o aplicativo e toque em Iniciar. Leia o código QR com seu dispositivo antigo"</string>
     <string name="trans_operate_old_phone_tips2">Vá em Configurações > Configurações adicionais > Mi Mover, toque em [Sou o remetente]</string>
     <string name="trans_operate_tip_for_other_android">Abra o Mi Mover no seu telemóvel antigo, toque em \"Iniciar\" e digitalize o código QR acima.</string>
     <string name="trans_operate_reconnect_new_tips">"Aguarde até que o novo telefone exiba \"A conexão foi interrompida\".
@@ -363,7 +363,7 @@ Então toque em \"Conectar novamente\" para criar um código QR."</string>
     <string name="trans_operate_reconnect_old_tips">"Aguarde até que o telefone antigo exiba \"A conexão foi innterrompida\".
 Então toque em \"Conectar novamente\" para ler o código QR."</string>
     <string name="trans_generating_qrcode">Gerando o código QR…</string>
-    <string name="trans_generate_qrcode_failed">Não foi possível gerar o código QR. Feche outros apps e tente novamente.</string>
+    <string name="trans_generate_qrcode_failed">Não foi possível gerar o código QR. Feche outros aplicativos e tente novamente.</string>
     <string name="trans_wait_trans_data">"Conectado ao dispositivo antigo.
 Aguardando a transferência…"</string>
     <string name="trans_select_data">Selecionar itens para enviar</string>
@@ -381,7 +381,7 @@ Selecione apenas itens importantes para tornar a transferência mais rápida."</
 Libere espaço no armazenamento ou transfira apenas itens importantes."</string>
     <string name="trans_please_waiting">Aguarde…</string>
     <string name="trans_old_phone_low_space_title">Não há espaço suficiente no armazenamento</string>
-    <string name="trans_old_phone_low_space_msg">O Mi Mover precisa de espaço de armazenamento para compactar os dados transferidos, mas parece que não há espaço suficiente no dispositivo antigo. Libere algum espaço usando o app \"Segurança\" ou transfira apenas arquivos importantes.</string>
+    <string name="trans_old_phone_low_space_msg">O Mi Mover precisa de espaço de armazenamento para compactar os dados transferidos, mas parece que não há espaço suficiente no dispositivo antigo. Libere algum espaço usando o aplicativo \"Segurança\" ou transfira apenas arquivos importantes.</string>
     <string name="button_clean_garbage">Liberar espaço</string>
     <string name="button_quit">Sair</string>
     <string name="trans_install_guide_page_title">Instale o Mi Mover no seu telefone antigo</string>
@@ -423,10 +423,10 @@ para transferir e instalar o Mi Mover."</string>
     <string name="trans_intro_desc_4_market">O Mi Mover usa o Wi-Fi para transferir arquivos. Este é o motivo pelo o qual não pode conectar-se à internet via Wi-Fi durante a transferência. Pode continuar usando os dados móveis, entretanto.</string>
     <string name="trans_intro_question_5">%d. Por que o Mi Mover diz que o dispositivo antigo está sem espaço de armazenamento suficiente?</string>
     <string name="trans_intro_desc_5">O espaço de armazenamento nos dispositivos antigos é usado para criar os pacotes de transferência. Certifique-se de que você tem no mínimo 500MB - 1GB de armazenamento disponível no seu dispositivo antigo antes de iniciar uma transferência.</string>
-    <string name="trans_intro_question_6">%d. Por que alguns apps não são transferidos com sucesso?</string>
-    <string name="trans_intro_desc_6">Existem vários fatores que podem causar isso: problemas de versão de compatibilidade entre o sistema e apps, problemas de rede, problemas de compatibilidade específicos de um dispositivo, etc.</string>
-    <string name="trans_intro_question_7">%d. Por que alguns apps não iniciam no novo dispositivo?</string>
-    <string name="trans_intro_desc_7">Alguns perfis de apps (ex.: e-banking, etc) são associados ao dispositivo que foram instalados inicialmente. Tente limpar os dados do app ou reinstalá-lo no novo dispositivo.</string>
+    <string name="trans_intro_question_6">%d. Por que alguns aplicativos não são transferidos com sucesso?</string>
+    <string name="trans_intro_desc_6">Existem vários fatores que podem causar isso: problemas de versão de compatibilidade entre o sistema e aplicativos, problemas de rede, problemas de compatibilidade específicos de um dispositivo, etc.</string>
+    <string name="trans_intro_question_7">%d. Por que alguns aplicativos não iniciam no novo dispositivo?</string>
+    <string name="trans_intro_desc_7">Alguns perfis de aplicativos (ex.: e-banking, etc) são associados ao dispositivo que foram instalados inicialmente. Tente limpar os dados do aplicativo ou reinstalá-lo no novo dispositivo.</string>
     <string name="trans_intro_question_8">%d. Por que o histórico do WeChat não é transferido totalmente?</string>
     <string name="trans_intro_desc_8">Os dados do WeChat e seu histórico podem não ser transferidos completamente usando o Mi Mover. Acesse as configurações do WeChat e faça o logout da sua conta para aumentar as chances de uma transferência completa.</string>
     <string name="trans_intro_question_9">%d. Quais itens não podem ser transferidos?</string>
@@ -437,9 +437,9 @@ para transferir e instalar o Mi Mover."</string>
     <string name="trans_intro_title_multiuser">Dados do Segundo Espaço:</string>
     <string name="trans_intro_desc_multiuser">O Mi Mover não pode acessar itens no Segundo Espaço. Mova os itens para o Primeiro Espaço e inicie o Mi Mover.</string>
     <string name="trans_intro_title_multiapp">Dados dos dual apps:</string>
-    <string name="trans_intro_desc_multiapp">O Mi Mover não transfere dados de Dual apps para evitar conflitos entre arquivos.</string>
+    <string name="trans_intro_desc_multiapp">O Mi Mover não transfere dados de Dual aplicativos para evitar conflitos entre arquivos.</string>
     <string name="trans_intro_question_9_market">%d. Feedback.</string>
-    <string name="trans_intro_desc_9_method_1_title">1. Compartilhe seu feedback usando o app \"Feedback\".</string>
+    <string name="trans_intro_desc_9_method_1_title">1. Compartilhe seu feedback usando o aplicativo \"Feedback\".</string>
     <string name="trans_intro_desc_9_method_1_dec">Vá até a Tela inicial > Ferramentas > Feedback.</string>
     <string name="trans_intro_desc_9_method_2_title">2. Nos envie um e-mail</string>
     <string name="trans_intro_desc_9_method_2_dec">Envie seu feedback para miui-mover@xiaomi.com.</string>
@@ -449,7 +449,7 @@ para transferir e instalar o Mi Mover."</string>
     <string name="backup_security_tips_title">Backups podem não funcionar</string>
     <string name="backup_security_tips_message">Pode não ser possível fazer o backup ou restaurar alguns apps.</string>
     <string name="trans_security_tips_title">Compatibilidade do Mi Mover</string>
-    <string name="trans_security_tips_message">Alguns apps não suportam o Mi Mover.</string>
+    <string name="trans_security_tips_message">Alguns aplicativos não suportam o Mi Mover.</string>
     <string name="trans_cancel_selection_title">Ficar no Mi Mover</string>
     <string name="trans_cancel_selection_message">Se você sair do Mi Mover, a transferência em andamento será interrompida. Aguarde até que a transferência seja concluída.</string>
     <string name="trans_select_notification_title">O Mi Mover está trabalhando…</string>
@@ -559,7 +559,7 @@ Libere pelo menos %s."</string>
     <string name="save_finish_with_failing_items">"A transferência foi interrompida.
 Os dados que não foram importados terão que ser importados novamente."</string>
     <string name="import_again">Importar novamente</string>
-    <string name="error_permissions">Este app não tem as permissões necessárias para acesso à Agenda. Vá nas Configurações e ative as permissões para continuar.</string>
+    <string name="error_permissions">Este aplicativo não tem as permissões necessárias para acesso à Agenda. Vá nas Configurações e ative as permissões para continuar.</string>
     <string name="succ_description">Sucesso</string>
     <string name="failed_description">Falha</string>
     <string name="notif_miasist_try_to_connect">O Mi PC Suite está tentando se conectar ao seu dispositivo</string>
@@ -592,7 +592,7 @@ Os dados que não foram importados terão que ser importados novamente."</string
     <string name="lack_perm_title">Permissões necessárias</string>
     <string name="lack_perm_msg">O Mi Mover precisa das seguintes permissões: &lt;b>%s&lt;/b>.</string>
     <string name="flash_drive_backup_restore">Backups USB</string>
-    <string name="flash_drive_backup_note">"Faça o backup de apps para um drive USB.
+    <string name="flash_drive_backup_note">"Faça o backup de aplicativos para um drive USB.
 Certifique-se de que o drive USB tem espaço suficiente antes de iniciar."</string>
     <string name="flash_drive_backup_btn">Backup para o drive USB</string>
     <string name="flash_drive_restore_btn">Restaurar de um drive USB</string>
@@ -610,5 +610,5 @@ Restaurar apenas os itens importantes será mais rápido."</string>
     <string name="usb_trans_native_no_space">"Apenas %s estão disponíveis no seu dispositivo.
 Libere espaço ou faça várias transferências menores."</string>
     <string name="usb_trans_old_phone_low_space_title">Sem espaço suficiente</string>
-    <string name="usb_trans_old_phone_low_space_msg">Uma quantidade de espaço de armazenamento adicional é necessária para compactar seus backups. Não há espaço suficiente para continuar a transferência. Você pode liberar espaço e excluir arquivos desnecessários no app Segurança, ou tente transferir apenas itens importantes.</string>
+    <string name="usb_trans_old_phone_low_space_msg">Uma quantidade de espaço de armazenamento adicional é necessária para compactar seus backups. Não há espaço suficiente para continuar a transferência. Você pode liberar espaço e excluir arquivos desnecessários no aplicativo Segurança, ou tente transferir apenas itens importantes.</string>
 </resources>

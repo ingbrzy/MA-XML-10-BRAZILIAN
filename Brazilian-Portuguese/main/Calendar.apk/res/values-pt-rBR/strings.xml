@@ -52,7 +52,7 @@
     <string name="anniversary_event_title">Aniversário: %1$s</string>
     <string name="anniversary_secondary_tag">Aniversário</string>
     <string name="app_label">Agenda</string>
-    <string name="app_not_found">Não foi possível encontrar o app selecionado</string>
+    <string name="app_not_found">Não foi possível encontrar o aplicativo selecionado</string>
     <string name="birthday_born">data de nascimento</string>
     <string name="birthday_calendar_display_name">Lembretes de aniversário</string>
     <string name="birthday_event_description_a_week_ago">Há uma semana</string>
@@ -128,8 +128,8 @@
     <string name="delete_recurring_event_title">Excluir %s?</string>
     <string name="delete_this_event_title">Excluir este evento?</string>
     <string name="deleting_calendar">Desinscrevendo…</string>
-    <string name="description_calendar">Apps do sistema/Agenda</string>
-    <string name="description_calendar_edit_event">Apps do sistema/Agenda/Agenda</string>
+    <string name="description_calendar">Aplicativos do sistema/Agenda</string>
+    <string name="description_calendar_edit_event">Aplicativos do sistema/Agenda/Agenda</string>
     <string name="directory_searching_fmt">Pesquisando %s…</string>
     <string name="discard_label">Cancel</string>
     <string name="does_not_repeat">Evento único</string>
@@ -304,7 +304,7 @@ Verifique suas configurações de rede e tente novamente."</string>
     <string name="panchang_vikram_samvat">Vikram Samvat</string>
     <string name="panchang_yamaghanta">Yamaghanta</string>
     <string name="panchang_yog">Yog</string>
-    <string name="path_calendar_settings">Apps do sistema/Agenda/Configurações</string>
+    <string name="path_calendar_settings">Aplicativos do sistema/Agenda/Configurações</string>
     <string name="prefDialogTitle_vibrateWhen">Vibrar</string>
     <string name="pref_error_no_ringtone_select">Toque padrão</string>
     <string name="pref_reminder_time">Hora do lembrete</string>

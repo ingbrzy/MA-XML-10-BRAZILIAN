@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="camera_setting">Câmera</string>
-    <string name="path_settings">Apps do sistema/Câmera/Configurações</string>
+    <string name="path_settings">Aplicativos do sistema/Câmera/Configurações</string>
     <string name="search_settings">Configurações da câmera;Qualidade;Qualidade de imagem;Localização na imagem;Localização da foto;Detecção de rosto;Sons da câmera</string>
     <string name="hibernate_hint">Toque na tela para ativar a Câmera</string>
     <string name="camera_error_title">Erro na câmera</string>
@@ -17,7 +17,7 @@
     <string name="confirm_restore_title">Restaurar configurações padrão</string>
     <string name="confirm_restore_message">Restaurar as configurações padrão da Câmera?</string>
     <string name="confirm_location_title">Lembrar localização nas fotos?</string>
-    <string name="confirm_location_message">Marque suas fotos e vídeos com a localização de onde foram tiradas. Outros apps podem acessar esta informação juntamente com suas imagens salvas.</string>
+    <string name="confirm_location_message">Marque suas fotos e vídeos com a localização de onde foram tiradas. Outros aplicativos podem acessar esta informação juntamente com suas imagens salvas.</string>
     <string name="confirm_location_alert">Lembrar localização nas fotos</string>
     <string name="start_capture">OK</string>
     <string name="pref_camera_recordlocation_title">Salvar info. de localização</string>
@@ -271,7 +271,7 @@
     <string name="pref_camera_asd_night_title">Melhorar fotos com baixa luminosidade</string>
     <string name="confirm_recording_fail_title">Não é possível gravar</string>
     <string name="confirm_recording_fail_calling_alert">Não é possível gravar durante uma chamada.</string>
-    <string name="confirm_recording_fail_recorder_busy_alert">Outro app pode estar usando o microfone do dispositivo para gravar.</string>
+    <string name="confirm_recording_fail_recorder_busy_alert">Outro aplicativo pode estar usando o microfone do dispositivo para gravar.</string>
     <string name="camera_snap_mode_title">Modo de disparo rápido</string>
     <string name="camera_snap_mode_title_detail">Toque para ver detalhes</string>
     <string name="pref_camera_snap_enable_title">Modo de disparo rápido</string>

@@ -337,8 +337,8 @@ Acelere downloads em todos os seus dispositivos."</string>
     <string name="loading">Aguarde…</string>
     <string name="load_finish_hint">Você pode continuar vendo amanhã</string>
     <string name="jump_rank_hint">Veja os rankings de download de hoje ></string>
-    <string name="rank_guide_title">Apps que outras pessoas instalaram</string>
-    <string name="rank_guide_content">Os rankings são atualizados diariamente para mostrar os apps mais populares</string>
+    <string name="rank_guide_title">Aplicativos que outras pessoas instalaram</string>
+    <string name="rank_guide_content">Os rankings são atualizados diariamente para mostrar os aplicativos mais populares</string>
     <string name="rank_guide_confirm">Conferir</string>
     <string name="install_failed">Não foi possível instalar %1$s</string>
     <string name="get_data_failed">Não foi possível obter informações, tente novamente mais tarde</string>
@@ -379,7 +379,7 @@ Acelere downloads em todos os seus dispositivos."</string>
     <string name="bt_restart_dialog_title">Reiniciar todos os downloads</string>
     <string name="bt_restart_dialog_message">Reiniciar todos os downloads na pasta BT?</string>
     <string name="bt_path_not_exit">Este caminho não existe</string>
-    <string name="download_no_application">Nenhum app instalado suporta este formato</string>
+    <string name="download_no_application">Nenhum aplicativo instalado suporta este formato</string>
     <string name="durationDays">%1$d dias</string>
     <string name="durationDayHours">%1$d dia %2$d h</string>
     <string name="durationDayHour">%1$d dia %2$d h</string>
@@ -423,7 +423,7 @@ Acelere downloads em todos os seus dispositivos."</string>
     <string name="notify_only_wifi_download">Aguardando Wi-Fi</string>
     <string name="toast_only_wifi_download">Conecte-se ao Wi-Fi para fazer o download deste item</string>
     <string name="dialog_title_disabled_net">Acesso à internet</string>
-    <string name="dialog_msg_disabled_net">%1$s está com downloads restringidos na rede atual. Toque em Configurações de rede para ir ao app Segurança.</string>
+    <string name="dialog_msg_disabled_net">%1$s está com downloads restringidos na rede atual. Toque em Configurações de rede para ir ao aplicativo Segurança.</string>
     <string name="dialog_btn_ok_disabled_net">Configurações de rede</string>
     <string name="clear_data">Limpar</string>
     <string name="search_home_download_popup">Voltar aos downloads</string>
@@ -447,5 +447,5 @@ Acelere downloads em todos os seus dispositivos."</string>
     <string name="dialog_btn_ok">OK</string>
     <string name="ad_install">Instalar</string>
     <string name="download_title">Downloads</string>
-    <string name="common_google_play_services_unknown_issue">O app %1$s está com problemas com o Google Play Services. Tente novamente.</string>
+    <string name="common_google_play_services_unknown_issue">O aplicativo %1$s está com problemas com o Google Play Services. Tente novamente.</string>
 </resources>

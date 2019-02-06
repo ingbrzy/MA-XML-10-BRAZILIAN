@@ -9,7 +9,7 @@
         <item quantity="one">Ver %d dispositivo</item>
     </plurals>
     <plurals name="view_all_apps">
-        <item quantity="other">Ver %d apps</item>
+        <item quantity="other">Ver %d aplicativos</item>
         <item quantity="one">Ver %d app</item>
     </plurals>
     <plurals name="view_all_browsers">
