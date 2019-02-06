@@ -393,7 +393,7 @@
         <item>100%</item>
     </string-array>
     <string-array name="captioning_preset_selector_titles">
-        <item>Usar padrões do app</item>
+        <item>Usar padrões do aplicativo</item>
         <item>Branco em preto</item>
         <item>Preto em branco</item>
         <item>Amarelo em preto</item>
@@ -1286,7 +1286,7 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
     <string-array name="usage_stats_display_order_types">
         <item>Tempo de uso</item>
         <item>Última utilização</item>
-        <item>Nome do app</item>
+        <item>Nome do aplicativo</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>Carregar dispositivo</item>

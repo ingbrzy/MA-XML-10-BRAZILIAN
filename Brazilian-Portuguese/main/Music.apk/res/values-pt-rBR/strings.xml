@@ -5,7 +5,7 @@
     <string name="abc_action_menu_overflow_description">Mais opções</string>
     <string name="abc_action_mode_done">Concluído</string>
     <string name="abc_activity_chooser_view_see_all">Ver tudo</string>
-    <string name="abc_activitychooserview_choose_application">Selecione um app</string>
+    <string name="abc_activitychooserview_choose_application">Selecione um aplicativo</string>
     <string name="abc_capital_off">DESATIVAR</string>
     <string name="abc_capital_on">ATIVAR</string>
     <string name="abc_search_hint">Pesquisar...</string>
@@ -440,7 +440,7 @@
     <string name="notification_need_wifi_for_size">O tamanho do download requer Wi-Fi.</string>
     <string name="notification_play_summary">Ver música atual e próxima música e exibir letras na Tela inicial</string>
     <string name="notification_play_title">Widget na Área de notificações</string>
-    <string name="notification_recommend_summary">Saiba mais sobre novas tendências musicais e promoções do app</string>
+    <string name="notification_recommend_summary">Saiba mais sobre novas tendências musicais e promoções do aplicativo</string>
     <string name="notification_recommend_title">Notificações importantes</string>
     <string name="notification_setting">Configurações de notificação</string>
     <string name="nowplaying_circle_style">Estilo do botão reproduzir</string>

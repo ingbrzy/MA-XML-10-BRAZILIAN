@@ -2,7 +2,7 @@
 <resources>
     <string name="menu_clear">Limpar</string>
     <string name="menu_view">Ver na pasta</string>
-    <string name="menu_install">Instalar este app</string>
+    <string name="menu_install">Instalar este aplicativo</string>
     <string name="menu_open">Abrir</string>
     <string name="menu_add_to_white_list">Adicionar às exceções</string>
     <string name="text_optimizer">Fazer upload do nome das pastas</string>
@@ -269,7 +269,7 @@
     <string name="mainbtn_text_quick_cleanup">Limpar %s</string>
     <string name="mainbtn_text_no_trash">Pular</string>
     <string name="mainbtn_text_quick_cleanup_default">Limpar</string>
-    <string name="pref_title_open_optimizer_memory_scan">Verificar memória do app</string>
+    <string name="pref_title_open_optimizer_memory_scan">Verificar memória do aplicativo</string>
     <string name="toast_select_white_need_remove">Escolher itens para remover</string>
     <string name="network_not_available">Não é possível conectar-se à rede</string>
     <string name="no_network_btn">Repetir</string>

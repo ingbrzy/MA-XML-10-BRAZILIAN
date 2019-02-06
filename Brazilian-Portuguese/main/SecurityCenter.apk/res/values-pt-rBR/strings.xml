@@ -380,7 +380,7 @@ da operadora"</string>
     <string name="main_daily_card_guide_dialog_title">Definir tipo de plano de dados</string>
     <string name="main_daily_card_guide_dialog_summary">Você pode escolher entre planos diários, mensais ou ilimitados. Definir o tipo de plano de dados agora?</string>
     <string name="main_daily_card_guide_dialog_ok">Definir</string>
-    <string name="firewall_activity_lable">Restringir uso de dados por app</string>
+    <string name="firewall_activity_lable">Restringir uso de dados por aplicativo</string>
     <string name="firewall_applist">Aplicativos</string>
     <string name="firewall_mobile">Dados móveis</string>
     <string name="firewall_wifi">Wi-Fi</string>
@@ -395,7 +395,7 @@ da operadora"</string>
     <string name="firewall_allow_network">Permitir</string>
     <string name="app_bg_restrict_dialog_message">Restringir a conexão de rede em segundo plano pode impedir que o aplicativo funcione normalmente. Por exemplo, pode levar mais tempo para que as novas mensagens sejam recebidas ou o seu conteúdo atualizado.</string>
     <string name="firewall_network_allow">Permitindo que %1$s utilize a conexão de %2$s</string>
-    <string name="search_result_text">Não foi possível encontrar nenhum app</string>
+    <string name="search_result_text">Não foi possível encontrar nenhum aplicativo</string>
     <string name="firewall_mobile_dialog_message">O aplicativo instalado não será capaz de conectar-se à internet usando dados móveis quando esta opção estiver desativada.</string>
     <string name="firewall_wifi_dialog_message">O aplicativo instalado não será capaz de conectar-se à internet usando o Wi-Fi quando esta opção estiver desativada.</string>
     <string name="firewall_system_title">Uso de dados para aplicativos do sistema</string>
@@ -422,10 +422,10 @@ da operadora"</string>
     <string name="cancel_button">Cancelar</string>
     <string name="ok_button">OK</string>
     <string name="permit_running_network">Dados em seg. plano</string>
-    <string name="network_control">Ver configurações do app</string>
+    <string name="network_control">Ver configurações do aplicativo</string>
     <string name="foreground_traffic">Primeiro plano %s</string>
     <string name="background_traffic">Segundo plano %s</string>
-    <string name="detail_app_button">Info do app</string>
+    <string name="detail_app_button">Info do aplicativo</string>
     <string name="managed_user_title">Todos os aplicativos de trabalho</string>
     <string name="not_limited_brand">Ilimitado</string>
     <string name="pref_about_traffic_title">Configurações do uso de dados</string>
@@ -630,7 +630,7 @@ Os dados restantes incluem dados remanescentes do mês anterior."</string>
     <string name="label_mi_stats">Mi Analytics</string>
     <string name="show_traffic_dialog_title">Mostrar uso de dados na Área de notificações</string>
     <string name="show_traffic_dialog_message">Sua informação de uso de dados será exibida na Área de notificações. Você pode ativar ou desativar este recurso a qualquer momento nas Configurações do uso de dados.</string>
-    <string name="tc_sms_report_title">Reportar bug do app</string>
+    <string name="tc_sms_report_title">Reportar bug do aplicativo</string>
     <string name="tc_sms_report_summary">Ajude-nos a melhorar este recurso através do envio de um relatório quando a sua informação de utilização de dados estiver incorreta ou não atualizar.</string>
     <string name="tc_sms_report_direction">Código de requisição SMS</string>
     <string name="tc_sms_report_send_num">Telefone da operadora</string>
@@ -1318,9 +1318,9 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="resource_usb_install">Instalar via USB</string>
     <string name="keywords_usb_install">Instalação USB;Instalar do computador;Instalação ADB</string>
     <string name="path_usb_install">Aplicativos do sistema/Segurança/Permissões/Instalar via USB</string>
-    <string name="resource_app_permissions">Permissões do app</string>
-    <string name="keywords_app_permissions">Permissões;Localização;Acesso a contatos;Permissões;Permissões do app</string>
-    <string name="path_app_permissions">Aplicativos do sistema/Segurança/Permissões/Permissões do app</string>
+    <string name="resource_app_permissions">Permissões do aplicativo</string>
+    <string name="keywords_app_permissions">Permissões;Localização;Acesso a contatos;Permissões;Permissões do aplicativo</string>
+    <string name="path_app_permissions">Aplicativos do sistema/Segurança/Permissões/Permissões do aplicativo</string>
     <string name="resource_buy_flow">Comprar dados móveis</string>
     <string name="keywords_buy_flow">dados;dados móveis;comprar dados;comprar dados móveis;recarregar dados;plano de dados</string>
     <string name="path_buy_flow">Aplicativos do sistema/Segurança/Uso de dados/Comprar dados móveis</string>
@@ -1528,7 +1528,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pm_auto_start_by_other">Início desencadeado</string>
     <string name="pm_auto_start_by_other_app">Permitir que o aplicativo seja iniciado por outros aplicativos</string>
     <string name="pm_auto_start_proc_is_running">Executando</string>
-    <string name="empty_app">Nenhum app</string>
+    <string name="empty_app">Nenhum aplicativo</string>
     <string name="pm_remember_choice">Lembrar minha escolha</string>
     <string name="install_title">Instalar via USB</string>
     <string name="usb_install_desc">Instalar este aplicativo via USB?</string>
@@ -1775,7 +1775,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="card_main_private_space_summary">Usar o Segundo Espaço é como ter 2 dispositivos</string>
     <string name="card_main_private_space_action">Criar</string>
     <string name="card_main_xspace_title">Dual aplicativos</string>
-    <string name="card_main_xspace_summary">Crie contas distintas para qualquer app</string>
+    <string name="card_main_xspace_summary">Crie contas distintas para qualquer aplicativo</string>
     <string name="card_main_xspace_action">Criar</string>
     <string name="card_main_overscroll_tips">O melhor em segurança</string>
     <string name="card_main_gamebooster_title">Otimizador de jogos</string>
@@ -2080,9 +2080,9 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="app_managere_not_have_app">Vazio</string>
     <string name="app_manager_pref_ads">Recomendações</string>
     <string name="install">Instalar</string>
-    <string name="app_manager_app_info_label">Informações do app</string>
-    <string name="app_manager_app_info_name">Nome do app</string>
-    <string name="app_manager_app_ifno_version">Versão do app</string>
+    <string name="app_manager_app_info_label">Informações do aplicativo</string>
+    <string name="app_manager_app_info_name">Nome do aplicativo</string>
+    <string name="app_manager_app_ifno_version">Versão do aplicativo</string>
     <string name="app_manager_app_info_pkg">Nome do APK</string>
     <string name="app_manager_copy_pkg_to_clip">Copiado para a área de transferência</string>
     <string name="app_manager_show_all_apps">Mostrar todos os aplicativos</string>
@@ -2107,7 +2107,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="app_manager_disable_dlg_text">Se você desativar este app, outros aplicativos poderão não funcionar corretamente.</string>
     <string name="app_manager_disabled">Desativado</string>
     <string name="app_manager_enabled">Ativado</string>
-    <string name="app_manager_globel_perm_title">Permissões do app</string>
+    <string name="app_manager_globel_perm_title">Permissões do aplicativo</string>
     <string name="app_manager_globel_perm_summary">Gerenciar permissões relacionadas a localização, armazenamento, telefone, mensagens e contatos.</string>
     <string name="app_manager_globel_other_perm_title">Outras permissões</string>
     <string name="app_manager_uninstall_protected_dlg_title">Desinstalando aplicativos de sistema</string>
@@ -2123,7 +2123,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="app_manager_disabled_by_admin">Desativado pelo administrador</string>
     <string name="app_manager_advanced_setting">Configurações avançadas</string>
     <string name="app_manager_total_size">Total</string>
-    <string name="app_manager_code_size">Tamanho do app</string>
+    <string name="app_manager_code_size">Tamanho do aplicativo</string>
     <string name="app_manager_data_size">Dados do usuário</string>
     <string name="app_manager_cache_size">Cache</string>
     <string name="app_manager_clear_all_data">Limpar todos os dados</string>
@@ -2134,8 +2134,8 @@ Você não perderá nenhum dado de apps."</string>
     <string name="app_manager_open_show_all_apps_immediate">Mostrar todos os resultados</string>
     <string name="app_manager_mobile_slot1">Dados móveis (SIM 1)</string>
     <string name="app_manager_mobile_slot2">Dados móveis (SIM 2)</string>
-    <string name="app_manager_details_title">Informações do app</string>
-    <string name="manage_hybrid_permissions">Gerenciar permissões do app</string>
+    <string name="app_manager_details_title">Informações do aplicativo</string>
+    <string name="manage_hybrid_permissions">Gerenciar permissões do aplicativo</string>
     <string name="ad_btn_default_text">Saiba mais</string>
     <string name="open_activity_err">O aplicativo não foi encontrado</string>
     <string name="low_memory_warning_dialog_title">Não há espaço livre suficiente</string>

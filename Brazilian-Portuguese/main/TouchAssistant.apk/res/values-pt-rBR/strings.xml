@@ -43,7 +43,7 @@
     <string name="open">Ativar</string>
     <string name="open_panel">Ativar botões de acesso rápido</string>
     <string name="pay_entry_dialog_title_select">Selecionar aplicativo para abrir</string>
-    <string name="pay_entry_dialog_title_setting">Definir app</string>
+    <string name="pay_entry_dialog_title_setting">Definir aplicativo</string>
     <string name="pref_category_mipay">Atalhos de NFC</string>
     <string name="pref_category_others">Outros</string>
     <string name="pref_category_quick_pay">Pagamento rápido</string>

@@ -72,7 +72,7 @@
     <string name="cancel_btn_label">Cancelar</string>
     <string name="cant_edit_lock_screen">Não é possível editar o estilo da Tela de bloqueio</string>
     <string name="cant_remove_folder">Não é possível remover a pasta</string>
-    <string name="cant_remove_retained_app">Não é possível remover este app</string>
+    <string name="cant_remove_retained_app">Não é possível remover este aplicativo</string>
     <string name="cant_remove_system_app">Não é possível remover um aplicativo de sistema</string>
     <string name="change_wallpaper">Alterar</string>
     <string name="choose_wallpaper">Escolher plano de fundo</string>
@@ -131,11 +131,11 @@
     <string name="failed_to_load_image">Não é possível carregar a imagem</string>
     <string name="folder_name">Pasta</string>
     <string name="frame_load_failed">Não é possível carregar o quadro</string>
-    <string name="free_style_apps_title">Escolher app</string>
+    <string name="free_style_apps_title">Escolher aplicativo</string>
     <string name="free_style_drawer_title">Todos os aplicativos</string>
     <string name="free_style_edit_app">App</string>
     <string name="free_style_edit_bar_empty">Vazio</string>
-    <string name="free_style_edit_bar_select_app">Escolher app</string>
+    <string name="free_style_edit_bar_select_app">Escolher aplicativo</string>
     <string name="free_style_edit_bottom_empty_tip">Toque no retângulo para editar</string>
     <string name="free_style_edit_drawer">Gaveta</string>
     <string name="free_style_edit_move_tip">Pressione e segure para mover um item</string>

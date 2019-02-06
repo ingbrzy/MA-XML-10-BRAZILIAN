@@ -30,11 +30,11 @@
     </plurals>
     <plurals name="hints_traffic_disable_title">
         <item quantity="other">Monitorando uso de dados para %d aplicativos</item>
-        <item quantity="one">Monitorando uso de dados para %d app</item>
+        <item quantity="one">Monitorando uso de dados para %d aplicativo</item>
     </plurals>
     <plurals name="traffic_setting_app_count">
         <item quantity="other">%d aplicativos</item>
-        <item quantity="one">%d app</item>
+        <item quantity="one">%d aplicativo</item>
     </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">%d aplicativos podem conectar-se à rede em segundo plano</item>
@@ -58,7 +58,7 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
     </plurals>
     <plurals name="search_app_count_txt_na">
         <item quantity="other">Pesquisar %d aplicativos</item>
-        <item quantity="one">Pesquisar %d app</item>
+        <item quantity="one">Pesquisar %d aplicativo</item>
     </plurals>
     <plurals name="hints_roaming_enable_title">
         <item quantity="other">%d aplicativos podem usar o roaming de dados</item>
@@ -190,7 +190,7 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
     </plurals>
     <plurals name="menu_text_app_manager_2">
         <item quantity="other">%d aplicativos</item>
-        <item quantity="one">%d app</item>
+        <item quantity="one">%d aplicativo</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d itens seguros</item>
@@ -198,7 +198,7 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
     </plurals>
     <plurals name="cache_check_content">
         <item quantity="other">Protegendo %d aplicativos</item>
-        <item quantity="one">Protegendo %d app</item>
+        <item quantity="one">Protegendo %d aplicativo</item>
     </plurals>
     <plurals name="title_virus_clean">
         <item quantity="other">%d vírus removidos</item>
@@ -218,7 +218,7 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
     </plurals>
     <plurals name="hints_permission_apps_count">
         <item quantity="other">%d aplicativos</item>
-        <item quantity="one">%d app</item>
+        <item quantity="one">%d aplicativo</item>
     </plurals>
     <plurals name="hints_get_root_enable_title">
         <item quantity="other">%d aplicativos têm acesso root</item>
@@ -278,7 +278,7 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
     </plurals>
     <plurals name="number_masked">
         <item quantity="other">%d aplicativos</item>
-        <item quantity="one">%d app</item>
+        <item quantity="one">%d aplicativo</item>
     </plurals>
     <plurals name="number_locked">
         <item quantity="other">%d aplicativos bloqueados</item>
@@ -298,7 +298,7 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
     </plurals>
     <plurals name="find_applications">
         <item quantity="other">Pesquisar entre %d aplicativos</item>
-        <item quantity="one">Pesquisar entre %d app</item>
+        <item quantity="one">Pesquisar entre %d aplicativo</item>
     </plurals>
     <plurals name="found_apps_title">
         <item quantity="other">%d aplicativos encontrados</item>
@@ -370,7 +370,7 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
     </plurals>
     <plurals name="privacy_apps_enable_header_title">
         <item quantity="other">É possível ocultar %d aplicativos</item>
-        <item quantity="one">É possível ocultar %d app</item>
+        <item quantity="one">É possível ocultar %d aplicativo</item>
     </plurals>
     <plurals name="privacy_apps_disable_header_title">
         <item quantity="other">%d aplicativos estão ocultos</item>

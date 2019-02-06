@@ -6,7 +6,7 @@
     <string name="abc_action_menu_overflow_description">Mais opções</string>
     <string name="abc_action_mode_done">Concluído</string>
     <string name="abc_activity_chooser_view_see_all">Ver tudo</string>
-    <string name="abc_activitychooserview_choose_application">Selecione um app</string>
+    <string name="abc_activitychooserview_choose_application">Selecione um aplicativo</string>
     <string name="abc_capital_off">DESATIVAR</string>
     <string name="abc_capital_on">ATIVAR</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
@@ -31,7 +31,7 @@
     <string name="abc_slice_more">Mais</string>
     <string name="abc_slice_more_content">Mais %1$d</string>
     <string name="abc_slice_permission_allow">Permitir</string>
-    <string name="abc_slice_permission_checkbox">Permitir que %1$s mostre partes de qualquer app</string>
+    <string name="abc_slice_permission_checkbox">Permitir que %1$s mostre partes de qualquer aplicativo</string>
     <string name="abc_slice_permission_deny">Negar</string>
     <string name="abc_slice_permission_text_1">- Pode ler informações do aplicativo %1$s</string>
     <string name="abc_slice_permission_text_2">- Pode realizar ações no aplicativo %1$s</string>
@@ -54,7 +54,7 @@
     <string name="accelerometer_summary_on">Alternar orientação automaticamente ao girar o telefone</string>
     <string name="accelerometer_title">Girar tela automaticamente</string>
     <string name="access_control_app_entry_multiple">Abrir %s</string>
-    <string name="access_control_app_entry_single">Abrir app</string>
+    <string name="access_control_app_entry_single">Abrir aplicativo</string>
     <string name="access_control_need_password">"%s está protegido
 "</string>
     <string name="access_control_need_to_unlock">Senha exigida:</string>
@@ -357,11 +357,11 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, aplicativo
     <string name="app_and_notification_dashboard_summary">Permissões, aplicativos padrão</string>
     <string name="app_and_notification_dashboard_title">Aplicativos e notificações</string>
     <string name="app_backup">Backup</string>
-    <string name="app_cellular_data_usage">Uso de dados do app</string>
+    <string name="app_cellular_data_usage">Uso de dados do aplicativo</string>
     <string name="app_data_usage">Uso de dados</string>
     <string name="app_default_dashboard_title">Aplicativos padrão</string>
     <string name="app_detail">Detalhes</string>
-    <string name="app_disable_dlg_positive">Desativar app</string>
+    <string name="app_disable_dlg_positive">Desativar aplicativo</string>
     <string name="app_disable_dlg_text">Se você desativar esse app, o Android e outros aplicativos poderão deixar de funcionar como deveriam.</string>
     <string name="app_disable_dlg_title">Desativar aplicativo integrado?</string>
     <string name="app_disable_notifications_dlg_text">Se você desativar as notificações para este app, poderá perder alertas e atualizações importantes.</string>
@@ -375,7 +375,7 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, aplicativo
     <string name="app_info_storage_title">Espaço utilizado</string>
     <string name="app_install_details_group_title">Loja</string>
     <string name="app_install_details_summary">App instalado a partir da %1$s</string>
-    <string name="app_install_details_title">Detalhes do app</string>
+    <string name="app_install_details_title">Detalhes do aplicativo</string>
     <string name="app_install_location_summary">Alterar o local de instalação preferido para novos aplicativos</string>
     <string name="app_install_location_title">Local de instalação preferido</string>
     <string name="app_invisible">Aplicativos invisíveis</string>
@@ -403,7 +403,7 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, aplicativo
     <string name="app_notification_listing_summary_zero">Ativadas para todos os aplicativos</string>
     <string name="app_notification_override_dnd_summary">Permitir que essas notificações continuem interrompendo quando o \"Não perturbe\" estiver ativado</string>
     <string name="app_notification_override_dnd_title">Ignorar \"Não perturbe\"</string>
-    <string name="app_notification_preferences">Configurações do app</string>
+    <string name="app_notification_preferences">Configurações do aplicativo</string>
     <string name="app_notification_row_banned">Bloqueadas</string>
     <string name="app_notification_row_priority">Prioridade</string>
     <string name="app_notification_row_sensitive">Confidenciais</string>
@@ -416,33 +416,33 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, aplicativo
     <string name="app_ops_running">Em execução</string>
     <string name="app_permission_summary_allowed">Permitido</string>
     <string name="app_permission_summary_not_allowed">Não permitido</string>
-    <string name="app_permissions">Permissões do app</string>
+    <string name="app_permissions">Permissões do aplicativo</string>
     <string name="app_permissions_summary">Aplicativos usando %1$s</string>
     <string name="app_process_limit_title">Limite do proc. 2º plano</string>
-    <string name="app_restrictions_custom_label">Definir restrições do app</string>
+    <string name="app_restrictions_custom_label">Definir restrições do aplicativo</string>
     <string name="app_sees_restricted_accounts">Este aplicativo pode acessar suas contas</string>
     <string name="app_sees_restricted_accounts_and_controlled_by">Este aplicativo pode acessar suas contas. Controlado por %1$s</string>
-    <string name="app_settings_link">Configurações adicionais no app</string>
+    <string name="app_settings_link">Configurações adicionais no aplicativo</string>
     <string name="app_special_disable_dlg_text">Se você desativar esse app, o Android e outros aplicativos poderão deixar de funcionar como deveriam. Seus dados também serão excluídos.</string>
     <string name="app_special_disable_dlg_title">Excluir os dados e desativar o app?</string>
     <string name="app_switch_key">Botão aplicativos recentes</string>
-    <string name="app_usage_cycle">Ciclo de uso de dados do app</string>
+    <string name="app_usage_cycle">Ciclo de uso de dados do aplicativo</string>
     <string name="app_usage_preference">Preferências de uso de aplicativos</string>
     <string name="app_version">Versão</string>
     <string name="app_wifi">Wi-Fi</string>
     <string name="application_forbid_auto_startup">Impedir %s de iniciar em segundo plano</string>
-    <string name="application_info_label">Informações do app</string>
+    <string name="application_info_label">Informações do aplicativo</string>
     <string name="application_item_already_permission">Permitido</string>
     <string name="application_item_disable">Negar</string>
     <string name="application_item_permission">Permitir</string>
     <string name="application_lock_name">Bloqueio de aplicativos</string>
     <string name="application_manager_section_title">Aplicativos</string>
-    <string name="application_permission_manager">Permissões do app</string>
-    <string name="application_permissions">Permissões do app</string>
+    <string name="application_permission_manager">Permissões do aplicativo</string>
+    <string name="application_permissions">Permissões do aplicativo</string>
     <string name="application_restrictions">Permitir aplicativos e conteúdo</string>
-    <string name="application_size_label">Tamanho do app</string>
+    <string name="application_size_label">Tamanho do aplicativo</string>
     <string name="applications_settings">Gerenciar aplicativos</string>
-    <string name="applications_settings_header">Configurações do app</string>
+    <string name="applications_settings_header">Configurações do aplicativo</string>
     <string name="applications_settings_summary">Gerenciar aplicativos, configurar atalhos de inicialização rápida</string>
     <string name="apply">Aplicar</string>
     <string name="apply_fingerprint_to_category_title">Aplicar impressão digital a…</string>
@@ -454,7 +454,7 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, aplicativo
     <string name="apps_summary">%1$d aplicativos instalados</string>
     <string name="apps_summary_example">24 aplicativos instalados</string>
     <string name="apps_with_restrictions_header">Aplicativos com restrições</string>
-    <string name="apps_with_restrictions_settings_button">Expandir configuração para app</string>
+    <string name="apps_with_restrictions_settings_button">Expandir configuração para aplicativo</string>
     <string name="ask_compatibility">Perguntar ao iniciar</string>
     <string name="ask_for_delete">Excluir esta regra?</string>
     <string name="assist_access_context_summary">Permitir que o aplicativo assistivo acesse o conteúdo da tela como texto</string>
@@ -590,8 +590,8 @@ Para restringir, ative a otimização."</string>
     <string name="battery_abnormal_location_summary">Solicitando localização com frequência</string>
     <string name="battery_abnormal_wakelock_summary">Mantendo o dispositivo ativado</string>
     <string name="battery_abnormal_wakeup_alarm_summary">Ativando o dispositivo em segundo plano</string>
-    <string name="battery_action_app_details">Informações do app</string>
-    <string name="battery_action_app_settings">Configurações do app</string>
+    <string name="battery_action_app_details">Informações do aplicativo</string>
+    <string name="battery_action_app_settings">Configurações do aplicativo</string>
     <string name="battery_action_bluetooth">Conf. de Bluetooth</string>
     <string name="battery_action_display">Configurações da tela</string>
     <string name="battery_action_stop">Forçar parada</string>
@@ -599,7 +599,7 @@ Para restringir, ative a otimização."</string>
     <string name="battery_active_for">Ativa por ^1</string>
     <string name="battery_auto_restriction_summary">Detectar quando aplicativos estiverem descarregando a bateria</string>
     <string name="battery_auto_restriction_title">Usar o Gerenciador de bateria</string>
-    <string name="battery_desc_apps">Bateria usada por app</string>
+    <string name="battery_desc_apps">Bateria usada por aplicativo</string>
     <string name="battery_desc_bluetooth">Bateria usada por Bluetooth</string>
     <string name="battery_desc_camera">Bateria usada pela câmera</string>
     <string name="battery_desc_display">Bateria usada pela tela e pela luz de fundo</string>
@@ -700,7 +700,7 @@ Para restringir, ative a otimização."</string>
     <string name="battery_stats_wifi_running_label">Wi-Fi</string>
     <string name="battery_status_title">Status da bateria</string>
     <string name="battery_sugg_apps_gps">Selecionar modo de economia de bateria</string>
-    <string name="battery_sugg_apps_info">Parar ou desinstalar o app</string>
+    <string name="battery_sugg_apps_info">Parar ou desinstalar o aplicativo</string>
     <string name="battery_sugg_apps_settings">O aplicativo pode oferecer configurações para reduzir o uso da bateria</string>
     <string name="battery_sugg_bluetooth_basic">Desativar Bluetooth quando não estiver em uso</string>
     <string name="battery_sugg_bluetooth_headset">Tente conectar a um dispositivo Bluetooth diferente</string>
@@ -1160,7 +1160,7 @@ Este recurso pode ser desativado nas [Configurações]"</string>
     <string name="camera_front">Frontal %s</string>
     <string name="camera_gesture_desc">Abrir o aplicativo Câmera girando o pulso duas vezes</string>
     <string name="camera_gesture_title">Girar duas vezes para abrir a câmera</string>
-    <string name="camera_key_action_app_title">Abrir app</string>
+    <string name="camera_key_action_app_title">Abrir aplicativo</string>
     <string name="camera_key_action_category_title">Não é possível usar a Câmera</string>
     <string name="camera_key_action_none_title">Nenhuma ação</string>
     <string name="camera_key_action_setting_title">Botão Mi</string>
@@ -1255,7 +1255,7 @@ Este recurso pode ser desativado nas [Configurações]"</string>
     <string name="clear_data_dlg_title">Excluir os dados do app?</string>
     <string name="clear_failed_dlg_text">Não foi possível limpar o armazenamento do app.</string>
     <string name="clear_instant_app_confirmation">Quer remover esse aplicativo instantâneo?</string>
-    <string name="clear_instant_app_data">Limpar app</string>
+    <string name="clear_instant_app_data">Limpar aplicativo</string>
     <string name="clear_uri_btn_text">Limpar acesso</string>
     <string name="clear_user_data_text">Limpar armazenamento</string>
     <string name="close_aod">Este recurso não pode ser combinado com o \"Modo Always On\". Desative o \"Modo Always On\" primeiro.</string>
@@ -1499,8 +1499,8 @@ Para continuar usando seu telefone, é necessário restaurar as configurações 
 Você pode encontrar controles de uso de dados mais apropriados nas configurações disponíveis no app."</string>
     <string name="data_usage_app_restrict_dialog_title">Restringir dados de segundo plano?</string>
     <string name="data_usage_app_restricted">restrito</string>
-    <string name="data_usage_app_settings">Configurar app</string>
-    <string name="data_usage_app_summary_title">Uso de dados do app</string>
+    <string name="data_usage_app_settings">Configurar aplicativo</string>
+    <string name="data_usage_app_summary_title">Uso de dados do aplicativo</string>
     <string name="data_usage_auto_sync_off_dialog">Isto preservará o uso de dados e da bateria, mas será necessário sincronizar manualmente cada conta para obter as informações mais recentes, e você não será informado de novas atualizações.</string>
     <string name="data_usage_auto_sync_off_dialog_title">Desativar sincroniz. automática?</string>
     <string name="data_usage_auto_sync_on_dialog">"As alterações feitas em suas contas na Web serão automaticamente copiadas para o smartphone.
@@ -1669,7 +1669,7 @@ Como o uso de dados é calculado pelo seu smartphone, e sua operadora pode enten
     <string name="demo_mode">Modo de demonstração</string>
     <string name="demo_mode_summary">Mostrar ícone de demonstração na barra de status</string>
     <string name="deny">Recusar</string>
-    <string name="detail_app_button">Info. do app</string>
+    <string name="detail_app_button">Info. do aplicativo</string>
     <string name="details_subtitle">Detalhes de uso</string>
     <string name="dev_logpersist_clear_warning_message">Quando não estamos mais monitorando com o logger persistente, somos requeridos a apagar os dados do logger presentes no seu dispositivo.</string>
     <string name="dev_logpersist_clear_warning_title">Limpar armazenamento persistente do logger?</string>
@@ -1681,7 +1681,7 @@ Como o uso de dados é calculado pelo seu smartphone, e sua operadora pode enten
     <string name="development_enable">Opções do desenvolvedor</string>
     <string name="development_settings_enable">Ativar opções do desenvolvedor</string>
     <string name="development_settings_not_available">As opções do desenvolvedor não estão disponíveis para este usuário</string>
-    <string name="development_settings_summary">Define as opções para o desenvolvimento do app</string>
+    <string name="development_settings_summary">Define as opções para o desenvolvimento do aplicativo</string>
     <string name="development_settings_title">Opções do desenvolvedor</string>
     <string name="device_actionbar_title">Mi 5</string>
     <string name="device_admin_add_title">Administrador do dispositivo</string>
@@ -1772,7 +1772,7 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
 Para tentar resolver esse problema, você pode forçar a parada do aplicativo %1$s.
 
 Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melhorar o desempenho da bateria."</string>
-    <string name="dialog_stop_ok">Parar o app</string>
+    <string name="dialog_stop_ok">Parar o aplicativo</string>
     <string name="dialog_stop_title">Parar o app?</string>
     <string name="dialog_title_color_calibration">Predefinição de correção de cores</string>
     <string name="dialog_title_hdmi_color_calibration">Predefinição de correção de cores</string>
@@ -1798,7 +1798,7 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
     <string name="disabled_by_policy_title_outgoing_calls">Chamada não permitida</string>
     <string name="disabled_by_policy_title_screen_capture">Captura de tela não permitida</string>
     <string name="disabled_by_policy_title_sms">SMS não permitido</string>
-    <string name="disabled_by_policy_title_suspend_packages">Não é possível abrir este app</string>
+    <string name="disabled_by_policy_title_suspend_packages">Não é possível abrir este aplicativo</string>
     <string name="disabled_by_policy_title_turn_off_backups">Não é possível desativar os backups</string>
     <string name="disabled_dependent_setting_summary">Depende de outra configuração</string>
     <string name="disabled_for_user_setting_summary">A configuração não pode ser alterada pelo usuário atual</string>
@@ -1957,7 +1957,7 @@ Você pode ver os logs gerados no Gerenciador de Arquivos."</string>
     <string name="empty_list_msg">Você não tem aplicativos de terceiros instalados.</string>
     <string name="enable_adb">Depuração USB</string>
     <string name="enable_adb_summary">Modo de depuração quando o USB estiver conectado</string>
-    <string name="enable_compatibility">Dimensionar app</string>
+    <string name="enable_compatibility">Dimensionar aplicativo</string>
     <string name="enable_freeform_support">Ativar janelas de forma livre</string>
     <string name="enable_freeform_support_summary">Ativar o suporte experimental para janelas de forma livre.</string>
     <string name="enable_gnss_raw_meas_full_tracking">Forçar medições completas de GNSS</string>
@@ -2052,7 +2052,7 @@ Para saber mais detalhes, entre em contato com o administrador da sua organizaç
     <string name="enterprise_privacy_settings">Informações do dispositivo gerenciado</string>
     <string name="enterprise_privacy_settings_summary_generic">Alterações e configurações gerenciadas pela sua organização</string>
     <string name="enterprise_privacy_settings_summary_with_name">Alterações e configurações gerenciadas por %s</string>
-    <string name="enterprise_privacy_usage_stats">Quantidade de tempo gasto e dados usados em cada app</string>
+    <string name="enterprise_privacy_usage_stats">Quantidade de tempo gasto e dados usados em cada aplicativo</string>
     <string name="enterprise_privacy_wipe_device">O administrador pode excluir todos os dados do dispositivo</string>
     <string name="eq_auto">Pèrsonalizado</string>
     <string name="eq_blues">Blues</string>
@@ -2407,7 +2407,7 @@ Quando você ativa o backup automático, os dados do dispositivo e de aplicativo
     <string name="hdmi_color_calibration_srgb">sRGB</string>
     <string name="header_account_settings">Configurações da conta</string>
     <string name="header_add_an_account">Adicionar uma conta</string>
-    <string name="header_application_sync_settings">Configurações de sincronização do app</string>
+    <string name="header_application_sync_settings">Configurações de sincronização do aplicativo</string>
     <string name="header_category_access">Acesso</string>
     <string name="header_category_accounts">Contas</string>
     <string name="header_category_connections">Conexões</string>
@@ -2731,7 +2731,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="location_agps_supl_server_addr">Endereço do servidor</string>
     <string name="location_agps_supl_server_port">Porta do servidor</string>
     <string name="location_agps_supl_settings">Configurações de SUPL</string>
-    <string name="location_app_level_permissions">Permissões no app</string>
+    <string name="location_app_level_permissions">Permissões no aplicativo</string>
     <string name="location_category_location_services">Serviços de localização</string>
     <string name="location_category_recent_location_requests">Solicitações recentes</string>
     <string name="location_gps">Satélites de GPS</string>
@@ -3320,7 +3320,7 @@ Selecione seu sistema operacional:"</string>
     <string name="n_cacrts">%d certificados CA</string>
     <string name="nature_color">Padrão</string>
     <string name="navigation_guide_app_summary">Deslize para a esquerda ou direita a partir da borda superior da tela</string>
-    <string name="navigation_guide_app_title">Ativar ação do app</string>
+    <string name="navigation_guide_app_title">Ativar ação do aplicativo</string>
     <string name="navigation_guide_appswitch_anim_summary">Deslize pela tela iniciando da borda para voltar ao aplicativo anterior</string>
     <string name="navigation_guide_appswitch_anim_title">Voltar ao aplicativo anterior</string>
     <string name="navigation_guide_appswitch_click">Ative \"Voltar ao aplicativo anterior\" primeiro</string>
@@ -3347,7 +3347,7 @@ Selecione seu sistema operacional:"</string>
     <string name="network_assistant">Uso de dados</string>
     <string name="network_changed_noti_summary">Usando os dados móveis</string>
     <string name="network_changed_noti_title">Desconectado do Wi-Fi</string>
-    <string name="network_control">Ver configurações do app</string>
+    <string name="network_control">Ver configurações do aplicativo</string>
     <string name="network_dashboard_summary_data_usage">uso de dados</string>
     <string name="network_dashboard_summary_hotspot">ponto de acesso</string>
     <string name="network_dashboard_summary_mobile">rede móvel</string>
@@ -3556,7 +3556,7 @@ Isso também permitira que o aplicativo ative ou desative o modo \"Não perturbe
     <string name="notification_switch_label">Mostrar notificações</string>
     <string name="notification_toggle_off">Desativadas</string>
     <string name="notification_toggle_on">Ativado</string>
-    <string name="notification_unknown_sound_title">Som fornecido pelo app</string>
+    <string name="notification_unknown_sound_title">Som fornecido pelo aplicativo</string>
     <string name="notification_update_new_version">Atualização disponível</string>
     <string name="notification_update_now">Atualizar agora</string>
     <string name="notification_vibrate_title">Vibrar</string>
@@ -3966,7 +3966,7 @@ Isso também permitira que o aplicativo ative ou desative o modo \"Não perturbe
     <string name="private_sms_need_to_unlock">Senha requerida:</string>
     <string name="private_sms_recording_intro_header">Desenhe um padrão de desbloqueio:</string>
     <string name="private_sms_reset_by_account">Para redefinir sua senha, faça o login em sua Conta Mi</string>
-    <string name="process_dex2oat_label">Otimização do app</string>
+    <string name="process_dex2oat_label">Otimização do aplicativo</string>
     <string name="process_mediaserver_label">Servidor de mídia</string>
     <string name="process_provider_in_use_description">O provedor %1$s está em uso.</string>
     <string name="process_service_in_use_description">O serviço %1$s está em uso.</string>
@@ -4497,7 +4497,7 @@ Para usar a fixação de tela:
     <string name="search_owner_info_settings_title">Informações do proprietário</string>
     <string name="search_page_layout_settings">Tamanho do texto;Tamanho da fonte;Fonte pequena;Fonte grande;Fonte média;Fonte EEG;Fonte enorme;Tamanho de fonte</string>
     <string name="search_permission_manager">Permissões;Acesso root</string>
-    <string name="search_permission_settings_title">Permissões do app</string>
+    <string name="search_permission_settings_title">Permissões do aplicativo</string>
     <string name="search_pointer_speed">Velocidade do ponteiro</string>
     <string name="search_power_checker">Verificação de energia</string>
     <string name="search_power_hide_mode_title">Gerenciar uso de bateria por apps;Uso de bateria por apps;Uso de bateria;Estatísticas da bateria</string>
@@ -4674,7 +4674,7 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
     <string name="security_update">Atualização de segurança</string>
     <string name="see_all_apps_title">Ver todos os %1$d aplicativos</string>
     <string name="select_all">Selecionar tudo</string>
-    <string name="select_application">Selecionar app</string>
+    <string name="select_application">Selecionar aplicativo</string>
     <string name="select_device_admin_msg">Aplicativos do administrador do dispositivo</string>
     <string name="select_logd_level">Selecionar nível de log</string>
     <string name="select_logd_size_dialog_title">Selecionar tamanho para o buffer de log</string>
@@ -4881,15 +4881,15 @@ PIN possivelmente incorreto."</string>
     <string name="skip_label">Pular</string>
     <string name="skip_lock_screen_confirm_msg">Notificações, controles de música e atalhos não serão exibidos na Tela de bloqueio.</string>
     <string name="skip_step">Pular</string>
-    <string name="slider_app_open">Abrir app</string>
+    <string name="slider_app_open">Abrir aplicativo</string>
     <string name="slider_app_open_name">Abrir %1$s</string>
     <string name="slider_app_open_none">Nenhum</string>
     <string name="slider_button_title">Alterar</string>
-    <string name="slider_choose_app">Selecionar app</string>
+    <string name="slider_choose_app">Selecionar aplicativo</string>
     <string name="slider_game_page_code">00008</string>
     <string name="slider_game_tool_summary">Puxe a tela para baixo para ver atalhos disponíveis quando estiver jogando</string>
     <string name="slider_game_tool_tilte">Atalhos de jogo</string>
-    <string name="slider_global_summary_app">Empurre a tela para baixo para abrir um app</string>
+    <string name="slider_global_summary_app">Empurre a tela para baixo para abrir um aplicativo</string>
     <string name="slider_global_summary_drawer">Empurre a tela para baixo para ver os atalhos disponíveis</string>
     <string name="slider_global_summary_selfie">Puxe a tela para baixo para tirar uma selfie</string>
     <string name="slider_global_title">Atalho do slider</string>
@@ -5006,7 +5006,7 @@ Uma credencial confiável instalada no dispositivo permite isso."</string>
     <string name="status_bar_settings">Notificações e barra de status</string>
     <string name="status_bar_settings_advanced">Configurações adicionais</string>
     <string name="status_bar_settings_all_app_display_loading">Aguarde…</string>
-    <string name="status_bar_settings_app_notification_preferences">Configurações do app</string>
+    <string name="status_bar_settings_app_notification_preferences">Configurações do aplicativo</string>
     <string name="status_bar_settings_basic_settings">Configurações básicas</string>
     <string name="status_bar_settings_custom_carrier">Editar nome da operadora</string>
     <string name="status_bar_settings_custom_wifi_name">Editar nome da rede Wi-Fi</string>
@@ -5033,7 +5033,7 @@ Uma credencial confiável instalada no dispositivo permite isso."</string>
     <string name="status_bar_settings_show_floating_notification">Notificações flutuantes</string>
     <string name="status_bar_settings_show_floating_notification_summary">Permitir notificações importantes no topo da tela</string>
     <string name="status_bar_settings_show_flow_info">Mostrar uso de dados</string>
-    <string name="status_bar_settings_show_home_message">Ícone do app</string>
+    <string name="status_bar_settings_show_home_message">Ícone do aplicativo</string>
     <string name="status_bar_settings_show_keyguard_notification">Notificações na tela de bloqueio</string>
     <string name="status_bar_settings_show_keyguard_notification_summary">Permitir notificações importantes na Tela de bloqueio</string>
     <string name="status_bar_settings_show_network_speed">Mostrar velocidade da conexão</string>
@@ -5405,7 +5405,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="thememanager_not_found">Não foi possível abrir o Gerenciador de Temas. Certifique-se de que o aplicativo está instalado.</string>
     <string name="three_gesture_down">Deslizar 3 dedos para baixo</string>
     <string name="time_picker_title">Hora</string>
-    <string name="time_spent_in_app_pref_title">Tempo gasto no app</string>
+    <string name="time_spent_in_app_pref_title">Tempo gasto no aplicativo</string>
     <string name="time_unit_just_now">Agora mesmo</string>
     <string name="timed_titlei">Timer %d</string>
     <string name="timezone_settings">Fuso horário</string>
@@ -5479,7 +5479,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="tts_install_data_title">Instalar dados de voz</string>
     <string name="tts_install_voice_title">Vozes</string>
     <string name="tts_install_voices_cancel">Cancelar</string>
-    <string name="tts_install_voices_open">Abrir app</string>
+    <string name="tts_install_voices_open">Abrir aplicativo</string>
     <string name="tts_install_voices_text">Continue no aplicativo %s para instalar as vozes</string>
     <string name="tts_install_voices_title">Instalar vozes</string>
     <string name="tts_lang_not_selected">Idioma não selecionado</string>
@@ -5524,7 +5524,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="under_keyguard">Desligar tela</string>
     <string name="unimportant">Não importante</string>
     <string name="uninstall_all_users_text">Desinstalar para todos os usuários</string>
-    <string name="uninstall_device_admin">Desinstalar app</string>
+    <string name="uninstall_device_admin">Desinstalar aplicativo</string>
     <string name="uninstall_dlg_msg">A desinstalação apagará todos os dados deste app.</string>
     <string name="uninstall_dlg_title">Desinstalar agora?</string>
     <string name="uninstall_protected_dlg_msg">Desinstalar aplicativos de sistema pode impedir que alguns componentes do MIUI funcionem corretamente. Desinstalar mesmo assim?</string>
@@ -5623,7 +5623,7 @@ Suas impressões digitais salvas também serão removidas deste perfil e não se
     <string name="usage_access">Acesso ao uso</string>
     <string name="usage_access_description">O acesso ao uso permite que um aplicativo monitore que outros aplicativos você está usando e com que frequência, bem como sua operadora, as configurações de idioma e outros detalhes.</string>
     <string name="usage_access_title">Aplicativos com acesso ao uso</string>
-    <string name="usage_log">Estatísticas de uso do app</string>
+    <string name="usage_log">Estatísticas de uso do aplicativo</string>
     <string name="usage_stats_label">Estatísticas de uso</string>
     <string name="usage_time_label">Tempo de uso</string>
     <string name="usage_type_actual_power">Uso de energia observado</string>
@@ -5915,7 +5915,7 @@ Toque no + para adicionar palavras."</string>
     <string name="vpn_always_on_invalid_reason_type">Não é possível manter este tipo de VPN sempre conectado</string>
     <string name="vpn_always_on_summary">Sempre manter-se conectado à VPN</string>
     <string name="vpn_always_on_summary_active">Opção \"Sempre ativada\" ativada</string>
-    <string name="vpn_always_on_summary_not_supported">Não compatível com este app</string>
+    <string name="vpn_always_on_summary_not_supported">Não compatível com este aplicativo</string>
     <string name="vpn_cancel">Cancelar</string>
     <string name="vpn_cant_connect_message">Este aplicativo não é compatível com VPN sempre ativa</string>
     <string name="vpn_cant_connect_title">Não é possível conectar-se a %1$s</string>

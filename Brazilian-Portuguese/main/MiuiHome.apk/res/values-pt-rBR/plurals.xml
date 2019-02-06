@@ -26,7 +26,7 @@
     </plurals>
     <plurals name="uninstall_result_multi_failed">
         <item quantity="other">Não é possível desinstalar %1$d aplicativos</item>
-        <item quantity="one">Não é possível desinstalar %1$d app</item>
+        <item quantity="one">Não é possível desinstalar %1$d aplicativo</item>
     </plurals>
     <plurals name="uninstall_result_multi_succeeded">
         <item quantity="other">%1$d aplicativos desinstalados</item>

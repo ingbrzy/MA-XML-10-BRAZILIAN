@@ -117,8 +117,8 @@
         <item quantity="one">%d categoria de notificação</item>
     </plurals>
     <plurals name="notification_num_channels_desc">
-        <item quantity="other">1 de %d categorias de notificação deste app</item>
-        <item quantity="one">1 de %d categoria de notificação deste app</item>
+        <item quantity="other">1 de %d categorias de notificação deste aplicativo</item>
+        <item quantity="one">1 de %d categoria de notificação deste aplicativo</item>
     </plurals>
     <plurals name="phone_locked_timeout_minutes_string">
         <item quantity="other">Tente novamente em %d minutos</item>

@@ -133,9 +133,9 @@
     <string name="security_permission_wifi_and_data_opened_text">Dados móveis e Wi-Fi ativados</string>
     <string name="security_permission_network_failed_text">Não foi possível conectar-se à rede. Verifique suas configurações de rede e tente novamente.</string>
     <string name="security_permission_open_wifi_settings">Abrir configurações de Wi-Fi</string>
-    <string name="xspace_resolver_activity_title">Selecionar app</string>
+    <string name="xspace_resolver_activity_title">Selecionar aplicativo</string>
     <string name="user_switching_dialog_text">Alternando…</string>
-    <string name="xspace_head">Dual app</string>
+    <string name="xspace_head">Dual aplicativo</string>
     <string name="activity_package_delete_confirm_title">Atenção</string>
     <string name="button_text_cancel">Cancelar</string>
     <string name="button_text_delete">Desinstalar</string>

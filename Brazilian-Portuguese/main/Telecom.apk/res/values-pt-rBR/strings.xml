@@ -119,7 +119,7 @@
     <string name="category_work">Trabalho</string>
     <string name="development_settings_title">Opções do desenvolvedor</string>
     <string name="development_settings_enable">Ativar opções do desenvolvedor</string>
-    <string name="development_settings_summary">Define as opções para o desenvolvimento do app</string>
+    <string name="development_settings_summary">Define as opções para o desenvolvimento do aplicativo</string>
     <string name="development_settings_not_available">As opções do desenvolvedor não estão disponíveis para este usuário</string>
     <string name="vpn_settings_not_available">As configurações de VPN não estão disponíveis para este usuário</string>
     <string name="tethering_settings_not_available">As configurações de tethering não estão disponíveis para este usuário</string>
@@ -200,7 +200,7 @@ qualidade de reprodução"</string>
     <string name="debug_app_not_set">Nenhum conjunto de aplicativos de depuração</string>
     <string name="debug_app_set">App de depuração: %1$s</string>
     <string name="do_not_show_again">Não mostrar novamente</string>
-    <string name="select_application">Selecionar app</string>
+    <string name="select_application">Selecionar aplicativo</string>
     <string name="no_application">Nada</string>
     <string name="wait_for_debugger">Aguardar depurador</string>
     <string name="wait_for_debugger_summary">App depurado espera conexão com debugger antes de ser executado.</string>

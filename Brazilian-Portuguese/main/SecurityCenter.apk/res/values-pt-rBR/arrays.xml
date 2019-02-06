@@ -51,8 +51,8 @@
     </string-array>
     <string-array name="lock_mode">
         <item>Quando o dispositivo estiver bloqueado</item>
-        <item>Quando o dispositivo estiver bloqueado ou ao sair do app</item>
-        <item>Com o dispositivo bloqueado ou em 1 minuto ao sair do app</item>
+        <item>Quando o dispositivo estiver bloqueado ou ao sair do aplicativo</item>
+        <item>Com o dispositivo bloqueado ou em 1 minuto ao sair do aplicativo</item>
     </string-array>
     <string-array name="lock_mode_value">
         <item>1</item>
@@ -61,14 +61,14 @@
     </string-array>
     <string-array name="sort_type">
         <item>Status</item>
-        <item>Nome do app</item>
+        <item>Nome do aplicativo</item>
         <item>Frequência de uso</item>
         <item>Uso do armazenamento</item>
         <item>Data de instalação</item>
     </string-array>
     <string-array name="sort_title">
         <item>Ordenar por status</item>
-        <item>Ordenar por nome do app</item>
+        <item>Ordenar por nome do aplicativo</item>
         <item>Ordenar por frequência de uso</item>
         <item>Ordenar por uso de armazenamento</item>
         <item>Ordenar por data de instalação</item>

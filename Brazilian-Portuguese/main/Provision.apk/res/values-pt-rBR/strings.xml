@@ -65,7 +65,7 @@ Você deve concordar com a Política de Privacidade do Kika antes de usar este r
     <string name="privacy_policy">Política de Privacidade</string>
     <string name="terms_privacy_policy_input_method_kika">Política de Privacidade do Kika</string>
     <string name="terms_privacy_policy_input_method_facemoji">Política de Privacidade do Facemoji</string>
-    <string name="application_permissions">Permissões do app</string>
+    <string name="application_permissions">Permissões do aplicativo</string>
     <string name="agree">Aceitar</string>
     <string name="disagree">Cancelar</string>
     <string name="setting_locale">Definindo região…</string>

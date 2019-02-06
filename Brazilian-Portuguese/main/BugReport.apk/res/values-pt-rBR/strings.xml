@@ -216,7 +216,7 @@
     <string name="feedback_select_problem">Problemas</string>
     <string name="feedback_choose_module">Selecionar item</string>
     <string name="feedback_choose_app_tag">Selecionar problema</string>
-    <string name="feedback_choose_third_app_name">Selecionar nome do app</string>
+    <string name="feedback_choose_third_app_name">Selecionar nome do aplicativo</string>
     <string name="toast_module_required">Selecionar itens</string>
     <string name="toast_app_tag_required">Selecionar problema</string>
     <string name="feedback_choose_module_hint">Requerido</string>
@@ -243,7 +243,7 @@
     <string name="toast_title_required">Descreva seu problema</string>
     <string name="toast_problem_class_required">Selecionar categoria</string>
     <string name="feedback_third_packagename_hint">Que aplicativo de terceiros está causando o problema?</string>
-    <string name="toast_third_packagename_required">Inserir nome do app</string>
+    <string name="toast_third_packagename_required">Inserir nome do aplicativo</string>
     <string name="feedback_contact_info_hint">Número de telefone/E-mail</string>
     <string name="toast_loading_app_id">Obtendo informações…</string>
     <string name="feedback_status_commit_succ_title">Enviado</string>

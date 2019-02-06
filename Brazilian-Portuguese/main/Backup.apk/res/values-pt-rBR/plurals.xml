@@ -5,8 +5,8 @@
         <item quantity="one">%d arquivo de dados do sistema</item>
     </plurals>
     <plurals name="backup_items_app_tailer">
-        <item quantity="other">%d arquivos de dados do app</item>
-        <item quantity="one">%d arquivo de dados do app</item>
+        <item quantity="other">%d arquivos de dados do aplicativo</item>
+        <item quantity="one">%d arquivo de dados do aplicativo</item>
     </plurals>
     <plurals name="data_item_count">
         <item quantity="other">%d itens</item>

@@ -302,7 +302,7 @@ Mantenha os dispositivos pertos um do outro."</string>
     <string name="trans_detail_category_files">Arquivos</string>
     <string name="trans_detail_category_audio_video_doc">Áudio, vídeo e arquivos</string>
     <string name="trans_detail_category_wechat_qq">Dados do Wechat e QQ (incluindo histórico de chats)</string>
-    <string name="trans_detail_category_user_app_data">Dados do app</string>
+    <string name="trans_detail_category_user_app_data">Dados do aplicativo</string>
     <string name="trans_detail_wechat_data">Dados do WeChat (incluindo histórico de chats)</string>
     <string name="trans_detail_qq_data">Dados do QQ (incluindo histórico de chats)</string>
     <string name="trans_detail_app_data_useless_tip">Você pode restaurar estes através do app, não é necessário transferir.</string>
@@ -311,14 +311,14 @@ Mantenha os dispositivos pertos um do outro."</string>
     <string name="trans_detail_list_footer">Nota: Você pode optar por transferir os aplicativos separadamente. Entretanto, se você seleciona os dados do app, os aplicativos correspondentes também serão transferidos.</string>
     <string name="trans_detail_page_tip">Quanto mais itens forem selecionados mais demorada será a transferência.</string>
     <string name="trans_detail_sys_data_list_title">Aplicativos do sistema</string>
-    <string name="trans_detail_app_data_list_title">Dados do app</string>
+    <string name="trans_detail_app_data_list_title">Dados do aplicativo</string>
     <string name="trans_detail_app_apk_list_title">Aplicativos instalados</string>
     <string name="trans_detail_wechat_qq_list_title">WeChat e QQ</string>
     <string name="trans_detail_audio_video_doc_list_title">Áudio, vídeo e arquivos</string>
     <string name="trans_detail_sys_data_page_title">Selecionar aplicativos do sistema</string>
-    <string name="trans_detail_app_data_page_title">Selecionar dados do app</string>
+    <string name="trans_detail_app_data_page_title">Selecionar dados do aplicativo</string>
     <string name="trans_detail_app_apk_page_title">Selecionar aplicativos</string>
-    <string name="trans_detail_wechat_qq_page_title">Selecionar WeChat, QQ e dados do app</string>
+    <string name="trans_detail_wechat_qq_page_title">Selecionar WeChat, QQ e dados do aplicativo</string>
     <string name="trans_detail_audio_video_doc_page_title">Selecionar áudio, vídeo e arquivos</string>
     <string name="trans_sending_completed">Enviado com sucesso</string>
     <string name="trans_receiving_completed">Recebido com sucesso</string>

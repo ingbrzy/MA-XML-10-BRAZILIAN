@@ -58,7 +58,7 @@
     <string name="start_backup_to_micloud">Backup de aplicativos para a Mi Cloud</string>
     <string name="backing_up_to_micloud">Fazendo backup…</string>
     <string name="restore_from_cloud">Restaurar backup da Mi Cloud</string>
-    <string name="backup_to_cloud">Backup do app</string>
+    <string name="backup_to_cloud">Backup do aplicativo</string>
     <string name="menu_item_sort">Ordenar por</string>
     <string name="menu_item_sort_name">Nome</string>
     <string name="menu_item_sort_size">Tamanho</string>
@@ -76,7 +76,7 @@
     <string name="recover_from_micloud">Restaurar backup da Mi Cloud</string>
     <string name="click_try_to_restore_again">Toque para tentar novamente</string>
     <string name="open_wifi">Ativar Wi-Fi agora</string>
-    <string name="open_wifi_description">Conecte-se a uma rede Wi-Fi para restaurar o app</string>
+    <string name="open_wifi_description">Conecte-se a uma rede Wi-Fi para restaurar o aplicativo</string>
     <string name="open_wifi_setting">Configurações de Wi-Fi</string>
     <string name="download_settings">Fazendo o download de itens da Tela Inicial %s%%</string>
     <string name="cloud_back_up_date_format">HH:mm, dd/MM/yyyy</string>

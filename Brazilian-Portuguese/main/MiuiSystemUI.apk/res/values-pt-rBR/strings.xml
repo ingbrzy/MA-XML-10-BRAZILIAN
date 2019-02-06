@@ -9,7 +9,7 @@
     <string name="abc_action_menu_overflow_description">Mais opções</string>
     <string name="abc_action_mode_done">Concluído</string>
     <string name="abc_activity_chooser_view_see_all">Ver tudo</string>
-    <string name="abc_activitychooserview_choose_application">Selecione um app</string>
+    <string name="abc_activitychooserview_choose_application">Selecione um aplicativo</string>
     <string name="abc_capital_off">DESATIVAR</string>
     <string name="abc_capital_on">ATIVAR</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
@@ -109,7 +109,7 @@
     <string name="accessibility_enter_lock_wallpaper">Toque para abrir o Carrossel de Planos de fundo</string>
     <string name="accessibility_ethernet_connected">Ethernet conectado.</string>
     <string name="accessibility_ethernet_disconnected">Ethernet desconectado.</string>
-    <string name="accessibility_fingerprint_dialog_app_icon">Ícone do app</string>
+    <string name="accessibility_fingerprint_dialog_app_icon">Ícone do aplicativo</string>
     <string name="accessibility_fingerprint_dialog_fingerprint_icon">Ícone de impressão digital</string>
     <string name="accessibility_fingerprint_dialog_help_area">Área de mensagem de ajuda</string>
     <string name="accessibility_gps_acquiring">Obtendo sinal de GPS.</string>
@@ -293,7 +293,7 @@
     <string name="always_use_device">Usar como padrão neste dispositivo USB</string>
     <string name="animator_duration_scale_title">Escala de duração do Animator</string>
     <string name="apn_settings_not_available">As configurações do Nome do ponto de acesso não estão disponíveis para este usuário</string>
-    <string name="app_info">Info. do app</string>
+    <string name="app_info">Info. do aplicativo</string>
     <string name="app_label">UI do Sistema</string>
     <string name="app_name">Tela de bloqueio</string>
     <string name="app_process_limit_title">Limite do proc. 2º plano</string>
@@ -444,7 +444,7 @@ Taxa de amostra"</string>
     <string name="call_status_holding">Em espera</string>
     <string name="call_status_ringing">Tocando</string>
     <string name="camera_hint">Deslize do ícone para acessar a Câmera</string>
-    <string name="camera_key_action_app_title">Abrir app</string>
+    <string name="camera_key_action_app_title">Abrir aplicativo</string>
     <string name="camera_key_action_category_title">Usar se o aplicativo da Câmera não estiver aberto</string>
     <string name="camera_key_action_none_title">Nenhuma ação</string>
     <string name="camera_key_action_setting_title">Botão Mi</string>
@@ -543,7 +543,7 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
     <string name="dev_settings_warning_title">Ativar as configurações de desenvolvimento?</string>
     <string name="development_settings_enable">Ativar opções do desenvolvedor</string>
     <string name="development_settings_not_available">As opções do desenvolvedor não estão disponíveis para este usuário</string>
-    <string name="development_settings_summary">Define as opções para o desenvolvimento do app</string>
+    <string name="development_settings_summary">Define as opções para o desenvolvimento do aplicativo</string>
     <string name="development_settings_title">Opções do desenvolvedor</string>
     <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">Nota: você poderá usar este teclado depois que reiniciar apenas se desbloquear o dispositivo.</string>
@@ -1404,7 +1404,7 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
     <string name="recents_accessibility_split_screen_left">Dividir tela para a esquerda</string>
     <string name="recents_accessibility_split_screen_right">Dividir tela para a direita</string>
     <string name="recents_accessibility_split_screen_top">Dividir tela para o topo</string>
-    <string name="recents_app_info_button_label">Info. do app</string>
+    <string name="recents_app_info_button_label">Info. do aplicativo</string>
     <string name="recents_caption_resize">Selecionar novo layout para Recentes</string>
     <string name="recents_drag_hint_message">Pressione e segure um app, e então arraste-o aqui.</string>
     <string name="recents_empty_message">Nenhum item recente</string>
@@ -1484,7 +1484,7 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
     <string name="screenshot_send">Enviar</string>
     <string name="search_hint">Pesquisar por websites, aplicativos, contatos e vídeos…</string>
     <string name="search_menu_title">Pesquisar</string>
-    <string name="select_application">Selecionar app</string>
+    <string name="select_application">Selecionar aplicativo</string>
     <string name="select_logd_size_dialog_title">Selecionar tamanho para o buffer de log</string>
     <string name="select_logd_size_title">Tamanhos de buffer de log</string>
     <string name="select_logpersist_dialog_title">Selecione os buffers de log para armazenar de forma persistente no dispositivo</string>
@@ -1570,7 +1570,7 @@ d 'de' MMMM"</string>
 Deslize para baixo para bloquear"</string>
     <string name="status_bar_recent_guide_bottom">Deslize para baixo para bloquear</string>
     <string name="status_bar_recent_guide_top">Deslize para cima para fechar</string>
-    <string name="status_bar_recent_inspect_item_title">Info. do app</string>
+    <string name="status_bar_recent_inspect_item_title">Info. do aplicativo</string>
     <string name="status_bar_recent_memory_info1">%1$sB de %2$sB disponível</string>
     <string name="status_bar_recent_memory_info2" />
     <string name="status_bar_recent_remove_item_title">Remover da lista</string>

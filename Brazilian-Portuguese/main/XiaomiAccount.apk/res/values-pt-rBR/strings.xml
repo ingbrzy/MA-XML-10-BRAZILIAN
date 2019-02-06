@@ -360,7 +360,7 @@ Para ativar sua conta, siga o
     <string name="mi_vip_info">Ver privilégios</string>
     <string name="vip_settings_info">Configurações de VIP</string>
     <string name="loading_micloud_sync_data">Aguarde…</string>
-    <string name="activity_not_found_notice">Não é possível encontrar o app</string>
+    <string name="activity_not_found_notice">Não é possível encontrar o aplicativo</string>
     <string name="scan_barcode_title">Para fazer o login em sua Conta Mi, leia o código QR</string>
     <string name="talkback_scan_barcode">Ler código QR</string>
     <string name="authorize_title">Autorização</string>
@@ -419,7 +419,7 @@ Para ativar sua conta, siga o
     <string name="first_login_time">Primeira tentativa de login: %s</string>
     <string name="local_device">(este dispositivo)</string>
     <string name="delete_device">Excluir dispositivo</string>
-    <string name="delete_app">Excluir app</string>
+    <string name="delete_app">Excluir aplicativo</string>
     <string name="delete_browser">Excluir navegador</string>
     <string name="confirm_delete_device_message">Após excluir este dispositivo, será necessário verificar seu número de telefone da próxima vez que fizer o login em sua Conta Mi nele.</string>
     <string name="confirm_delete_app_message">Após excluir este app, será necessário verificar seu número de telefone da próxima vez que fizer o login em sua Conta Mi nele.</string>

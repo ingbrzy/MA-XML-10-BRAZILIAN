@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="micloud_entrance_titleArray">
-        <item>Sincronizar dados do app</item>
+        <item>Sincronizar dados do aplicativo</item>
         <item>Backup do layout da Tela inicial</item>
         <item>Backup de configurações de sistema</item>
         <item>Encontrar dispositivo</item>

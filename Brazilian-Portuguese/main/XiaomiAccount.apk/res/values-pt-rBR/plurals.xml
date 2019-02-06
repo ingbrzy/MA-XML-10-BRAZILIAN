@@ -10,7 +10,7 @@
     </plurals>
     <plurals name="view_all_apps">
         <item quantity="other">Ver %d aplicativos</item>
-        <item quantity="one">Ver %d app</item>
+        <item quantity="one">Ver %d aplicativo</item>
     </plurals>
     <plurals name="view_all_browsers">
         <item quantity="other">Ver %d navegadores</item>

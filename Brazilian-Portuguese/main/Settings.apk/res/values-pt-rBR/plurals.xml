@@ -34,15 +34,15 @@
     </plurals>
     <plurals name="app_notification_listing_summary_others">
         <item quantity="other">Desativadas para %d aplicativos</item>
-        <item quantity="one">Desativadas para %d app</item>
+        <item quantity="one">Desativadas para %d aplicativo</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
         <item quantity="other">Nunca desativar para %d aplicativos</item>
-        <item quantity="one">Nunca desativar para 1 app</item>
+        <item quantity="one">Nunca desativar para 1 aplicativo</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_enabled_header_title">
         <item quantity="other">Sempre desativar para %d aplicativos</item>
-        <item quantity="one">Sempre desativar para 1 app</item>
+        <item quantity="one">Sempre desativar para 1 aplicativo</item>
     </plurals>
     <plurals name="auto_startup_count">
         <item quantity="other">%d aplicativos com permissão de iniciar automaticamente</item>
@@ -62,7 +62,7 @@
     </plurals>
     <plurals name="battery_tip_restrict_handled_title">
         <item quantity="other">Restrição ativada recentemente para %2$d aplicativos</item>
-        <item quantity="one">Restrição ativada recentemente para %2$d app</item>
+        <item quantity="one">Restrição ativada recentemente para %2$d aplicativo</item>
     </plurals>
     <plurals name="battery_tip_restrict_summary">
         <item quantity="other">%2$d aplicativos têm alto consumo de bateria em segundo plano</item>
@@ -70,7 +70,7 @@
     </plurals>
     <plurals name="battery_tip_restrict_title">
         <item quantity="other">Restrição ativada para %1$d aplicativos</item>
-        <item quantity="one">Restrição ativada para %1$d app</item>
+        <item quantity="one">Restrição ativada para %1$d aplicativo</item>
     </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">%d aplicativo podem se conectar à rede</item>
@@ -126,15 +126,15 @@
     </plurals>
     <plurals name="enterprise_privacy_number_packages">
         <item quantity="other">%d aplicativos</item>
-        <item quantity="one">%d app</item>
+        <item quantity="one">%d aplicativo</item>
     </plurals>
     <plurals name="enterprise_privacy_number_packages_lower_bound">
         <item quantity="other">No mínimo %d aplicativos</item>
-        <item quantity="one">No mínimo %d app</item>
+        <item quantity="one">No mínimo %d aplicativo</item>
     </plurals>
     <plurals name="firewall_item_summary">
         <item quantity="other">Conexão restringida para %s aplicativos</item>
-        <item quantity="one">Conexão restringida para %s app</item>
+        <item quantity="one">Conexão restringida para %s aplicativo</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d pessoas conectadas</item>
@@ -221,7 +221,7 @@
     </plurals>
     <plurals name="notification_summary">
         <item quantity="other">Desativadas para %d aplicativos</item>
-        <item quantity="one">Desativadas para %d app</item>
+        <item quantity="one">Desativadas para %d aplicativo</item>
     </plurals>
     <plurals name="notifications_categories_off">
         <item quantity="other">%d categorias desativadas</item>
@@ -253,7 +253,7 @@
     </plurals>
     <plurals name="restricted_app_summary">
         <item quantity="other">Limitando o uso da bateria para %1$d aplicativos</item>
-        <item quantity="one">Limitando o uso da bateria para %1$d app</item>
+        <item quantity="one">Limitando o uso da bateria para %1$d aplicativo</item>
     </plurals>
     <plurals name="runtime_permissions_additional_count">
         <item quantity="other">%d permissões adicionais</item>

@@ -9,7 +9,7 @@
     <string name="abc_action_menu_overflow_description">Mais opções</string>
     <string name="abc_action_mode_done">Concluído</string>
     <string name="abc_activity_chooser_view_see_all">Ver tudo</string>
-    <string name="abc_activitychooserview_choose_application">Selecione um app</string>
+    <string name="abc_activitychooserview_choose_application">Selecione um aplicativo</string>
     <string name="abc_capital_off">DESATIVAR</string>
     <string name="abc_capital_on">ATIVAR</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
@@ -445,7 +445,7 @@ Seleção"</string>
     <string name="dev_settings_warning_title">Ativar as configurações de desenvolvimento?</string>
     <string name="development_settings_enable">Ativar opções do desenvolvedor</string>
     <string name="development_settings_not_available">As opções do desenvolvedor não estão disponíveis para este usuário</string>
-    <string name="development_settings_summary">Define as opções para o desenvolvimento do app</string>
+    <string name="development_settings_summary">Define as opções para o desenvolvimento do aplicativo</string>
     <string name="development_settings_title">Opções do desenvolvedor</string>
     <string name="dialFailed_low_battery">A sua chamada de vídeo não foi efetuada porque a bateria está fraca.</string>
     <string name="dial_emergency_empty_error">Não é possível efetuar a chamada. Disque para um número de emergência.</string>
@@ -1156,7 +1156,7 @@ Seu cartão SIM será bloqueado após outra tentativa incorreta."</string>
     <string name="search_app_name">Telefone;Gravação de chamadas;Encaminhar chamadas;encaminhamento;Chamada em espera;Lista de bloqueio;Código do país;Código de área;Código do país;Códigos de área;Gravar chamadas;Gravar chamada;Discador;Chamada;Chamadas;Telefonia;VoIP;VoLTE;Chamada perdida;Chamadas perdidas;SIP;T9;Telefonia IP;FDN</string>
     <string name="search_menu_title">Pesquisar</string>
     <string name="selectContact">selecionar contato</string>
-    <string name="select_application">Selecionar app</string>
+    <string name="select_application">Selecionar aplicativo</string>
     <string name="select_automatically">Selecionar rede automaticamente</string>
     <string name="select_logd_size_dialog_title">Sel. tam. de logger/buffer de log</string>
     <string name="select_logd_size_title">Tamanhos de buffer de logger</string>
