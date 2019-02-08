@@ -356,7 +356,7 @@
   <string name="operation_show_sys">Mostrar arquivos ocultos</string>
   <string name="operation_info">Detalhes</string>
   <string name="operation_like">Gostar</string>
-  <string name="operation_move">Cortar</string>
+  <string name="operation_move">Recortar</string>
   <string name="operation_moving">Movendo…</string>
   <string name="operation_other_apps">Abrir em outro aplicativo</string>
   <string name="operation_paste">Colar</string>
