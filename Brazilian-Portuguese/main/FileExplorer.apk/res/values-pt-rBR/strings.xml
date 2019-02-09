@@ -87,10 +87,10 @@
   <string name="comment_delete_title">Excluír comentário</string>
   <string name="comment_hint">Adicionar comentário</string>
   <string name="comment_reply">Responder %1$s: </string>
-  <string name="compress_fail">Não foi possível comprimir. Já existe um arquivo com o mesmo nome</string>
-  <string name="compress_fail_unknown">Não foi possível comprimir. Armazenamento está cheio ou ocorreu um erro desconhecido</string>
-  <string name="compress_message">Comprimir para…</string>
-  <string name="compress_title">Comprimir</string>
+  <string name="compress_fail">Não foi possível compactar. Já existe um arquivo com o mesmo nome</string>
+  <string name="compress_fail_unknown">Não foi possível compactar. Armazenamento está cheio ou ocorreu um erro desconhecido</string>
+  <string name="compress_message">Compactar para…</string>
+  <string name="compress_title">Compactar</string>
   <string name="confirm">OK</string>
   <string name="confirm_clean">Limpar</string>
   <string name="confirm_know">OK</string>
@@ -340,8 +340,8 @@
   <string name="open_private_folder">Solte para ver pastas ocultas</string>
   <string name="operation_add_fav">Adicionando aos favoritos…</string>
   <string name="operation_cancel">Cancelar</string>
-  <string name="operation_compress">Comprimir</string>
-  <string name="operation_compressing">Comprimindo…</string>
+  <string name="operation_compress">Compactar</string>
+  <string name="operation_compressing">Compactando…</string>
   <string name="operation_copy">Copiar</string>
   <string name="operation_create_folder">Criar nova pasta</string>
   <string name="operation_create_folder_message">Nome da pasta</string>
@@ -577,8 +577,8 @@
   <string name="upload_failed">Não foi possível enviar</string>
   <string name="upload_file_toolarge_message">%1$d é muito grande. Não é possível enviar arquivos maiores que 300MB</string>
   <string name="upload_local_video">comartilhar vídeo</string>
-  <string name="upload_notification_compress_progress">Comprimindo %1$s%%</string>
-  <string name="upload_notification_compress_title">Comprimindo vídeo</string>
+  <string name="upload_notification_compress_progress">Compactando %1$s%%</string>
+  <string name="upload_notification_compress_title">Compactando vídeo</string>
   <string name="upload_notification_failed">Não foi possível enviar</string>
   <string name="upload_notification_failed_content">Tente novamente</string>
   <string name="upload_notification_progress">A enviar %1$s%%</string>
