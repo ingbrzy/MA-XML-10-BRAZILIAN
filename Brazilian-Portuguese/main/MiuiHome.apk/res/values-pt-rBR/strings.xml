@@ -240,10 +240,10 @@
     <string name="online_wallpaper">Online</string>
     <string name="open_personal_assistant_dialog_btn_cancel">Cancelar</string>
     <string name="open_personal_assistant_dialog_btn_confirm">Desativar</string>
-    <string name="open_personal_assistant_dialog_desc">Você não será capaz de usar o aplicativo Vault e receber suas atualizações. Desativar agora?</string>
-    <string name="open_personal_assistant_dialog_desc_international">Você nao será capaz de usar os cartões do aplicativo vault (Ações, Atalhos, etc.) e receber atualizações depois que você desativar este recurso.</string>
-    <string name="open_personal_assistant_dialog_title">Desativar o aplicativo Vault</string>
-    <string name="open_personal_assistant_title">App vault</string>
+    <string name="open_personal_assistant_dialog_desc">Você não será capaz de usar o cofre de aplicativos e receber suas atualizações. Desativar agora?</string>
+    <string name="open_personal_assistant_dialog_desc_international">Você nao será capaz de usar os cartões do cofre de aplicativos (Ações, Atalhos, etc.) e receber atualizações depois que você desativar este recurso.</string>
+    <string name="open_personal_assistant_dialog_title">Desativar o cofre de aplicativos</string>
+    <string name="open_personal_assistant_title">Cofre de aplicativos</string>
     <string name="out_of_space">Não há mais espaço nesta Tela inicial</string>
     <string name="permdesc_install_shortcut">Permite que um aplicativo adicione atalhos sem a intervenção do usuário.</string>
     <string name="permdesc_install_widget">Permite que um aplicativo adicione widgets sem a intervenção do usuário.</string>

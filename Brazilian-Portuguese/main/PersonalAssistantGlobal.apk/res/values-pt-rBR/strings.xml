@@ -39,7 +39,7 @@
     <string name="Paytm_parent">Paytm</string>
     <string name="Whatsapp_main">Fotos</string>
     <string name="Whatsapp_parent">WhatsApp</string>
-    <string name="accessibility_title">App vault</string>
+    <string name="accessibility_title">Cofre de aplicativos</string>
     <string name="accordingto_position">Reconhecer lugares frequentes usando o GPS</string>
     <string name="add_home_and_work">Adicioanr para casa e trabalho</string>
     <string name="add_stock">Adicionar</string>
@@ -123,7 +123,7 @@
     <string name="cta_desc">Colete atalhos e informações importantes aqui.</string>
     <string name="cta_dialog_negative">Sair</string>
     <string name="cta_dialog_positive">Aceitar</string>
-    <string name="cta_dialog_text1">Para usar o aplicativo vault, você precisa ler e concordar com o</string>
+    <string name="cta_dialog_text1">Para usar o cofre de aplicativos, você precisa ler e concordar com o</string>
     <string name="cta_dialog_text2">\"Acordo do Usuário\"</string>
     <string name="cta_dialog_text3">e a</string>
     <string name="cta_dialog_text4">\"Política de Privacidade\".</string>
@@ -131,7 +131,7 @@
     <string name="cta_dialog_title">Termos e Condições</string>
     <string name="cta_negative">Fechar</string>
     <string name="cta_positive">Detalhes</string>
-    <string name="cta_title">Deixe que o aplicativo vault o ajude</string>
+    <string name="cta_title">Deixe que o cofre de aplicativos o ajude</string>
     <string name="data_error">Ocorreu um erro, aguarde alguns minutos e tente novamente.</string>
     <string name="data_error_show">O pedido foi concluído, não é possível ver detalhes.</string>
     <string name="drive">Dirigindo</string>
