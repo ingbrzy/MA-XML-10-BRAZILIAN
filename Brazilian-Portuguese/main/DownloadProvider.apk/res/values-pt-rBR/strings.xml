@@ -41,6 +41,5 @@ Toque em %s para começar este download da próxima vez que você estiver conect
     <string name="download_queued">Na fila</string>
     <string name="download_running">Fazendo o download</string>
     <string name="download_error">Não foi possível fazer o download</string>
-    <string name="download_running_percent">Fazendo o download %s</string>
     <string name="common_google_play_services_unknown_issue">O aplicativo %1$s está com problemas com o Google Play Services. Tente novamente.</string>
 </resources>
