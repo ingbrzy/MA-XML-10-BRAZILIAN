@@ -139,7 +139,7 @@
     <string name="confirm_enable_oem_unlock_text">AVISO: os recursos de proteção do dispositivo não funcionarão neste dispositivo enquanto esta configuração estiver desativada.</string>
     <string name="mock_location_app">Selecionar aplicativo de local fictício</string>
     <string name="mock_location_app_not_set">Nenhum aplicativo de local fictício definido</string>
-    <string name="mock_location_app_set">App de local fictício: %1$s</string>
+    <string name="mock_location_app_set">Aplicativo de local fictício: %1$s</string>
     <string name="debug_networking_category">Redes</string>
     <string name="wifi_display_certification">Certificação de Display sem fio</string>
     <string name="wifi_verbose_logging">Ativar registro extenso de Wi-Fi</string>
@@ -198,12 +198,12 @@ qualidade de reprodução"</string>
     <string name="debug_debugging_category">Depuração</string>
     <string name="debug_app">Selecionar aplicativo de depuração</string>
     <string name="debug_app_not_set">Nenhum conjunto de aplicativos de depuração</string>
-    <string name="debug_app_set">App de depuração: %1$s</string>
+    <string name="debug_app_set">Aplicativo de depuração: %1$s</string>
     <string name="do_not_show_again">Não mostrar novamente</string>
     <string name="select_application">Selecionar aplicativo</string>
     <string name="no_application">Nada</string>
     <string name="wait_for_debugger">Aguardar depurador</string>
-    <string name="wait_for_debugger_summary">App depurado espera conexão com debugger antes de ser executado.</string>
+    <string name="wait_for_debugger_summary">Aplicativo depurado espera conexão com debugger antes de ser executado.</string>
     <string name="telephony_monitor_switch">Monitor de telefonia</string>
     <string name="telephony_monitor_switch_summary">Ao detectar um problema com a funcionalidade de modem/telefonia, o Monitor de telefonia coletará registros e enviará uma notificação ao usuário para informar um bug</string>
     <string name="debug_input_category">Entrada</string>
@@ -401,7 +401,7 @@ qualidade de reprodução"</string>
     <string name="decline_incoming_call">Rejeitar</string>
     <string name="cant_call_due_to_ongoing_call">Não é possível realizar a chamada. Outra chamada %1$s está em curso.</string>
     <string name="cant_call_due_to_ongoing_calls">Não é possível realizar a chamada. Outras chamadas %1$s estão em curso.</string>
-    <string name="cant_call_due_to_ongoing_unknown_call">Não é possível realizar a chamada devido a uma chamada em outro app.</string>
+    <string name="cant_call_due_to_ongoing_unknown_call">Não é possível realizar a chamada devido a uma chamada em outro aplicativo.</string>
     <string name="notification_channel_incoming_call">Chamadas recebidas</string>
     <string name="notification_channel_missed_call">Chamadas não atendidas</string>
     <string name="alert_outgoing_call">Efetuar esta chamada vai encerrar a sua chamada no aplicativo %1$s.</string>

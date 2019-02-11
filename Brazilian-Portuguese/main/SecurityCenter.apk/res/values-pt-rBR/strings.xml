@@ -818,7 +818,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="network_changed_noti_summary">Usando os dados móveis</string>
     <string name="network_speed_for_apps_title">Conexão</string>
     <string name="network_speed_for_apps_total">Velocidade da conexão</string>
-    <string name="network_speed_for_apps_close_app_dlg_msg">Forçar o encerramento deste app?</string>
+    <string name="network_speed_for_apps_close_app_dlg_msg">Forçar o encerramento deste aplicativo?</string>
     <string name="network_speed_for_apps_close_system_app_dlg_msg">Não é possível forçar a parada de aplicativos do sistema.</string>
     <string name="network_speed_for_apps_close">Forçar parada</string>
     <string name="network_speed_for_apps_others">Outros</string>
@@ -951,7 +951,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="power_consume_rank_title">Uso de bateria</string>
     <string name="power_consume_rank_software">Aplicativos</string>
     <string name="power_consume_rank_hardware">Hardware</string>
-    <string name="power_consume_software_total_format">Apps: %s</string>
+    <string name="power_consume_software_total_format">Aplicativos: %s</string>
     <string name="power_consume_hardware_total_format">Hardware: %s</string>
     <string name="power_consume_other">Outros</string>
     <string name="battery_desc_other_apps">Energia consumida por outros aplicativos</string>
@@ -1170,7 +1170,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="auto_task_notify_task_cancel_do">Cancelar ação</string>
     <string name="auto_task_notify_task_exit_task">Cancelar tarefa</string>
     <string name="uninstall_app_dialog_title">Desinstalar agora?</string>
-    <string name="uninstall_app_dialog_msg">A desinstalação removerá todos os dados deste app.</string>
+    <string name="uninstall_app_dialog_msg">A desinstalação removerá todos os dados deste aplicativo.</string>
     <string name="uninstall_app_done">Desinstalado com sucesso</string>
     <string name="auto_task_edit_step1">1.</string>
     <string name="auto_task_edit_step2">2.</string>
@@ -1222,11 +1222,11 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="apps_item_sms_default_set_success">Definido com sucesso</string>
     <string name="apps_item_virus_cleanup_text">Limpar</string>
     <string name="apps_item_virus_cleanup_success">Limpo com sucesso</string>
-    <string name="apps_item_virus_summary_installed">App instalado</string>
+    <string name="apps_item_virus_summary_installed">Aplicativo instalado</string>
     <string name="apps_item_virus_summary_uninstalled">APK</string>
     <string name="apps_item_sign_install_button_text">Substituir</string>
     <string name="apps_item_sign_dialog_title">Instalar aplicativo oficial</string>
-    <string name="apps_item_sign_dialog_content">A assinatura de %s é diferente da versão na Play Store. Excluir este aplicativo e instalar a versão oficial? Nota: a instalação de um aplicativo com conflito de assinatura pode resultar na perda dos dados do app.</string>
+    <string name="apps_item_sign_dialog_content">A assinatura de %s é diferente da versão na Play Store. Excluir este aplicativo e instalar a versão oficial? Nota: a instalação de um aplicativo com conflito de assinatura pode resultar na perda dos dados do aplicativo.</string>
     <string name="wifi_item_title_connection">Conexão Wi-Fi</string>
     <string name="wifi_item_title_encryption">Criptografia Wi-Fi</string>
     <string name="wifi_item_title_fake">Detectar Wi-Fi falso</string>
@@ -1295,7 +1295,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="sp_background_risk_type_wifi">Esta rede Wi-Fi é perigosa</string>
     <string name="sp_background_risk_type_messaging">O aplicativo de mensagens do sistema foi substituído</string>
     <string name="sp_background_risk_type_virus">Um aplicativo com vírus está executando em segundo plano</string>
-    <string name="sp_background_risk_type_sign">App não oficial em execução</string>
+    <string name="sp_background_risk_type_sign">Aplicativo não oficial em execução</string>
     <string name="sp_background_risk_type_root">Sistema com root</string>
     <string name="resource_securitycenter_settings">Segurança</string>
     <string name="keywords_securitycenter_settings">Uso de bateria;Gerenciar início automático;Instalar via USB;Permissões do app;Comprar dados móveis;Lista de bloqueio;Uso de dados;Calibrar plano de dados;Testar rede;Economia de energia;Aquecimento;Ativar;Desativar;Bateria;Drenando;Problemas de bateria;Energia;Economia de energia;Economia de bateria;Economizando energia;Início automático;Permissões;Início automático MIUI;Início automático de apps;Iniciar aplicativos automaticamente;Início em corrente;Corrente d einicialização;Início acionado;Instalação USB;Instalar pelo computador;Instalação por ADB;Localização;Acesso aos contatos;dados;dados móveis;comprar dados;recarregar dados móveis;plano de dados;Bloquear;Lista negra;Lista de bloqueio inteligente;Fraude;Televendas;Telemarketing;Lista de bloqueio de chamadas;Lista de bloqueio de mensagens;Bloqueio de mensagens;Lista de bloqueio de SMS;Lista negra;Lista de bloqueio;bloqueio de telefones;Bloquear contato;Bloquear contatos;Tráfego;Calibrar;Conexão;Internet;Testar;Uso de bateria;Jogos;Otimizador de velocidade;Glória do rei;Modo desempenho;Não perturbe</string>
@@ -1481,20 +1481,20 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="activity_title_apps_manager">Aplicativos</string>
     <string name="activity_title_permissions_manager">Permissões</string>
     <string name="dialog_title_auto_start_declare">Sobre o início automático</string>
-    <string name="dialog_msg_auto_start_declare">Alguns aplicativos podem indicar incorretamente que o MIUI os impediu de serem iniciados. Verifique as permissões que foram concedidas a aplicativos individuais em Configurações > Apps.</string>
+    <string name="dialog_msg_auto_start_declare">Alguns aplicativos podem indicar incorretamente que o MIUI os impediu de serem iniciados. Verifique as permissões que foram concedidas a aplicativos individuais em Configurações > Aplicativos.</string>
     <string name="button_text_known">OK</string>
     <string name="empty_title_perm_apps">Nenhum aplicativo tem esta permissão.</string>
     <string name="reject_all">Restringir tudo</string>
     <string name="prompt_all">Perguntar para tudo</string>
     <string name="confirm_reject_all_permission">Restringir todos os aplicativos de usarem este recurso?</string>
-    <string name="confirm_prompt_all_permission">Solicitar permissão para todos os apps?</string>
+    <string name="confirm_prompt_all_permission">Solicitar permissão para todos os aplicativos?</string>
     <string name="show_system_app">Mostrar aplicativos do sistema</string>
     <string name="hide_system_app">Ocultar aplicativos do sistema</string>
     <string name="about_autostart">Sobre o início automático</string>
     <string name="permission_action_accept">Permitir</string>
     <string name="permission_action_prompt">Notificar</string>
     <string name="permission_action_reject">Negar</string>
-    <string name="empty_title_permission_apps_list">Nenhum app.</string>
+    <string name="empty_title_permission_apps_list">Nenhum aplicativo.</string>
     <string name="old_sdk_deny_warning">Este aplicativo não é compatível com os requisitos de permissões do Android. Pesmissões negadas podem afetar a forma que este aplicativo funciona.</string>
     <string name="empty_title_root_apps">Nenhum aplicativo tem acesso root.</string>
     <string name="root_apply_title">Alerta importante</string>
@@ -1632,10 +1632,10 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="summary_garbage_clean">Limpar cache para liberar espaço</string>
     <string name="summary_consume_power">Superaquecimento detectado, ele pode afetar a duração da bateria</string>
     <string name="title_restrict_data_usage">%s não pode se conectar à internet?</string>
-    <string name="summary_restrict_data_usage">Você restringiu o uso de dados para este app.</string>
+    <string name="summary_restrict_data_usage">Você restringiu o uso de dados para este aplicativo.</string>
     <string name="button_restrict_data_usage">Permitir</string>
     <string name="title_background_connection">Não consegue usar %s em segundo plano?</string>
-    <string name="summary_background_connection">Você restringiu a conexão em segundo plano para este app.</string>
+    <string name="summary_background_connection">Você restringiu a conexão em segundo plano para este aplicativo.</string>
     <string name="button_background_connection">Corrigir</string>
     <string name="title_block_calls_from_cantacts">Perdeu chamadas de seus contatos?</string>
     <string name="summary_block_calls_from_cantacts">Chamadas de contatos estão bloqueadas.</string>
@@ -1774,7 +1774,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="card_main_private_space_title">Segundo Espaço</string>
     <string name="card_main_private_space_summary">Usar o Segundo Espaço é como ter 2 dispositivos</string>
     <string name="card_main_private_space_action">Criar</string>
-    <string name="card_main_xspace_title">Dual aplicativos</string>
+    <string name="card_main_xspace_title">Aplicativos clones</string>
     <string name="card_main_xspace_summary">Crie contas distintas para qualquer aplicativo</string>
     <string name="card_main_xspace_action">Criar</string>
     <string name="card_main_overscroll_tips">O melhor em segurança</string>
@@ -1798,7 +1798,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="back_app_name">Voltar ao Bloqueio de aplicativos</string>
     <string name="ac_notification_contentTitle">Proteja aplicativos com o Bloqueio de aplicativos</string>
     <string name="ac_pre_notification_contentTitle">Experimente o Bloqueio de aplicativos</string>
-    <string name="ac_post_notification_contentTitle">Ativar Bloqueio de Apps</string>
+    <string name="ac_post_notification_contentTitle">Ativar bloqueio de aplicativos</string>
     <string name="midrop_post_notification_contentTitle">Precisa compartilhar arquivos?</string>
     <string name="notification_masked_item">Ocultar notificações</string>
     <string name="lock_mode_title">Configurações de bloqueio</string>
@@ -1907,8 +1907,8 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="applock_add_account">Adicionar</string>
     <string name="applock_not_login_account">Você não fez o login</string>
     <string name="applock_bind_account_title">Esqueci a senha</string>
-    <string name="applock_close_dialog_title">Desativar o Bloqueio de apps?</string>
-    <string name="applock_close_dialog_summary">Todos os aplicativos ocultos serão reexibidos, seus atalhos na Tela inicial serão restaurados, e a sua senha de Bloqueio de aplicativos será excluída. Desativar o Bloqueio de apps?</string>
+    <string name="applock_close_dialog_title">Desativar o Bloqueio de aplicativos?</string>
+    <string name="applock_close_dialog_summary">Todos os aplicativos ocultos serão reexibidos, seus atalhos na Tela inicial serão restaurados, e a sua senha de Bloqueio de aplicativos será excluída. Desativar o Bloqueio de aplicativos?</string>
     <string name="applock_header_text_less_than_half">Muito pequeno. Arraste um pouco mais.</string>
     <string name="quite_all_string">Cancelar</string>
     <string name="delete_input">Excluir</string>
@@ -2022,7 +2022,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="add_game_notification_summary">Toque para executar e otimizar velocidade</string>
     <string name="app_manager_title">Gerenciar aplicativos</string>
     <string name="app_manager_uninstall">Desinstalar</string>
-    <string name="app_manager_bipartition">Dual aplicativos</string>
+    <string name="app_manager_bipartition">Aplicativos clones</string>
     <string name="app_manager_perm">Permissões</string>
     <string name="app_manager_app_update">Atualizações</string>
     <string name="app_manager_details_storage_title">Armazenamento</string>
@@ -2039,23 +2039,23 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="app_manager_app_version_name">Versão:</string>
     <string name="app_manager_unstall_application">Desinstalar</string>
     <string name="app_manager_force_stop_dlg_title">Forçar parada?</string>
-    <string name="app_manager_force_stop_dlg_text">Se você forçar a parada de um app, problemas podem ocorrer.</string>
+    <string name="app_manager_force_stop_dlg_text">Se você forçar a parada de um aplicativo, problemas podem ocorrer.</string>
     <string name="app_manager_dlg_ok">OK</string>
     <string name="app_manager_dlg_cancel">Cancelar</string>
     <string name="app_manager_show_detail_infos">Ver tudo</string>
     <string name="app_manager_start_by">Iniciado por %s</string>
-    <string name="app_manager_uninstall_xspace_app_dlg_msg">Desinstalar o dual aplicativo removerá seus dados correspondentes.</string>
-    <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Os dual aplicativos correspondentes serão removidos juntamente com seus dados.</string>
-    <string name="app_manager_uninstall_xspace_app_dlg_title">Desinstalar dual app?</string>
+    <string name="app_manager_uninstall_xspace_app_dlg_msg">Desinstalar o aplicativo clone removerá seus dados correspondentes.</string>
+    <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Os aplicativos clones correspondentes serão removidos juntamente com seus dados.</string>
+    <string name="app_manager_uninstall_xspace_app_dlg_title">Desinstalar aplicativo clone?</string>
     <string name="app_manager_appupdate_remind">Notificar sobre atualizações</string>
     <string name="app_usage_never">Nunca usado</string>
     <string name="app_usage_recently">Usado recentemente</string>
     <string name="app_manager_have_not_consume">Nenhum</string>
     <string name="app_manager_menu_clear_data">Limpar dados</string>
     <string name="app_manager_clear_data_dlg_title">Excluir todos os dados?</string>
-    <string name="app_manager_clear_data_dlg_message">Todos os dados do app, incluindo arquivos, configurações, contas, bancos de dados e cache serão excluídos permanentemente.</string>
+    <string name="app_manager_clear_data_dlg_message">Todos os dados do aplicativo, incluindo arquivos, configurações, contas, bancos de dados e cache serão excluídos permanentemente.</string>
     <string name="app_manager_clear_dlg_title">Limpar dados</string>
-    <string name="app_manager_clear_failed_dlg_message">Não foi possível limpar os dados para o app.</string>
+    <string name="app_manager_clear_failed_dlg_message">Não foi possível limpar os dados para o aplicativo.</string>
     <string name="app_manager_manage_space">Gerenciar espaço</string>
     <string name="app_manager_permission_summary_reject">Restringir tudo</string>
     <string name="app_manager_powerkeeper_no_restrict">Sem restrições</string>
@@ -2091,7 +2091,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="app_manager_defaults_setting">Aplicativos padrão</string>
     <string name="app_manager_clear_cache">Limpar cache</string>
     <string name="app_manager_reset_app_preferences">Redefinir preferências de aplicativos</string>
-    <string name="app_manager_reset_app_preferences_title">Redefinir preferências de apps?</string>
+    <string name="app_manager_reset_app_preferences_title">Redefinir preferências de aplicativos?</string>
     <string name="app_manager_reset_app_preferences_desc">"Isto irá redefinir todas as preferências para:
 
 "<li>Aplicativos desativados</li>"
@@ -2104,7 +2104,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="app_manager_disable_text">Desativar</string>
     <string name="app_manager_enable_text">Ativar</string>
     <string name="app_manager_disable_dlg_title">Desativar aplicativo do sistema?</string>
-    <string name="app_manager_disable_dlg_text">Se você desativar este app, outros aplicativos poderão não funcionar corretamente.</string>
+    <string name="app_manager_disable_dlg_text">Se você desativar este aplicativo, outros aplicativos poderão não funcionar corretamente.</string>
     <string name="app_manager_disabled">Desativado</string>
     <string name="app_manager_enabled">Ativado</string>
     <string name="app_manager_globel_perm_title">Permissões do aplicativo</string>
@@ -2130,7 +2130,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="app_manager_dlg_clear_cache_title">Limpar cache?</string>
     <string name="app_manager_comuting_size">Calculando…</string>
     <string name="app_manager_show_all_apps_opened">Mostrando resultados de todos os apps…</string>
-    <string name="app_manager_search_prompt">Não encontrou nenhum resultado? Tente mostrar resultados de todos os apps.</string>
+    <string name="app_manager_search_prompt">Não encontrou nenhum resultado? Tente mostrar resultados de todos os aplicativos.</string>
     <string name="app_manager_open_show_all_apps_immediate">Mostrar todos os resultados</string>
     <string name="app_manager_mobile_slot1">Dados móveis (SIM 1)</string>
     <string name="app_manager_mobile_slot2">Dados móveis (SIM 2)</string>
@@ -2142,8 +2142,8 @@ Você não perderá nenhum dado de apps."</string>
     <string name="low_memory_warning_dialog_msg">Libere espaço no seu dispositivo para continuar</string>
     <string name="low_memory_warning_dialog_ok_button">Limpar</string>
     <string name="low_memory_warning_dialog_cancel_button">Cancelar</string>
-    <string name="app_error_tip_for_launcher">Os componentes de hardware de seu dispositivo ou a versão do sistema Android podem causar problemas de compatibilidade ou fazer que alguns aplicativos não funcionem corretamente, travem, ou parem de funcionar inesperadamente. Caso encontre estes problemas, compartilhe seu feedback com os desenvolvedores do app.</string>
-    <string name="app_error_tip_for_store">Os componentes de hardware de seu dispositivo ou a versão do sistema Android podem causar problemas de compatibilidade que podem resultar na falha da instalação de alguns apps. Caso encontre problemas como malfuncionamento, aplicativos travando ou fechando forçadamente, compartilhe seu feedback com os desenvolvedores do app.</string>
+    <string name="app_error_tip_for_launcher">Os componentes de hardware de seu dispositivo ou a versão do sistema Android podem causar problemas de compatibilidade ou fazer que alguns aplicativos não funcionem corretamente, travem, ou parem de funcionar inesperadamente. Caso encontre estes problemas, compartilhe seu feedback com os desenvolvedores do aplicativo.</string>
+    <string name="app_error_tip_for_store">Os componentes de hardware de seu dispositivo ou a versão do sistema Android podem causar problemas de compatibilidade que podem resultar na falha da instalação de alguns apps. Caso encontre problemas como malfuncionamento, aplicativos travando ou fechando forçadamente, compartilhe seu feedback com os desenvolvedores do aplicativo.</string>
     <string name="pc_activity_title">Otimizar bateria</string>
     <string name="game_booster">Otimizador de jogos</string>
     <string name="game_booster_title">Otimizar</string>
@@ -2340,9 +2340,9 @@ Você não perderá nenhum dado de apps."</string>
     <string name="privacy_apps_enable_summary">Mova aplicativos para uma pasta oculta e remova seus atalhos da Tela inicial</string>
     <string name="privacy_apps_manage">Gerenciar aplicativos ocultos</string>
     <string name="privacy_apps_tutorial">Tutorial</string>
-    <string name="privacy_apps_tutorial_prompt_pageone">"Quando você oculta um app, ele é movido para uma pasta oculta. O seu atalho na Tela inicial também é ocultado.
+    <string name="privacy_apps_tutorial_prompt_pageone">"Quando você oculta um aplicativo, ele é movido para uma pasta oculta. O seu atalho na Tela inicial também é ocultado.
 Este recurso não é suportado para aplicativos de sistema."</string>
-    <string name="privacy_apps_tutorial_prompt_pagetwo">Use o gesto de pinça na tela. Você verá uma mensagem solicitando a sua senha de Bloqueio de apps.</string>
+    <string name="privacy_apps_tutorial_prompt_pagetwo">Use o gesto de pinça na tela. Você verá uma mensagem solicitando a sua senha de Bloqueio de aplicativos.</string>
     <string name="privacy_apps_tutorial_prompt_pagethree">Depois de inserir a senha, a pasta com os aplicativos ocultos aparecerá.</string>
     <string name="privacy_apps_manage_dialog_title">Sobre os aplicativos ocultos</string>
     <string name="privacy_apps_manager_dialog_message">O ícone deste aplicativo não será exibido na Tela inicial depois que ocultá-lo. Ocultar este aplicativo agora?</string>
@@ -2378,7 +2378,7 @@ Este recurso não é suportado para aplicativos de sistema."</string>
     <string name="first_aid_card_airplane_summary">Desative o Modo avião para poder fazer chamadas e conectar-se à rede</string>
     <string name="first_aid_card_airplane_button">Desativar</string>
     <string name="first_aid_card_unable_install_title">Não é possível instalar aplicativos de sistema</string>
-    <string name="first_aid_card_unable_install_summary">Apenas %s de armazenamento está disponível. Libere espaço para conseguir instalar apps.</string>
+    <string name="first_aid_card_unable_install_summary">Apenas %s de armazenamento está disponível. Libere espaço para conseguir instalar aplicativos.</string>
     <string name="first_aid_card_unable_install_button">Liberar espaço</string>
     <string name="first_aid_result_summary_normal">Tudo em ordem!</string>
     <string name="first_aid_result_summary_not_finished">A verificação não foi concluída. Alguns riscos não puderam ser verificados.</string>
@@ -2394,7 +2394,7 @@ Este recurso não é suportado para aplicativos de sistema."</string>
     <string name="first_aid_card_kadun_button3">Desativar</string>
     <string name="first_aid_dialog_title_stop_scan">Parar verificação</string>
     <string name="first_aid_dialog_msg_stop_scan">Parar a verificação agora?</string>
-    <string name="device_manager_apply_step_1">Ativar o administrador do dispositivo para este app?</string>
+    <string name="device_manager_apply_step_1">Ativar o administrador do dispositivo para este aplicativo?</string>
     <string name="device_manager_apply_step_2">"Ativar o administrador do dispositivo para este aplicativo pode causar a exposição dos seus dados pessoais.
 Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bloqueio pode ser redefinida."</string>
     <string name="device_manager_apply_step_3">Certifique-se de entender todos os possíveis riscos antes de continuar. Ativar o administrador do dispositivo para este aplicativo agora?</string>

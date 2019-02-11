@@ -2,8 +2,8 @@
 <resources>
     <string name="app_label">Visualizador de HTML</string>
     <string name="loading">Aguarde…</string>
-    <string name="app_name_which_call">App: %s</string>
-    <string name="app_version_which_call">Versão do app: %s</string>
+    <string name="app_name_which_call">Aplicativo: %s</string>
+    <string name="app_version_which_call">Versão do aplicativo: %s</string>
     <string name="pre_installed_apps">Aplicativos pré-instalados</string>
     <string name="policy_name">Protocolo: %s</string>
     <string name="mibi_license">Acordo do Usuário do Mi Credits</string>

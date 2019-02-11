@@ -410,7 +410,7 @@ Seleção"</string>
     <string name="deactivate_all">Cancelar tudo</string>
     <string name="debug_app">Selecionar aplicativo de depuração</string>
     <string name="debug_app_not_set">Nenhum conjunto de aplicativos de depuração</string>
-    <string name="debug_app_set">App de depuração: %1$s</string>
+    <string name="debug_app_set">Aplicativo de depuração: %1$s</string>
     <string name="debug_applications_category">Aplicativos</string>
     <string name="debug_debugging_category">Depuração</string>
     <string name="debug_drawing_category">Desenho</string>
@@ -786,7 +786,7 @@ Mudar para o novo provedor?"</string>
     <string name="mobile_networks">Configuração de redes móveis</string>
     <string name="mock_location_app">Selecionar aplicativo de local fictício</string>
     <string name="mock_location_app_not_set">Nenhum aplicativo de local fictício definido</string>
-    <string name="mock_location_app_set">App de local fictício: %1$s</string>
+    <string name="mock_location_app_set">Aplicativo de local fictício: %1$s</string>
     <string name="modem_dialog_body">A rede móvel está instável, causando interrupções e problemas de rede. Enviar seu feedback para a Mi analisar? O relatório poderá conter informações pessoais. Seu relatório será usado para ajudar na correção deste erro e nunca será compartilhado em contextos comerciais.</string>
     <string name="modem_dialog_title">Rede móvel instável</string>
     <string name="msim_apn_not_set">Não definido</string>
@@ -1228,7 +1228,7 @@ Seu cartão SIM será bloqueado após outra tentativa incorreta."</string>
     <string name="speed_label_very_fast">Muito rápida</string>
     <string name="speed_label_very_slow">Muito lenta</string>
     <string name="sports_news_settings">Notícias de esportes</string>
-    <string name="standby_bucket_summary">Estado em espera do app: %s</string>
+    <string name="standby_bucket_summary">Estado em espera do aplicativo: %s</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_hint_label_incoming_wifi_call">Chamada Wi-Fi de</string>
     <string name="status_hint_label_wifi_call">Chamada Wi-Fi</string>
@@ -1460,7 +1460,7 @@ Este tablet não possui auriculares. Você pode alterar para o modo viva-voz ou 
     <string name="vpn_settings_not_available">As configurações de VPN não estão disponíveis para este usuário</string>
     <string name="vvm_unsupported_message_format">Tipo de mensagem não suportado, ligue para %s para ouvir a mensagem.</string>
     <string name="wait_for_debugger">Aguardar depurador</string>
-    <string name="wait_for_debugger_summary">App depurado espera conexão com debugger antes de ser executado.</string>
+    <string name="wait_for_debugger_summary">Aplicativo depurado espera conexão com debugger antes de ser executado.</string>
     <string name="wait_prompt_str">"Enviar os seguintes tons?
 "</string>
     <string name="wfcmode_mobile_preferred">Preferir redes Wi-Fi</string>

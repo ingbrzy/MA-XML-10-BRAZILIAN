@@ -80,9 +80,9 @@
     <string name="cloud_app_restore_title">Pendente</string>
     <string name="configure_wallpaper">Configurações</string>
     <string name="confirm_btn_label">OK</string>
-    <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Os dual aplicativos serão desinstalados juntamente com estes.</string>
-    <string name="confirm_uninstall_dialog_has_xspace_app_msg">O dual aplicativo será desinstalado juntamente com este.</string>
-    <string name="confirm_uninstall_dialog_title">Os dual aplicativos serão desinstalados</string>
+    <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Os aplicativos clones serão desinstalados juntamente com estes.</string>
+    <string name="confirm_uninstall_dialog_has_xspace_app_msg">O aplicativo clone será desinstalado juntamente com este.</string>
+    <string name="confirm_uninstall_dialog_title">Os aplicativos clones serão desinstalados</string>
     <string name="content_description_for_shortcut_icon_checked">%1$s, selecionado</string>
     <string name="content_description_shortcut_icon_unchecked">%1$s, não selecionado</string>
     <string name="content_description_workspace_thumbnail_item">Pré-visualização de tela, página %1$s</string>
@@ -133,7 +133,7 @@
     <string name="frame_load_failed">Não é possível carregar o quadro</string>
     <string name="free_style_apps_title">Escolher aplicativo</string>
     <string name="free_style_drawer_title">Todos os aplicativos</string>
-    <string name="free_style_edit_app">App</string>
+    <string name="free_style_edit_app">Aplicativo</string>
     <string name="free_style_edit_bar_empty">Vazio</string>
     <string name="free_style_edit_bar_select_app">Escolher aplicativo</string>
     <string name="free_style_edit_bottom_empty_tip">Toque no retângulo para editar</string>
@@ -167,7 +167,7 @@
     <string name="gadget_search_label">Pesquisar</string>
     <string name="gadget_weather_app_not_installed">Toque para fazer o download do aplicativo Clima MIUI</string>
     <string name="gadget_weather_aqi_title">Qualidade do ar:</string>
-    <string name="gadget_weather_download_message">Você precisa fazer o download do conteúdo do app: %1$s (%2$s). Reinicie o aplicativo depois que o download terminar.</string>
+    <string name="gadget_weather_download_message">Você precisa fazer o download do conteúdo do aplicativo: %1$s (%2$s). Reinicie o aplicativo depois que o download terminar.</string>
     <string name="gadget_weather_download_start">Fazer download</string>
     <string name="gadget_weather_download_title">Fazer download</string>
     <string name="gadget_weather_downloading">Fazendo o download do conteúdo do app. Reinicie-o depois que o download for concluído.</string>
@@ -183,7 +183,7 @@
     <string name="group_live_folders">Pastas</string>
     <string name="group_shortcuts">Atalhos</string>
     <string name="guide_install_app_msg">Este aplicativo não está instalado em seu telefone. Procurar o aplicativo e instalá-lo agora?</string>
-    <string name="guide_install_app_title">Procurar e instalar o app?</string>
+    <string name="guide_install_app_title">Procurar e instalar o aplicativo?</string>
     <string name="guide_tips_editing_mode">Pressione e segure para pegar um widget</string>
     <string name="home_screen">Tela inicial</string>
     <string name="icon_reorganize_channel">Organizar ícones</string>
@@ -230,7 +230,7 @@
     <string name="mi_wallpaper">Temas MIUI</string>
     <string name="miui_screen_config_title">Configurações da Tela inicial</string>
     <string name="mtzgadget_missing_text">O widget não está disponível</string>
-    <string name="multi_selecting_tips">Para pegar um app, arraste o seu ícone e solte-o aqui.</string>
+    <string name="multi_selecting_tips">Para pegar um aplicativo, arraste o seu ícone e solte-o aqui.</string>
     <string name="no_detail_page">Nenhuma página de detalhes</string>
     <string name="no_space_toast">Não há espaço suficiente</string>
     <string name="normal_wallpaper">Plano de fundo</string>
@@ -330,13 +330,13 @@
     <string name="transformation_type_rotate">Rodar</string>
     <string name="transformation_type_stack">Cascata</string>
     <string name="uninstall">Desinstalar</string>
-    <string name="uninstall_dialog_message">A desinstalação removerá todos os dados do app.</string>
+    <string name="uninstall_dialog_message">A desinstalação removerá todos os dados do aplicativo.</string>
     <string name="uninstall_dialog_title_format">Desinstalar %s?</string>
     <string name="uninstall_result_failed">Não é possível desinstalar %s</string>
     <string name="uninstall_result_succeeded">Desinstalado com sucesso</string>
-    <string name="uninstall_with_xspace_dialog_message">Os dual aplicativos correspondentes serão removidos junto com os dados do app.</string>
-    <string name="uninstall_xspace_dialog_message">A desinstalação do dual aplicativo removerá todos os dados do app.</string>
-    <string name="uninstall_xspace_dialog_title_format">Desinstalar Dual aplicativo \"%s\"?</string>
+    <string name="uninstall_with_xspace_dialog_message">Os aplicativos clones correspondentes serão removidos junto com os dados do aplicativo.</string>
+    <string name="uninstall_xspace_dialog_message">A desinstalação do aplicativo clone removerá todos os dados do aplicativo.</string>
+    <string name="uninstall_xspace_dialog_title_format">Desinstalar aplicativo clone \"%s\"?</string>
     <string name="unknown_artist_name">Artista desconhecido</string>
     <string name="unnamed_folder_name">Pasta</string>
     <string name="use_theme_screen_cells_title">Permitir que o tema sobreponha o layout da tela inicial</string>

@@ -516,7 +516,7 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
     <string name="data_usage_uninstalled_apps_users">Aplicativos e usuários removidos</string>
     <string name="debug_app">Selecionar aplicativo de depuração</string>
     <string name="debug_app_not_set">Nenhum conjunto de aplicativos de depuração</string>
-    <string name="debug_app_set">App de depuração: %1$s</string>
+    <string name="debug_app_set">Aplicativo de depuração: %1$s</string>
     <string name="debug_applications_category">Aplicativos</string>
     <string name="debug_debugging_category">Depuração</string>
     <string name="debug_drawing_category">Desenho</string>
@@ -1053,7 +1053,7 @@ Tente novamente em %2$d segundos."</string>
     <string name="mobile_data_always_on_summary">Sempre manter dados móveis ativos, mesmo quando o Wi-Fi estiver ativado (para troca rápida de rede).</string>
     <string name="mock_location_app">Selecionar aplicativo de local fictício</string>
     <string name="mock_location_app_not_set">Nenhum aplicativo de local fictício definido</string>
-    <string name="mock_location_app_set">App de local fictício: %1$s</string>
+    <string name="mock_location_app_set">Aplicativo de local fictício: %1$s</string>
     <string name="monitoring_button_view_policies">Ver Políticas</string>
     <string name="monitoring_description_app">Você está conectado a %1$s, que pode monitorar sua atividade de rede, incluindo e-mails, aplicativos e websites.</string>
     <string name="monitoring_description_app_personal">Você está conectado a %1$s, o que pode monitorar sua atividade de rede pessoal, incluindo e-mails, aplicativos e websites.</string>
@@ -1285,7 +1285,7 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
     <string name="qs_dnd_keep">Manter</string>
     <string name="qs_dnd_prompt_app">O Não perturbe foi ativado por um aplicativo (%s).</string>
     <string name="qs_dnd_prompt_auto_rule">O Não perturbe foi ativado por uma regra automática (%s).</string>
-    <string name="qs_dnd_prompt_auto_rule_app">O Não perturbe foi ativado por uma regra automática ou um app.</string>
+    <string name="qs_dnd_prompt_auto_rule_app">O Não perturbe foi ativado por uma regra automática ou um aplicativo.</string>
     <string name="qs_dnd_replace">Substituir</string>
     <string name="qs_dnd_until">Até %s</string>
     <string name="qs_edit">Editar</string>
@@ -1406,7 +1406,7 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
     <string name="recents_accessibility_split_screen_top">Dividir tela para o topo</string>
     <string name="recents_app_info_button_label">Info. do aplicativo</string>
     <string name="recents_caption_resize">Selecionar novo layout para Recentes</string>
-    <string name="recents_drag_hint_message">Pressione e segure um app, e então arraste-o aqui.</string>
+    <string name="recents_drag_hint_message">Pressione e segure um aplicativo, e então arraste-o aqui.</string>
     <string name="recents_empty_message">Nenhum item recente</string>
     <string name="recents_empty_message_dismissed_all">Você já limpou tudo</string>
     <string name="recents_empty_message_multi_window">Abrir aplicativos da Tela inicial</string>
@@ -1502,7 +1502,7 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
     <string name="settings_toggle_position_reset">Redefinir atalhos</string>
     <string name="share">Compartilhar</string>
     <string name="show_all_anrs">Mostrar todos os ANRS</string>
-    <string name="show_all_anrs_summary">Mostrar \"App não responde\" para aplicativos em seg. plano</string>
+    <string name="show_all_anrs_summary">Mostrar \"Aplicativo não responde\" para aplicativos em seg. plano</string>
     <string name="show_battery_percentage">Mostrar porcentagem da bateria</string>
     <string name="show_battery_percentage_summary">Mostrar porcentagem da bateria dentro da barra de status quando não estiver carregando</string>
     <string name="show_brightness">Mostrar brilho nas Configurações rápidas</string>
@@ -1537,7 +1537,7 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
     <string name="speed_label_very_slow">Muito lenta</string>
     <string name="ssl_ca_cert_warning">"A rede pode ser
 monitorada"</string>
-    <string name="standby_bucket_summary">Estado do standby do app: %s</string>
+    <string name="standby_bucket_summary">Estado do standby do aplicativo: %s</string>
     <string name="start_dreams">Descanso de tela</string>
     <string name="status_bar">Barra de status</string>
     <string name="status_bar_accessibility_dismiss_recents">Dispensar aplicativos recentes</string>
@@ -1716,7 +1716,7 @@ Ele pode esquentar em excesso se você:
     <string name="tts_status_ok">%1$s é totalmente suportado</string>
     <string name="tts_status_requires_network">%1$s precisa de uma conexão de rede</string>
     <string name="tts_status_title">Status de idioma padrão</string>
-    <string name="tuner_app">App %1$s</string>
+    <string name="tuner_app">Aplicativo %1$s</string>
     <string name="tuner_circle">Círculo</string>
     <string name="tuner_full_importance_settings">Controle individual de notificações</string>
     <string name="tuner_full_importance_settings_off">Desativado</string>
@@ -1826,7 +1826,7 @@ Qualquer usuário pode atualizar aplicativos para todos os outros usuários."</s
     <string name="vpn_title">VPN ativado</string>
     <string name="vpn_title_long">Conectando-se à VPN usando %s</string>
     <string name="wait_for_debugger">Aguardar depurador</string>
-    <string name="wait_for_debugger_summary">App depurado espera conexão com debugger antes de ser executado</string>
+    <string name="wait_for_debugger_summary">Aplicativo depurado espera conexão com debugger antes de ser executado</string>
     <string name="wallpaper_global_des_drop_down_notify_text">Solte para ver detalhes</string>
     <string name="wapi_all_sel_mode">Selecionar</string>
     <string name="wapi_auto_sel_cert">Selecionar automaticamente</string>

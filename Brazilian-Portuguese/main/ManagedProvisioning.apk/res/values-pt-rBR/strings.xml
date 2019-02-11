@@ -27,7 +27,7 @@
     <string name="default_managed_profile_name">Perfil de trabalho</string>
     <string name="default_first_meat_user_name">Usuário principal</string>
     <string name="delete_profile_title">Deseja excluir o perfil já existente?</string>
-    <string name="opening_paragraph_delete_profile">Você já tem um perfil de trabalho, gerenciado por meio do seguinte app:</string>
+    <string name="opening_paragraph_delete_profile">Você já tem um perfil de trabalho, gerenciado por meio do seguinte aplicativo:</string>
     <string name="read_more_delete_profile">Antes de prosseguir, <a href="#read_this_link">leia isso</a>.</string>
     <string name="sure_you_want_to_delete_profile">Se você continuar, todos os aplicativos e dados deste perfil serão excluídos.</string>
     <string name="delete_profile">Excluir</string>
@@ -100,7 +100,7 @@
     <string name="setup_isnt_finished_contact_admin">A configuração não foi concluída. Entre em contato com seu administrador para receber ajuda.</string>
     <string name="for_help_contact_admin">Entre em contato com seu administrador para receber ajuda</string>
     <string name="organization_admin">administrador da organização</string>
-    <string name="your_org_app_used">%1$s vai gerenciar e monitorar este dispositivo por meio do seguinte app:</string>
+    <string name="your_org_app_used">%1$s vai gerenciar e monitorar este dispositivo por meio do seguinte aplicativo:</string>
     <string name="your_organization_beginning">Sua empresa</string>
     <string name="your_organization_middle">sua organização</string>
     <string name="view_terms">Ver termos</string>

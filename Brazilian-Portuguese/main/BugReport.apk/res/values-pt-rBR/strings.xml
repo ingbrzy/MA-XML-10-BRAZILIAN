@@ -104,7 +104,7 @@
     <string name="err_type_signal">Rede</string>
     <string name="err_type_wifi">Wi-Fi</string>
     <string name="err_type_bluetooth">Bluetooth</string>
-    <string name="err_type_appstore">App Store</string>
+    <string name="err_type_appstore">Aplicativo Store</string>
     <string name="err_type_translate">Idioma</string>
     <string name="err_type_camera">Câmera</string>
     <string name="err_type_systemapp">Aplicativos MIUI</string>
@@ -150,7 +150,7 @@
     <string name="network_err">Não é possível conectar-se à rede.</string>
     <string name="refresh">Atualizar</string>
     <string name="announcement">Atenção</string>
-    <string name="app_empty">Não foi possível encontrar apps.</string>
+    <string name="app_empty">Não foi possível encontrar aplicativos.</string>
     <string name="screen_lock">Bloqueio de tela</string>
     <string name="systemui">Área de notificações</string>
     <string name="cta_dialog_title">Conexão com a Internet</string>
@@ -314,7 +314,7 @@
     <string name="module_tools">Ferramentas de sistema</string>
     <string name="module_desktop">Tela inicial e configurações</string>
     <string name="module_security">Segurança e Mi Cloud</string>
-    <string name="module_data">Armazenamento e Dual aplicativos</string>
+    <string name="module_data">Armazenamento e aplicativos clones</string>
     <string name="module_finance">Finanças e Mi Wallet</string>
     <string name="module_more">Mais</string>
     <string name="module_search">Pesquisar</string>

@@ -142,7 +142,7 @@
     <string name="gift_present_success_dlg_title">Presente enviado</string>
     <string name="gift_present_success_no_sms_dlg_content">O histórico de presentes está listado na sua conta.</string>
     <string name="gift_presented">Enviado</string>
-    <string name="gift_purchase_success_dlg_content">Você comprou %1$s como um presente. Para enviar, vá para a página da Conta do app.</string>
+    <string name="gift_purchase_success_dlg_content">Você comprou %1$s como um presente. Para enviar, vá para a página da Conta do aplicativo.</string>
     <string name="gift_purchase_success_dlg_title">Presente comprado</string>
     <string name="gift_purchased_endnote">Para: %1$s</string>
     <string name="gift_purchased_list_empty">Você não deu nenhum presente.</string>

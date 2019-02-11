@@ -63,31 +63,31 @@
     <string name="remove_button_time">Remover e reiniciar (%ds)</string>
     <string name="cancel_button">Cancelar</string>
     <string name="list_empty_text">Vazio</string>
-    <string name="list_empty_text_xspace">Instale o WeChat/QQ/Weibo, crie dual aplicativos, e tente novamente.</string>
-    <string name="xspace_label">Dual aplicativos</string>
-    <string name="xspace_setting_label">Configuração dos Dual aplicativos</string>
-    <string name="xspace_account">Contas de Dual aplicativos</string>
-    <string name="xspace_remove">Excluir contas de dual aplicativos</string>
-    <string name="declare_dialog_title">Sobre os dual aplicativos</string>
+    <string name="list_empty_text_xspace">Instale o WeChat/QQ/Weibo, crie aplicativos clones, e tente novamente.</string>
+    <string name="xspace_label">Aplicativos clones</string>
+    <string name="xspace_setting_label">Configuração dos aplicativos clones</string>
+    <string name="xspace_account">Contas de aplicatvos clones</string>
+    <string name="xspace_remove">Excluir contas de aplicativos clones</string>
+    <string name="declare_dialog_title">Sobre os aplicativos clones</string>
     <string name="menu_item_about_privacy_title">Política de Privacidade</string>
-    <string name="stop_xspace_alert_title">Excluindo contas de dual aplicativos</string>
-    <string name="stop_xspace_alert_content">Todos os dual aplicativos e seus dados serão excluídos permanentemente. Você deverá reiniciar o dispositivo para aplicar esta alteração. Excluir as contas agora?</string>
+    <string name="stop_xspace_alert_title">Excluindo contas de aplicativos clones</string>
+    <string name="stop_xspace_alert_content">Todos os aplicativos clones e seus dados serão excluídos permanentemente. Você deverá reiniciar o dispositivo para aplicar esta alteração. Excluir as contas agora?</string>
     <string name="xspace_loading_msg">Carregando apps…</string>
-    <string name="xspace_header">Dual aplicativos</string>
+    <string name="xspace_header">Aplicativos clones</string>
     <string name="xspace_introduce">Recomendado</string>
-    <string name="xspace_description">"Dual aplicativos são cópias de aplicativos que podem ser usadas separadamente com uma conta diferente.
+    <string name="xspace_description">"Aplicativos clones são cópias de aplicativos que podem ser usadas separadamente com uma conta diferente.
 
-Alguns dual aplicativos requerem o suporte à Estrutura de Serviços do Google. Nestes casos, um dual aplicativo para ele será criado."</string>
-    <string name="xspace_chocie">Suporte a dual aplicativos</string>
-    <string name="xspace_creating">Criando dual app…</string>
+Alguns aplicativos clones requerem o suporte à Estrutura de Serviços do Google. Nestes casos, um aplicativo clone para ele será criado."</string>
+    <string name="xspace_chocie">Suporte a aplicativos clones</string>
+    <string name="xspace_creating">Criando aplicativo clone…</string>
     <string name="xspace_installing">Instalando…</string>
     <string name="xspace_install_failed">Não foi possível criar o aplicativo</string>
     <string name="xspace_uninstalling">Desinstalando…</string>
-    <string name="xspace_install_completed">Ícone adicionado à Tela inicial</string>
+    <string name="xspace_install_completed">Ícone adicionado à tela inicial</string>
     <string name="xspace_install_completed_global">Ícone adicionado à bandeja</string>
-    <string name="xspace_uninstall_completed">Dual aplicativo desinstalado com sucesso</string>
-    <string name="xspace_uninstall_dialog_title">Desinstalar dual aplicativo</string>
-    <string name="xspace_uninstall_dialog_content">Desinstalar o dual aplicativo removerá seus dados correspondentes.</string>
+    <string name="xspace_uninstall_completed">Aplicativo clone desinstalado com sucesso</string>
+    <string name="xspace_uninstall_dialog_title">Desinstalar aplicativo clone</string>
+    <string name="xspace_uninstall_dialog_content">Desinstalar o aplicativo clone removerá seus dados correspondentes.</string>
     <string name="loading_apps">Carregando apps…</string>
     <string name="loading_success">Carregado com sucesso</string>
     <string name="switching">Movendo…</string>
@@ -283,7 +283,7 @@ para entrar no Segundo Espaço através da Tela de bloqueio"</string>
     <string name="scanner_fingerprint">Lendo impressão digital…</string>
     <string name="scanner_fingerprint_enter_second">"Leia a impressão digital do Segundo Espaço
 para acessar o Segundo Espaço através da Tela de bloqueio"</string>
-    <string name="xspace_guide_title">Criar um dual aplicativo</string>
+    <string name="xspace_guide_title">Criar um aplicativo clone</string>
     <string name="xspace_guide_des">Use 2 contas sem trocar de telefone</string>
     <string name="xpsace_guide_button">Criar</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
@@ -299,13 +299,13 @@ para acessar o Segundo Espaço através da Tela de bloqueio"</string>
     <string name="xspace_qq_title">QQ</string>
     <string name="qq_send">Enviar para amigos do QQ/computador</string>
     <string name="qq_login">Fazer login no QQ</string>
-    <string name="xspace_default_setting_label">App padrão</string>
-    <string name="xspace_default_app_title">App padrão</string>
+    <string name="xspace_default_setting_label">Aplicativo padrão</string>
+    <string name="xspace_default_app_title">Aplicativo padrão</string>
     <string name="xspace_default_app_summary">Definir aplicativo padrão para pagamentos, compartilhamento, favoritos e mais.</string>
     <string name="xspace_default_setting_dialog_title"> padrão</string>
     <string name="xspace_default_guide_notification_content">Toque para alterar</string>
     <string name="xspace_default_guide_notification_main_title">Usando o aplicativo padrão</string>
-    <string name="xspace_default_guide_notification_xspace_title">Usando o dual aplicativo</string>
+    <string name="xspace_default_guide_notification_xspace_title">Usando o aplicativo clone</string>
     <string name="space_name_default">Espaço de trabalho</string>
     <string name="space_des_default">Espaço isolado com dados criptografados</string>
     <string name="create_work_space">Criar Espaço de trabalho</string>
@@ -338,10 +338,10 @@ para acessar o Segundo Espaço através da Tela de bloqueio"</string>
     <string name="sdcardfs_dialog_title">Atualização importante</string>
     <string name="sdcardfs_dialog_message">Um novo sistema de arquivos foi introduzido nesta atualização. Os dados antigos podem ser incompatíveis com ele. Para resolver este problema, siga os passos para a instalação da atualização. Seu dispositivo reiniciará duas vezes durante esta atualização.</string>
     <string name="do_not_ask">Não perguntar novamente</string>
-    <string name="gpg_message">Criar dual aplicativos para jogos requer o uso do Google Play Jogos. Criar um dual aplicativo para o Google Play Jogos?</string>
-    <string name="gpg_title">Dual aplicativo para o Google Play Jogos</string>
-    <string name="gms_message">Criar dual aplicativos podem exigir o uso de serviços do Google. Criar um dual aplicativo para os Serviços do Google?</string>
-    <string name="gms_title">Dual aplicativo para Serviços do Google</string>
+    <string name="gpg_message">Criar aplicativos clones para jogos requer o uso do Google Play Jogos. Criar um aplicativo clone para o Google Play Jogos?</string>
+    <string name="gpg_title">Aplicativo clone para o Google Play Jogos</string>
+    <string name="gms_message">Criar aplicativos clones podem exigir o uso de serviços do Google. Criar um aplicativo clone para os Serviços do Google?</string>
+    <string name="gms_title">Aplicativo clone para Serviços do Google</string>
     <string name="gms_open_button">Ativar</string>
     <string name="create_second_space">Criado com sucesso</string>
     <string name="set_space_password">Definir senha</string>
@@ -369,10 +369,10 @@ Dois espaços. Um dispositivo."</string>
     <string name="remove_user_click_message_action">você pode excluir o Segundo Espaço e reiniciar seu dispositivo agora.</string>
     <string name="sdcradfs_dialog_in_owner_title">Segundo Espaço</string>
     <string name="sdcradfs_dialog_in_owner_message">"Um novo sistema de arquivos foi introduzido nesta atualização. Os dados antigos podem ser incompatíveis com ele. Para atualizar, mova os itens do Segundo Espaço, reinicie seu dispositivo, e crie o Segundo Espaço novamente.
-Se você não atualizar, os dual aplicativos também podem não funcionar corretamente."</string>
+Se você não atualizar, os aplicativos clones também podem não funcionar corretamente."</string>
     <string name="sdcradfs_dialog_in_sec_title">Atualização importante</string>
     <string name="sdcradfs_dialog_in_sec_message">"Para atualizar, você precisa excluir o seu Segundo Espaço e criá-lo novamente. Mova os dados do Segundo Espaço para o Primeiro Espaço e reinicie o dispositivo para concluir a atualização.
-Se você não atualizar, os dual aplicativos podem não funcionar corretamente também."</string>
+Se você não atualizar, os aplicativos clones podem não funcionar corretamente também."</string>
     <string name="space_created_success">Segundo Espaço criado com sucesso</string>
     <string name="encrypt_space_delete_dialog_title">Atenção</string>
     <string name="encrypt_space_delete_dialog_message">Você está prestes a atualizar o sistema. Após a atualização, os dados do Segundo Espaço se tornarão incompatíveis. Para evitar isso, mova todos os dados para o Primeiro Espaço, exclua o Segundo Espaço e crie-o novamente.</string>
@@ -450,7 +450,7 @@ Certifique-se que o nome da sua empresa está correto. Leia e aceite as polític
     <string name="undo_success">Revogado com sucesso</string>
     <string name="master_clear_apply_title">Atenção</string>
     <string name="master_clear_apply_step_1">Revogar a autorização redefinirá o dispositivo para as configurações de fábrica. Isso apagará permanentemente todos os seus arquivos e dados, incluindo contas, contatos, fotos e apps. Faça o backup de itens importantes para o seu computador antes de revogar a autorização.</string>
-    <string name="master_clear_apply_step_2">Certifique-se de ter feito um backup de todos os itens importantes para o seu computador. Quando você tocar em \"OK\", o dispositivo será redefinido para as configurações de fábrica, apagando permanentemente todos os seus arquivos e dados, incluindo contas, contatos, fotos e apps.</string>
+    <string name="master_clear_apply_step_2">Certifique-se de ter feito um backup de todos os itens importantes para o seu computador. Quando você tocar em \"OK\", o dispositivo será redefinido para as configurações de fábrica, apagando permanentemente todos os seus arquivos e dados, incluindo contas, contatos, fotos e aplicativos.</string>
     <string name="button_text_next_step">Avançar</string>
     <string name="button_text_next_step_timer">Próximo passo (%d)</string>
     <string name="dialog_tip_need_network">Seu dispositivo precisa de uma conexão com a internet para revogar a autorização.</string>

@@ -1127,7 +1127,7 @@ para personalizar a Galeria"</string>
     <string name="storage_description_primary">Armaz. interno</string>
     <string name="storage_description_sdcard">Cartão SD</string>
     <string name="storage_description_usb">Armazenamento USB</string>
-    <string name="storage_description_xspace">Dados dos Dual aplicativos</string>
+    <string name="storage_description_xspace">Dados dos aplicativos clones</string>
     <string name="storage_no_space">Espaço insuficiente</string>
     <string name="story_back_stop_download">Toque novamente para parar o download</string>
     <string name="story_cancel_download">Cancelar</string>
@@ -1181,7 +1181,7 @@ para personalizar a Galeria"</string>
     <string name="tip_file_info">Nome:</string>
     <string name="tip_file_path">Caminho:</string>
     <string name="tip_not_download">O item não está no dispositivo. O download será feito da Mi Cloud durante a reprodução.</string>
-    <string name="tip_screenshot_package_info">Nome do app:</string>
+    <string name="tip_screenshot_package_info">Nome do aplicativo:</string>
     <string name="title_set_name">Inserir nome</string>
     <string name="title_tip">Dica</string>
     <string name="title_warn">Alerta</string>

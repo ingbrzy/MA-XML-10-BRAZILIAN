@@ -247,7 +247,7 @@ Toque na tela para adicionar uma cidade manualmente"</string>
     <string name="view_indexes_item_tommorrow">Amanhã</string>
     <string name="wind_direction_no_data">Vento</string>
     <string name="wind_unit">%1$skm/h</string>
-    <string name="xiaomi_weather_description_content">O aplicativo Clima fornece informações atualizadas das condições metereológicas. Sem este app, o widget da barra de status e da Tela inicial não funcionarão corretamente. Certifique-se de que não precisará destes recursos antes de desinstalar o app.</string>
+    <string name="xiaomi_weather_description_content">O aplicativo Clima fornece informações atualizadas das condições metereológicas. Sem este aplicativo, o widget da barra de status e da Tela inicial não funcionarão corretamente. Certifique-se de que não precisará destes recursos antes de desinstalar o aplicativo.</string>
     <string name="xiaomi_weather_description_title">Sobre o Clima</string>
     <string name="yes_vote_ratio">Para %1$s%%</string>
     <string name="your_location">Sua localização</string>

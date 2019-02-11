@@ -422,7 +422,7 @@ Para ativar sua conta, siga o
     <string name="delete_app">Excluir aplicativo</string>
     <string name="delete_browser">Excluir navegador</string>
     <string name="confirm_delete_device_message">Após excluir este dispositivo, será necessário verificar seu número de telefone da próxima vez que fizer o login em sua Conta Mi nele.</string>
-    <string name="confirm_delete_app_message">Após excluir este app, será necessário verificar seu número de telefone da próxima vez que fizer o login em sua Conta Mi nele.</string>
+    <string name="confirm_delete_app_message">Após excluir este aplicativo, será necessário verificar seu número de telefone da próxima vez que fizer o login em sua Conta Mi nele.</string>
     <string name="confirm_delete_browser_message">Após excluir este navegador, será necessário verificar seu número de telefone da próxima vez que fizer o login em sua Conta Mi nele.</string>
     <string name="delete_lock_device_success">Excluído com sucesso</string>
     <string name="verify_phone_title">Verificar número de telefone</string>

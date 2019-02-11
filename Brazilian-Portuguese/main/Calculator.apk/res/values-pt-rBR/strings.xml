@@ -38,7 +38,7 @@
     <string name="day">dia</string>
     <string name="degDesc">Ângulo</string>
     <string name="deleteDesc">excluir</string>
-    <string name="description_content">Além dos recursos básicos, a Calculadora também funciona como um conversor universal, além de calcular impostos e hipotecas. Certifique-se de que não precisará destes recursos antes de desinstalar o app.</string>
+    <string name="description_content">Além dos recursos básicos, a Calculadora também funciona como um conversor universal, além de calcular impostos e hipotecas. Certifique-se de que não precisará destes recursos antes de desinstalar o aplicativo.</string>
     <string name="description_title">Sobre a Calculadora</string>
     <string name="devided_by_zero_reminder_message">Não é possível dividir por 0</string>
     <string name="digit0">0</string>

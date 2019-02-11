@@ -53,8 +53,8 @@
         <item quantity="one">%1$d aplicativo restrito</item>
     </plurals>
     <plurals name="battery_tip_restrict_app_dialog_title">
-        <item quantity="other">Restringir %1$d apps?</item>
-        <item quantity="one">Restringir %1$d app?</item>
+        <item quantity="other">Restringir %1$d aplicativos?</item>
+        <item quantity="one">Restringir %1$d aplicativo?</item>
     </plurals>
     <plurals name="battery_tip_restrict_handled_summary">
         <item quantity="other">Não é possível executar estes aplicativos em segundo plano</item>
@@ -94,15 +94,15 @@
     </plurals>
     <plurals name="default_camera_app_title">
         <item quantity="other">Aplicativos de câmera</item>
-        <item quantity="one">App de câmera</item>
+        <item quantity="one">Aplicativo de câmera</item>
     </plurals>
     <plurals name="default_email_app_title">
         <item quantity="other">Aplicativos de cliente de e-mail</item>
-        <item quantity="one">App de cliente de e-mail</item>
+        <item quantity="one">Aplicativo de cliente de e-mail</item>
     </plurals>
     <plurals name="default_phone_app_title">
         <item quantity="other">Aplicativos de telefone</item>
-        <item quantity="one">App de telefone</item>
+        <item quantity="one">Aplicativo de telefone</item>
     </plurals>
     <plurals name="deleted_channels">
         <item quantity="other">%d categorias excluídas</item>
@@ -241,7 +241,7 @@
     </plurals>
     <plurals name="power_high_usage_title">
         <item quantity="other">Aplicativos que descarregam a bateria</item>
-        <item quantity="one">App que descarrega a bateria</item>
+        <item quantity="one">Aplicativo que descarrega a bateria</item>
     </plurals>
     <plurals name="print_jobs_summary">
         <item quantity="other">%1$d trabalhos de impressão</item>

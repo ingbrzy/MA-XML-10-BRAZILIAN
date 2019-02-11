@@ -176,8 +176,8 @@
     <string name="apps_sort_type_item_size">Tamanho</string>
     <string name="dialog_title_uninstall_apps">Desinstalar</string>
     <string name="dialog_title_backup_and_uninstall_apps">Backup e desinstalar</string>
-    <string name="dialog_msg_uninstall_apps">Desinstalar estes apps?</string>
-    <string name="dialog_msg_uninstall_apps_xspace">Desinstalar estes aplicativos incluindo seus Dual apps?</string>
+    <string name="dialog_msg_uninstall_apps">Desinstalar estes aplicativos?</string>
+    <string name="dialog_msg_uninstall_apps_xspace">Desinstalar estes aplicativos incluindo seus aplicativos clones?</string>
     <string name="dialog_msg_backup_and_uninstall_apps">Fazer backup e desinstalar os aplicativos selecionados?</string>
     <string name="toast_backup_is_running">O backup já está excutando</string>
     <string name="toast_backup_uninstall_failed">Não foi possível fazer o backup de %d aplicativos</string>
@@ -473,7 +473,7 @@
     <string name="engine_tm">Tencent</string>
     <string name="engine_cm">Clean Master</string>
     <string name="app_description_title">Sobre o aplicativo Limpeza</string>
-    <string name="app_description_content">O aplicativo Limpeza encontra lixo em seu dispositivo para liberar espaço no armazenamento. Certifique-se de que não precisará deste recurso antes de desinstalar o app.</string>
+    <string name="app_description_content">O aplicativo Limpeza encontra lixo em seu dispositivo para liberar espaço no armazenamento. Certifique-se de que não precisará deste recurso antes de desinstalar o aplicativo.</string>
     <string name="engine_init">Inicializando…</string>
     <string name="unlike">Não, obrigado</string>
     <string name="wechat_qq_celan_tab_video">Vídeos</string>

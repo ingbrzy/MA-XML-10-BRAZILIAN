@@ -155,9 +155,9 @@
     <string name="just_now">Agora mesmo</string>
     <string name="launch_else">Outro</string>
     <string name="launch_label">Acesso rápido</string>
-    <string name="launch_no_dapp_dialog_content">O Dual aplicativo respondável por este cartão foi excluído. Você pode substituir este cartão por um diferente.</string>
-    <string name="launch_no_dapp_dialog_reset">Configuração dos Dual aplicativos</string>
-    <string name="launch_no_dapp_dialog_title">O Dual aplicativo foi excluído</string>
+    <string name="launch_no_dapp_dialog_content">O aplicativo clone respondável por este cartão foi excluído. Você pode substituir este cartão por um diferente.</string>
+    <string name="launch_no_dapp_dialog_reset">Configuração aplicativos clones</string>
+    <string name="launch_no_dapp_dialog_title">O aplicativo clone foi excluído</string>
     <string name="launch_noapp_dialog_cancel">Cancelar</string>
     <string name="launch_noapp_dialog_content">O aplicativo responsável por este cartão foi excluído. Você pode substituir este cartão por um diferente.</string>
     <string name="launch_noapp_dialog_redownload">Fazer download novamente</string>

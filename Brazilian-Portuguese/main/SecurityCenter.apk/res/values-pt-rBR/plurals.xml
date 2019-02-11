@@ -73,8 +73,8 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
         <item quantity="one">%d aplicativo encontrado</item>
     </plurals>
     <plurals name="network_restrict_count">
-        <item quantity="other">"O acesso à rede está restrito para &lt;font color='#ff0000'>%d&lt;/font> apps"</item>
-        <item quantity="one">"O acesso à rede está restrito para &lt;font color='#ff0000'>%d&lt;/font> app"</item>
+        <item quantity="other">"O acesso à rede está restrito para &lt;font color='#ff0000'>%d&lt;/font> aplicativos"</item>
+        <item quantity="one">"O acesso à rede está restrito para &lt;font color='#ff0000'>%d&lt;/font> aplicativo"</item>
     </plurals>
     <plurals name="om_locked_apps_title">
         <item quantity="other">%d aplicativos bloqueados</item>
@@ -237,8 +237,8 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
         <item quantity="one">As estatísticas de uso de dados com a operadora não sincronizam há %d dia</item>
     </plurals>
     <plurals name="summary_app_update">
-        <item quantity="other">Atualizações disponíveis para %d apps.</item>
-        <item quantity="one">Atualização disponível para %d app.</item>
+        <item quantity="other">Atualizações disponíveis para %d aplicativos.</item>
+        <item quantity="one">Atualização disponível para %d aplicativo.</item>
     </plurals>
     <plurals name="notification_title_cmcc_app_check">
         <item quantity="other">%d dias desde a última verificação</item>
@@ -254,7 +254,7 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
     </plurals>
     <plurals name="white_list_risk_app_header">
         <item quantity="other">Aplicativos perigosos: %d</item>
-        <item quantity="one">App perigoso: %d</item>
+        <item quantity="one">Aplicativo perigoso: %d</item>
     </plurals>
     <plurals name="white_list_trojan_header">
         <item quantity="other">Trojans: %d</item>

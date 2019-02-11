@@ -200,8 +200,8 @@ Atualização incremental: %2$s"</string>
     <string name="read_encrypt_fail">Não foi possível ler o backup criptografado</string>
     <string name="exchange_account">Trocar contas</string>
     <string name="system_backup">Backup</string>
-    <string name="backup_empty_info">" Fazer backup de seus dados, configurações e apps"</string>
-    <string name="backup_empty_info_onpad">" Fazer backup de seus dados, configurações e apps"</string>
+    <string name="backup_empty_info">" Fazer backup de seus dados, configurações e aplicativos"</string>
+    <string name="backup_empty_info_onpad">" Fazer backup de seus dados, configurações e aplicativos"</string>
     <string name="system_backup_info">Configurações do sistema e disposição da Tela inicial</string>
     <string name="software_backup_info">Dados de aplicativos</string>
     <string name="account_contact_backup_info">Conta Mi, Conta do Google e dados de Contatos</string>
@@ -251,7 +251,7 @@ Atualização incremental: %2$s"</string>
     <string name="err_acquire_system_service">Não foi possível iniciar o serviço do sistema.</string>
     <string name="err_not_allow">Não suportado</string>
     <string name="err_bakfile_not_exist">O arquivo do backup não existe.</string>
-    <string name="err_pkg_not_exist">Não foi possível encontrar o app.</string>
+    <string name="err_pkg_not_exist">Não foi possível encontrar o aplicativo.</string>
     <string name="err_user_abort">Cancelado pelo usuário.</string>
     <string name="err_binder_died">O aplicativo parou inesperadamente.</string>
     <string name="backup_is_running">Fazendo o backup do dispositivo</string>
@@ -305,10 +305,10 @@ Mantenha os dispositivos pertos um do outro."</string>
     <string name="trans_detail_category_user_app_data">Dados do aplicativo</string>
     <string name="trans_detail_wechat_data">Dados do WeChat (incluindo histórico de chats)</string>
     <string name="trans_detail_qq_data">Dados do QQ (incluindo histórico de chats)</string>
-    <string name="trans_detail_app_data_useless_tip">Você pode restaurar estes através do app, não é necessário transferir.</string>
+    <string name="trans_detail_app_data_useless_tip">Você pode restaurar estes através do aplicativo, não é necessário transferir.</string>
     <string name="trans_detail_item_app_data_too_large_tip">Parece que o item é muito grande para ser transferido.</string>
     <string name="trans_detail_item_app_data_selected_tip">Aplicativos correspondentes também foram selecionados.</string>
-    <string name="trans_detail_list_footer">Nota: Você pode optar por transferir os aplicativos separadamente. Entretanto, se você seleciona os dados do app, os aplicativos correspondentes também serão transferidos.</string>
+    <string name="trans_detail_list_footer">Nota: Você pode optar por transferir os aplicativos separadamente. Entretanto, se você seleciona os dados do aplicativo, os aplicativos correspondentes também serão transferidos.</string>
     <string name="trans_detail_page_tip">Quanto mais itens forem selecionados mais demorada será a transferência.</string>
     <string name="trans_detail_sys_data_list_title">Aplicativos do sistema</string>
     <string name="trans_detail_app_data_list_title">Dados do aplicativo</string>
@@ -436,8 +436,8 @@ para transferir e instalar o Mi Mover."</string>
     <string name="trans_intro_desc_private">O Mi Mover não pode acessar as fotos no álbum oculto porque elas são criptografadas. Você poderá restaurar estas fotos usando a Mi Cloud no novo dispositivo.</string>
     <string name="trans_intro_title_multiuser">Dados do Segundo Espaço:</string>
     <string name="trans_intro_desc_multiuser">O Mi Mover não pode acessar itens no Segundo Espaço. Mova os itens para o Primeiro Espaço e inicie o Mi Mover.</string>
-    <string name="trans_intro_title_multiapp">Dados dos dual apps:</string>
-    <string name="trans_intro_desc_multiapp">O Mi Mover não transfere dados de Dual aplicativos para evitar conflitos entre arquivos.</string>
+    <string name="trans_intro_title_multiapp">Dados dos aplicativos clones:</string>
+    <string name="trans_intro_desc_multiapp">O Mi Mover não transfere dados dos aplicativos clones para evitar conflitos entre arquivos.</string>
     <string name="trans_intro_question_9_market">%d. Feedback.</string>
     <string name="trans_intro_desc_9_method_1_title">1. Compartilhe seu feedback usando o aplicativo \"Feedback\".</string>
     <string name="trans_intro_desc_9_method_1_dec">Vá até a Tela inicial > Ferramentas > Feedback.</string>
@@ -447,7 +447,7 @@ para transferir e instalar o Mi Mover."</string>
     <string name="trans_intro_desc_9_method_3_dec">Grupo do Mi Mover no QQ: 687338378</string>
     <string name="btn_got_it">Entendido</string>
     <string name="backup_security_tips_title">Backups podem não funcionar</string>
-    <string name="backup_security_tips_message">Pode não ser possível fazer o backup ou restaurar alguns apps.</string>
+    <string name="backup_security_tips_message">Pode não ser possível fazer o backup ou restaurar alguns aplicativos.</string>
     <string name="trans_security_tips_title">Compatibilidade do Mi Mover</string>
     <string name="trans_security_tips_message">Alguns aplicativos não suportam o Mi Mover.</string>
     <string name="trans_cancel_selection_title">Ficar no Mi Mover</string>

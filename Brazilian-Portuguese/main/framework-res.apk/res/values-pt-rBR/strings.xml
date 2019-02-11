@@ -110,7 +110,7 @@
     <string name="alert_windows_notification_channel_group_name">Sobrepor a outros aplicativos</string>
     <string name="alert_windows_notification_channel_name">%s exibido sobre outros aplicativos</string>
     <string name="alert_windows_notification_message">Se você não quer que o %s use este recurso, toque para abrir as configurações e desativá-lo.</string>
-    <string name="alert_windows_notification_title">%s exibido sobre outros apps.</string>
+    <string name="alert_windows_notification_title">%s exibido sobre outros aplicativos.</string>
     <string name="alert_windows_notification_turn_off_action">Desativar</string>
     <string name="allow">Permitir</string>
     <string name="alwaysUse">Usar como padrão para esta ação.</string>
@@ -121,7 +121,7 @@
     <string name="android_upgrading_complete">Concluindo a inicialização.</string>
     <string name="android_upgrading_fstrim">Otimizando o armazenamento.</string>
     <string name="android_upgrading_notification_title">Concluindo atualização do sistema…</string>
-    <string name="android_upgrading_starting_apps">Iniciando apps.</string>
+    <string name="android_upgrading_starting_apps">Iniciando aplicativos.</string>
     <string name="android_upgrading_title">O smartphone está sendo atualizado…</string>
     <string name="anr_activity_application">%2$s não está respondendo</string>
     <string name="anr_activity_process">%1$s não está respondendo</string>
@@ -138,7 +138,7 @@
     <string name="app_category_video">Filmes e vídeos</string>
     <string name="app_info">Informações do aplicativo</string>
     <string name="app_not_found">Nenhum aplicativo encontrado para executar a ação</string>
-    <string name="app_running_notification_text">Toque para ver mais informações ou parar o app.</string>
+    <string name="app_running_notification_text">Toque para ver mais informações ou parar o aplicativo.</string>
     <string name="app_running_notification_title">%1$s está em execução</string>
     <string name="app_suspended_default_message">O aplicativo %1$s não está disponível no momento. Isso é gerenciado pelo aplicativo %2$s.</string>
     <string name="app_suspended_more_details">Saiba mais</string>
@@ -452,7 +452,7 @@ Em caso de dúvidas, entre em contato com o administrador da sua organização."
     <string name="granularity_label_word">palavra</string>
     <string name="hardware">Mostrar teclado virtual</string>
     <string name="harmful_app_warning_open_anyway">ABRIR MESMO ASSIM</string>
-    <string name="harmful_app_warning_title">App nocivo detectado</string>
+    <string name="harmful_app_warning_title">Aplicativo nocivo detectado</string>
     <string name="harmful_app_warning_uninstall">DESINSTALAR</string>
     <string name="heavy_weight_notification">%1$s em execução</string>
     <string name="heavy_weight_notification_detail">Toque para voltar ao jogo</string>
@@ -609,7 +609,7 @@ Tente novamente em %2$d segundos."</string>
     <string name="launchBrowserDefault">Abrir Navegador?</string>
     <string name="launch_warning_original">%1$s foi iniciado.</string>
     <string name="launch_warning_replace">%1$s não está em execução.</string>
-    <string name="launch_warning_title">App redirecionado</string>
+    <string name="launch_warning_title">Aplicativo redirecionado</string>
     <string name="leave_accessibility_shortcut_on">Usar atalho</string>
     <string name="loading">Carregando…</string>
     <string name="locale_search_menu">Pesquisa</string>
@@ -860,7 +860,7 @@ Tente novamente em %2$d segundos."</string>
     <string name="notification_channel_do_not_disturb">Não perturbe</string>
     <string name="notification_channel_emergency_callback">Modo de retorno de chamada de emergência</string>
     <string name="notification_channel_foreground_service">Aplicativos que estão consumindo a bateria</string>
-    <string name="notification_channel_heavy_weight_app">App em execução</string>
+    <string name="notification_channel_heavy_weight_app">Aplicativo em execução</string>
     <string name="notification_channel_mobile_data_status">Status dos dados móveis</string>
     <string name="notification_channel_network_alert">Alertas</string>
     <string name="notification_channel_network_alerts">Alertas de rede</string>
@@ -911,7 +911,7 @@ Tente novamente em %2$d segundos."</string>
     <string name="peerTtyModeOff">TTD modo DESLIGADO solicitado</string>
     <string name="peerTtyModeVco">TTD modo VCO solicitado</string>
     <string name="perm_costs_money">isso pode lhe custar dinheiro</string>
-    <string name="permdesc_acceptHandovers">Permite que o aplicativo continue uma chamada que foi iniciada em outro app.</string>
+    <string name="permdesc_acceptHandovers">Permite que o aplicativo continue uma chamada que foi iniciada em outro aplicativo.</string>
     <string name="permdesc_accessCoarseLocation">Este aplicativo pode ver seu local com base nas fontes de rede, como torres de celular e redes Wi-Fi. Esses serviços de localização precisam estar ativados e disponíveis no seu smartphone para que o aplicativo possa usá-los.</string>
     <string name="permdesc_accessDrmCertificates">Permite que o aplicativo provisione e use certificados de DRM. Não deve ser necessário para aplicativos comuns.</string>
     <string name="permdesc_accessFineLocation">Este aplicativo pode ver seu local com base no GPS ou nas fontes de localização da rede, como torres de celular e redes Wi-Fi. Esses serviços de localização precisam estar ativados e disponíveis no seu smartphone para que o aplicativo possa usá-los. Isso pode aumentar o consumo de bateria.</string>
@@ -919,7 +919,7 @@ Tente novamente em %2$d segundos."</string>
     <string name="permdesc_accessLocationExtraCommands">Permite que o aplicativo acesse comandos do provedor não relacionados à localização. Isso pode permitir que o aplicativo interfira no funcionamento do GPS ou de outras fontes de localização.</string>
     <string name="permdesc_accessNetworkConditions">Permite que o aplicativo detecte observações nas condições da rede. Não deve ser necessário para aplicativos comuns.</string>
     <string name="permdesc_accessNetworkState">Permite que o aplicativo acesse informações sobre conexões de rede, como as redes existentes e conectadas.</string>
-    <string name="permdesc_accessNotifications">Permite que o aplicativo recupere, examine e limpe notificações, inclusive as postadas por outros apps.</string>
+    <string name="permdesc_accessNotifications">Permite que o aplicativo recupere, examine e limpe notificações, inclusive as postadas por outros aplicativos.</string>
     <string name="permdesc_accessWifiState">Permite que o aplicativo acesse informações sobre redes Wi-Fi, como a ativação do Wi-Fi e o nome dos dispositivos Wi-Fi conectados.</string>
     <string name="permdesc_accessWimaxState">Permite que o aplicativo determine se o WiMAX está ativado e acesse informações sobre as redes WiMAX conectadas.</string>
     <string name="permdesc_access_notification_policy">Permitir que o aplicativo leia e grave a configuração \"Não perturbe\".</string>
@@ -958,7 +958,7 @@ Tente novamente em %2$d segundos."</string>
     <string name="permdesc_invokeCarrierSetup">Permite que o proprietário invoque o aplicativo de configuração fornecido pela operadora. Não deve ser necessário para aplicativos comuns.</string>
     <string name="permdesc_killBackgroundProcesses">Permite que o aplicativo encerre processos em segundo plano de outros apps. Pode ser que outros aplicativos parem de funcionar.</string>
     <string name="permdesc_manageFingerprint">Permite que o aplicativo execute métodos para adicionar e excluir modelos de impressão digital para uso.</string>
-    <string name="permdesc_manageNetworkPolicy">Permite que o aplicativo gerencie políticas de rede e definia regras específicas para o app.</string>
+    <string name="permdesc_manageNetworkPolicy">Permite que o aplicativo gerencie políticas de rede e definia regras específicas para o aplicativo.</string>
     <string name="permdesc_manageOwnCalls">Permite que o aplicativo encaminhe suas chamadas por meio do sistema para melhorar a experiência com chamadas.</string>
     <string name="permdesc_manageProfileAndDeviceOwners">Permitir que os aplicativos definam os proprietários de perfis e de dispositivos.</string>
     <string name="permdesc_modifyAudioSettings">Permite que o aplicativo modifique configurações de áudio globais como volume e alto-falantes de saída.</string>
@@ -988,7 +988,7 @@ Tente novamente em %2$d segundos."</string>
     <string name="permdesc_removeDrmCertificates">Permite que um aplicativo remova certificados de DRM. Não deve ser necessário para aplicativos comuns.</string>
     <string name="permdesc_reorderTasks">Permite que o aplicativo mova tarefas para o primeiro e o segundo plano, sem sua intervenção.</string>
     <string name="permdesc_requestDeletePackages">Permite que um aplicativo solicite a exclusão de pacotes.</string>
-    <string name="permdesc_requestIgnoreBatteryOptimizations">Permite que um aplicativo peça permissão para ignorar as otimizações de bateria para esse app.</string>
+    <string name="permdesc_requestIgnoreBatteryOptimizations">Permite que um aplicativo peça permissão para ignorar as otimizações de bateria para esse aplicativo.</string>
     <string name="permdesc_requestInstallPackages">Permite que um aplicativo solicite a instalação de pacotes.</string>
     <string name="permdesc_route_media_output">Permite que um aplicativo faça o roteamento de saída de mídia para outros dispositivos externos.</string>
     <string name="permdesc_runInBackground">Este aplicativo pode ser executado em segundo plano, o que pode esgotar a bateria mais rapidamente.</string>
@@ -1391,7 +1391,7 @@ Ouvir em volume alto por longos períodos pode danificar sua audição."</string
     <string name="sms_short_code_confirm_never_allow">Nunca permitir</string>
     <string name="sms_short_code_details">Isso <b>pode resultar em cobranças</b> na conta de seu dispositivo móvel.</string>
     <string name="sms_short_code_remember_choice">Lembrar minha escolha</string>
-    <string name="sms_short_code_remember_undo_instruction">P/ alterar: Configurações > Apps</string>
+    <string name="sms_short_code_remember_undo_instruction">P/ alterar: Configurações > Aplicativos</string>
     <string name="smv_application">O aplicativo %1$s, processo %2$s, violou a política StrictMode imposta automaticamente.</string>
     <string name="smv_process">O processo %1$s violou a política StrictMode imposta automaticamente.</string>
     <string name="ssl_ca_cert_noti_by_administrator">Pelo administrador do seu perfil de trabalho</string>

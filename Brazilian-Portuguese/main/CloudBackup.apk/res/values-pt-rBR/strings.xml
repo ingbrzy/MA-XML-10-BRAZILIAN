@@ -168,7 +168,7 @@
     <string name="dialog_cancel_backup_msg">Alternar o botão cancelará os backups em andamento.</string>
     <string name="dialog_cancel_backup_cancel">Cancelar</string>
     <string name="dialog_cancel_backup_confirm">OK</string>
-    <string name="app_is_running">App em execução…</string>
+    <string name="app_is_running">Aplicativo em execução…</string>
     <string name="notification_channel_service">Serviço</string>
     <string name="notification_channel_remind">Lembrete</string>
     <string name="done_remove">Removido com sucesso</string>

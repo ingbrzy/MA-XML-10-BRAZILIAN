@@ -231,7 +231,7 @@
     <string name="found_wild_messages_guide_sync_not_started">Sincronização não iniciada</string>
     <string name="found_wild_messages_title">Sincronizar mensagens da Mi Cloud</string>
     <string name="from_label">"De: "</string>
-    <string name="from_pkg_name">Do app:</string>
+    <string name="from_pkg_name">Do aplicativo:</string>
     <string name="group_already_kicked_hint">Não é possível enviar mensagens. Você não é um membro desse chat em grupo.</string>
     <string name="group_message">Mensagem de grupo</string>
     <string name="group_message_title">Chats em grupo</string>
@@ -622,7 +622,7 @@
     <string name="search_hint">Pesquisar mensagens</string>
     <string name="search_keyword_mms">Mensagens;SMS;MMS:Texto;Mensagem de texto;Mensagem;Mensagens</string>
     <string name="search_label">Mensagens</string>
-    <string name="search_path_mms">Configurações/Apps do sistema/Mensagens</string>
+    <string name="search_path_mms">Configurações/Aplicativos de sistema/Mensagens</string>
     <string name="search_setting_description">Texto nas suas mensagens</string>
     <string name="search_show_more_results">Mostrar mais</string>
     <string name="search_title_mms">Mensagens</string>

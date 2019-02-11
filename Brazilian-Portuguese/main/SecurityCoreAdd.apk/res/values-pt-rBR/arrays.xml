@@ -17,7 +17,7 @@
     </string-array>
     <string-array name="choose_ask_type">
         <item>Perguntar sempre</item>
-        <item>App padrão</item>
-        <item>Dual aplicativo</item>
+        <item>Aplicativo padrão</item>
+        <item>Aplicativo clone</item>
     </string-array>
 </resources>

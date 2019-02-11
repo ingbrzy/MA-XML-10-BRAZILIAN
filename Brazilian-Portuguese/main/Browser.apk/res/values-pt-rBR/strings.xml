@@ -4,11 +4,11 @@
     <string name="common_google_play_services_enable_text">%1$s só funciona com o Google Play Services ativado.</string>
     <string name="common_google_play_services_enable_title">Ativar o Google Play Services</string>
     <string name="common_google_play_services_install_button">Instalar</string>
-    <string name="common_google_play_services_install_text">O app %1$s não funciona sem o Google Play Services, o qual não está instalado no seu dispositivo.</string>
+    <string name="common_google_play_services_install_text">O aplicativo %1$s não funciona sem o Google Play Services, o qual não está instalado no seu dispositivo.</string>
     <string name="common_google_play_services_install_title">Instalar o Google Play Services</string>
     <string name="common_google_play_services_notification_ticker">Erro do Google Play Services</string>
-    <string name="common_google_play_services_unknown_issue">O app %1$s está com problemas com o Google Play Services. Tente novamente.</string>
-    <string name="common_google_play_services_unsupported_text">O app %1$s não funciona sem o Google Play Services, o qual não é compatível com seu dispositivo.</string>
+    <string name="common_google_play_services_unknown_issue">O aplicativo %1$s está com problemas com o Google Play Services. Tente novamente.</string>
+    <string name="common_google_play_services_unsupported_text">O aplicativo %1$s não funciona sem o Google Play Services, o qual não é compatível com seu dispositivo.</string>
     <string name="common_google_play_services_update_button">Atualizar</string>
     <string name="common_google_play_services_update_text">%1$s só funciona com uma versão atualizada do Google Play Services.</string>
     <string name="common_google_play_services_update_title">Atualizar o Google Play Services</string>
@@ -88,7 +88,7 @@
     <string name="agree_permissions_request">Permitir</string>
     <string name="alert_tips">Este site pode apresentar riscos à segurança</string>
     <string name="allow">Permitir</string>
-    <string name="app_new_version">A última versão deste app já está instalada</string>
+    <string name="app_new_version">A última versão deste aplicativo já está instalada</string>
     <string name="app_update_install">Pronto para instalar a atualização.</string>
     <string name="application_name">Navegador</string>
     <string name="aqi_quality_index_break">Muito perigosa</string>
@@ -429,7 +429,7 @@ Lembre-se de que os arquivos que você baixar e favoritos que adicionar serão s
     <string name="news_load_failed">Toque para tentar novamente</string>
     <string name="news_loading">Carregando…</string>
     <string name="next_button_label">Avançar</string>
-    <string name="no_app_open_document">Nenhum app encontrado para executar esta ação</string>
+    <string name="no_app_open_document">Nenhum aplicativo encontrado para executar esta ação</string>
     <string name="no_items">Não há mais itens aqui. Tente uma categoria diferente.</string>
     <string name="no_network">Verifique sua conexão de rede e tente novamente.</string>
     <string name="no_space_alert_cancel">Depois</string>
@@ -654,7 +654,7 @@ Lembre-se de que os arquivos que você baixar e favoritos que adicionar serão s
     <string name="search_google">Google</string>
     <string name="search_hint">Pesquisar</string>
     <string name="search_keyword_browser">Navegador</string>
-    <string name="search_path_browser">Configurações/Apps instalados/Navegador</string>
+    <string name="search_path_browser">Configurações/Aplicativos instalados/Navegador</string>
     <string name="search_s139">139</string>
     <string name="search_settings_description">Favoritos e histórico da web</string>
     <string name="search_shipin">Vídeo</string>
@@ -704,7 +704,7 @@ Lembre-se de que os arquivos que você baixar e favoritos que adicionar serão s
     <string name="ssl_warnings_header">Existem problemas com o certificado de segurança para este site.</string>
     <string name="start_save_page_capture">Salvando captura de tela…</string>
     <string name="storage_internal">Armazenamento interno</string>
-    <string name="storage_permission_request_toast">O app Downloads requer acesso ao armazenamento do dispositivo</string>
+    <string name="storage_permission_request_toast">O aplicativo Downloads requer acesso ao armazenamento do dispositivo</string>
     <string name="storage_sd_card">Cartão SD</string>
     <string name="storage_usb">Armazenamento USB</string>
     <string name="suggest_access_appstore">Mi App Store</string>
@@ -718,7 +718,7 @@ Lembre-se de que os arquivos que você baixar e favoritos que adicionar serão s
     <string name="suggest_item_delete_text">Excluir</string>
     <string name="suggest_open_app_failed">Não foi possível abrir este aplicativo</string>
     <string name="switchText">SIM</string>
-    <string name="switch_proxy_dialog_msg">Hijacking de rede detectado. Usar o app de Segurança do MIUI ou reporte este problema para sua operadora.</string>
+    <string name="switch_proxy_dialog_msg">Hijacking de rede detectado. Usar o aplicativo de Segurança do MIUI ou reporte este problema para sua operadora.</string>
     <string name="switch_proxy_dialog_title">Hijacking de rede</string>
     <string name="tab_hotpage">Feed de notícias</string>
     <string name="tab_quicklinks">Página inicial</string>

@@ -18,7 +18,7 @@
     <string name="permlab_downloadWithoutNotification">Download de arquivos sem notificação</string>
     <string name="permdesc_downloadWithoutNotification">Permite que o aplicativo faça download de arquivos sem notificações exibidas ao usuário.</string>
     <string name="permlab_accessAllDownloads">Acesso a todos os downloads do sistema</string>
-    <string name="permdesc_accessAllDownloads">Permite que o aplicativo veja e modifique todos os downloads iniciados por qualquer app.</string>
+    <string name="permdesc_accessAllDownloads">Permite que o aplicativo veja e modifique todos os downloads iniciados por qualquer aplicativo.</string>
     <string name="download_unknown_title">&lt;Sem título></string>
     <string name="notification_download_complete">Download concluído.</string>
     <string name="notification_download_failed">Não foi possível fazer download dos itens.</string>

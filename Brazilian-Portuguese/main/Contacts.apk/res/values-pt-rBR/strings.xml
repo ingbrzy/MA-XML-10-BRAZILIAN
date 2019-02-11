@@ -254,7 +254,7 @@ Cartões de contatos estão desativados"</string>
     <string name="contact_is_readOnly">Não é possível editar contatos somente leitura</string>
     <string name="contact_list_loading">Carregando…</string>
     <string name="contact_pick_photo">Foto</string>
-    <string name="contact_read_only">Não editável por este app.</string>
+    <string name="contact_read_only">Não editável por este aplicativo.</string>
     <string name="contact_search_history">Histórico</string>
     <string name="contact_status_update_attribution">via %1$s</string>
     <string name="contact_status_update_attribution_with_date">%1$s via %2$s</string>
