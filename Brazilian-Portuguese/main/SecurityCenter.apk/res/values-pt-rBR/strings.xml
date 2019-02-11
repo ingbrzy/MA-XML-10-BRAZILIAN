@@ -2099,7 +2099,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
 "<li>Aplicativos padrão</li>"
 "<li>Restrição de dados em segundo plano para aplicativos</li>"
 
-Você não perderá nenhum dado de apps."</string>
+Você não perderá nenhum dado de aplicativos."</string>
     <string name="app_manager_reset_app_preferences_button">Redefinir aplicativos</string>
     <string name="app_manager_disable_text">Desativar</string>
     <string name="app_manager_enable_text">Ativar</string>
@@ -2143,7 +2143,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="low_memory_warning_dialog_ok_button">Limpar</string>
     <string name="low_memory_warning_dialog_cancel_button">Cancelar</string>
     <string name="app_error_tip_for_launcher">Os componentes de hardware de seu dispositivo ou a versão do sistema Android podem causar problemas de compatibilidade ou fazer que alguns aplicativos não funcionem corretamente, travem, ou parem de funcionar inesperadamente. Caso encontre estes problemas, compartilhe seu feedback com os desenvolvedores do aplicativo.</string>
-    <string name="app_error_tip_for_store">Os componentes de hardware de seu dispositivo ou a versão do sistema Android podem causar problemas de compatibilidade que podem resultar na falha da instalação de alguns apps. Caso encontre problemas como malfuncionamento, aplicativos travando ou fechando forçadamente, compartilhe seu feedback com os desenvolvedores do aplicativo.</string>
+    <string name="app_error_tip_for_store">Os componentes de hardware de seu dispositivo ou a versão do sistema Android podem causar problemas de compatibilidade que podem resultar na falha da instalação de alguns aplicativos. Caso encontre problemas como malfuncionamento, aplicativos travando ou fechando forçadamente, compartilhe seu feedback com os desenvolvedores do aplicativo.</string>
     <string name="pc_activity_title">Otimizar bateria</string>
     <string name="game_booster">Otimizador de jogos</string>
     <string name="game_booster_title">Otimizar</string>

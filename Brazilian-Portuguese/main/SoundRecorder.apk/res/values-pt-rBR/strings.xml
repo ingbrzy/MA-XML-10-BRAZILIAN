@@ -200,7 +200,7 @@
     <string name="reg_error_audio_large">Os arquivos de áudio não podem ser maiores do que 500MB.</string>
     <string name="reg_error_audio_short">O arquivo de áudio é muito pequeno.</string>
     <string name="reg_error_business">Não foi possível transcrever o arquivo. Reporte este erro para nós e tente novamente.</string>
-    <string name="reg_error_client">Ocorreu um erro no app. Reporte-o para nós e tente novamente.</string>
+    <string name="reg_error_client">Ocorreu um erro no aplicativo. Reporte-o para nós e tente novamente.</string>
     <string name="reg_error_create_order">Não foi possível criar o pedido, tente novamente.</string>
     <string name="reg_error_ifly_account">Ocorreu um erro, tente novamente.</string>
     <string name="reg_error_price">Ocorreu um erro ao estimar o custo. Reporte-o para nós e tente novamente.</string>

@@ -170,7 +170,7 @@
     <string name="gadget_weather_download_message">Você precisa fazer o download do conteúdo do aplicativo: %1$s (%2$s). Reinicie o aplicativo depois que o download terminar.</string>
     <string name="gadget_weather_download_start">Fazer download</string>
     <string name="gadget_weather_download_title">Fazer download</string>
-    <string name="gadget_weather_downloading">Fazendo o download do conteúdo do app. Reinicie-o depois que o download for concluído.</string>
+    <string name="gadget_weather_downloading">Fazendo o download do conteúdo do aplicativo. Reinicie-o depois que o download for concluído.</string>
     <string name="gadget_weather_loading">Nenhum dado</string>
     <string name="gadget_weather_low_temp">Temperatura baixa</string>
     <string name="gadget_weather_theme_type">Tipo de gadget</string>
