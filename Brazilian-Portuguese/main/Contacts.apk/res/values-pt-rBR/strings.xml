@@ -128,8 +128,8 @@
     <string name="callrecordview_menu_delete_missed">Excluir chamadas perdidas</string>
     <string name="callrecordview_menu_delete_new">Excluir registro para novos contatos</string>
     <string name="callrecordview_menu_delete_one">Remover do registro de chamadas</string>
-    <string name="callrecordview_menu_delete_sim">Limpar todos os registros de chamadas (%s)</string>
-    <string name="callrecordview_menu_delete_stranger">Limpar números desconhecidos</string>
+    <string name="callrecordview_menu_delete_sim">Excluir todos os registros de chamadas (%s)</string>
+    <string name="callrecordview_menu_delete_stranger">Excluir números desconhecidos</string>
     <string name="callrecordview_menu_edit_call_note">Editar anotação de chamada</string>
     <string name="callrecordview_menu_ip">Discagem IP automática</string>
     <string name="callrecordview_menu_livetalk">Pacote de recarga</string>
@@ -165,7 +165,7 @@
     <string name="chat_yahoo">Bater papo usando o Yahoo</string>
     <string name="checkhint">Verifique o dispositivo de destino</string>
     <string name="clearCallLogConfirmation">Todos os seus registros de chamada serão excluídos.</string>
-    <string name="clearCallLogConfirmation_title">Limpar todos os registros de chamada?</string>
+    <string name="clearCallLogConfirmation_title">Excluir todos os registros de chamada?</string>
     <string name="clearCallLogProgress_title">Limpando o registro de chamadas…</string>
     <string name="clearFrequentsConfirmation">Isto limpará a lista de contatos frequentes em Contatos e Telefone, e forçará os aplicativos de e-mail a reaprenderem suas preferências de endereçamento.</string>
     <string name="clearFrequentsConfirmation_title">Limpar os contatos frequentes?</string>
@@ -293,8 +293,8 @@ Cartões de contatos estão desativados"</string>
     <string name="deleteConfirmationDetail">Excluir \"%s\"?</string>
     <string name="deleteConfirmation_title">Excluir este contato?</string>
     <string name="delete_call_log_message">Excluir registro de chamadas?</string>
-    <string name="delete_call_log_selected_title">Limpar o(s) registro(s) de chamada(s) selecionado(s)?</string>
-    <string name="delete_call_log_title">Limpar histórico de chamadas</string>
+    <string name="delete_call_log_selected_title">Excluir os registros de chamadas selecionados?</string>
+    <string name="delete_call_log_title">Excluir histórico de chamadas</string>
     <string name="delete_contact_calllog_title">Excluir registro de chamadas?</string>
     <string name="delete_dial_input">Excluir</string>
     <string name="delete_duplicate">Unir</string>
