@@ -1230,7 +1230,7 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
     <string name="power_discharge_by_only_enhanced">Deve durar até cerca de %1$s com base na sua utilização</string>
     <string name="power_discharging_duration">Cerca de %1$s restantes (%2$s)</string>
     <string name="power_discharging_duration_enhanced">Cerca de %1$s restantes com base no seu uso (%2$s)</string>
-    <string name="power_notification_controls_description">"Com o controle individual de configurações, você pode definir um nível de importãncia de 0 a 5 para as notificações de apps. 
+    <string name="power_notification_controls_description">"Com o controle individual de configurações, você pode definir um nível de importãncia de 0 a 5 para as notificações de aplicativos. 
 
 "<b>Nível 5</b>" 
 - Mostrar no topo da lista de notificações 

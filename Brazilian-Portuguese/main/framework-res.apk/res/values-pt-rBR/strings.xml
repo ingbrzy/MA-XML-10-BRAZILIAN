@@ -956,13 +956,13 @@ Tente novamente em %2$d segundos."</string>
     <string name="permdesc_handoverStatus">Permite que este aplicativo receba informações sobre as atuais transferências do Android Beam</string>
     <string name="permdesc_install_shortcut">Permite que um aplicativo adicione atalhos da tela inicial sem a intervenção do usuário.</string>
     <string name="permdesc_invokeCarrierSetup">Permite que o proprietário invoque o aplicativo de configuração fornecido pela operadora. Não deve ser necessário para aplicativos comuns.</string>
-    <string name="permdesc_killBackgroundProcesses">Permite que o aplicativo encerre processos em segundo plano de outros apps. Pode ser que outros aplicativos parem de funcionar.</string>
+    <string name="permdesc_killBackgroundProcesses">Permite que o aplicativo encerre processos em segundo plano de outros aplicativos. Pode ser que outros aplicativos parem de funcionar.</string>
     <string name="permdesc_manageFingerprint">Permite que o aplicativo execute métodos para adicionar e excluir modelos de impressão digital para uso.</string>
     <string name="permdesc_manageNetworkPolicy">Permite que o aplicativo gerencie políticas de rede e definia regras específicas para o aplicativo.</string>
     <string name="permdesc_manageOwnCalls">Permite que o aplicativo encaminhe suas chamadas por meio do sistema para melhorar a experiência com chamadas.</string>
     <string name="permdesc_manageProfileAndDeviceOwners">Permitir que os aplicativos definam os proprietários de perfis e de dispositivos.</string>
     <string name="permdesc_modifyAudioSettings">Permite que o aplicativo modifique configurações de áudio globais como volume e alto-falantes de saída.</string>
-    <string name="permdesc_modifyNetworkAccounting">Permite que o aplicativo modifique como o uso da rede é contabilizado em relação aos apps. Não deve ser usado em aplicativos normais.</string>
+    <string name="permdesc_modifyNetworkAccounting">Permite que o aplicativo modifique como o uso da rede é contabilizado em relação aos aplicativos. Não deve ser usado em aplicativos normais.</string>
     <string name="permdesc_nfc">Permite que o aplicativo se comunique com leitores, cartões e etiqueta NFC (comunicação a curta distância).</string>
     <string name="permdesc_persistentActivity">Permite que o aplicativo torne partes de si mesmo persistentes na memória. Pode limitar a memória disponível para outros aplicativos, deixando o telefone mais lento.</string>
     <string name="permdesc_processOutgoingCalls">Permite que o aplicativo veja o número discado ao realizar uma chamada, com a opção de redirecionar a chamada para outro número ou abortá-la.</string>

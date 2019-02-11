@@ -1496,7 +1496,7 @@ Para continuar usando seu telefone, é necessário restaurar as configurações 
     <string name="data_usage_app_restrict_background_summary_disabled">Definir um limite de dados para restringir dados em 2º plano</string>
     <string name="data_usage_app_restrict_dialog">"Este recurso pode fazer com que um aplicativo que depende de dados de segundo plano pare de funcionar quando somente redes de acesso limitado estiverem disponíveis.
 
-Você pode encontrar controles de uso de dados mais apropriados nas configurações disponíveis no app."</string>
+Você pode encontrar controles de uso de dados mais apropriados nas configurações disponíveis no aplicativo."</string>
     <string name="data_usage_app_restrict_dialog_title">Restringir dados de segundo plano?</string>
     <string name="data_usage_app_restricted">restrito</string>
     <string name="data_usage_app_settings">Configurar aplicativo</string>
@@ -1750,9 +1750,9 @@ Para tentar resolver esse problema, você pode forçar a parada do aplicativo %1
     <string name="dialog_background_check_title">Desativar uso em segundo plano e parar o aplicativo?</string>
     <string name="dialog_chose_item">Selecione um item para mostrar</string>
     <string name="dialog_content_login">Fazer o login em sua Conta Mi para atualizar?</string>
-    <string name="dialog_location_message">"Não é possível gerenciar a bateria do smartphone normalmente, porque o %1$s solicita sua localização constantemente quando você não está usando o app.
+    <string name="dialog_location_message">"Não é possível gerenciar a bateria do smartphone normalmente, porque o %1$s solicita sua localização constantemente quando você não está usando o aplicativo.
 
-Para resolver esse problema, desative a localização para esse app."</string>
+Para resolver esse problema, desative a localização para esse aplicativo."</string>
     <string name="dialog_location_ok">Desativar</string>
     <string name="dialog_location_title">Desativar localização?</string>
     <string name="dialog_no">Não</string>
@@ -1764,7 +1764,7 @@ Para resolver esse problema, desative a localização para esse app."</string>
     <string name="dialog_restrict_positive">Cancelar</string>
     <string name="dialog_stop_message">"Não é possível gerenciar a bateria do smartphone normalmente, porque o aplicativo %1$s o mantém ativado.
 
-Para tentar resolver esse problema, você pode forçar a parada do app.
+Para tentar resolver esse problema, você pode forçar a parada do aplicativo.
 
 Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melhorar o desempenho da bateria."</string>
     <string name="dialog_stop_message_wakeup_alarm">"Não é possível gerenciar a bateria do smartphone normalmente, porque o aplicativo %1$s o mantém ativado.
@@ -3215,7 +3215,7 @@ Há outros usuários presentes neste dispositivo.
     <string name="modify_instruction_password_settings">Definir senha</string>
     <string name="modify_privacy_password">Alterar senha</string>
     <string name="move_app">Mover</string>
-    <string name="move_app_failed_dlg_text">Não foi possível mover o app. %1$s</string>
+    <string name="move_app_failed_dlg_text">Não foi possível mover o aplicativo. %1$s</string>
     <string name="move_app_failed_dlg_title" />
     <string name="move_app_to_internal">Mover para telefone</string>
     <string name="move_app_to_sdcard">Mover para USB</string>
@@ -4133,7 +4133,7 @@ Interface UT: %5$s"</string>
  "<li>restrições de dados em segundo plano para aplicativos</li>" 
  "<li>qualquer restrição de permissão</li>" 
 
- Você não perderá os dados dos apps."</string>
+ Você não perderá os dados dos aplicativos."</string>
     <string name="reset_app_preferences_title">Redefinir aplicativos?</string>
     <string name="reset_dashboard_summary">A rede, os aplicativos ou o dispositivo podem ser redefinidos</string>
     <string name="reset_dashboard_title">Redefinir opções</string>
@@ -4627,10 +4627,10 @@ Para usar a fixação de tela:
     <string name="security_settings_fingerprint_enroll_dialog_delete">Excluir</string>
     <string name="security_settings_fingerprint_enroll_dialog_name_label">Nome</string>
     <string name="security_settings_fingerprint_enroll_dialog_ok">Ok</string>
-    <string name="security_settings_fingerprint_enroll_disclaimer">Além de desbloquear seu smartphone, também é possível usar sua impressão digital para autorizar compras e acesso a apps. <annotation id="url">Saiba mais</annotation></string>
+    <string name="security_settings_fingerprint_enroll_disclaimer">Além de desbloquear seu smartphone, também é possível usar sua impressão digital para autorizar compras e acesso a aplicativos. <annotation id="url">Saiba mais</annotation></string>
     <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">" A opção de bloqueio de tela está desativada. Para saber mais, entre em contato com o administrador da sua organização. "<annotation id="admin_details">Mais detalhes</annotation>"
 
-Você ainda pode usar sua impressão digital para autorizar compras e acessar apps. "<annotation id="url">Saiba mais</annotation></string>
+Você ainda pode usar sua impressão digital para autorizar compras e acessar aplicativos. "<annotation id="url">Saiba mais</annotation></string>
     <string name="security_settings_fingerprint_enroll_done">Concluído</string>
     <string name="security_settings_fingerprint_enroll_enrolling_skip">Mais tarde</string>
     <string name="security_settings_fingerprint_enroll_error_dialog_title">O registro não foi concluído</string>
@@ -4645,7 +4645,7 @@ Você ainda pode usar sua impressão digital para autorizar compras e acessar ap
     <string name="security_settings_fingerprint_enroll_introduction_cancel_setup">Pular</string>
     <string name="security_settings_fingerprint_enroll_introduction_continue">Continuar</string>
     <string name="security_settings_fingerprint_enroll_introduction_continue_setup">Próxima</string>
-    <string name="security_settings_fingerprint_enroll_introduction_message">"Basta tocar no sensor de impressão digital para desbloquear seu smartphone, autorizar compras ou fazer login em apps. Tome cuidado com as impressões digitais que adicionar. Uma única digital adicionada pode realizar todas essas ações.
+    <string name="security_settings_fingerprint_enroll_introduction_message">"Basta tocar no sensor de impressão digital para desbloquear seu smartphone, autorizar compras ou fazer login em aplicativos. Tome cuidado com as impressões digitais que adicionar. Uma única digital adicionada pode realizar todas essas ações.
 
 Observação: sua impressão digital pode ser menos segura que um PIN ou padrão forte."</string>
     <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Use sua impressão digital para desbloquear o smartphone ou aprovar compras.
@@ -5307,7 +5307,7 @@ Tente usar um ^3 mais rápido ou use esse ^4 apenas como armazenamento portátil
     <string name="suw_next_button_label">Próxima</string>
     <string name="swipe_up_to_switch_apps_suggestion_summary">Ative o novo gesto para alternar entre aplicativos</string>
     <string name="swipe_up_to_switch_apps_suggestion_title">Testar o novo botão home</string>
-    <string name="swipe_up_to_switch_apps_summary">Para alternar entre aplicativos, deslize o botão home para cima. Deslize para cima mais uma vez para ver todos os apps. Isso funciona em qualquer tela. O botão Visão geral não estará mais disponível na parte inferior direita da tela.</string>
+    <string name="swipe_up_to_switch_apps_summary">Para alternar entre aplicativos, deslize o botão home para cima. Deslize para cima mais uma vez para ver todos os aplicativos. Isso funciona em qualquer tela. O botão Visão geral não estará mais disponível na parte inferior direita da tela.</string>
     <string name="swipe_up_to_switch_apps_title">Deslizar o botão home para cima</string>
     <string name="switch_access_service_on">Acesso assistido</string>
     <string name="switch_off_text">Desativado</string>

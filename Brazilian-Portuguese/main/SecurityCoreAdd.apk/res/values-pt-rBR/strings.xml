@@ -449,7 +449,7 @@ Certifique-se que o nome da sua empresa está correto. Leia e aceite as polític
     <string name="more_settings">Mais</string>
     <string name="undo_success">Revogado com sucesso</string>
     <string name="master_clear_apply_title">Atenção</string>
-    <string name="master_clear_apply_step_1">Revogar a autorização redefinirá o dispositivo para as configurações de fábrica. Isso apagará permanentemente todos os seus arquivos e dados, incluindo contas, contatos, fotos e apps. Faça o backup de itens importantes para o seu computador antes de revogar a autorização.</string>
+    <string name="master_clear_apply_step_1">Revogar a autorização redefinirá o dispositivo para as configurações de fábrica. Isso apagará permanentemente todos os seus arquivos e dados, incluindo contas, contatos, fotos e aplicativos. Faça o backup de itens importantes para o seu computador antes de revogar a autorização.</string>
     <string name="master_clear_apply_step_2">Certifique-se de ter feito um backup de todos os itens importantes para o seu computador. Quando você tocar em \"OK\", o dispositivo será redefinido para as configurações de fábrica, apagando permanentemente todos os seus arquivos e dados, incluindo contas, contatos, fotos e aplicativos.</string>
     <string name="button_text_next_step">Avançar</string>
     <string name="button_text_next_step_timer">Próximo passo (%d)</string>

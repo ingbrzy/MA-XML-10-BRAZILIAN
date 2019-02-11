@@ -509,7 +509,7 @@ Alterá-los agora?"</string>
     <string name="long_press_to_select_tip">Toque e segure para selecionar uma mensagem, toque em outras para selecionar mais.</string>
     <string name="mail">E-mail</string>
     <string name="mail_body_turncated">O e-mail é muito grande para ser carregado, acesse-o através de um PC para ver o conteúdo completo</string>
-    <string name="mail_description_content">O E-mail é um cliente de e-mails que pode gerenciar várias contas, enviar e receber mensagens e sincronizar suas informações de agenda e contatos. Certifique-se de que não precisará destes recursos antes de desinstalar o app. Suas informações de conta Exchange também serão excluídas.</string>
+    <string name="mail_description_content">O E-mail é um cliente de e-mails que pode gerenciar várias contas, enviar e receber mensagens e sincronizar suas informações de agenda e contatos. Certifique-se de que não precisará destes recursos antes de desinstalar o aplicativo. Suas informações de conta Exchange também serão excluídas.</string>
     <string name="mail_description_title">Sobre o E-mail</string>
     <string name="mail_header_network_not_available">Você não tem uma conexão de rede.</string>
     <string name="mailbox_list_account_selector_combined_view">Conta combinada</string>
