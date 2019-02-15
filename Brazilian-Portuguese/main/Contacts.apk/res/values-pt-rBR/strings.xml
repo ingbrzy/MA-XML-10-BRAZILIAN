@@ -120,7 +120,7 @@
     <string name="callrecordview_menu_batch_delete">Excluir vários registros</string>
     <string name="callrecordview_menu_blocklist">Lista de bloqueio</string>
     <string name="callrecordview_menu_conference">Conferência telefônica</string>
-    <string name="callrecordview_menu_delete">Excluir registro de chamadas</string>
+    <string name="callrecordview_menu_delete">Excluir registro de chamada</string>
     <string name="callrecordview_menu_delete_accepted">Excluir chamadas recebidas</string>
     <string name="callrecordview_menu_delete_all">Excluir registro de chamadas</string>
     <string name="callrecordview_menu_delete_called">Excluir chamadas efetuadas</string>
