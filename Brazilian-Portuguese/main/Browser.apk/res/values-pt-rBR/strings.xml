@@ -439,7 +439,6 @@ Lembre-se de que os arquivos que você baixar e favoritos que adicionar serão s
     <string name="navigate_feedback_dislike_tips">Irá reduzir recomendações de vídeo como essa</string>
     <string name="navigate_feedback_input_report_label">Outros motivos</string>
     <string name="navigate_feedback_report">Reportar</string>
-    <string name="navigate_feedback_report_input_length">%1$d/100</string>
     <string name="navigate_feedback_report_input_tips">Deixe sua pergunta, iremos tratá-la o mais rápido possível</string>
     <string name="navigate_feedback_report_success">Reportar sucesso</string>
     <string name="navigate_feedback_report_title">Reportar motivos</string>
