@@ -251,4 +251,5 @@ Toque na tela para adicionar uma cidade manualmente"</string>
     <string name="xiaomi_weather_description_title">Sobre o Clima</string>
     <string name="yes_vote_ratio">Para %1$s%%</string>
     <string name="your_location">Sua localização</string>
+	<string name="translate_notification_info">Traduzindo em segundo plano…</string>
 </resources>

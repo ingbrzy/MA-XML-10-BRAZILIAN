@@ -20,12 +20,20 @@
     <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
     <string name="abc_toolbar_collapse_description">Recolher</string>
     <string name="add_launch_hint_text">Criar atalho na tela inicial</string>
+	<string name="apply_to_screenlock">Aplicar na tela de bloqueio</string>
+    <string name="apply_to_wallpaper">Aplicar na tela inicial</string>
+	<string name="feed_article_entrance_about">Sobre \"%s\"</string>
+	<string name="more_article">Mais artigos</string>
+	<string name="save_to_album">Salvo na Galeria com sucesso</string>
+    <string name="save_to_album_fail">"Não foi possível salvar"</string>
+    <string name="sst_effect_next_wallpaper">Defina um novo plano de fundo para aplicar as mudanças</string>
+	<string name="sst_lockscreen_show_headline_desc">"Mostrar o título do plano de fundo abaixo do relógio na tela de bloqueio"</string>
+    <string name="sst_lockscreen_show_headline_title">Mostrar o título na tela de bloqueio</string>
     <string name="sst_subscrible_manager_title_bar_text">Definir subscrições</string>
     <string name="sst_custom_wallpaper_desc">Selecionar imagens da Galeria e recomendações</string>
     <string name="sst_sti_desc">Defina a frequência de atualização</string>
     <string name="sst_sti_title">Frequência de atualização</string>
     <string name="sst_wifi_only_desc">Desligue para atualizar apenas via Wi-Fi</string>
     <string name="sst_wifi_only_title">Atualizar papéis de parede utilizando dados móveis</string>
-    <string name="apply_to_screenlock">Aplicar na tela de bloqueio</string>
-    <string name="apply_to_wallpaper">Aplicar na tela inicial</string>
+	<string name="time_current">Agora</string>
 </resources>
