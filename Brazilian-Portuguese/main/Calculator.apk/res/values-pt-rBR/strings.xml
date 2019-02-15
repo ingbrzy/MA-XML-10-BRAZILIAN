@@ -218,6 +218,11 @@
     <string name="tax_credit_mortgage">Hipoteca</string>
     <string name="tax_credit_personal_income_tax">Imposto de renda pessoal</string>
     <string name="tax_credit_pretax_income">Renda bruta (CNY)</string>
+	<string name="tax_detail">Detalhes do imposto</string>
+    <string name="tax_detail_amount">Total do imposto</string>
+    <string name="tax_detail_rate">Taxa de imposto</string>
+    <string name="tax_detail_take_off">Dedução</string>
+    <string name="tax_detail_tax_payed">Total pago</string>
     <string name="tax_edittext_hint" />
     <string name="tax_endowment">Aposentadoria</string>
     <string name="tax_fixed_salary_hint">Insira sua renda bruta</string>
@@ -232,11 +237,13 @@
     <string name="tax_individual_income_tax_result">Resultados</string>
     <string name="tax_injury">Acidentes</string>
     <string name="tax_insurance_and_fund">Seguro</string>
+	<string name="tax_insurance_and_fund_detail">Detalhes do seguro</string>
     <string name="tax_last_salary_hint">Insira sua renda</string>
     <string name="tax_last_salary_number">Renda</string>
     <string name="tax_location">Localização</string>
     <string name="tax_medical">Médico</string>
     <string name="tax_param_error">Insira as taxas de seguro corretas</string>
+	<string name="tax_payment_period">Número de pagamentos</string>
     <string name="tax_result_real_get">Valor líquido</string>
     <string name="tax_social_insurance">Seguro social</string>
     <string name="tax_thershold_foreign">%s (Outros)</string>

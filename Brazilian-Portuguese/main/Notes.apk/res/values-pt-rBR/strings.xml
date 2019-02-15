@@ -143,7 +143,7 @@
     <string name="redo">Refazer</string>
     <string name="refuse_to_open_as_pic_because_of_loading">Aguarde até a anotação carregar e tente novamente.</string>
     <string name="refuse_to_share_as_pic_because_of_content">Esta anotação é muito grande para ser compartilhada.</string>
-    <string name="rename_folder_dialog_tile">Renomear pasta</string>
+    <string name="rename_folder_dialog_tile">Digite o novo nome</string>
     <string name="rich_text_bold_description">Negrito</string>
     <string name="rich_text_center_description">Centralizado</string>
     <string name="rich_text_chooser_title">Selecionar estilo</string>
