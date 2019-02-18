@@ -85,8 +85,8 @@
   <string name="noti_caption">%1$s com sucesso, %2$s sem sucesso</string>
   <string name="notification_received">Bluetooth: Recebido %1$s</string>
   <string name="notification_received_fail">Bluetooth: Arquivo %1$s não foi recebido</string>
-  <string name="notification_receiving">Bluetooth: A receber %1$s</string>
-  <string name="notification_sending">Bluetooth: A enviar %1$s</string>
+  <string name="notification_receiving">Bluetooth: Recebendo %1$s</string>
+  <string name="notification_sending">Bluetooth: Enviando %1$s</string>
   <string name="notification_sent">Bluetooth: Enviado %1$s</string>
   <string name="notification_sent_complete">100% completo</string>
   <string name="notification_sent_fail">Bluetooth: Arquivo %1$s não foi enviado</string>
@@ -143,4 +143,5 @@
   <string name="upload_succ_line5">arquivo enviado</string>
   <string name="upload_succ_ok">OK</string>
   <string name="upload_success">%1$s enviado</string>
+  <string name="opp_notification_group">Compartilhamento Bluetooth</string>
 </resources>
