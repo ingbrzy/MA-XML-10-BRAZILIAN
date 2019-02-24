@@ -224,7 +224,7 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="add_fingerprint_name_suggest_text">Nome da impressão digital</string>
     <string name="add_fingerprint_put_finger_edge_msg">Mova o seu dedo levemente e coloque-o no sensor novamente para adicionar todas as diferentes partes da sua impressão digital.</string>
     <string name="add_fingerprint_put_finger_msg">Coloque seu dedo no sensor e levante-o ao sentir uma vibração.</string>
-    <string name="add_fingerprint_put_finger_title">Adicionar impressão digital</string>
+    <string name="add_fingerprint_put_finger_title">Impressão digital</string>
     <string name="add_fingerprint_similar_fingerprint_input_error_msg">Mova o seu dedo um pouco</string>
     <string name="add_fingerprint_success_msg">Adicionada com sucesso</string>
     <string name="add_fingerprint_text">Adicionar impressão digital</string>

@@ -363,7 +363,7 @@
   <string name="operation_pasting">Copiando…</string>
   <string name="operation_refresh">Atualizar</string>
   <string name="operation_rename">Renomear</string>
-  <string name="operation_rename_message">Renomear a pasta</string>
+  <string name="operation_rename_message">Digite o novo nome</string>
   <string name="operation_reply">Comentar</string>
   <string name="operation_send">Enviar</string>
   <string name="operation_share">Partilhar</string>
