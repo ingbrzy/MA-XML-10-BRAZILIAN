@@ -5344,7 +5344,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="system_alert_window_summary">%1$d de %2$d aplicativos têm permissão para serem sobrepostos a outros aplicativos</string>
     <string name="system_and_device_section_title">Sistema e dispositivo</string>
     <string name="system_app">(Sistema)</string>
-    <string name="system_app_settings">Configurações de aplicativos de sistema</string>
+    <string name="system_app_settings">Aplicativos do sistema</string>
     <string name="system_apps_updater">Atualização de aplicativos do sistema</string>
     <string name="system_backup_section_title">Backup</string>
     <string name="system_dashboard_summary">Idiomas, horário, backup, atualizações</string>
