@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_label">Configurações</string>
+  <string name="app_label">Busca de configurações</string>
   <string name="application_desc">Aplicativo</string>
   <string name="search_label">Configurações</string>
   <string name="settings_description">Configurações</string>
