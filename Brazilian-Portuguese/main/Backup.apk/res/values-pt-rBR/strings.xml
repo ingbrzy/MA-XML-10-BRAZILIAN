@@ -121,7 +121,6 @@ https://appleid.apple.com/#!&amp;page=signin para desativar"</string>
     <string name="delete_backup_title">Excluir backup</string>
     <string name="delete_failed_backup_confirm">Este backup contém erros.</string>
     <string name="deselect_all">Desmarcar tudo</string>
-	<string name="digit_percent">%</string>
     <string name="dir_date_format">ddMMyyyy_HHmmss</string>
     <string name="disable_encrypt_description">Não criptografar</string>
     <string name="disable_encrypt_title">Desativar criptografia</string>
@@ -212,7 +211,6 @@ você precisa criar um backup na iCloud primeiro."</string>
 2.\u0009Vá nas configurações do Mi Talk e selecione \"Efetuar backup de contatos para a Conta Mi\""</string>
 	<string name="import_from_xiaomi_account_hint2">Se você já tem um backup, toque em Avançar.</string>
     <string name="import_from_xiaomi_account_hint_title">Use o Mi Talk para fazer backup de contatos entre dispositivos.</string>
-	<string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
 	<string name="import_tip_summary">Devido a problemas de compatibilidade, só é possível transferir dados parciais de dispositivos iOS. Certifique-se de criar um backup na iCloud antes de iniciar a transferência.</string>
 	<string name="lack_perm_msg">O Mi Mover precisa das seguintes permissões: &lt;b>%s&lt;/b>.</string>    
 	<string name="lack_perm_title">Permissões necessárias</string>
@@ -628,12 +626,8 @@ Libere algum espaço ou transfira só itens importantes."</string>
 Não saia desta página até a conexão ter sido estabelecida."</string>
     <string name="waiting">Aguarde…</string>
     <string name="wifi_title">Configurações de Wi-Fi</string>
-	<string name="xiaomi_account_type">com.xiaomi</string>
-	<string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">Não foi possível iniciar o download. Certifique-se que o Gerenciador de Downloads está funcionando normalmente.</string>
     <string name="xiaomi_external_storage_unavailable">Armazenamento indisponível, verifique seu cartão SD.</string>
-	<string name="xiaomi_kilobytes_unit">%1$sKB</string>
-    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_router">Mi Router</string>
     <string name="xiaomi_router_location">Mi Router %s</string>
 	<string name="xiaomi_update_dialog_message">"Introduzindo a versão %1$s
