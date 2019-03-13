@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<string name="current_permission_template">%1$s de %2$s</string>
+	<string name="default_permission_description">executar ações desconhecidas</string>
+	<string name="grant_dialog_button_allow">Permitir</string>
+	<string name="location_settings">Configurações de localização</string>
     <string name="HIPS_Action_Accept">Permitir</string>
     <string name="HIPS_Action_Accept_Once">Permitir uma vez</string>
     <string name="HIPS_Action_Reject">Negar</string>
@@ -76,13 +80,9 @@
     <string name="HIPS_SecurityPrompt_Reject">Negar (%d)</string>
     <string name="HIPS_SecurityPrompt_Reject_Once">Negar uma vez (%d)</string>
     <string name="HIPS_SecurityPrompt_Title">O aplicativo %1$s está tentando %2$s</string>
-    <string name="Su_Package_Forbidden2">não tem acesso root.</string>
+    <string name="Su_Package_Forbidden2">não tem acesso root.</string>    
     <string name="app_name">Gerenciador de permissões</string>
-    <string name="current_permission_template">%1$s de %2$s</string>
-    <string name="default_permission_description">executar ações desconhecidas</string>
-    <string name="grant_dialog_button_allow">Permitir</string>
     <string name="grant_dialog_button_deny">Negar</string>
-    <string name="location_settings">Configurações de localização</string>
     <string name="location_warning">%1$s é um fornecedor de serviços de localização para este dispositivo. O acesso à localização pode ser modificado através das Configurações de localização.</string>
     <string name="never_ask_again">Não mostrar novamente</string>
     <string name="ok">OK</string>
@@ -96,4 +96,5 @@
     <string name="screen_overlay_button">Abrir Configurações</string>
     <string name="screen_overlay_message">Para alterar esta permissão, você precisa desativar a sobreposição de tela em Configurações > Aplicativos instalados.</string>
     <string name="screen_overlay_title">Sobreposição de tela detectada</string>
+	<string name="static_cache_db_md5">a683f0223637e570562b4d272cc9d36c</string>
 </resources>
