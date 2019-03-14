@@ -3143,6 +3143,7 @@ Há outros usuários presentes neste dispositivo.
     <string name="miui_lab_settings">MIUI Lab</string>
     <string name="miui_lab_slogan">Aprenda. Explore. Descubra.</string>
     <string name="miui_master_clear_summary">Apaga todos os dados no telefone</string>
+	<string name="miui_more_special_feature">Explore os recursos especiais</string>
     <string name="miui_optimization_disabled">Desativar otimização MIUI</string>
     <string name="miui_sos_audio_summary">Reproduzir mensagem de SOS depois que um contato de emergência atender</string>
     <string name="miui_sos_audio_title">Mensagem de voz de SOS</string>
@@ -3191,6 +3192,7 @@ Há outros usuários presentes neste dispositivo.
     <string name="miui_sos_settings_category">Configurações do SOS</string>
     <string name="miui_sos_statusbar_summary">Toque para desativar</string>
     <string name="miui_sos_statusbar_title">SOS de emergência ativado</string>
+	<string name="miui_special_feature">Recursos especiais</string>
     <string name="miui_touch_filtered_warning">Se um aplicativo estiver bloqueando a caixa de permissões, arraste o item que está obstruindo-o ou feche o aplicativo.</string>
     <string name="miui_updater">Atualização do sistema</string>
     <string name="miui_userguide">Guia do usuário</string>
