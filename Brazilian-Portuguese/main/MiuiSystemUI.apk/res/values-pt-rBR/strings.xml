@@ -529,7 +529,7 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
     <string name="debug_networking_category">Redes</string>
     <string name="debug_view_attributes">Ativar visualização de atributos</string>
     <string name="default_lockscreen_unlock_hint_text">Deslize para cima para desbloquear</string>
-    <string name="delete">Excluir</string>
+    <string name="delete">EXCLUIR</string>
     <string name="demo_mode">Modo de demonstração</string>
     <string name="description_direction_left">Deslizar à esquerda para %s.</string>
     <string name="description_direction_up">Deslizar pra cima para %s.</string>
