@@ -683,6 +683,8 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
     <string name="face_unlock_rotated_right">Vire sua cabeça para a esquerda</string>
     <string name="face_unlock_sc_status">Puxe a tela para baixo para abrir a câmera</string>
     <string name="face_unlock_stay_away_screen">Fique de 25 a 40cm longe da tela</string>
+	<string name="face_unlock_success_stay_screen_msg">Manter-se na tela de bloqueio após o rosto ser verificado. Deslizar para cima para abrir a tela inicial</string>
+    <string name="face_unlock_success_stay_screen_title">Manter-se na tela de bloqueio após desbloquear</string>
     <string name="failed_to_open_app_settings_toast">Não foi possível abrir as configurações para %1$s</string>
     <string name="fingerprint_add_text">A interface de impressão digital foi atualizada. Adicione sua impressão digital novamente.</string>
     <string name="fingerprint_add_title">Impressão digital</string>
