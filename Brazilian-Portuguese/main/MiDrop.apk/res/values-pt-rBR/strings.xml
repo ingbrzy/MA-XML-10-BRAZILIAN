@@ -80,17 +80,17 @@
     <string name="dialog_mobile_data_warn">A outra pessoa poderá usar sua conexão de dados se você a manter ativa.</string>
     <string name="dialog_mobile_data_warn_title">Desativar os dados móveis</string>
     <string name="dialog_msg_need_find_friend_permission">Configure as permissões para que o Mi Drop possa encontrar pessoas por perto.</string>
-    <string name="dialog_msg_need_set_hotspot_permission">Configure as permissões para que o Mi Drop crie um hotspot portátil.</string>
+    <string name="dialog_msg_need_set_hotspot_permission">Configure as permissões para que o Mi Drop crie um ponto de acesso portátil.</string>
     <string name="dialog_msg_score_midrop">O que você acha do Mi Drop?</string>
     <string name="dialog_msg_score_not_good">Você pode nos dar seu feedback também?</string>
     <string name="dialog_msg_score_perfect">Legal! Classificar o Mi Drop na Play Store também?</string>
     <string name="dialog_ok">Manter ativo</string>
     <string name="dialog_title_permission_required">Permissões necessárias</string>
     <string name="dialog_title_score">Classificar o Mi Drop</string>
-    <string name="enable_ap_message">A partir da versão 7.1 do Android, o hotspot Wi-Fi não pode mais ser ativado automaticamente. Ative-o manualmente.</string>
+    <string name="enable_ap_message">A partir da versão 7.1 do Android, o ponto de  acesso Wi-Fi não pode mais ser ativado automaticamente. Ative-o manualmente.</string>
     <string name="enable_ap_quit">Sair</string>
     <string name="enable_ap_set">Definir</string>
-    <string name="enable_hotspot">Hotspot Wi-Fi ativado com sucesso</string>
+    <string name="enable_hotspot">Ponto de acesso Wi-Fi ativado com sucesso</string>
     <string name="exit">Sair</string>
     <string name="feedback_send_email_body_extra_info">Não exclua a informação a seguir. Ela nos ajuda a localizar o problema.</string>
     <string name="feedback_send_email_subject">Feedback do Mi Drop</string>
@@ -163,7 +163,7 @@ No Android 6.0 e posteriores você precisa ativar os serviços de localização 
     <string name="no_file">Vazio</string>
     <string name="no_network">"Não foi possível conectar-se à rede.
 Verifique as configurações de rede e tente novamente."</string>
-    <string name="no_permission_to_enable_hotspot">Não é possível ativar o hotspot Wi-Fi devido à falta de permissões.</string>
+    <string name="no_permission_to_enable_hotspot">Não é possível ativar o ponto de acesso Wi-Fi devido à falta de permissões.</string>
     <string name="no_receiver_found">Não foi possível encontrar o destinatário</string>
     <string name="no_wifi">Nenhuma rede Wi-Fi</string>
     <string name="no_wifi_hint">Não foi possível encontrar redes Wi-Fi. Toque para abrir as configurações de Wi-Fi.</string>
@@ -199,7 +199,7 @@ Verifique as configurações de rede e tente novamente."</string>
     <string name="receiver_insufficient_storage">Não há espaço suficiente no armazenamento.</string>
     <string name="receiver_insufficient_storage_cannot_send">Não há espaço suficiente no armazenamento. Não é possível enviar arquivos.</string>
     <string name="receiver_interrupt_summary">Não desligue o Wi-Fi durante as transferências.</string>
-    <string name="receiver_interrupt_summary_v21">Não desligue o hotspot Wi-Fi durante as transferências.</string>
+    <string name="receiver_interrupt_summary_v21">Não desligue o ponto de acesso Wi-Fi durante as transferências.</string>
     <string name="receiver_my_nickname">(Meu apelido)</string>
     <string name="receiver_notification">Peça que a outra pessoa ative o Mi Drop e toque em \"Enviar\".</string>
     <string name="receiver_notification_turn_on">Peça ao destinatário para ativar o Mi Drop na Área de notificações.</string>
@@ -208,7 +208,7 @@ Verifique as configurações de rede e tente novamente."</string>
     <string name="receiver_reject_connect">O outro dispositivo rejeitou sua solicitação</string>
     <string name="receiver_succeed">Recebido com sucesso</string>
     <string name="receiver_take_time">Tempo: %1$s</string>
-    <string name="receiver_transfer_interrupt">A transferência foi interrompida. Não desligue o hotspot Wi-Fi durante a transferência.</string>
+    <string name="receiver_transfer_interrupt">A transferência foi interrompida. Não desligue o ponto de acesso Wi-Fi durante a transferência.</string>
     <string name="receiver_wait">Aguardando arquivos…</string>
     <string name="reconnect">Conecte-se novamente</string>
     <string name="refresh">Atualizar</string>
@@ -254,7 +254,7 @@ Verifique as configurações de rede e tente novamente."</string>
     <string name="share_first_head_title">Compartilhe com pessoas por perto</string>
     <string name="share_mi_drop">Compartilhe o Mi Drop com seus amigos</string>
     <string name="share_second_head_title">Outras formas de compartilhar</string>
-    <string name="share_via_ap">Compartilhar através do hotspot portátil</string>
+    <string name="share_via_ap">Compartilhar através do ponto de acesso portátil</string>
     <string name="share_via_bluetooth_actionbar_title">Compartilhar o Mi Drop pelo Bluetooth</string>
     <string name="share_via_bluetooth_btn_text">Compartilhar via Bluetooth</string>
     <string name="share_via_bluetooth_setp1_text">Peça que a outra pessoa ative o Bluetooth em seu dispositivo e ative o modo detectável.</string>
@@ -312,7 +312,7 @@ Verifique as configurações de rede e tente novamente."</string>
     <string name="want_receive">Receber arquivos</string>
     <string name="want_send">Enviar arquivos</string>
     <string name="want_to_establish_connect">%s deseja se conectar</string>
-    <string name="wifi_ap">Hotspot portátil</string>
+    <string name="wifi_ap">Ponto de acesso portátil</string>
     <string name="wifi_name">Nome do Wi-Fi:</string>
     <string name="wifi_psw">Senha:</string>
     <string name="wifi_state">Status do Wi-Fi</string>

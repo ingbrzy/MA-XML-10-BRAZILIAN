@@ -15,7 +15,7 @@
     <string name="status_bar_toggle_vibrate">Vibrar</string>
     <string name="status_bar_toggle_wifi">Wi-Fi</string>
     <string name="status_bar_toggle_power_mode">Desempenho</string>
-    <string name="status_bar_toggle_wifi_ap">Hotspot</string>
+    <string name="status_bar_toggle_wifi_ap">Ponto de acesso</string>
     <string name="status_bar_toggle_quiet_mode">Não perturbe</string>
     <string name="status_bar_toggle_paper_mode">Modo de leitura</string>
     <string name="status_bar_toggle_midrop">Mi Drop</string>
@@ -76,7 +76,7 @@
     <string name="screen_paper_mode_enter_toast">O Modo de leitura está ativado. Para desativá-lo, acesse Configurações > Tela > Modo de leitura.</string>
     <string name="sim_added_reboot_title">O cartão SIM será ativado após você reiniciar seu dispositivo.</string>
     <string name="sim_added_reboot_confirm">Reiniciar</string>
-    <string name="softap_notifif_title">Hotspot \"%s\" ativo</string>
+    <string name="softap_notifif_title">Ponto de acesso \"%s\" ativo</string>
     <string name="softap_notifif_summary">Dispositivos conectados: %d</string>
     <string name="turn_off">Desativar</string>
     <string name="unknown_caller">Número desconhecido</string>

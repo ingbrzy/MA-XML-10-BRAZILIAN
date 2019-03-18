@@ -409,7 +409,7 @@ da operadora"</string>
     <string name="usage_sorted_activity_lable">Uso de dados</string>
     <string name="usage_sorted_loading_text">Aguarde…</string>
     <string name="usage_sorted_empty_text">Vazio</string>
-    <string name="person_hotpot">Hotspots móveis</string>
+    <string name="person_hotpot">Pontos de acesso móveis</string>
     <string name="system_app">Aplicativos do sistema</string>
     <string name="deleted_apps">Aplicativos excluídos</string>
     <string name="root">Acesso root</string>
@@ -900,11 +900,11 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="tether_limit_value_custom">Personalizado</string>
     <string name="tether_limit_dialog_title">Limite de dados móveis</string>
     <string name="tether_custom_dialog_title">Limite de dados móveis</string>
-    <string name="tether_over_limit_warning_notify_title">Limite de dados do Hotspot atingido</string>
-    <string name="tether_over_limit_warning_notify_message">Desativar Hotspot portátil.</string>
+    <string name="tether_over_limit_warning_notify_title">Limite de dados do ponto de acesso atingido</string>
+    <string name="tether_over_limit_warning_notify_message">Desativar ponto de acesso portátil.</string>
     <string name="tether_over_limit_dialog_title">Alerta do uso de dados</string>
-    <string name="tether_over_limit_dialog_message">Você atingiu o limite de dados do Hotspot móvel.</string>
-    <string name="tether_over_limit_dialog_cancle_btn">Redefinir hotspot</string>
+    <string name="tether_over_limit_dialog_message">Você atingiu o limite de dados do ponto de acesso móvel.</string>
+    <string name="tether_over_limit_dialog_cancle_btn">Redefinir ponto de acesso</string>
     <string name="network_traffic_warning_title">Uso de dados para aplicativos do sistema</string>
     <string name="network_traffic_warning_text">O MIUI não pode calcular as estatísticas de uso de dados para aplicativos de sistema individuais aqui. Você conseguirá ver as informações de uso de dados nos detalhes do aplicativo caso ele esteja usando os dados móveis ativamente.</string>
     <string name="optimize_manage_title">Otimizar velocidade</string>
@@ -2364,7 +2364,7 @@ Este recurso não é suportado para aplicativos de sistema."</string>
     <string name="first_aid_card_consume_power_title">Uso da bateria</string>
     <string name="first_aid_card_consume_power_summary1">Mais de 5 aplicativos estão iniciando automaticamente. Restrinja-os para economizar bateria.</string>
     <string name="first_aid_card_consume_power_button1">Restringir</string>
-    <string name="first_aid_card_consume_power_summary2">Desative o Hotspot portátil para economizar bateria</string>
+    <string name="first_aid_card_consume_power_summary2">Desative o ponto de acesso portátil para economizar bateria</string>
     <string name="first_aid_card_consume_power_button2">Desativar</string>
     <string name="first_aid_card_system_root_title">Você permitiu o acesso root</string>
     <string name="first_aid_card_system_root_summary">Restrinja o acesso root para prevenir riscos de segurança</string>

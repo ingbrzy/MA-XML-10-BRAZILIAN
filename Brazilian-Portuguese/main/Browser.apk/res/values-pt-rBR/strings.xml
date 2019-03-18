@@ -449,7 +449,7 @@ Lembre-se de que os arquivos que você baixar e favoritos que adicionar serão s
     <string name="navigationbar_rightbutton_actiontext_go">Ir</string>
     <string name="navigationbar_rightbutton_actiontext_search">Pesquisar</string>
     <string name="net_error">Erro de rede</string>
-    <string name="network_show_wifi_setting_tip_dialog_description">Hotspot Wi-Fi encontrado nas proximidades. Tentar conectar-se?</string>
+    <string name="network_show_wifi_setting_tip_dialog_description">Ponto de acesso Wi-Fi encontrado nas proximidades. Tentar conectar-se?</string>
     <string name="network_show_wifi_setting_tip_dialog_title">Rede Wi-Fi disponível</string>
     <string name="new_version_name">Nova versão %s</string>
     <string name="news_load_failed">Toque para tentar novamente</string>

@@ -193,8 +193,8 @@
     <string name="accessibility_quick_settings_flashlight_off">Lanterna desligada.</string>
     <string name="accessibility_quick_settings_flashlight_on">Lanterna ligada.</string>
     <string name="accessibility_quick_settings_flashlight_unavailable">Lanterna indisponível.</string>
-    <string name="accessibility_quick_settings_hotspot_changed_off">O hotspot móvel foi desligado.</string>
-    <string name="accessibility_quick_settings_hotspot_changed_on">O hotspot móvel foi ligado.</string>
+    <string name="accessibility_quick_settings_hotspot_changed_off">O ponto de acesso móvel foi desligado.</string>
+    <string name="accessibility_quick_settings_hotspot_changed_on">O ponto de acesso móvel foi ligado.</string>
     <string name="accessibility_quick_settings_less_time">Menos tempo.</string>
     <string name="accessibility_quick_settings_location_changed_off">O registro de localização foi desativado.</string>
     <string name="accessibility_quick_settings_location_changed_on">O registro de localização foi ativado.</string>
@@ -248,7 +248,7 @@
     <string name="accessibility_splite_screen_secondary">Adicionado como aplicativo secundário na Tela dividida</string>
     <string name="accessibility_status_bar_headphones">Fones de ouvido conectados</string>
     <string name="accessibility_status_bar_headset">Headset conectado</string>
-    <string name="accessibility_status_bar_hotspot">Hotspot</string>
+    <string name="accessibility_status_bar_hotspot">Ponto de acesso</string>
     <string name="accessibility_three_bars">Três barras.</string>
     <string name="accessibility_tty_enabled">Teletypewriter ativado.</string>
     <string name="accessibility_two_bars">Duas barras.</string>
@@ -568,7 +568,7 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
     <string name="dlg_ok">OK</string>
     <string name="dlg_summary_close_app">Restringir atividade em segundo plano e notificações</string>
     <string name="dlg_summary_close_theme">Restringir temas animados</string>
-    <string name="dlg_summary_close_wifi">Desativar Wi-Fi, Bluetooth e Hotspot móvel</string>
+    <string name="dlg_summary_close_wifi">Desativar Wi-Fi, Bluetooth e ponto de acesso móvel</string>
     <string name="dlg_summary_nfc">Desativar NFC</string>
     <string name="dlg_summary_title">A Economia extrema de bateria interrompe todas as atividades em segundo plano quando você sai de um aplicativo e volta para a Tela inicial. Se você deseja que um aplicativo continue executando em segundo plano, adicione-o às exceções.</string>
     <string name="dnd_is_off">O Não perturbe está desativado</string>
@@ -1343,7 +1343,7 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
     <string name="quick_settings_extreme_batterysaver_label">Economia extrema de bateria</string>
     <string name="quick_settings_flashlight_label">Lanterna</string>
     <string name="quick_settings_gps_label">GPS</string>
-    <string name="quick_settings_hotspot_label">Hotspot</string>
+    <string name="quick_settings_hotspot_label">Ponto de acesso</string>
     <string name="quick_settings_ime_label">Método de entrada</string>
     <string name="quick_settings_inversion_label">Inverter cores</string>
     <string name="quick_settings_location_label">Localização</string>
@@ -1866,7 +1866,7 @@ Qualquer usuário pode atualizar aplicativos para todos os outros usuários."</s
     <string name="wifi_connected_mac_randomization_summary">Usar endereço MAC aleatório ao conectar-se a redes Wi-Fi</string>
     <string name="wifi_connected_no_internet">Conectado, sem internet</string>
     <string name="wifi_coverage_extend">Aumentar cobertura de Wi-Fi</string>
-    <string name="wifi_coverage_extend_summary">Estender cobertura de Wi-Fi usando Hotspot</string>
+    <string name="wifi_coverage_extend_summary">Estender cobertura de Wi-Fi usando ponto de acesso</string>
     <string name="wifi_disabled_by_recommendation_provider">Não conectado devido à rede estar com baixa qualidade</string>
     <string name="wifi_disabled_generic">Desativada</string>
     <string name="wifi_disabled_network_failure">Não foi possível configurar o IP</string>

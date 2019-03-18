@@ -96,7 +96,7 @@ A Economia de bateria irá tratar aplicativos importantes de forma seletiva."</s
     <string name="extreme_mode_max_item_alert">Você pode selecionar até 4 aplicativos para executarem em segundo plano no Modo Extremo</string>
     <string name="message_i_know">Entendido</string>
     <string name="high_temp_state">Superaquecendo</string>
-    <string name="high_temp_state_message">Seu dispositivo está superaquecendo. Os dados móveis, hotspots Wi-Fi, GPS e câmera serão restringidos.</string>
+    <string name="high_temp_state_message">Seu dispositivo está superaquecendo. Os dados móveis, pontos de acesso Wi-Fi, GPS e câmera serão restringidos.</string>
     <string name="atrace_start">Gravando log do atrace…</string>
     <string name="atrace_saving">Salvando log do atrace…</string>
     <string name="atrace_saved">Salvo com sucesso</string>
