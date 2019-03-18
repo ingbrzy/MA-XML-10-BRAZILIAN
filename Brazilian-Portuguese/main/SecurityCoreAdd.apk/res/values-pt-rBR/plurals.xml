@@ -5,12 +5,12 @@
         <item quantity="one">%d item</item>
     </plurals>
     <plurals name="first_space_notification_format">
-        <item quantity="other">%d notificações no Primeiro Espaço</item>
-        <item quantity="one">%d notificação no Primeiro Espaço</item>
+        <item quantity="other">%d notificações no primeiro espaço</item>
+        <item quantity="one">%d notificação no primeiro espaço</item>
     </plurals>
     <plurals name="second_space_notification_format">
-        <item quantity="other">%d notificações no Segundo Espaço</item>
-        <item quantity="one">%d notificação no Segundo Espaço</item>
+        <item quantity="other">%d notificações no segundo espaço</item>
+        <item quantity="one">%d notificação no segundo espaço</item>
     </plurals>
     <plurals name="search_app_count_txt_na">
         <item quantity="other">Pesquisar %d aplicativos</item>

@@ -690,9 +690,9 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
     <string name="fingerprint_add_title">Adicionar Impressão digital</string>
     <string name="fingerprint_again_identified_msg">Sua impressão digital está ativa agora. Use-a para desbloquear o dispositivo, ou insira sua senha.</string>
     <string name="fingerprint_dialog_touch_sensor">Toque no sensor de impressão digital</string>
-    <string name="fingerprint_enter_second_psw_msg">Insira a senha do Segundo Espaço após reiniciar o dispositivo para usar o desbloqueio por impressão digital</string>
-    <string name="fingerprint_enter_second_psw_msg_oldman">Não é possível entrar no Segundo Espaço usando o Modo simplificado</string>
-    <string name="fingerprint_enter_second_psw_title">Insira a senha do Segundo Espaço</string>
+    <string name="fingerprint_enter_second_psw_msg">Insira a senha do segundo espaço após reiniciar o dispositivo para usar o desbloqueio por impressão digital</string>
+    <string name="fingerprint_enter_second_psw_msg_oldman">Não é possível entrar no segundo espaço usando o Modo simplificado</string>
+    <string name="fingerprint_enter_second_psw_title">Insira a senha do segundo espaço</string>
     <string name="fingerprint_not_identified_msg">Muitas tentativas incorretas. Insira a senha agora ou tente usar a impressão digital em alguns segundos.</string>
     <string name="fingerprint_not_identified_msg_lock">Muitas tentativas incorretas. Insira a senha agora.</string>
     <string name="fingerprint_not_identified_title">Insira a senha</string>
@@ -781,7 +781,7 @@ Assim que ele tiver resfriado, ele voltará ao normal."</string>
     <string name="input_password_after_boot_msg">Para desbloquear o dispositivo, introduza a sua senha</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">Não é possível trocar de Espaços durante uma chamada</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Não é possível trocar entre espaços quando o controle parental está ativado</string>
-    <string name="input_password_after_boot_msg_must_enter_owner_space">Você precisa acessar o Primeiro Espaço depois do dispositivo ser reiniciado</string>
+    <string name="input_password_after_boot_msg_must_enter_owner_space">Você precisa acessar o primeiro espaço depois do dispositivo ser reiniciado</string>
     <string name="input_password_hint_text">Inserir senha</string>
     <string name="input_pattern_hint_text">Desenhe seu padrão de desbloqueio</string>
     <string name="input_pin_code">Inserir PIN</string>
@@ -1393,7 +1393,7 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
     <string name="quick_settings_wifi_off_label">Wi-Fi desativado</string>
     <string name="quick_settings_wifi_on_label">Wi-Fi ativado</string>
     <string name="quick_settings_work_mode_label">Modo trabalh</string>
-    <string name="recent_cannot_dock">Não é possível usar a Tela dividida no Segundo Espaço</string>
+    <string name="recent_cannot_dock">Não é possível usar a Tela dividida no segundo espaço</string>
     <string name="recent_dock_tip">Toque para selecionar aplicativos</string>
     <string name="recent_menu_item_info">Info.</string>
     <string name="recent_menu_item_lock">Bloquear</string>
@@ -1661,7 +1661,7 @@ Deslize para baixo para bloquear"</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="switch_bar_off">Desativado</string>
     <string name="switch_bar_on">Ativado</string>
-    <string name="switch_system_user">Abrir Primeiro Espaço</string>
+    <string name="switch_system_user">Abrir primeiro espaço</string>
     <string name="system_ui_tuner">Configurador da Interf. do sistema</string>
     <string name="task_access_locked_app_msg">Bloqueio de aplicativos ativado</string>
     <string name="tether_settings_title_all">Ancoragem e ponto de acesso portátil</string>

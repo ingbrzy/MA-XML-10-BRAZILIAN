@@ -212,7 +212,7 @@ Para ativar sua conta, siga o
     <string name="passport_get_innetdate_msg">&lt;font color=Red>Parece que&lt;/font> o número %s foi reciclado por sua operadora, e existe uma Conta Mi associada com ele. Esta conta é sua?</string>
     <string name="passport_get_innetdate_agree">Verificar</string>
     <string name="passport_get_innetdate_disagree">Não</string>
-    <string name="passport_extra_gdpr_license">Criar sua Conta Mi significa que você aceita que a Xiaomi colete, processe e use seus dados pessoais, incluindo dados de verificação (ex.: códigos de verificação), dados do Segundo Espaço (ex.: informações sobre o uso do segundo Espaço, IDs usadas no Primeiro e Segundo espaços), e outros dados especificados na nossa Política de Privacidade. Consulte nossa Política de Privacidade para entender como processamos e usamos os dados pessoais.</string>
+    <string name="passport_extra_gdpr_license">Criar sua Conta Mi significa que você aceita que a Xiaomi colete, processe e use seus dados pessoais, incluindo dados de verificação (ex.: códigos de verificação), dados do segundo espaço (ex.: informações sobre o uso do segundo espaço, IDs usadas no Primeiro e Segundo espaços), e outros dados especificados na nossa Política de Privacidade. Consulte nossa Política de Privacidade para entender como processamos e usamos os dados pessoais.</string>
     <string name="passport_talkback_image_captcha">Código de verificação por imagem</string>
     <string name="passport_talkback_voice_captcha">Reproduzir código de verificação por voz</string>
     <string name="passport_talkback_switch_voice_captcha">Mudar para código de verificação por voz</string>
@@ -389,8 +389,8 @@ Para ativar sua conta, siga o
     <string name="empty_device_list_notice">Nenhum dispositivo</string>
     <string name="device_name">Nome do dispositivo</string>
     <string name="multi_user_not_show_sync_activity_title">Não ativar a sincronização com a Mi Cloud</string>
-    <string name="multi_user_not_show_sync_activity_message_1">Parece que você está usando sua Conta Mi do Primeiro Espaço.</string>
-    <string name="multi_user_not_show_sync_activity_message_2">Neste caso, todos os seus dados serão srincronizados em seu Segundo Espaço. Para evitar isso, não ative a sincronização com a Mi Cloud.</string>
+    <string name="multi_user_not_show_sync_activity_message_1">Parece que você está usando sua Conta Mi do primeiro espaço.</string>
+    <string name="multi_user_not_show_sync_activity_message_2">Neste caso, todos os seus dados serão srincronizados em seu segundo espaço. Para evitar isso, não ative a sincronização com a Mi Cloud.</string>
     <string name="find_device_access_denied">Não é possível obter o status, acesso negado</string>
     <string name="find_device_account_error">Não é possível obter o status devido a um erro na conta</string>
     <string name="find_device_null_credential_error">Não é possível obter informações do dispositivo, entre em contato com o atendimento ao cliente Xiaomi</string>

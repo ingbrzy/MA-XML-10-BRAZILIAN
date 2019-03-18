@@ -12,7 +12,7 @@
 	<string name="alert_miasist_occupy_backup">Fazendo o backup de itens com o Mi PC Suite… Aguarde até o backup terminar e tente novamente.</string>
 	<string name="alert_miasist_occupy_restore">Restaurando itens com o Mi PC Suite… Aguarde até que os itens sejam restaurados e tente novamente.</string>
     <string name="alert_phone_occupy_backup">Não é possível usar o Mi PC Suite agora. Conclua o backup ou a restauração no seu telefone e tente novamente.</string>
-    <string name="alert_second_space_not_support_miasist">Não é possível usar o Mi PC Suite no Segundo Espaço. Troque para o Primeiro Espaço.</string>
+    <string name="alert_second_space_not_support_miasist">Não é possível usar o Mi PC Suite no segundo espaço. Troque para o primeiro espaço.</string>
     <string name="alert_title_backup_to_miasist">Fazer backup de itens com o Mi PC Suite?</string>
     <string name="alert_title_restore_from_miasist">Restaurar itens no seu telefone?</string>
     <string name="already_enable_encrypt">A criptografia já está ativada</string>
@@ -487,7 +487,7 @@ para transferir e instalar o Mi Mover."</string>
 	<string name="trans_intro_desc_account">Você precisará fazer o login novamente em suas contas (ex.: Conta Mi, Exchange, Google, etc) no novo dispositivo para garantir sua segurança.</string>
 	<string name="trans_intro_desc_gms">"Devido à alta probabilidade de transferências malsucedidas causadas por problemas de compatibilidade, o Mi Mover não suporta a transferência de dados gerados pelos aplicativos do Google."</string>
 	<string name="trans_intro_desc_multiapp">O Mi Mover não transfere dados dos aplicativos clones para evitar conflitos entre arquivos.</string>
-	<string name="trans_intro_desc_multiuser">O Mi Mover não pode acessar itens no Segundo Espaço. Mova os itens para o Primeiro Espaço e inicie o Mi Mover.</string>
+	<string name="trans_intro_desc_multiuser">O Mi Mover não pode acessar itens no segundo espaço. Mova os itens para o primeiro espaço e inicie o Mi Mover.</string>
 	<string name="trans_intro_desc_new">Toque em \"Sou o destinatário\". Um código QR será gerado.</string>
 	<string name="trans_intro_desc_old">Toque em \"Sou o remetente\". Leia o código QR no novo telefone, aguarde até o Mi Mover localizar arquivos para enviar, e toque em \"Enviar\".</string>
 	<string name="trans_intro_desc_old_market">Toque em \"Iniciar\". Digitlaize o código QR no seu novo telefone, espere até que o Mi Mover analise os arquivos a enviar, e toque em \"Enviar\".</string>
@@ -507,7 +507,7 @@ para transferir e instalar o Mi Mover."</string>
 	<string name="trans_intro_title_account">Contas e senhas:</string>
 	<string name="trans_intro_title_gms">Dados gerados pelos aplicativos do Google:</string>
 	<string name="trans_intro_title_multiapp">Dados dos aplicativos clones:</string>
-	<string name="trans_intro_title_multiuser">Dados do Segundo Espaço:</string>
+	<string name="trans_intro_title_multiuser">Dados do segundo espaço:</string>
 	<string name="trans_intro_title_new">Em um novo telefone:</string>
     <string name="trans_intro_title_old">Em um telefone antigo:</string>
     <string name="trans_intro_title_private">Álbum oculto:</string>

@@ -286,7 +286,7 @@ Ele será adicionado às exceções, mas os itens bloqueados anteriormente não 
     <string name="website">Website</string>
     <string name="address">Endereço</string>
     <string name="note">Anotação</string>
-    <string name="antispam_xpace_text">Alterne para o Primeiro Espaço para configurar a Lista de bloqueio</string>
+    <string name="antispam_xpace_text">Alterne para o primeiro espaço para configurar a Lista de bloqueio</string>
     <string name="antispam_mode_details">Detalhes da lista de bloqueio</string>
     <string name="st_share_settings">Usar configurações do SIM 1</string>
     <string name="st_msg_settings">Bloqueio de SMS</string>
@@ -1162,8 +1162,8 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="auto_task_notify_task_canceled_title">Ação cancelada</string>
     <string name="auto_task_notify_task_canceled_summary">Você pode efetuar e receber chamadas</string>
     <string name="auto_task_notify_task_canceled_summary2">Parece que você está jogando agora.</string>
-    <string name="auto_task_notify_task_canceled_summary3">Cancelado pelo Segundo Espaço</string>
-    <string name="auto_task_notify_task_canceled_summary4">Cancelado pelo Primeiro Espaço</string>
+    <string name="auto_task_notify_task_canceled_summary3">Cancelado pelo segundo espaço</string>
+    <string name="auto_task_notify_task_canceled_summary4">Cancelado pelo primeiro espaço</string>
     <string name="auto_task_notify_task_continue_do">Iniciar ação</string>
     <string name="auto_task_notify_task_count_down">A tarefa automática iniciará em 5 segundos</string>
     <string name="auto_task_notify_task_cancel_count_down">A tarefa automática será cancelada em 5 segundos</string>
@@ -1285,7 +1285,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="sp_monitored_apps_count_zero">Nenhum aplicativo de pagamento protegido</string>
     <string name="monitor_app_more">Mais</string>
     <string name="monitor_app_add">Adicionar</string>
-    <string name="sc_system_risk_fix_info_xspace">Não é possível resolver isto no Segundo Espaço. Tente novamente no Primeiro Espaço.</string>
+    <string name="sc_system_risk_fix_info_xspace">Não é possível resolver isto no segundo espaço. Tente novamente no primeiro espaço.</string>
     <string name="dialog_no_longer_alert">Não mostrar novamente</string>
     <string name="sp_background_risk_dialog_title_wifi_approve">Alerta de Wi-Fi público</string>
     <string name="sp_background_risk_dialog_summary_wifi_approve">Você está conectado a uma rede Wi-Fi pública, o que pode ser inseguro. Certifique-se de que seu pagamento está protegido antes de concluí-lo.</string>
@@ -1771,8 +1771,8 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="card_main_optimize_manage_title">Otimizar velocidade</string>
     <string name="card_main_optimize_manage_summary">Limpar cache para otimizar seu dispositivo</string>
     <string name="card_main_optimize_manage_action">Otimizar agora</string>
-    <string name="card_main_private_space_title">Segundo Espaço</string>
-    <string name="card_main_private_space_summary">Usar o Segundo Espaço é como ter 2 dispositivos</string>
+    <string name="card_main_private_space_title">Segundo espaço</string>
+    <string name="card_main_private_space_summary">Usar o segundo espaço é como ter 2 dispositivos</string>
     <string name="card_main_private_space_action">Criar</string>
     <string name="card_main_xspace_title">Aplicativos clones</string>
     <string name="card_main_xspace_summary">Crie contas distintas para qualquer aplicativo</string>
@@ -2012,12 +2012,12 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="password_forget_pattern_message">Devido a razões de segurança, só é possível redefinir a sua senha após redefinir o dispositivo para os padrões de fábrica. Toque para redefinir.</string>
     <string name="password_forget_pattern_message_none">Os aplicativos não estão bloqueados. Você pode redefinir sua senha.</string>
     <string name="password_forget_pattern_confirm">Entendido</string>
-    <string name="password_xspace_forget_pattern_message">Para alterar a senha do seu Segundo Espaço, você deve excluir seu Segundo Espaço atual e criar um novo.</string>
+    <string name="password_xspace_forget_pattern_message">Para alterar a senha do seu segundo espaço, você deve excluir seu segundo espaço atual e criar um novo.</string>
     <string name="password_promotion_not_login_xiaomi_account_message">Adicione sua Conta Mi para redefinir sua senha caso a esqueça.</string>
     <string name="password_promotion_postbutton_text">Adicionar</string>
     <string name="bind_xiaomi_account_success">Conta Mi adicionada com sucesso</string>
     <string name="sys_app_prot_cracked_confirm">Entendido</string>
-    <string name="confirmSecondSpacePassword">Confirmar senha do Segundo Espaço</string>
+    <string name="confirmSecondSpacePassword">Confirmar senha do segundo espaço</string>
     <string name="sponsored_sec_fb">Patrocinado</string>
     <string name="add_game_notification_summary">Toque para executar e otimizar velocidade</string>
     <string name="app_manager_title">Gerenciar aplicativos</string>

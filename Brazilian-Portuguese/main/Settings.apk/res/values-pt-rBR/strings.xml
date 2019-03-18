@@ -1150,7 +1150,7 @@ Este recurso pode ser desativado nas [Configurações]"</string>
     <string name="call_records_summary_1">9:35 AM | 26 segundos | China Unicom</string>
     <string name="call_records_summary_2">16 de Agosto | 1m 16s | China Mobile</string>
     <string name="call_records_summary_3">16 de Agosto | 2m 24s | China Unicom</string>
-    <string name="call_settings_primary_user_only">Altere as configurações de chamada no Primeiro Espaço</string>
+    <string name="call_settings_primary_user_only">Altere as configurações de chamada no primeiro espaço</string>
     <string name="call_settings_summary">Configurar correio voz, encaminhamento, espera etc.</string>
     <string name="call_settings_title">Conf. de chamada</string>
     <string name="call_volume_option_title">Volume de chamadas</string>
@@ -2177,8 +2177,8 @@ Para saber mais detalhes, entre em contato com o administrador da sua organizaç
     <string name="fingerprint_last_delete_message_profile_challenge">Você não poderá usar suas impressões digitais para desbloquear seu perfil de trabalho, autorizar compras ou fazer login em aplicativos de trabalho.</string>
     <string name="fingerprint_last_delete_title">Remover todas as impressões digitais?</string>
     <string name="fingerprint_list_title">Impressão digital</string>
-    <string name="fingerprint_lock_first">Desbloquear Primeiro Espaço</string>
-    <string name="fingerprint_lock_second">Desbloquear Segundo Espaço</string>
+    <string name="fingerprint_lock_first">Desbloquear primeiro espaço</string>
+    <string name="fingerprint_lock_second">Desbloquear segundo espaço</string>
     <string name="fingerprint_manage">Gerenciar impressões digitais</string>
     <string name="fingerprint_manage_category_title">Gerenciar impressões digitais</string>
     <string name="fingerprint_manage_tittle">Impressão digital</string>
@@ -2828,25 +2828,25 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="lockdown_settings_title">Mostrar opção de bloqueio total</string>
     <string name="locked_work_profile_notification_title">Quando o perfil de trabalho está bloqueado</string>
     <string name="lockpassword_cancel_label">Cancelar</string>
-    <string name="lockpassword_choose_for_second_user">Definir senha do Segundo Espaço</string>
+    <string name="lockpassword_choose_for_second_user">Definir senha do segundo espaço</string>
     <string name="lockpassword_choose_lock_generic_header">Escolher bloqueio de tela</string>
     <string name="lockpassword_choose_your_password_header">Defina sua senha</string>
     <string name="lockpassword_choose_your_password_header_for_fingerprint">Para usar a impressão digital, defina uma senha</string>
     <string name="lockpassword_choose_your_password_message">Por segurança, defina uma senha</string>
     <string name="lockpassword_choose_your_password_second_space">"Definir senha
-para o Segundo Espaço"</string>
+para o segundo espaço"</string>
     <string name="lockpassword_choose_your_pattern_header">Defina seu padrão de desbloqueio</string>
     <string name="lockpassword_choose_your_pattern_header_for_fingerprint">Para usar a impressão digital, defina um padrão</string>
     <string name="lockpassword_choose_your_pattern_message">Por segurança, defina um padrão</string>
     <string name="lockpassword_choose_your_pin_header">Definir PIN de desbloqueio</string>
     <string name="lockpassword_choose_your_pin_header_for_fingerprint">Para usar a impressão digital, defina um PIN</string>
     <string name="lockpassword_choose_your_pin_header_second_space">"Definir PIN
-para o Segundo Espaço"</string>
+para o segundo espaço"</string>
     <string name="lockpassword_choose_your_pin_message">Por segurança, defina um PIN</string>
     <string name="lockpassword_choose_your_pin_title" formatted="false">Insira %d-%d dígitos</string>
     <string name="lockpassword_choose_your_screen_lock_header">Configurar o bloqueio de tela</string>
     <string name="lockpassword_clear_label">Limpar</string>
-    <string name="lockpassword_confirm_for_second_user">Confirme a senha do Segundo Espaço</string>
+    <string name="lockpassword_confirm_for_second_user">Confirme a senha do segundo espaço</string>
     <string name="lockpassword_confirm_label">Confirmar</string>
     <string name="lockpassword_confirm_passwords_dont_match">As senhas não correspondem</string>
     <string name="lockpassword_confirm_pins_dont_match">Os PINs não correspondem</string>
@@ -2906,13 +2906,13 @@ para o Segundo Espaço"</string>
     <string name="lockpattern_pattern_confirmed_header">Seu novo padrão de desbloqueio:</string>
     <string name="lockpattern_pattern_entered_header">Padrão gravado</string>
     <string name="lockpattern_pattern_same_with_others">Deve ser diferente da senha do outro Espaço</string>
-    <string name="lockpattern_pattern_same_with_owner">Deve ser diferente da senha do Primeiro Espaço</string>
-    <string name="lockpattern_pattern_same_with_security_space">Deve ser diferente da senha do Segundo Espaço</string>
+    <string name="lockpattern_pattern_same_with_owner">Deve ser diferente da senha do primeiro espaço</string>
+    <string name="lockpattern_pattern_same_with_security_space">Deve ser diferente da senha do segundo espaço</string>
     <string name="lockpattern_recording_incorrect_too_short">Conecte pelo menos %d pontos. Tente novamente.</string>
     <string name="lockpattern_recording_inprogress">Levante o dedo ao terminar</string>
     <string name="lockpattern_recording_intro_footer">Pressione Menu para ajuda.</string>
     <string name="lockpattern_recording_intro_header">Desenhe o padrão de desbloqueio:</string>
-    <string name="lockpattern_recording_intro_header_second_space">Desenhe o padrão de desbloqueio para o Segundo Espaço:</string>
+    <string name="lockpattern_recording_intro_header_second_space">Desenhe o padrão de desbloqueio para o segundo espaço:</string>
     <string name="lockpattern_restart_button_text">Desenhar novamente</string>
     <string name="lockpattern_retry_button_text">Limpar</string>
     <string name="lockpattern_settings_change_lock_pattern">Alterar padrão de desbloqueio</string>
@@ -3628,7 +3628,7 @@ Isso também permitira que o aplicativo ative ou desative o modo \"Não perturbe
     <string name="owner_info_settings_edit_text_hint">por exemplo, Android do João.</string>
     <string name="owner_info_settings_summary">Nenhuma</string>
     <string name="owner_info_settings_title">Assinatura na Tela de bloqueio</string>
-    <string name="owner_space">Primeiro Espaço</string>
+    <string name="owner_space">Primeiro espaço</string>
     <string name="packages_subtitle">Pacotes incluídos</string>
     <string name="page_layout_1">Domingo, 16 de Agosto</string>
     <string name="page_layout_10">Configurações</string>
@@ -3905,7 +3905,7 @@ Isso também permitira que o aplicativo ative ou desative o modo \"Não perturbe
     <string name="privacy_close_dlg_button_ok">Desativar</string>
     <string name="privacy_close_dlg_msg">Quando a Senha de proteção de privacidade está desativada, seus itens não estarão mais protegidos.</string>
     <string name="privacy_close_dlg_title">Atenção</string>
-    <string name="privacy_delete_space_dlg_message">Para alterar a senha do seu Segundo Espaço, você deve excluir seu Segundo Espaço atual e criar um novo.</string>
+    <string name="privacy_delete_space_dlg_message">Para alterar a senha do seu segundo espaço, você deve excluir seu segundo espaço atual e criar um novo.</string>
     <string name="privacy_dlg_button_cancel">Cancelar</string>
     <string name="privacy_factory_reset_dlg_button_text">Redefinir</string>
     <string name="privacy_factory_reset_dlg_message">Se você esquecer sua senha, você precisará fazer uma redefinição para os dados de fábrica para definir uma nova.</string>
@@ -3925,7 +3925,7 @@ Isso também permitira que o aplicativo ative ou desative o modo \"Não perturbe
     <string name="privacy_password_add_account_setting">Conta e privacidade</string>
     <string name="privacy_password_bind_account">Adicionar Conta Mi</string>
     <string name="privacy_password_bind_account_immediate">Adicionar</string>
-    <string name="privacy_password_confirm_SecondSpace_Password">Confirmar senha do Segundo Espaço</string>
+    <string name="privacy_password_confirm_SecondSpace_Password">Confirmar senha do segundo espaço</string>
     <string name="privacy_password_confirm_use_finger">Desbloquear com impressão digital</string>
     <string name="privacy_password_enter_privacy">Insira a Senha de proteção de privacidade</string>
     <string name="privacy_password_exit_account_info">A conta será removida automaticamente quando você sair dela</string>
@@ -4160,13 +4160,13 @@ Interface UT: %5$s"</string>
     <string name="reset_network_final_desc">Redefinir todas as configurações de rede? Não é possível desfazer esta ação.</string>
     <string name="reset_network_title">Redefinir Wi-Fi, rede móvel e Bluetooth</string>
     <string name="reset_network_wifi">Wi‑Fi</string>
-    <string name="reset_second_space_passwd">Redefinir senha do Segundo Espaço</string>
+    <string name="reset_second_space_passwd">Redefinir senha do segundo espaço</string>
     <string name="reset_second_space_passwd_cancel">Cancelar</string>
     <string name="reset_second_space_passwd_confirm">Continuar</string>
-    <string name="reset_second_space_passwd_detail">Insira a senha da Conta Mi usada no Primeiro Espaço</string>
+    <string name="reset_second_space_passwd_detail">Insira a senha da Conta Mi usada no primeiro espaço</string>
     <string name="reset_shortcut_manager_throttling">Redefinir limite de taxa do ShortcutManager</string>
     <string name="reset_shortcut_manager_throttling_complete">O limite de taxa do ShortcutManager foi redefinido</string>
-    <string name="resetting_second_space_passwd">Redefinindo a senha do Segundo Espaço</string>
+    <string name="resetting_second_space_passwd">Redefinindo a senha do segundo espaço</string>
     <string name="resolver_settings_label">Ordenar</string>
     <string name="restore_default_apn">Restaurando as configurações APN padrão.</string>
     <string name="restore_default_apn_completed">Redefinição das configurações padrão do APN concluída.</string>
@@ -4588,9 +4588,9 @@ Para usar a fixação de tela:
     <string name="search_wps_connect_title">Botão Push WPS;Conexão WPS;WPS</string>
     <string name="search_xiaomi_account">Conta Mi;ID da Conta Mi;Conta;ID da Conta</string>
     <string name="search_xspace">Dual app;Dual apps;App duplo;Apps duplos;Clonar app;Clonar apps;Clone de app;Apps clonados;Duas contas;2 contas</string>
-    <string name="second_space">Segundo Espaço</string>
-    <string name="secondspace_category">Segundo Espaço</string>
-    <string name="secondspace_delete_space_title">Excluir Segundo Espaço</string>
+    <string name="second_space">Segundo espaço</string>
+    <string name="secondspace_category">Segundo espaço</string>
+    <string name="secondspace_delete_space_title">Excluir segundo espaço</string>
     <string name="secspace_fod_finger_tips">Não foi possível verificar. Tente novamente.</string>
     <string name="secspace_fod_finger_title">Verificar impressão digital</string>
     <string name="secspace_fod_use_password">Inserir senha</string>
@@ -5402,7 +5402,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="tethering_hardware_offload">Ancoragem acelerada por hardware</string>
     <string name="tethering_hardware_offload_summary">Usar aceleração de hardware para ancoragem de internet se disponível</string>
     <string name="tethering_help_button_text">Ajuda</string>
-    <string name="tethering_settings_not_available">Altere as configurações de vínculo no Primeiro Espaço</string>
+    <string name="tethering_settings_not_available">Altere as configurações de vínculo no primeiro espaço</string>
     <string name="the_way_of_wakeup_voice_assistant_summary">Ativar o Assistente de Voz no modo tela cheia (sem botões virtuais)</string>
     <string name="theme_settings_title">Temas</string>
     <string name="thememanager_not_found">Não foi possível abrir o Gerenciador de Temas. Certifique-se de que o aplicativo está instalado.</string>
@@ -5814,7 +5814,7 @@ Toque no + para adicionar palavras."</string>
     <string name="user_restrictions_controlled_by">Controlado por %1$s</string>
     <string name="user_restrictions_title">Acesso a aplicativos e conteúdo</string>
     <string name="user_set_lock_button">Definir bloqueio</string>
-    <string name="user_settings_forbidden">Não é possível alterar as configurações de administrador no espaço atual. Volte ao Primeiro Espaço.</string>
+    <string name="user_settings_forbidden">Não é possível alterar as configurações de administrador no espaço atual. Volte ao primeiro espaço.</string>
     <string name="user_settings_title">Vários usuários</string>
     <string name="user_setup_button_setup_later">Agora não</string>
     <string name="user_setup_button_setup_now">Configurar agora</string>

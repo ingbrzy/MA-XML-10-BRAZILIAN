@@ -46,10 +46,10 @@
     <string name="customization"><u>Personalizar</u></string>
     <string name="home_hint_global_launcher">POCO Launcher</string>
     <string name="home_hint_other_launcher">Outro launcher</string>
-    <string name="self_device_main_space">Primeiro Espaço deste telefone</string>
-    <string name="self_device_second_space">Segundo Espaço deste telefone</string>
-    <string name="other_device_main_space">Primeiro Espaço</string>
-    <string name="other_device_second_space">Segundo Espaço</string>
+    <string name="self_device_main_space">Primeiro espaço deste telefone</string>
+    <string name="self_device_second_space">Segundo espaço deste telefone</string>
+    <string name="other_device_main_space">Primeiro espaço</string>
+    <string name="other_device_second_space">Segundo espaço</string>
     <string name="process_whole_recovery">Restaurando \"%s\"</string>
     <string name="size_unknown">Tamanho desconhecido</string>
     <string name="recovering">Restaurando %s</string>

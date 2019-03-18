@@ -534,7 +534,7 @@
     <string name="rcs_forward_successful">Encaminhado com sucesso</string>
     <string name="rcs_group_notification_invitation">Convite de chat em grupo</string>
     <string name="rcs_message">China Mobile Messaging</string>
-    <string name="rcs_message_disable">Não é possível ver esta mensagem no Segundo Espaço</string>
+    <string name="rcs_message_disable">Não é possível ver esta mensagem no segundo espaço</string>
     <string name="rcs_msg">China Mobile Messaging</string>
     <string name="rcs_not_online">Não é possível usar o China Mobile Messaging. Verifique suas configurações de rede e tente novamente.</string>
     <string name="rcs_offline_hint">O China Mobile Messaging está offline. Não é possível encaminhar esta mensagem.</string>
@@ -626,7 +626,7 @@
     <string name="search_setting_description">Texto nas suas mensagens</string>
     <string name="search_show_more_results">Mostrar mais</string>
     <string name="search_title_mms">Mensagens</string>
-    <string name="second_mms_introduction">Ir ao Segundo Espaço</string>
+    <string name="second_mms_introduction">Ir ao segundo espaço</string>
     <string name="second_mms_switch">Trocar</string>
     <string name="secs">seg</string>
     <string name="security_alert_desc"><font color="#7f000000">"O remetente não está em seus contatos.\"

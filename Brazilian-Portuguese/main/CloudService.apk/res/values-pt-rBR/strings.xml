@@ -152,7 +152,7 @@ Esta função criptografa e envia a ID do seu dispositivo para os servidores da 
     <string name="micloud_main_query_error_title">Não foi possível obter informações do progresso de sincronização</string>
     <string name="micloud_main_query_error_message">Não é possível confirmar se a sincronização de alguns serviços foi concluída</string>
     <string name="micloud_main_multi_user_error_title">Erro na Mi Cloud</string>
-    <string name="micloud_main_multi_user_error_message">"Você fez o login com a mesma conta usada no Primeiro Espaço, o que causou um erro na Mi Cloud.
+    <string name="micloud_main_multi_user_error_message">"Você fez o login com a mesma conta usada no primeiro espaço, o que causou um erro na Mi Cloud.
 Use uma conta diferente."</string>
     <string name="micloud_main_cancel_sync">Cancelar sincronização</string>
     <string name="micloud_main_query_again">Enviar outra solicitação</string>
@@ -270,7 +270,7 @@ Faça o login em sua Conta Mi para reativar a Mi Cloud."</string>
     <string name="micloud_notif_title_sync_with_off">Sincronizar com a Mi Cloud</string>
     <string name="micloud_notif_content_sync_with_off">Toque para sincronizar o dispositivo agora.</string>
     <string name="micloud_notif_title_multi_user_error">Não é possível sincronizar com a Mi Cloud</string>
-    <string name="micloud_notif_content_multi_user_error">Você fez o login na mesma conta presente em seu Primeiro Espaço.</string>
+    <string name="micloud_notif_content_multi_user_error">Você fez o login na mesma conta presente em seu primeiro espaço.</string>
     <string name="micloud_notif_title_dirty_data">Você tem itens não sincronizados</string>
     <string name="micloud_notif_content_dirty_data">Detalhes</string>
     <string name="micloud_notif_title_privacy_reopen_failed">Não foi possível ativar os serviços da Mi Cloud</string>
@@ -351,7 +351,7 @@ Faça o login em sua Conta Mi para reativar a Mi Cloud."</string>
     <string name="micloud_main_head_menu_state_open">Ativado</string>
     <string name="micloud_main_head_menu_state_close">Desativado</string>
     <string name="micloud_main_head_menu_state_unavailable">Não suportado</string>
-    <string name="micloud_main_head_menu_finddevice_unavailable">O Encontrar dispositivo não está disponível no Segundo Espaço, você pode acessá-lo a partir do Primeiro Espaço.</string>
+    <string name="micloud_main_head_menu_finddevice_unavailable">O Encontrar dispositivo não está disponível no segundo espaço, você pode acessá-lo a partir do primeiro espaço.</string>
     <string name="ks_fingerprint_payment">Pagamentos com impressão digital</string>
     <string name="ks_name_fido">FIDO</string>
     <string name="ks_name_alipay">IFAA</string>
