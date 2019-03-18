@@ -289,7 +289,7 @@ usando %s"</string>
 usando %s"</string>
     <string name="disable_accessibility_shortcut">Desativar atalho</string>
     <string name="disable_tether_notification_message">Fale com seu administrador para saber detalhes</string>
-    <string name="disable_tether_notification_title">Tethering desativado</string>
+    <string name="disable_tether_notification_title">Ancoragem desativada</string>
     <string name="display_manager_built_in_display_name">Tela integrada</string>
     <string name="display_manager_hdmi_display_name">Tela HDMI</string>
     <string name="display_manager_overlay_display_name">Sobreposição nº %1$d</string>
@@ -1472,7 +1472,7 @@ Ouvir em volume alto por longos períodos pode danificar sua audição."</string
     <string name="usb_power_notification_message">Carregando dispositivo conectado. Toque para ver mais opções.</string>
     <string name="usb_ptp_notification_title">PTP via USB ativado</string>
     <string name="usb_supplying_notification_title">Carregando dispositivo conectado via USB</string>
-    <string name="usb_tether_notification_title">Tethering USB ativado</string>
+    <string name="usb_tether_notification_title">Ancoragem USB ativada</string>
     <string name="usb_unsupported_audio_accessory_message">O dispositivo anexo não é compatível com esse smartphone. Toque para saber mais.</string>
     <string name="usb_unsupported_audio_accessory_title">Acessório de áudio analógico detectado</string>
     <string name="use_a_different_app">Usar outro aplicativo</string>

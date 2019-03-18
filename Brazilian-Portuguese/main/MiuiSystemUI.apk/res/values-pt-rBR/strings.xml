@@ -57,7 +57,7 @@
     <string name="accessibility_bluetooth_connected">Bluetooth conectado.</string>
     <string name="accessibility_bluetooth_disconnected">Bluetooth desconectado.</string>
     <string name="accessibility_bluetooth_name">Conectado a %s.</string>
-    <string name="accessibility_bluetooth_tether">Tethering Bluetooth.</string>
+    <string name="accessibility_bluetooth_tether">Ancoragem Bluetooth.</string>
     <string name="accessibility_brightness">Brilho da tela</string>
     <string name="accessibility_brightness_slider">Barra deslizante de brilho</string>
     <string name="accessibility_camera_button">Câmera</string>
@@ -429,7 +429,7 @@ Taxa de amostra"</string>
     <string name="bluetooth_talkback_imaging">Imagens</string>
     <string name="bluetooth_talkback_input_peripheral">Periférico de entrada</string>
     <string name="bluetooth_talkback_phone">Telefone</string>
-    <string name="bluetooth_tethered">Tethering Bluetooth</string>
+    <string name="bluetooth_tethered">Ancoragem Bluetooth</string>
     <string name="branded_monitoring_description_app_personal">Você está conectado a %1$s, o que pode monitorar sua atividade de rede pessoal, incluindo e-mails, aplicativos e websites.</string>
     <string name="branded_vpn_footer">A rede pode ser monitorada</string>
     <string name="broadcast_tile">Área de transmissão</string>
@@ -1378,7 +1378,7 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
     <string name="quick_settings_secondary_label_until">Até às %s</string>
     <string name="quick_settings_settings_label">Configurações</string>
     <string name="quick_settings_sync_label">Sincronizar</string>
-    <string name="quick_settings_tethering_label">Tethering</string>
+    <string name="quick_settings_tethering_label">Ancoragem</string>
     <string name="quick_settings_time_label">Hora</string>
     <string name="quick_settings_toast_drag_to_enable_custom_tile">Para adicionar um item, pressione-o e segure-o, e então arraste-o para a parte de cima do painel.</string>
     <string name="quick_settings_user_label">Eu</string>
@@ -1664,14 +1664,14 @@ Deslize para baixo para bloquear"</string>
     <string name="switch_system_user">Abrir Primeiro Espaço</string>
     <string name="system_ui_tuner">Configurador da Interf. do sistema</string>
     <string name="task_access_locked_app_msg">Bloqueio de aplicativos ativado</string>
-    <string name="tether_settings_title_all">Vínculo e hotspot portátil</string>
-    <string name="tether_settings_title_bluetooth">Tethering Bluetooth</string>
-    <string name="tether_settings_title_usb">Tethering USB</string>
-    <string name="tether_settings_title_usb_bluetooth">Tethering</string>
-    <string name="tether_settings_title_wifi">Hotspot portátil</string>
-    <string name="tethering_hardware_offload">Vínculo acelerado por hardware</string>
-    <string name="tethering_hardware_offload_summary">Usar aceleração de hardware para vínculo de internet se disponível</string>
-    <string name="tethering_settings_not_available">As configurações de tethering não estão disponíveis para este usuário</string>
+    <string name="tether_settings_title_all">Ancoragem e ponto de acesso portátil</string>
+    <string name="tether_settings_title_bluetooth">Ancoragem Bluetooth</string>
+    <string name="tether_settings_title_usb">Ancoragem USB</string>
+    <string name="tether_settings_title_usb_bluetooth">Ancoragem</string>
+    <string name="tether_settings_title_wifi">Ponto de acesso portátil</string>
+    <string name="tethering_hardware_offload">Ancoragem acelerada por hardware</string>
+    <string name="tethering_hardware_offload_summary">Usar aceleração de hardware para ancoragem de internet se disponível</string>
+    <string name="tethering_settings_not_available">As configurações de ancoragem não estão disponíveis para este usuário</string>
     <string name="thermal_shutdown_dialog_message">"Seu telefone estava muito quente, então ele foi desligado para resfriar. Seu telefone agora está executando normalmente.
 
 Ele pode esquentar em excesso se você:

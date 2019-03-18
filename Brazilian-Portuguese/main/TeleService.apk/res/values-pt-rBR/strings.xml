@@ -1302,14 +1302,14 @@ Seu cartão SIM será bloqueado após outra tentativa incorreta."</string>
     <string name="telocation_number_type_tel">Fixo</string>
     <string name="telocation_setting">Configurações de localização</string>
     <string name="telocation_show_settings">Configurações de exibição</string>
-    <string name="tether_settings_title_all">Tethering e acesso portátil</string>
-    <string name="tether_settings_title_bluetooth">Tethering Bluetooth</string>
-    <string name="tether_settings_title_usb">Tethering USB</string>
-    <string name="tether_settings_title_usb_bluetooth">Tethering</string>
+    <string name="tether_settings_title_all">Ancoragem e acesso portátil</string>
+    <string name="tether_settings_title_bluetooth">Ancoragem Bluetooth</string>
+    <string name="tether_settings_title_usb">Ancoragem USB</string>
+    <string name="tether_settings_title_usb_bluetooth">Ancoragem</string>
     <string name="tether_settings_title_wifi">Ponto de acesso portátil</string>
-    <string name="tethering_hardware_offload">Aceleração de hardware de tethering</string>
-    <string name="tethering_hardware_offload_summary">Usar aceleração de hardware de tethering quando disponível</string>
-    <string name="tethering_settings_not_available">As configurações de tethering não estão disponíveis para este usuário</string>
+    <string name="tethering_hardware_offload">Aceleração de hardware de ancoragem</string>
+    <string name="tethering_hardware_offload_summary">Usar aceleração de hardware de ancoragem quando disponível</string>
+    <string name="tethering_settings_not_available">As configurações de ancoragem não estão disponíveis para este usuário</string>
     <string name="throttle_current_usage">Uso de dados no período atual</string>
     <string name="throttle_data_rate_reduced_subtext">"%1$s máximo excedido
 Taxa de dados reduzida para %2$d Kb/s"</string>
