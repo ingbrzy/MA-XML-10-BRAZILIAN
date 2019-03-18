@@ -687,7 +687,7 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
     <string name="face_unlock_success_stay_screen_title">Manter-se na tela de bloqueio após desbloquear</string>
     <string name="failed_to_open_app_settings_toast">Não foi possível abrir as configurações para %1$s</string>
     <string name="fingerprint_add_text">A interface de impressão digital foi atualizada. Adicione sua impressão digital novamente.</string>
-    <string name="fingerprint_add_title">Impressão digital</string>
+    <string name="fingerprint_add_title">Adicionar Impressão digital</string>
     <string name="fingerprint_again_identified_msg">Sua impressão digital está ativa agora. Use-a para desbloquear o dispositivo, ou insira sua senha.</string>
     <string name="fingerprint_dialog_touch_sensor">Toque no sensor de impressão digital</string>
     <string name="fingerprint_enter_second_psw_msg">Insira a senha do Segundo Espaço após reiniciar o dispositivo para usar o desbloqueio por impressão digital</string>
