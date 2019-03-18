@@ -2126,6 +2126,7 @@ Para saber mais detalhes, entre em contato com o administrador da sua organizaç
     <string name="failed_to_shut_down_find_device_title">Não foi possível desativar</string>
     <string name="fallback_home_title">Aguarde…</string>
     <string name="fcc_equipment_id">ID do equipamento</string>
+	<string name="feature_flags_dashboard_title">Sinalizadores de recursos</string>
     <string name="file_privacy_password_role_instruction">Seus arquivos privados serão armazenados aqui.</string>
     <string name="filter">Filtro</string>
     <string name="filter_all_apps">Todos os aplicativos</string>
