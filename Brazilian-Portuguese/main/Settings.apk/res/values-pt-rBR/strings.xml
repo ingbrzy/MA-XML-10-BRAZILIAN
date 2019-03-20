@@ -298,7 +298,7 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, aplicativo
     <string name="ambient_display_pickup_title">Levantar o smartphone para verificá-lo</string>
     <string name="ambient_display_screen_summary_always_on">Sempre ativado / Aumento do uso da bateria</string>
     <string name="ambient_display_screen_summary_notifications">Novas notificações</string>
-    <string name="ambient_display_screen_title">Exibição de ambiente</string>
+    <string name="ambient_display_screen_title">Modo de exibição ambiente</string>
     <string name="ambient_display_summary">Para verificar a hora, ícones de notificação e outras informações, toque duas vezes na tela.</string>
     <string name="ambient_display_title">Tocar duas vezes na tela para verificar o smartphone</string>
     <string name="android_beam_disabled_summary">Para usar esta função, ative o NFC</string>
@@ -318,7 +318,7 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, aplicativo
     <string name="aod_got_it">Entendido</string>
     <string name="aod_clock_style_title">Estilo do relógio</string>
     <string name="aod_mode_summary">Sempre mostrar hora, data e mensagens com a tela desligada.</string>
-    <string name="aod_mode_time_summary">Programar hora para ativar o modo Always On</string>
+    <string name="aod_mode_time_summary">Programar para ativar o modo de exibição ambiente</string>
     <string name="aod_mode_time_title">Programar</string>
     <string name="aod_mode_title">Modo Always on</string>
     <string name="aod_mode_turn_off">Desativado</string>
