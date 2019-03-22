@@ -41,6 +41,7 @@
     <string name="extreme_power_config_mode_category">Modo Extremo</string>
     <string name="extreme_power_config_mode_title">Modo Extremo</string>
     <string name="extreme_power_config_mode_desc">Mude para o Modo Extremo para desativar a sincronização, Bluetooth, GPS, NFC, toque duplo na tela, luz dos botões, ligar a tela para notificações, assim como LEDs de notificação. O MIUI focará na economia de bateria.</string>
+	<string name="extreme_power_config_mode_summary">Restringe atividades em segundo plano e desativa a sincronização.</string>
     <string name="empty_title_apps_container_list">Nenhum aplicativo</string>
     <string name="hints_loading_text">Aguarde…</string>
     <string name="config_mode_title">Configurações de segundo plano</string>
