@@ -1393,6 +1393,7 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
     <string name="quick_settings_wifi_off_label">Wi-Fi desativado</string>
     <string name="quick_settings_wifi_on_label">Wi-Fi ativado</string>
     <string name="quick_settings_work_mode_label">Modo trabalh</string>
+	<string name="rapid_charge_mode_tip">Carga rápida</string>
     <string name="recent_cannot_dock">Não é possível usar a Tela dividida no segundo espaço</string>
     <string name="recent_dock_tip">Toque para selecionar aplicativos</string>
     <string name="recent_menu_item_info">Info.</string>
