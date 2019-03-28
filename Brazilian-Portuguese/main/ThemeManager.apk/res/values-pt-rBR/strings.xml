@@ -107,6 +107,7 @@
     <string name="description_uploadtime">Atualizar</string>
     <string name="description_version">Versão</string>
     <string name="description_version_szie">Versão: %1$s - Tamanho: %2$s</string>
+	<string name="desktop_effects">Efeitos de tela</string>
     <string name="desktop_wallpaper">Tela inicial</string>
     <string name="detail_recommend_title">Recomendado</string>
     <string name="dev_options">Opções do desenvolvedor</string>
@@ -557,6 +558,7 @@
     <string name="title_my_audio_resource">Meus toques</string>
     <string name="title_my_miwallpaper_resource">Meus live wallpapers</string>
     <string name="title_my_miwallpaper_video_file_resource">Meus Planos de fundo em vídeo</string>
+	<string name="title_my_miwallpaper_desktop_effects">Efeitos de tela</string>
     <string name="title_my_wallpaper_resource">Meus planos de fundo</string>
     <string name="title_system_audio_notification_resource">Notificações do sistema</string>
     <string name="title_system_audio_resource">Toques do sistema</string>
