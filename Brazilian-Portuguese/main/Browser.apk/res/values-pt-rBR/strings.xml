@@ -315,6 +315,7 @@ Páginas visitadas não aparecerão no histórico."</string>
     <string name="error_title">Não foi possível sincronizar</string>
     <string name="error_unauthorized">A sincronização com sua Conta Mi foi desativada devido a muitas tentativas de login.</string>
     <string name="exit">Sair</string>
+	<string name="exit_browser_confirmation">Pressione novamente para voltar à página inicial</string>
     <string name="exit_browser_warning">Sair do Navegador agora?</string>
     <string name="exit_fullscreen">Sair da tela cheia</string>
     <string name="fast_search_title">Pesquisa rápida</string>
