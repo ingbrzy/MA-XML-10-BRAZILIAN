@@ -216,8 +216,16 @@
     <string name="custom_head_card_text_incognito">"Você está anônimo!
 Páginas visitadas não aparecerão no histórico."</string>
     <string name="data_error">Erro nos dados</string>
+	<string name="data_monitor">Lembrete de monitoramento de tráfego</string>
+	<string name="data_monitor_dialog_message">Parece que há algo consumindo seus dados móveis. Abra a página inicial para encerrar isso.</string>
+	<string name="data_traffic_continue">Continuar</string>
+    <string name="data_traffic_download_cancel">Cancelar</string>
+    <string name="data_traffic_download_prompt">Este vídeo só poderá ser baixado usando o Wi-Fi</string>
+    <string name="data_traffic_download_setting">Configurações</string>
+	<string name="data_traffic_goto">Liberar tráfego de dados</string>
     <string name="data_traffic_prompt_message">Usar a conexão de dados móveis para navegar entre vídeos aumentará seu consumo de dados móveis. Caso você exceda seu limite de uso de dados, sua operadora poderá cobrar tarifas adicionais.</string>
     <string name="data_traffic_prompt_title">Alerta do uso de dados</string>
+	<string name="data_traffic_stop">Parar</string>
     <string name="delete">Excluir</string>
     <string name="delete_bookmark">Excluir</string>
     <string name="delete_bookmark_group_warning">Excluir \"%s\"? Todos os favoritos neste grupo serão excluídos.</string>
@@ -236,6 +244,10 @@ Páginas visitadas não aparecerão no histórico."</string>
     <string name="dialog_insufficient_space_on_external">Espaço insuficiente no armazenamento removível</string>
     <string name="dialog_media_not_found">Não é possível baixar: nenhum armazenamento removível detectado</string>
     <string name="dialog_queued_body">Este arquivo está na fila para download.</string>
+	<string name="dialog_recovery_tabs_action">Clique para restaurar</string>
+    <string name="dialog_recovery_tabs_disc">A detecção de páginas não fechadas requer recuperação completa.</string>
+    <string name="dialog_recovery_tabs_tip">A webview não foi fechada da última vez</string>
+    <string name="dialog_recovery_tabs_title">Abrir página antes da recuperação</string>
     <string name="dialog_title_not_available">Não foi possível fazer o download</string>
     <string name="dialog_title_queued_body">O arquivo ainda não está disponível</string>
     <string name="document_download_background_btn">Download em seg. plano</string>
@@ -521,6 +533,7 @@ Lembre-se de que os arquivos que você baixar e favoritos que adicionar serão s
     <string name="pref_content_search_engine">Motor de busca na barra de endereços</string>
     <string name="pref_content_search_engine_summary">Escolher motor de busca</string>
     <string name="pref_develop_mode">Modo de desenvolvedor</string>
+	<string name="pref_download_setting">Configuração de download</string>
     <string name="pref_enable_adblock_notification">Notificar sobre o bloq. de anúncios</string>
     <string name="pref_enable_news">Notícias</string>
     <string name="pref_enable_novels">Livros</string>
@@ -537,6 +550,7 @@ Lembre-se de que os arquivos que você baixar e favoritos que adicionar serão s
     <string name="pref_file_download_default_path_prefix">Caminho padrão: %s</string>
     <string name="pref_file_download_save_modify_default_path">Localização dos downloads</string>
     <string name="pref_file_download_save_title">Downloads</string>
+	<string name="pref_fling_gesture">Gesto de deslizar</string>
     <string name="pref_fling_on_border">Deslizar das bordas</string>
     <string name="pref_fling_on_border_title_summary">Deslize a partir da borda da esquerda ou da direita</string>
     <string name="pref_font_size_category">Tamanho do texto para páginas</string>
@@ -577,6 +591,7 @@ Lembre-se de que os arquivos que você baixar e favoritos que adicionar serão s
     <string name="pref_privacy_enable_geolocation_summary">Permitir que o navegador solicite acesso à sua localização</string>
     <string name="pref_privacy_formdata_title">Dados de formulário</string>
     <string name="pref_privacy_location_title">Acesso à localização</string>
+	<string name="pref_privacy_policy">Política de privacidade</string>
     <string name="pref_privacy_security_title">Privacidade e segurança</string>
     <string name="pref_save_bandwidth_mode_title">Reduzir o uso de dados</string>
     <string name="pref_security_accept_cookies">Aceitar cookies</string>
@@ -590,6 +605,7 @@ Lembre-se de que os arquivos que você baixar e favoritos que adicionar serão s
     <string name="pref_security_show_security_warning_summary">Mostrar alerta em caso de problemas com o certificado de um site</string>
     <string name="pref_set_homepage_to">Definir para</string>
     <string name="pref_setting_title">Configurações de página</string>
+	<string name="pref_tab_restore">Abrir a última página na inicialização</string>
     <string name="pref_ua_string">Agente confiável</string>
     <string name="pref_version_info">Info. da versão</string>
     <string name="pref_volume_key_action">Rolar página com botões de vol.</string>

@@ -44,6 +44,11 @@
         <item>Página inicial predefinida</item>
         <item>Personalizada</item>
     </string-array>
+	    <string-array name="pref_fling_gesture_entries">
+        <item>Página anterior e próxima</item>
+        <item>Alternar abas</item>
+        <item>Nenhum</item>
+    </string-array>
     <string-array name="pref_nav_mode_summary">
         <item>Telefone</item>
         <item>Tablet</item>
@@ -51,6 +56,11 @@
     <string-array name="pref_navscreen_layoutstate_choices">
         <item>Vertical</item>
         <item>Horizontal</item>
+    </string-array>
+	    <string-array name="pref_tab_restore_array">
+        <item>Sempre perguntar</item>
+        <item>Abrir</item>
+        <item>Fechar</item>
     </string-array>
     <string-array name="pref_text_zoom_choices">
         <item>Muito pequeno</item>
