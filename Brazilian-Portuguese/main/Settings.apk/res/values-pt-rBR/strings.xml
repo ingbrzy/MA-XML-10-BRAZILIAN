@@ -2719,6 +2719,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="line_breaking_title">Otimizar texto</string>
     <string name="list_bg_header_text">Se você restringir a conexão em segundo plano, novos aplicativos não poderão conectar-se à internet em segundo plano depois que forem instalados. Eles não poderão receber mensagens ou fazer download de conteúdo depois disso.</string>
     <string name="list_empty_text">Vazio</string>
+	<string name="loading">Aguarde…</string>
     <string name="loading_notification_apps">Carregando apps…</string>
     <string name="local_auto_backup_off">Desativado</string>
     <string name="local_auto_backup_on">Ativado</string>
@@ -3003,6 +3004,7 @@ para o segundo espaço"</string>
     <string name="manage_zen_access_title">Acesso \"Não perturbe\"</string>
     <string name="manageapplications_settings_summary">Gerenciar e remover aplicativos instalados</string>
     <string name="manageapplications_settings_title">Gerenciar aplicativos</string>
+	<string name="manage_notification_title">Notificações de aplicativos</string>
     <string name="managed_device_admin_title">Trabalho</string>
     <string name="managed_profile_contact_search_summary">Permitir que sua organização pesquise contatos para identificar autores de chamadas e contatos</string>
     <string name="managed_profile_contact_search_title">Pesquisa de contatos</string>
