@@ -282,8 +282,15 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, aplicativo
     <string name="allow_bind_app_widget_activity_always_allow_bind">Sempre permitir que %1$s crie widgets e acesse os dados</string>
     <string name="allow_data_usage_title">Permitir usar dados em roaming</string>
     <string name="allow_device_id_access">Aplicativos com acesso à ID do Dispositivo</string>
+	<string name="allow_float_summary">Mostrar notificações no topo da tela</string>
+	<string name="allow_float_title">Notificações flutuantes</string>
     <string name="allow_interruption">Permitir interrupções</string>
     <string name="allow_interruption_summary">Permitir que o aplicativo emita um som, vibre e/ou mostre notificações na tela</string>
+	<string name="allow_keyguard_title">Notificações na tela de bloqueio</string>
+    <string name="allow_keyguard_summary">Mostrar notificações na tela de bloqueio</string>
+	<string name="allow_lights_title">Permitir pulsação do LED</string>
+    <string name="allow_sound_title">Permitir som/string>
+    <string name="allow_vibrate_title">Permitir vibração</string>
     <string name="allow_mock_location">Permitir locais fictícios</string>
     <string name="allow_mock_location_summary">Permitir locais fictícios</string>
     <string name="allow_overlay_description">Permite que esse aplicativo seja exibido em sobreposição a outros aplicativos que você esteja usando. Pode haver interferência no uso e alteração nas atividades desses aplicativos.</string>
@@ -387,6 +394,7 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, aplicativo
     <string name="app_link_open_always">Abrir</string>
     <string name="app_link_open_ask">Perguntar sempre</string>
     <string name="app_link_open_never">Não abrir</string>
+	<string name="app_link_title">Configurações adicionais do aplicativo</string>
     <string name="app_list_memory_use">Uso de aplicativos</string>
     <string name="app_list_preference_none">Nenhum</string>
     <string name="app_memory_use">Uso da memória</string>
@@ -422,7 +430,7 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, aplicativo
     <string name="app_restrictions_custom_label">Definir restrições do aplicativo</string>
     <string name="app_sees_restricted_accounts">Este aplicativo pode acessar suas contas</string>
     <string name="app_sees_restricted_accounts_and_controlled_by">Este aplicativo pode acessar suas contas. Controlado por %1$s</string>
-    <string name="app_settings_link">Configurações adicionais no aplicativo</string>
+    <string name="app_settings_link">Configurações adicionais do aplicativo</string>
     <string name="app_special_disable_dlg_text">Se você desativar esse aplicativo, o Android e outros aplicativos poderão deixar de funcionar como deveriam. Seus dados também serão excluídos.</string>
     <string name="app_special_disable_dlg_title">Excluir os dados e desativar o aplicativo?</string>
     <string name="app_switch_key">Botão aplicativos recentes</string>
@@ -3493,6 +3501,7 @@ Selecione seu sistema operacional:"</string>
     <string name="notch_force_black_desc">Escurecer a área ao redor do entalhe da tela</string>
     <string name="notch_force_black_title">Ocultar entalhe</string>
     <string name="notes_privacy_password_role_instruction">Suas anotações privadas serão armazenadas aqui.</string>
+	<string name="notifi_channels_other">Outros</string>
 	<string name="notifi_importance_default">Mostrar em qualquer situação, faz som, mas sem notificação visual.</string>
     <string name="notifi_importance_high">Mostrar em qualquer situação, faz som e aparece. Pode usar a tela toda.</string>
     <string name="notifi_importance_low">Mostrar em qualquer situação, mas sem ser intrusivo.</string>
