@@ -235,11 +235,6 @@
         <item>Com mais de 60 dias</item>
         <item>Com mais de 90 dias</item>
     </string-array>
-    <string-array name="battery_indicator_style_entries">
-        <item>Gráfico</item>
-        <item>Porcentagem</item>
-        <item>Barra no topo</item>
-    </string-array>
     <string-array name="battery_labels">
         <item>0%</item>
         <item>50%</item>
