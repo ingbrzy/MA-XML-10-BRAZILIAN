@@ -289,7 +289,7 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, aplicativo
 	<string name="allow_keyguard_title">Notificações na tela de bloqueio</string>
     <string name="allow_keyguard_summary">Mostrar notificações na tela de bloqueio</string>
 	<string name="allow_lights_title">Permitir pulsação do LED</string>
-    <string name="allow_sound_title">Permitir som/string>
+    <string name="allow_sound_title">Permitir som</string>
     <string name="allow_vibrate_title">Permitir vibração</string>
     <string name="allow_mock_location">Permitir locais fictícios</string>
     <string name="allow_mock_location_summary">Permitir locais fictícios</string>
