@@ -587,7 +587,7 @@ Para restringir, ative a otimização."</string>
     <string name="backup_pw_cancel_button_text">Cancelar</string>
     <string name="backup_pw_set_button_text">Definir a senha de backup</string>
     <string name="backup_section_title">Backup e restauração</string>
-	<string name="badge_title">Mostrar marcador do aplicativo na tela inicial</string>
+	<string name="badge_title">Utilizar ícones do aplicativo para notificações</string>
     <string name="band_mode_failed">Falha</string>
     <string name="band_mode_loading">Carregando a lista de frequências…</string>
     <string name="band_mode_set">Definir</string>
