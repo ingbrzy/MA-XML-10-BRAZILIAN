@@ -506,6 +506,8 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, aplicativo
     <string name="auto_disable_screenbuttons_rotation_title">Bloquear botões de navegação em modo paisagem</string>
     <string name="auto_disable_screenbuttons_summary">Desativar botões de navegação automaticamente quando usando aplicativos selecionados. Toque duas vezes em qualquer botão de navegação para reativá-los.</string>
     <string name="auto_disable_screenbuttons_title">Desativar botões de navegação automaticamente</string>
+    <string name="auto_dual_clock_title">Relógio duplo</string>
+	<string name="auto_dual_clock_summary">Mostrar relógio duplo quando a hora for diferente do segundo relógio</string>
     <string name="auto_launch_disable_text">Nenhum padrão definido.</string>
     <string name="auto_launch_enable_text">Você decidiu lançar este aplicativo por padrão para algumas ações.</string>
     <string name="auto_launch_label">Abrir por padrão</string>
@@ -577,6 +579,7 @@ Para restringir, ative a otimização."</string>
     <string name="backup_pw_cancel_button_text">Cancelar</string>
     <string name="backup_pw_set_button_text">Definir a senha de backup</string>
     <string name="backup_section_title">Backup e restauração</string>
+	<string name="badge_title">Mostrar marcador do aplicativo na tela inicial</string>
     <string name="band_mode_failed">Falha</string>
     <string name="band_mode_loading">Carregando a lista de frequências…</string>
     <string name="band_mode_set">Definir</string>
@@ -621,6 +624,7 @@ Para restringir, ative a otimização."</string>
     <string name="battery_footer_summary">Os dados de uso da bateria são aproximados e podem mudar conforme o uso</string>
     <string name="battery_full_charge_last">A carga completa dura cerca de</string>
     <string name="battery_indicator_style">Indicador da bateria</string>
+	<string name="battery_indicator_title">Indicador de bateria</string>
     <string name="battery_info_awake_battery">Tempo ligado na bateria:</string>
     <string name="battery_info_awake_plugged">Tempo ligado em carregamento:</string>
     <string name="battery_info_health_cold">Fria</string>
@@ -765,6 +769,7 @@ Apps:
     <string name="block_list_remove_dialog_title">Remover %s da lista de bloqueio</string>
     <string name="block_list_summary">Ver dispositivos sem permissão para conectarem-se neste ponto de acesso</string>
     <string name="block_list_title">Lista de bloqueio</string>
+	<string name="block_title">Mostrar notificações</string>
     <string name="bluetooth">Bluetooth</string>
     <string name="bluetooth_a2dp_profile_summary_connected">Conectado ao áudio de mídia</string>
     <string name="bluetooth_a2dp_profile_summary_use_for">Usar para áudio de mídia</string>
@@ -1461,6 +1466,7 @@ Para continuar usando seu telefone, é necessário restaurar as configurações 
     <string name="current_use_uicc_se">Usando elemento de segurança no cartão SIM</string>
     <string name="current_use_uicc_wallet">Você está usando o Wallet no SIM %1$s</string>
     <string name="current_zone">(atual)</string>
+	<string name="custom_carrier_title">Editar o nome da operadora</string>
     <string name="daltonizer_mode_deuteranomaly">Deuteranomalia (vermelho-verde)</string>
     <string name="daltonizer_mode_disabled">Desativado</string>
     <string name="daltonizer_mode_monochromacy">Monocromacia</string>
@@ -1923,6 +1929,11 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
     <string name="doze_title">Novas notificações</string>
     <string name="draw_overlay">Sobrepor a outros aplicativos</string>
     <string name="dtmf_tone_enable_title">Tons do discador</string>
+    <string name="dual_clock">Relógio duplo</string>
+    <string name="dual_clock_aod_hint">"\"Relógio duplo\" depende dos seguintes recursos: 1. Para tela desligada, permita mostrar os itens em Configurações > Tela; 2. Para tela de bloqueio, é necessário usar o tema Padrão ou Clássico em Configurações > Temas; 3. Para tela inicial, é necessário usar o widget de relógio padrão."</string>
+    <string name="dual_clock_hint">"\"Relógio duplo\" depende dos seguintes recursos: 1. Para tela desligada, permita mostrar os itens em Configurações > Tela; 2. Para tela de bloqueio, é necessário usar o tema Padrão ou Clássico em Configurações > Temas; 3. Para tela inicial, é necessário usar o widget de relógio padrão."</string>
+    <string name="dual_clock_ok">Entendido</string>
+    <string name="dual_clock_open_message">O relógio duplo será exibido na tela de bloqueio, tela inicial e tela desligada.</string>
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
     <string name="dump_log">Obter logs relacionados com o problema</string>
@@ -2105,6 +2116,7 @@ Para saber mais detalhes, entre em contato com o administrador da sua organizaç
     <string name="ethernet_data_usage">Uso de dados ethernet</string>
     <string name="every_day">Diariamente</string>
     <string name="expand_button_title">Avançado</string>
+	<string name="expandable_under_keyguard_title">Mostrar na tela de bloqueio</string>
     <string name="experimental_category_title">Experimentais</string>
     <string name="experimental_preference">(Experimental)</string>
     <string name="external_code_size_label">Aplicativo de armazenamento USB</string>
@@ -2454,6 +2466,10 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="imei_multi_sim">IMEI (slot para SIM %1$d)</string>
     <string name="immediately_destroy_activities">Não manter atividades</string>
     <string name="immediately_destroy_activities_summary">Encerrar atividades assim que o usuário sair dela</string>
+	<string name="importance_default">Padrão</string>
+    <string name="importance_high">Alta</string>
+    <string name="importance_low">Baixa</string>
+    <string name="importance_min">Mínima</string>
     <string name="ims_reg_status_not_registered">Não registrado</string>
     <string name="ims_reg_status_registered">Registrado</string>
     <string name="ims_reg_title">Estado do registro IMS</string>
@@ -2509,6 +2525,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="internal_storage_sentence">armazenamento interno</string>
     <string name="invalid_location">O local de instalação não é válido.</string>
     <string name="invalid_size_value">Não foi possível calcular o tamanho do pacote.</string>
+	<string name="importance_title">Importância</string>
     <string name="item_system_app">Aplicativos do sistema</string>
     <string name="join_many_items_first">%1$s, %2$s</string>
     <string name="join_many_items_last">%1$s e %2$s</string>
@@ -2689,6 +2706,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="legal_workday_message">(Pular feriados)</string>
     <string name="license_title">Licença</string>
     <string name="lift_to_wake_title">Levantar para ativar</string>
+	<string name="lights_title">Piscar o LED</string>
     <string name="line_breaking_summary">Otimizar quebra de texto em parágrafos</string>
     <string name="line_breaking_title">Otimizar texto</string>
     <string name="list_bg_header_text">Se você restringir a conexão em segundo plano, novos aplicativos não poderão conectar-se à internet em segundo plano depois que forem instalados. Eles não poderão receber mensagens ou fazer download de conteúdo depois disso.</string>
@@ -3475,6 +3493,12 @@ Selecione seu sistema operacional:"</string>
     <string name="notch_force_black_desc">Escurecer a área ao redor do entalhe da tela</string>
     <string name="notch_force_black_title">Ocultar entalhe</string>
     <string name="notes_privacy_password_role_instruction">Suas anotações privadas serão armazenadas aqui.</string>
+	<string name="notifi_importance_default">Mostrar em qualquer situação, faz som, mas sem notificação visual.</string>
+    <string name="notifi_importance_high">Mostrar em qualquer situação, faz som e aparece. Pode usar a tela toda.</string>
+    <string name="notifi_importance_low">Mostrar em qualquer situação, mas sem ser intrusivo.</string>
+    <string name="notifi_importance_min">Mostrar apenas na tela de notificações</string>
+    <string name="notifi_importance_none">Desativado</string>
+    <string name="notifi_importance_unspecified">Deixe o aplicativo decidir</string>
     <string name="notification_app_settings_button">Configurações de notificação</string>
     <string name="notification_badge_title">Permitir ponto de notificação</string>
     <string name="notification_badging_title">Permitir pontos de notificação</string>
@@ -3541,16 +3565,18 @@ Isso também permitira que o aplicativo ative ou desative o modo \"Não perturbe
     <string name="notification_log_details_visibility">visibilidade</string>
     <string name="notification_log_no_title">(nenhum)</string>
     <string name="notification_log_title">Registro de notificação</string>
-    <string name="notification_pulse_title">Piscar a luz</string>
+    <string name="notification_pulse_title">Piscar o LED</string>
     <string name="notification_reboot_btn">Reiniciar</string>
     <string name="notification_reboot_summary_hm">Toque para reiniciar o dispositivo.</string>
     <string name="notification_reboot_title">Reinicie para atualizar</string>
     <string name="notification_reboot_title_hm">Reinicie para atualizar</string>
     <string name="notification_ringtone_title">Som de notificação padrão</string>
-    <string name="notification_show_lights_title">Piscar a luz</string>
+	<string name="notification_shade_shortcut_title">Atalho na tela de notificações</string>
+    <string name="notification_show_lights_title">Piscar o LED</string>
     <string name="notification_sound_default">Som de notificação padrão</string>
     <string name="notification_sound_dialog_title">Som de notificação padrão</string>
     <string name="notification_sound_title">Som de notificação padrão</string>
+	<string name="notification_style_title">Estilo da notificação</string>
     <string name="notification_suggestion_summary">Mostrar ou ocultar o conteúdo da notificação</string>
     <string name="notification_suggestion_title">Controlar informações na tela de bloqueio</string>
     <string name="notification_summary_channel">%1$s • %2$s</string>
@@ -4125,6 +4151,7 @@ Interface UT: %5$s"</string>
     <string name="repeat_call">Notificar sobre chamadas repetidas</string>
     <string name="repeat_call_info">Permitir toque de chamadas se elas repetirem dentro de 15 minutos no Modo silencioso</string>
     <string name="repeat_title">Repetir</string>
+	<string name="resident_timezone_summary">Segundo relógio</string>
     <string name="reset_aaid">Redefinir identificador de anunciante</string>
     <string name="reset_app_preferences">Redefinir aplicativos</string>
     <string name="reset_app_preferences_button">Redefinir aplicativos</string>
@@ -4689,6 +4716,8 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
     <string name="select_sim_for_calls">Ligar com</string>
     <string name="select_sim_for_data">Selecionar um SIM de dados</string>
     <string name="select_ssid_type_title">Selecionar SSID</string>
+	<string name="select_time_format_category_title">Formato da hora</string>
+	<string name="select_time_format_title">Formato da hora</string>
     <string name="select_to_speak_summary">Tocar nos itens exibidos na tela para ouvir a leitura deles em voz alta</string>
     <string name="select_usb_configuration_dialog_title">Selecionar a configuração USB</string>
     <string name="select_usb_configuration_title">Selecionar configuração USB</string>
@@ -4762,6 +4791,7 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
     <string name="show_background_processes">Mostrar processo em cache</string>
     <string name="show_connected_devices_summary">Ver dispositivos conectados</string>
     <string name="show_connected_devices_title">Dispositivos conectados</string>
+	<string name="show_carrier_under_keyguard_title">Mostrar operadora na tela de bloqueio</string>
     <string name="show_dev_already">Não é necessário. Você já é um desenvolvedor.</string>
     <string name="show_dev_on">Você agora é um desenvolvedor!</string>
     <string name="show_fc">Aplicativos fechados forçadamente</string>
@@ -4779,6 +4809,8 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
     <string name="show_non_rect_clip">Depurar operações de corte não retangulares</string>
     <string name="show_notification_channel_warnings">Mostrar alertas no canal de notificações</string>
     <string name="show_notification_channel_warnings_summary">Exibe alertas na tela quando um aplicativo publicar uma notificação sem um canal válido</string>
+	<string name="show_notification_icon_title">Mostrar ícones de notificação</string>
+	<string name="show_network_speed_title">Mostrar velocidade da conexão</string>
     <string name="show_operator_name_summary">Exibir o nome da rede na barra de status</string>
     <string name="show_operator_name_title">Nome da rede</string>
     <string name="show_owner_info_on_lockscreen_label">Mostrar assinatura na Tela de bloqueio</string>
@@ -4963,6 +4995,7 @@ Este recurso precisa de permissões para acessar sua localização, usar as rede
     <string name="sound_settings_summary_vibrate">Campainha configurada para vibrar</string>
     <string name="sound_stereo_mode_summary">Disponível apenas ao reproduzir sons pelo altofalante</string>
     <string name="sound_stereo_mode_title">Som estéreo</string>
+	<string name="sound_title">Som</string>
     <string name="sound_vibrate_settings">Sons e vibração</string>
     <string name="sound_work_settings">Sons do perfil de trabalho</string>
     <string name="special_access">Acesso especial a aplicativos</string>
@@ -5428,6 +5461,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="to_close">Desativar</string>
     <string name="toast_lockscreen_glogin_empty_password">Inserir senha</string>
     <string name="toast_need_login">Faça o login em sua Conta Mi</string>
+	<string name="toggle_collapse_after_clicked_title">Fechar após toque</string>
     <string name="total">Não perturbe</string>
     <string name="total_info">Silenciar sons e desativar a vibração exceto para os alarmes</string>
     <string name="total_info_no_vibrator">Silenciar sons exceto para os alarmes</string>
@@ -5839,6 +5873,7 @@ Toque no + para adicionar palavras."</string>
     <string name="vibrate_input_devices_summary">Enviar vibração para o controlador de jogo quando conectado</string>
     <string name="vibrate_on_touch_summary">Retorno tátil para toque, teclado e muito mais</string>
     <string name="vibrate_on_touch_title">Vibrar ao tocar na tela</string>
+	<string name="vibrate_title">Vibrar</string>
     <string name="vibrate_when_ringing_title">Também vibrar para chamadas</string>
     <string name="vip_list">Permitir chamadas de entrada</string>
     <string name="virtual_keyboard_category">Teclado virtual</string>
@@ -5880,6 +5915,7 @@ Toque no + para adicionar palavras."</string>
     <string name="virus_scanner_select_trust_lib">Selecionar definições do antivírus</string>
     <string name="virus_scanner_title">Antivírus</string>
     <string name="virus_scanner_update_lib">Atualizar definições</string>
+	<string name="visibility_override_title">Na tela de bloqueio</string>
     <string name="vision_settings_description">É possível personalizar este dispositivo para atender às suas necessidades. Esses recursos de acessibilidade podem ser alterados posteriormente em \"Configurar\".</string>
     <string name="vision_settings_suggestion_title">Alterar tamanho da fonte</string>
     <string name="vision_settings_title">Configuração visual</string>
@@ -6633,7 +6669,7 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="zen_mode_block_effect_ambient">Notificações não ativam a tela</string>
     <string name="zen_mode_block_effect_badge">Ocultar pontos de notificação</string>
     <string name="zen_mode_block_effect_intent">Não ligar a tela</string>
-    <string name="zen_mode_block_effect_light">Não piscar a luz</string>
+    <string name="zen_mode_block_effect_light">Não piscar o LED</string>
     <string name="zen_mode_block_effect_list">Ocultar da lista de notificações</string>
     <string name="zen_mode_block_effect_peek">Não mostrar notificações na tela</string>
     <string name="zen_mode_block_effect_sound">Desativar som e vibração</string>

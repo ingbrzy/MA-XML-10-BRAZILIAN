@@ -1329,6 +1329,21 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>VPN IPSec com autenticação de certificados e Xauth</item>
         <item>VPN IPSec com certificados e autenticação híbrida</item>
     </string-array>
+	    <string-array name="battery_indicator_style_entries">
+        <item>Gráfico</item>
+        <item>Porcentagem (dentro do ícone)</item>
+        <item>Percentagem (ao lado do ícone)</item>
+        <item>Barra no topo</item>
+    </string-array>
+    <string-array name="notification_shade_shortcut_entries">
+        <item>Pesquisa</item>
+        <item>Configurações</item>
+    </string-array>
+    <string-array name="time_format_entries">
+        <item>12 horas</item>
+        <item>24 horas</item>
+        <item>Automático (baseado no idioma do sistema)</item>
+    </string-array>
     <string-array name="wfd_status">
         <item>Iniciando sessão…</item>
         <item>Sessão iniciada</item>
