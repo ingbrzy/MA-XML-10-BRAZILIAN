@@ -364,6 +364,9 @@ Vire o telefone, fale para microfone superior. Deve ouvir a sua voz no altifalan
   <string name="start">Iniciar</string>
   <string name="testagain">Pode premir o botão Início para testar novamente</string>
   <string name="testing">A executar Auto Teste…</string>
+  <string name="testresult_qrcodetext_hint">"0: Falha
+1: Sucesso
+N: sem teste"</string>
   <string name="tp_color">Cor TP:</string>
   <string name="tp_version">Versão TP:</string>
   <string name="waiting">A aguardar 4s</string>

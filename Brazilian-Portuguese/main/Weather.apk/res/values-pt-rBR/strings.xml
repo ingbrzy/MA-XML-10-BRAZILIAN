@@ -24,7 +24,7 @@
     <string name="activity_main_update_time">Atualizado: %1$s</string>
     <string name="activity_main_update_time_expire">Dados expirados</string>
     <string name="activity_main_update_time_right_now">agora mesmo</string>
-    <string name="activity_minute_rain_location_fail_msg">Não foi possível obter sua localização. Mostrando Pequim como padrão.</string>
+    <string name="activity_minute_rain_location_fail_msg">Não foi possível precisar sua localização. Alterando para a cidade atual.</string>
     <string name="add_city">Adicionar</string>
     <string name="alert_detail_title">Detalhes do alerta</string>
     <string name="alert_warning">Alertas de clima</string>
@@ -54,6 +54,8 @@
     <string name="aqi_quality_pm10_desc">Partículas grossas inaláveis</string>
     <string name="aqi_quality_pm25_desc">Partículas finas</string>
     <string name="aqi_quality_so2_desc">Dióxido sulfúrico</string>
+	<string name="aqi_settings_summary">Alertas de AQI</string>
+    <string name="aqi_settings_title">AQI</string>
     <string name="aqi_station_best_quality_station">Melhor nas redondezas</string>
     <string name="aqi_station_min_distance_station">Estação mais próxima</string>
     <string name="aqi_top_pollution">Principais poluentes</string>
@@ -186,7 +188,7 @@ Toque na tela para adicionar uma cidade manualmente"</string>
     <string name="real_time_sunrise">Nascer do sol %1$s</string>
     <string name="real_time_sunset">Pôr do sol %1$s</string>
     <string name="realtime_aqi_title">Índice de Qualidade do Ar</string>
-    <string name="realtime_humidity_title">Umidade relativa</string>
+    <string name="realtime_humidity_title">Umidade</string>
     <string name="realtime_temperature_no_data">Nenhum</string>
     <string name="realtime_wind_default_title">Vento</string>
     <string name="refresh_fail">Não foi possível conectar-se à rede</string>
