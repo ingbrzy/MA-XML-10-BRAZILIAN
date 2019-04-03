@@ -1479,6 +1479,8 @@ Para continuar usando seu telefone, é necessário restaurar as configurações 
     <string name="current_zone">(atual)</string>
 	<string name="custom_carrier_title">Editar o nome da operadora</string>
 	<string name="custom_wifi_name_title">Editar o nome do Wi-Fi</string>
+	<string name="cutout_type_desc">Ative para suavizar as curvas do notch</string>
+    <string name="cutout_type_title">Ajustar o formato do notch</string>
     <string name="daltonizer_mode_deuteranomaly">Deuteranomalia (vermelho-verde)</string>
     <string name="daltonizer_mode_disabled">Desativado</string>
     <string name="daltonizer_mode_monochromacy">Monocromacia</string>
@@ -3252,6 +3254,7 @@ Há outros usuários presentes neste dispositivo.
     <string name="model_summary">Modelo: %1$s</string>
     <string name="modify_instruction_password_settings">Definir senha</string>
     <string name="modify_privacy_password">Alterar senha</string>
+	<string name="more_installed_services_title">Mais serviços baixados</string>
     <string name="move_app">Mover</string>
     <string name="move_app_failed_dlg_text">Não foi possível mover o aplicativo. %1$s</string>
     <string name="move_app_failed_dlg_title" />
@@ -3671,6 +3674,13 @@ Isso também permitira que o aplicativo ative ou desative o modo \"Não perturbe
     <string name="optimization_cancel">Cancelar</string>
     <string name="ota_disable_automatic_update">Atualizações automáticas do sistema</string>
     <string name="ota_disable_automatic_update_summary">Aplicar atualizações quando o dispositivo for reiniciado</string>
+	<string name="otg_button">OTG</string>
+    <string name="otg_closed">Desativado</string>
+    <string name="otg_opened">Ativado</string>
+    <string name="otg_settings">OTG</string>
+    <string name="otg_tip">"O USB On-The-Go permite os drivers USB conectarem pendrives e outros aparelhos em seu dispositivo para transferência de dados.
+
+OTG será desativado após 10 minutos de inatividade."</string>
     <string name="other_advanced_settings">Configurações adicionais</string>
     <string name="other_device_info">Outros</string>
     <string name="other_personal_settings">Configurações pessoais</string>
@@ -5499,6 +5509,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="to_close">Desativar</string>
     <string name="toast_lockscreen_glogin_empty_password">Inserir senha</string>
     <string name="toast_need_login">Faça o login em sua Conta Mi</string>
+	<string name="toast_sta_ap_works_wifi_display_disable">"Não é possível transmitir quando o Wi-Fi estivr ligado e o ponto de acesso ativado."</string>
 	<string name="toggle_collapse_after_clicked_title">Fechar após toque</string>
     <string name="total">Não perturbe</string>
     <string name="total_info">Silenciar sons e desativar a vibração exceto para os alarmes</string>
