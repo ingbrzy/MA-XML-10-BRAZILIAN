@@ -386,7 +386,7 @@
     <string name="mx_message">Mi Message</string>
     <string name="mx_msg">Mi Message</string>
     <string name="mx_msg_pageview_setting_title">Configurações do Mi Message</string>
-    <string name="mx_offline">Offline</string>
+    <string name="mx_offline">Desativado</string>
     <string name="mx_on_sim_1">Mi Message com o SIM 1</string>
     <string name="mx_on_sim_2">Mi Message com o SIM 2</string>
     <string name="mx_online">Ativado</string>
