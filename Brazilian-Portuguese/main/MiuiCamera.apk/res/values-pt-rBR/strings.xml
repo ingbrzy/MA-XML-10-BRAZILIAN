@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="pref_camera_video_bokeh_off">Bokeh de vídeo está desativado</string>
+    <string name="pref_camera_video_bokeh_on">Bokeh de vídeo</string>
+    <string name="macro_mode_tip">"A distância entre a lente e objeto não pode exceder 10cm"</string>
+    <string name="autozoom_click_hint">"Toque em um objeto para mantê-lo em foco enquanto se mexe. Fique pelo menos a 3 metros de distância para um resultado melhor."</string>
     <string name="camera_setting">Câmera</string>
     <string name="path_settings">Aplicativos do sistema/Câmera/Configurações</string>
     <string name="search_settings">Configurações da câmera;Qualidade;Qualidade de imagem;Localização na imagem;Localização da foto;Detecção de rosto;Sons da câmera</string>
