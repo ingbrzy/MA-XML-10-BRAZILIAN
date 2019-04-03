@@ -1934,7 +1934,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="unlock_failed">Erro interno</string>
     <string name="face_unlock_face_start_title">Verificando dados faciais…</string>
     <string name="face_unlock_face_auth_failed_title">Não foi possível verificar os dados faciais. Alternando para outros métodos de desbloqueio…</string>
-    <string name="face_unlock_finger_or_password_switch">Use sua impressão digital ou insira a senha para desbloquear.</string>
+    <string name="face_unlock_finger_or_password_switch">Use sua impressão digital ou insira a senha para desbloquear</string>
     <string name="applock_function_base_settings">Bloqueio de aplicativos</string>
     <string name="applock_function_pwd_settings">Senha</string>
     <string name="applock_face_unlock_title">Desbloqueio facial</string>

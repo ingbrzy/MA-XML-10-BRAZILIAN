@@ -1113,6 +1113,15 @@ Taxa de amostra"</string>
     <string name="brightness_auto_adjust_on">O brilho da tela será otimizado de acordo com a luz ambiente.</string>
     <string name="brightness_summary">Ajustar o brilho da tela</string>
     <string name="brightness_title">Brilho</string>
+	<string name="bt_aac_dialog_summary">"Seu dispositivo suporta codec AAC. No entanto, AAC pode apresentar falhas na repodução de áudio por incompatibilidade. Seu dispositivo alterou para o codec SBC automaticamente.
+Você pode alterar isso nas Configurações."</string>
+    <string name="bt_aac_dialog_title">Conexão Bluetooth</string>
+    <string name="bt_aac_open_dialog_summary">"AAC pode apresentar falhas na repodução de áudio por incompatibilidade.
+Você pode desativar este recurso em Configurações &gt; Bluetooth &gt; Dispositivos pareados."</string>
+    <string name="bt_aac_open_dialog_title">Alterando para o codec ACC</string>
+    <string name="bt_aac_pre_title">AAC</string>
+    <string name="bt_dialog_remember_choice">Lembrar escolha</string>
+	<string name="bt_dialog_settings">Configurações</string>
     <string name="bt_hci_snoop_log">Registro de Bluetooth HCI</string>
     <string name="bt_hci_snoop_log_summary">Capturar todos os pacotes Bluetooth HCI em um arquivo</string>
     <string name="bt_ldac_declaration">Quando um dispositivo Bluetooth suportar LDAC, ele será conectado automaticamente. O LDAC fornece uma experiência sonora de alta qualidade, mas também aumenta o consumo de energia. Problemas podem ocorrer durante a reprodução devido a limitações no hardware de Bluetooth.</string>
@@ -1126,6 +1135,7 @@ Este recurso pode ser desativado nas [Configurações]"</string>
     <string name="bt_ldac_property">Atributos</string>
     <string name="bt_ldac_remember_choice">Lembrar escolha</string>
     <string name="bt_ldac_settings">Configurações</string>
+	<string name="bt_pre_summary">Entrega experiência de áudio de alta qualidade</string>
     <string name="bt_rarely_used_device_title">Dispositivos raramente usados (%d)</string>
     <string name="bt_trace_log">Log de traços Bluetooth</string>
     <string name="bt_trace_log_summary">Registro de Traços Bluetooth</string>
@@ -1481,6 +1491,10 @@ Para continuar usando seu telefone, é necessário restaurar as configurações 
 	<string name="custom_wifi_name_title">Editar o nome do Wi-Fi</string>
 	<string name="cutout_type_desc">Ative para suavizar as curvas do notch</string>
     <string name="cutout_type_title">Ajustar o formato do notch</string>
+	<string name="cutout_mode_always">Sempre mostrar o notch</string>
+    <string name="cutout_mode_default">Automático</string>
+    <string name="cutout_mode_settings_title">Alguns aplicativos podem não ser exibidos corretamente se você alterar a forma que o notch é apresentado.</string>
+    <string name="cutout_mode_title">Notch nos aplicativos individuais</string>
     <string name="daltonizer_mode_deuteranomaly">Deuteranomalia (vermelho-verde)</string>
     <string name="daltonizer_mode_disabled">Desativado</string>
     <string name="daltonizer_mode_monochromacy">Monocromacia</string>

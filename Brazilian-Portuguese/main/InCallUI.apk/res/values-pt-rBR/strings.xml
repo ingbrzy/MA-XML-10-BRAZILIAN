@@ -5,6 +5,7 @@
     <string name="private_num">Número privado</string>
     <string name="payphone">Telefone público</string>
     <string name="voicemail">Mensagem de voz</string>
+	<string name="volte_call">Chamada VoLTE</string>
     <string name="callFailed_userBusy">Linha ocupada</string>
     <string name="callFailed_congestion">Rede ocupada</string>
     <string name="callFailed_timedOut">Sem resposta do servidor</string>
