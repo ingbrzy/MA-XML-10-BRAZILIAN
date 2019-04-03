@@ -663,6 +663,7 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
     <string name="face_unlock_by_notification_screen_on_title">Permitir desbloqueio facial quando a tela ligar</string>
     <string name="face_unlock_check_failed">Não foi possível reconhecer você</string>
     <string name="face_unlock_close_screen">Fique mais próximo da tela</string>
+	<string name="face_unlock_success">Dados faciais verificados com sucesso</string>
     <string name="face_unlock_down">Levante sua cabeça</string>
     <string name="face_unlock_identify_error">Ocorreu um erro no reconhecimento</string>
     <string name="face_unlock_not_found">Não foi possível reconhecer você</string>

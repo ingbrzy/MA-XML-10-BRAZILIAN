@@ -2157,7 +2157,7 @@ Você não perderá nenhum dado de aplicativos."</string>
     <string name="gs_call_handsfree_mute">Modo silencioso</string>
     <string name="gs_gamebox">Atalhos no jogo</string>
     <string name="gs_gamebox_detail">Mostrar painel de atalhos no jogo</string>
-    <string name="gs_slip_gamebox_detail">Use o slider para fazer o painel de atalhos aparecer. Respostas rápidas e opções de gravação de tela estão disponíveis.</string>
+    <string name="gs_slip_gamebox_detail">Deslize para fazer o painel de atalhos aparecer. Respostas rápidas e opções de gravação de tela estão disponíveis.</string>
     <string name="gs_gamebox_slip">Puxe a tela para baixo para abrir</string>
     <string name="gs_forbid_autosync">Restringir sincr. em segundo plano</string>
     <string name="gs_app_back_self_start">Economia de bateria</string>
@@ -2548,4 +2548,6 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
 	<string name="gamecenter_install_fail">"Não foi possível instalar"</string>
 	<string name="gamecenter_install_sucessfull">Instalado com sucesso</string>
 	<string name="st_filter_keywords_setting_summary2">(Use a virgula para separar as palavras-chave)</string>
+	<string name="security_center_slogan">Segurança. Sempre protegido.</string>
+	<string name="third_desktop_dialog_content">Como launchers de terceiros podem vazar seus dados, consumir bateria de forma estranha e apresentar travamentos, apenas os launchers certificados pela MIUI podem ser definidos como padrão.</string>
 </resources>
