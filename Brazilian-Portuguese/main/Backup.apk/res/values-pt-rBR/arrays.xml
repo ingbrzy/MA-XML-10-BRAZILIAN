@@ -14,13 +14,10 @@
         <item>Muito satisfeito</item>
     </string-array>
     <string-array name="trans_cancel_survey_title">
-        <item>A transferência demorou muito</item>
-        <item>A conexão foi interrompida</item>
-        <item>Selecionei itens errados para transferir</item>
-        <item>Muitos procedimentos</item>
-        <item>Bateria do telefone está fraca</item>
-        <item>Os itens transferidos estão corrompidos</item>
-        <item>Iniciei a transferência por acidente</item>
-        <item>Outros</item>
+        <item>Experiência geral</item>
+        <item>Tempo de transferência</item>
+        <item>Simplicidade do processo</item>
+        <item>Clareza das instruções</item>
+        <item>Este recurso é útil</item>
     </string-array>
 </resources>
