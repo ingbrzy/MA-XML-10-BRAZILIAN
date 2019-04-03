@@ -98,7 +98,7 @@
     <string name="default_folder_title_services">Serviços</string>
     <string name="default_folder_title_telcel">Telcel</string>
     <string name="default_folder_title_tools">Ferramentas</string>
-    <string name="default_screen_preview_title">Toque para definir a tela padrão</string>
+    <string name="default_screen_preview_title">Definir a tela padrão</string>
     <string name="default_shortcut_title_10086">10086.cn</string>
     <string name="delete">Excluir</string>
     <string name="delete_screen">Excluir tela</string>
@@ -114,6 +114,7 @@
     <string name="edit_mode_group_error_full">Não há espaço suficiente</string>
     <string name="edit_mode_group_error_in_folder">Feche a pasta antes de agrupar os itens</string>
     <string name="edit_mode_group_error_one_folder">Não é possível duplicar uma pasta com os ícones selecionados</string>
+	<string name="edit_mode_top_menu_finish">Concluído</string>
     <string name="edit_mode_uninstall">Desinstalar</string>
     <string name="editing_add_widget_tips">Editar widgets</string>
     <string name="editing_mode_enter_tip_text">Faça o gesto de pinça para editar a Tela inicial</string>
@@ -215,6 +216,7 @@
     <string name="menu_default_screen_preview">Definir tela padrão</string>
     <string name="menu_edit">Editar Tela inicial</string>
     <string name="menu_exit_scene">Sair do Mi Space</string>
+	<string name="menu_finish">Concluído</string>
     <string name="menu_item_add_item">Colocar na Tela inicial</string>
     <string name="menu_launcher_setting">Configurações do launcher</string>
     <string name="menu_lock">Bloquear o layout da tela inicial</string>
@@ -353,4 +355,5 @@
     <string name="widget_gadget_player">Música</string>
     <string name="widget_global_search">Pesquisar</string>
     <string name="widget_quick_function">Funções rápidas</string>
+	<string name="widgets_preview_title">Adicionar widget</string>
 </resources>
