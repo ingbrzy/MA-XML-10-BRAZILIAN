@@ -94,8 +94,6 @@ Ele será adicionado às exceções, mas os itens bloqueados anteriormente não 
     <string name="st_settings_name">Configurações da lista de bloqueio</string>
     <string name="st_filter_keywords_setting_summary1">Mensagens de números desconhecidos que contenham palavras nesta lista serão bloqueadas.</string>
     <string name="st_filter_keywords_setting_summary3">Mensagens de números desconhecidos que contenham as palavras na lista serão permitidas.</string>
-    <string name="st_filter_keywords_setting_summary2">"
-(Use uma vírgula para separar múltiplas palavras-chave)"</string>
     <string name="label_callwait">Notificação de chamada em espera</string>
     <string name="open_callwait">Ativado</string>
     <string name="close_callwait">Desativado</string>
