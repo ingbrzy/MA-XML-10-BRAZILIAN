@@ -288,8 +288,8 @@
   <string name="theme_des">Aplicar o tema padrão e ativar o carrossel de papel de parede novamente.</string>
   <string name="theme_des_lock_style">Aplicar a tela de bloqueio padrão e ativar o carrossel de papel de parede novamente.</string>
   <string name="theme_ok">Configurações</string>
-  <string name="theme_title">Switch to default theme</string>
-  <string name="theme_title_lock_style">Switch to default Lock screen</string>
+  <string name="theme_title">Alterar para o tema padrão</string>
+  <string name="theme_title_lock_style">Alterar para a tela de bloqueio padrão</string>
   <string name="ticket_hint">Código de verificação</string>
   <string name="ticket_invalid">O código introduzido não é válido</string>
   <string name="ticket_sign_in">Iniciar sessão via SMS</string>
