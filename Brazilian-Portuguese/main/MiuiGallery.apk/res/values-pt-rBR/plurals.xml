@@ -4,6 +4,14 @@
         <item quantity="other">Ocultar estes arquivos?</item>
         <item quantity="one">Ocultar este arquivo?</item>
     </plurals>
+	    <plurals name="photo_count_format">
+        <item quantity="other">Total %1$d itens</item>
+        <item quantity="one">Total %1$d ítem</item>
+    </plurals>
+	    <plurals name="video_count_format">
+        <item quantity="other">%1$d arquivos</item>
+        <item quantity="one">%1$d arquivo</item>
+    </plurals>
     <plurals name="add_to_album_cloud_photo_count_tip">
         <item quantity="other">%d fotos adicionadas na nuvem, desative \"Mostrar apenas álbuns locais\" para ver.</item>
         <item quantity="one">%d foto adicionada na nuvem, desative \"Mostrar apenas álbuns locais\" para ver.</item>

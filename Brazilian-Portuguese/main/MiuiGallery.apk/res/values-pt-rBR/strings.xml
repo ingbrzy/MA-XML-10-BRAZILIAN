@@ -224,6 +224,9 @@
     <string name="cleaner_screen_shot_action">Limpar</string>
     <string name="cleaner_screen_shot_description">Excluir capturas de tela que você não precisa mais.</string>
     <string name="cleaner_screen_shot_title">Excluir capturas de tela</string>
+	<string name="cleaner_similar_action">Excluir agora</string>
+    <string name="cleaner_similar_description">Excluir fotos duplicadas</string>
+    <string name="cleaner_similar_title">Fotos duplicadas</string>
     <string name="cleaner_slim_action">Iniciar otimização</string>
     <string name="cleaner_slim_description">Manter fotos otimizadas no seu dispositivo. Os arquivos originais serão armazenados na Mi Cloud.</string>
     <string name="cleaner_slim_start">Otimizar</string>
@@ -231,6 +234,10 @@
     <string name="cleaner_space_description">pode ser liberado</string>
     <string name="cleaner_space_detail_description">Limpe fotos na sua Galeria para liberar espaço de armazenamento</string>
     <string name="cleaner_stop_scan">Parar verificação</string>
+	<string name="cleaner_video_action">Excluir agora</string>
+    <string name="cleaner_video_description">Excluir vídeos que ocupam espaço</string>
+    <string name="cleaner_video_pick_delete_selected">Excluir os vídeos selecionados</string>
+    <string name="cleaner_video_title">Excluir vídeos</string>
     <string name="click_download_gif">Toque para fazer o download do GIF</string>
     <string name="click_top_right">Toque neste ícone</string>
     <string name="close">Fechar</string>
@@ -910,6 +917,7 @@ para personalizar a Galeria"</string>
     <string name="play_gif_desc">Reproduzir GIF</string>
     <string name="play_video_desc">Reproduzir vídeo</string>
     <string name="preparing_data">Aguarde…</string>
+	<string name="print_log">Imprimir log</string>
     <string name="privacy_permission_request_message">A Galeria precisa de acesso a %3$s. As informações que coletamos serão usadas em conformidade com nosso %1$s e a %2$s. Permitir?</string>
     <string name="privacy_permission_request_negative">Restringir</string>
     <string name="privacy_permission_request_positive">Permitir</string>
@@ -982,6 +990,11 @@ para personalizar a Galeria"</string>
     <string name="scan_barcode_guide">Para obter o código QR do álbum, toque no botão Compartilhar.</string>
     <string name="scan_barcode_to_join">Leia o código QR para adicionar o álbum</string>
     <string name="scan_qr_code_buttom_text">Leia o código QR para acessar este álbum</string>
+	<string name="screen_doodle_talkback_size">Largura da linha do Doodle</string>
+    <string name="screen_editor_finish">Concluído</string>
+    <string name="screen_save_dialog_btn_cancel">Cancelar</string>
+    <string name="screen_save_dialog_btn_delete">Excluir captura de tela</string>
+    <string name="screen_save_dialog_btn_save">Salvar na galeria</string>
     <string name="search_backup_full_screen">Ative a sincronização com a Mi Cloud para encontrar mais objetos e pessoas</string>
     <string name="search_backup_now">Ativar</string>
     <string name="search_backup_sub_title">Ative para encontrar mais imagens</string>
@@ -1088,6 +1101,7 @@ para personalizar a Galeria"</string>
     <string name="show_hidden_album_title">Mostrar álbuns invisíveis</string>
     <string name="show_in_other_albums_disable_toast_long_press_menu">Movido com sucesso, vá aos Outros álbuns para ver</string>
     <string name="show_in_other_albums_enable_toast_long_press_menu">Movido com sucesso, vá aos Álbuns para ver</string>
+	<string name="similar_keep_clear">Manter as melhores fotos<string>
     <string name="slideshow_interval_dialog_title">Inserir intervalo</string>
     <string name="slideshow_interval_invalid">O intervalo deve estar entre 3 e 3600 segundos</string>
     <string name="slideshow_interval_title">Mostrar cada slide por</string>
