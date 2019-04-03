@@ -58,10 +58,6 @@
         <item>Avô materno</item>
         <item>Avó materna</item>
     </string-array>
-	    <string-array name="baby_sexy_value">
-        <item>masculino</item>
-        <item>feminino</item>
-    </string-array>
 	    <string-array name="parties_title">
         <item>Juntos</item>
         <item>Bons tempos</item>
