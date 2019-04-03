@@ -4,6 +4,15 @@
         <item>Menino</item>
         <item>Menina</item>
     </string-array>
+	    <string-array name="menu_copy_or_move">
+        <item>Mover</item>
+        <item>Copiar</item>
+    </string-array>
+	    <string-array name="last_weekend_title">
+        <item>Meus finais de semana</item>
+        <item>Trechos da vida</item>
+        <item>Memórias do dinal de semana</item>
+    </string-array>
     <string-array name="month">
         <item>Janeiro</item>
         <item>Fevereiro</item>
@@ -48,5 +57,33 @@
         <item>Avó paterna</item>
         <item>Avô materno</item>
         <item>Avó materna</item>
+    </string-array>
+	    <string-array name="baby_sexy_value">
+        <item>masculino</item>
+        <item>feminino</item>
+    </string-array>
+	    <string-array name="parties_title">
+        <item>Juntos</item>
+        <item>Bons tempos</item>
+        <item>Em unissom</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>Eu</item>
+        <item>Criança</item>
+        <item>Família</item>
+        <item>Colegas</item>
+        <item>Colegas de classe</item>
+        <item>Amigos</item>
+        <item>Desagrupado</item>
+    </string-array>
+	    <string-array name="sports_title">
+        <item>Em movimento</item>
+        <item>Cheio de energia</item>
+    </string-array>
+	    <string-array name="weekend_title">
+        <item>Finais de semana passados</item>
+        <item>Dias para recordar</item>
+        <item>Eventos diários</item>
+        <item>Ordinário e extraordinário</item>
     </string-array>
 </resources>
