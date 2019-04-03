@@ -2547,4 +2547,7 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
     <string name="shutdown_time">Desligar: %1$s</string>
     <string name="app_manager_full_screen_title">Modo tela cheia</string>
     <string name="app_manager_full_screen_summary">Permitir que as aplicações selecionadas funcionem em modo tela cheia</string>
+	<string name="gamecenter_install_fail">"Não foi possível instalar"</string>
+	<string name="gamecenter_install_sucessfull">Instalado com sucesso</string>
+	<string name="st_filter_keywords_setting_summary2">(Use a virgula para separar as palavras-chave)</string>
 </resources>

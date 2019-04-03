@@ -199,6 +199,7 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="activity_list_empty">Nenhuma atividade correspondente foi encontrada.</string>
     <string name="activity_not_found">O aplicativo não está instalado no telefone.</string>
     <string name="activity_picker_label">Selecione a atividade</string>
+	<string name="activity_title_power_manager">Economizador de bateria;Economizar bateria</string>
     <string name="ad_service">Serviços de anúncio</string>
     <string name="adb_keys_warning_message">Revogar o acesso à depuração USB para todos os computadores autorizados?</string>
     <string name="adb_warning_message">A depuração USB serve apenas para fins de desenvolvimento. Use-a para copiar dados entre o computador e o dispositivo, instalar aplicativos no seu aparelho sem notificação e ler dados de registro.</string>
@@ -260,6 +261,7 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, aplicativo
     <string name="agps_roaming_summary">Usar dados móveis para auxiliar o GPS durante o roaming</string>
     <string name="ai_button_title">Botão Mi AI</string>
     <string name="ai_button_title_global">Botão IA</string>
+	<string name="ai_settings_click_title">Pressionar</string>
     <string name="ai_settings_double_click_category">Pressionar botão IA 2 vezes</string>
     <string name="ai_settings_double_click_title">Pressionar 2 vezes</string>
     <string name="ai_settings_long_click_category">Pressionar e segurar o Botão IA</string>
@@ -1214,6 +1216,7 @@ Este recurso pode ser desativado nas [Configurações]"</string>
     <string name="captioning_typeface">Família de fontes</string>
     <string name="captioning_window_color">Cor da janela de legendas</string>
     <string name="captioning_window_opacity">Opacidade da janela de legendas</string>
+	<string name="card_main_hbassistant_title">Envelope vermelho;Pacote vermelho;Dinheiro</string>
     <string name="carrier">Operadora</string>
     <string name="carrier_and_update_now_text">Atualizado pela ^1 agora mesmo</string>
     <string name="carrier_and_update_text">Atualizado pela ^1 há ^2</string>
@@ -1475,6 +1478,7 @@ Para continuar usando seu telefone, é necessário restaurar as configurações 
     <string name="current_use_uicc_wallet">Você está usando o Wallet no SIM %1$s</string>
     <string name="current_zone">(atual)</string>
 	<string name="custom_carrier_title">Editar o nome da operadora</string>
+	<string name="custom_wifi_name_title">Editar o nome do Wi-Fi</string>
     <string name="daltonizer_mode_deuteranomaly">Deuteranomalia (vermelho-verde)</string>
     <string name="daltonizer_mode_disabled">Desativado</string>
     <string name="daltonizer_mode_monochromacy">Monocromacia</string>
@@ -2248,6 +2252,7 @@ Para saber mais detalhes, entre em contato com o administrador da sua organizaç
     <string name="floating_window_switch_label_disable">Desativar janelas flutuantes</string>
     <string name="fluency_mode">Animações do sistema</string>
     <string name="fluency_mode_confirm_and_reboot">Reiniciar agora</string>
+	<string name="fold_title">Regras para notificações agrupadas</string>
     <string name="font_size_exhuge">EEG</string>
     <string name="font_size_huge">Extra grande</string>
     <string name="font_size_large">Grande</string>
@@ -2340,6 +2345,7 @@ Parecia não haver nenhum cavalo nem animais de nenhuma espécie. Os homens carr
 
 Quando você ativa o backup automático, os dados do dispositivo e de aplicativos são salvos periodicamente de modo remoto. Dados de aplicativos podem ser quaisquer dados que um aplicativo tenha salvo (com base nas configurações de desenvolvedores), incluindo dados potencialmente confidenciais, como contatos, mensagens e fotos."</string>
     <string name="fullbackup_erase_dialog_message">Interromper o backup de dados do dispositivo (como senhas de Wi-Fi e histórico de chamadas) e de dados de aplicativos (como configurações e arquivos armazenados por apps) e limpar todas as cópias em servidores remotos?</string>
+	<string name="function_description">Sobre este recurso</string>
     <string name="gadget_bluetooth">Bluetooth</string>
     <string name="gadget_brightness_state_auto">automático</string>
     <string name="gadget_brightness_state_full">máximo</string>
@@ -2484,6 +2490,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="inactive_app_active_summary">Ativo. Toque para alternar.</string>
     <string name="inactive_app_inactive_summary">Inativo. Toque para alternar.</string>
     <string name="inactive_apps_title">Aplicativos inativos</string>
+	<string name="incall_show">Vídeo do perfil para chamadas recebidas</string>
     <string name="include_app_data_title">Incluir dados de aplicativos</string>
     <string name="incoming_call_breathing_light_color_title">Cor do LED para chamadas</string>
     <string name="incoming_call_breathing_light_freq_title">Frequência de pulsação em chamadas</string>
@@ -3503,6 +3510,7 @@ Selecione seu sistema operacional:"</string>
     <string name="notch_force_black_desc">Escurecer a área ao redor do entalhe da tela</string>
     <string name="notch_force_black_title">Ocultar entalhe</string>
     <string name="notes_privacy_password_role_instruction">Suas anotações privadas serão armazenadas aqui.</string>
+	<string name="notifi_channels">Categorias das notificações</string>
 	<string name="notifi_channels_other">Outros</string>
 	<string name="notifi_importance_default">Mostrar em qualquer situação, faz som, mas sem notificação visual.</string>
     <string name="notifi_importance_high">Mostrar em qualquer situação, faz som e aparece. Pode usar a tela toda.</string>
@@ -3510,6 +3518,7 @@ Selecione seu sistema operacional:"</string>
     <string name="notifi_importance_min">Mostrar apenas na tela de notificações</string>
     <string name="notifi_importance_none">Desativado</string>
     <string name="notifi_importance_unspecified">Deixe o aplicativo decidir</string>
+	<string name="notifi_no_channels">Este aplicativo não enviou nenhuma notificação</string>
     <string name="notification_app_settings_button">Configurações de notificação</string>
     <string name="notification_badge_title">Permitir ponto de notificação</string>
     <string name="notification_badging_title">Permitir pontos de notificação</string>
@@ -3526,6 +3535,11 @@ Selecione seu sistema operacional:"</string>
     <string name="notification_channels_other">Outros</string>
     <string name="notification_content_block_summary">Nunca mostrar notificações na aba ou em dispositivos periféricos</string>
     <string name="notification_content_block_title">Mostrar notificações</string>
+	<string name="notification_fold_description1">A pasta de notificações foi introduzida na MIUI 9. Este recurso separa as notificações que não são importantes e as coloca em uma pasta separada.</string>
+	<string name="notification_fold_description2">A MIUI irá lembrar as notificações que você tocar, e depois usar critérios para decidir se são importantes ou não.</string>
+	<string name="notification_fold_description3">"Se as notificações que você considera importante forem para a pasta de notificações, reporte o problema para nós. Nós iremos apreciar o seu retorno."</string>
+	<string name="notification_fold_summary">Todas as notificações que não são importantes, irão aparecer em uma pasta separada</string>
+	<string name="notification_fold_title">Pasta de notificações</string>
     <string name="notification_group_title">Grupo de categoria de notificações</string>
     <string name="notification_importance_blocked">Nunca mostrar notificações</string>
     <string name="notification_importance_default">Emitir som</string>
@@ -3627,6 +3641,7 @@ Isso também permitira que o aplicativo ative ou desative o modo \"Não perturbe
     <string name="oem_unlock_enable_disabled_summary_connectivity_or_locked">Conecte-se à Internet ou entre em contato com sua operadora</string>
     <string name="oem_unlock_enable_disabled_summary_sim_locked_device">Indisponível em dispositivos bloqueados pela operadora</string>
     <string name="oem_unlock_enable_summary">Permitir que o bootloader seja desbloqueado</string>
+	<string name="off">Desativado</string>
     <string name="ok_rules">Finalizar</string>
     <string name="okay">OK</string>
     <string name="oldman_app_label">Modo simplificado</string>
@@ -3637,6 +3652,7 @@ Isso também permitira que o aplicativo ative ou desative o modo \"Não perturbe
     <string name="oldman_mode_entry_name">Modo simplificado</string>
     <string name="oldman_uninstalled_btn">Instalar</string>
     <string name="oldman_uninstalled_des">O Modo simplificado remove alguns itens visuais e mantém a sua Tela inicial simples e minimalista.</string>
+	<string name="on">Ativado</string>
     <string name="one_cacrt">um certificado CA</string>
     <string name="one_usercrt">um certificado de usuário</string>
     <string name="one_userkey">uma chave de usuário</string>
@@ -3740,6 +3756,7 @@ Isso também permitira que o aplicativo ative ou desative o modo \"Não perturbe
     <string name="password_turned_off_text">A senha foi desativada</string>
     <string name="password_turned_on_text">A senha foi ativada</string>
     <string name="payment_summary">%1$s é padrão</string>
+	<string name="peek_notification_icon_title">Mostrar ícones para notificações recebidas</string>
     <string name="performance_category">Desempenho</string>
     <string name="permission_detail_info">Detalhes</string>
     <string name="permission_detail_info_summary">%1$d segurança | %2$d privacidade | %3$d outros</string>
@@ -3812,6 +3829,8 @@ Isso também permitira que o aplicativo ative ou desative o modo \"Não perturbe
     <string name="power_key_how_start_detail">Pressione o botão Liga/Desliga por 0.5s. Solte para falar.</string>
     <string name="power_key_start_enjoy">Saiba mais sobre o Assistente do Google</string>
     <string name="power_key_start_guide">Ativando o Assistente do Google usando o botão Liga/Desliga em dispositivos com tela infinita</string>
+	<string name="power_menu_under_keyguard_summary">Permite acesso ao menu de energia enquanto o dispositivo estiver bloqueado</string>
+	<string name="power_menu_under_keyguard_title">Acesso ao menu de energia</string>
     <string name="power_mgr">Bateria</string>
     <string name="power_mode">Configurações de energia</string>
     <string name="power_mode_balanced_title">Balancear Energia</string>
@@ -3924,6 +3943,8 @@ Isso também permitira que o aplicativo ative ou desative o modo \"Não perturbe
     <string name="priority_storage_settings_summary">Se nenhum cartão SD for detectado, seus dados serão salvos na memória interna do dispositivo automaticamente</string>
     <string name="priority_storage_summary">Escolha onde salvar seus dados</string>
     <string name="priority_storage_title">Configurações de armazenamento</string>
+	<string name="priority_summary">Mostre as notificações no topo da lista</string>
+    <string name="priority_title">Prioridade</string>
     <string name="privacy_authorize_cloud_msg">Para garantir a segurança da sua conta, faça o login em i.mi.com se você desejar revogar a autorização para os serviços Mi Cloud (incluindo sincronização e backups).</string>
     <string name="privacy_authorize_dialog_agree">Aceitar</string>
     <string name="privacy_authorize_dialog_exit">Sair</string>
@@ -4528,6 +4549,7 @@ Para usar a fixação de tela:
     <string name="search_music_headset_mode_settings">Botões do fone de ouvido;controle remoto</string>
     <string name="search_music_headset_settings">Fones de ouvido e efeitos de áudio;Fones de ouvido e efeitos de áudio;Fones de ouvido;Earphones;Efeitos de áudio</string>
     <string name="search_music_mi_effect_title">Amplificador Mi Soud;melhorar som</string>
+	<string name="search_my_device">Sobre o dispositivo;Sobre dispositivo;Meu telefone;Meu dispositivo;Telefone;Dispositivo</string>
     <string name="search_networks_title">Redes móveis;Operadora;Operadora móvel</string>
     <string name="search_nfc_quick_toggle_title">NFC</string>
     <string name="search_nfc_se_route_title">Posição do elemento de segurança</string>
@@ -4546,6 +4568,7 @@ Para usar a fixação de tela:
     <string name="search_power_mode">Configurações de energia;Energia</string>
     <string name="search_power_optimize">Economia de bateria;Economizar bateria</string>
     <string name="search_power_usage_summary_title">Bateria e desempenho;Bateria e desempenho;Bateria;desempenho;Economia de bateria;Economizar bateria</string>
+	<string name="search_pick_up_gesture_wakeup_title">Pegar;Subir</string>
     <string name="search_pref_edge_handgrip">Controles de borda</string>
     <string name="search_pref_volume_wake_title">Ligar tela com botões de volume;botões de volume</string>
     <string name="search_preferred_network_type_title">Tipo de rede preferencial;Rede preferencial;Tipo de rede</string>
@@ -4560,6 +4583,7 @@ Para usar a fixação de tela:
     <string name="search_screen_on_proximity_sensor_title">Prevenir discagens acidentais;bolso;discagem acidental;discagens acidentais</string>
     <string name="search_screen_paper_mode_title">Modo de leitura;modo de leitura;leitura;luz azul;luz amarela;modo noturno</string>
     <string name="search_screen_saver_settings">Proteção de tela</string>
+	 <string name="search_screen_shot">Captura de tela;Capturar tela;Capturar</string>
     <string name="search_screen_timeout">Inatividade;bloquear tela automaticamente;Bloqueio de tela</string>
     <string name="search_screenshot">Capturas de tela</string>
     <string name="search_second_space">Segundo Espaço;Dois espaços;2 espaços;Ocultar apps;Ocultar fotos;Tela de bloqueio;Senha da tela de bloqueio;Privacidade;Modo de privacidade;Modo privado;Privado;Modo convidado;Sessão de convidado;Acesso a convidado;Conta de convidado;Convidado</string>
@@ -4835,6 +4859,7 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
     <string name="show_screen_updates_summary">Piscar superfícies de toda a janela ao atualizar</string>
     <string name="show_touches">Mostrar toques</string>
     <string name="show_touches_summary">Mostrar feedback visual para toques</string>
+	<string name="show_wifi_name_title">Mostrar Wi-Fi</string>
     <string name="show_user_info_on_lockscreen_label">Mostrar info. do proprietário na Tela de bloqueio</string>
     <string name="shut_down_find_device_failure_confirm">OK</string>
     <string name="shut_down_find_device_network_failure_content">"Não foi possível desativar o 'Encontrar dispositivo'. Certifique-se de que o dispositivo tem uma conexão com a internet."</string>
@@ -5470,6 +5495,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="title_layout_current">Tamanho do texto</string>
     <string name="title_layout_current2">Tamanho do texto</string>
     <string name="title_layout_v2">Tamanho do texto e escala</string>
+	<string name="title_of_auto_launch_manage">Início automático</string>
     <string name="to_close">Desativar</string>
     <string name="toast_lockscreen_glogin_empty_password">Inserir senha</string>
     <string name="toast_need_login">Faça o login em sua Conta Mi</string>

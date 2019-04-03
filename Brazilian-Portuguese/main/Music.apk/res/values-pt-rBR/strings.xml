@@ -674,6 +674,7 @@
     <string name="view_album">Ver álbum</string>
     <string name="vip_required">Obtenha o Pacote de Músicas Premium para reproduzir esta música. Pulando música agora.</string>
     <string name="vip_required_with_song">%s está disponível apenas para membros PRO. Ignorando esta música por enquanto.</string>
+	<string name="voice_search_first_hint">Tente a pesquisa por voz!</string>
     <string name="wifi_required_body" formatted="false">"Conecte-se ao Wi-fi para completar este download de %s.
 
 Toque em %s para inicias este download da próxima vez que você estiver conectado a uma rede Wi-Fi."</string>

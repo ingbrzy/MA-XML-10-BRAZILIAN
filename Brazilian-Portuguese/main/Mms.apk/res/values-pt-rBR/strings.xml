@@ -545,6 +545,7 @@
     <string name="rcs_message_disable">Não é possível ver esta mensagem no segundo espaço</string>
     <string name="rcs_msg">China Mobile Messaging</string>
     <string name="rcs_not_online">Não é possível usar o China Mobile Messaging. Verifique suas configurações de rede e tente novamente.</string>
+	<string name="rcs_offline">Você não está conectado ao UC. Espere alguns minutos e tente novamente.</string>
     <string name="rcs_offline_hint">O China Mobile Messaging está offline. Não é possível encaminhar esta mensagem.</string>
     <string name="rcs_recipient_type_contact">Encaminhar para contato</string>
     <string name="rcs_recipient_type_group">Encaminhar para chat em grupo</string>
