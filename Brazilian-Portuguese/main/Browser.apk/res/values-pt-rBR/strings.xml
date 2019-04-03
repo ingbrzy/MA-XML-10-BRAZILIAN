@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">Navegador</string>
     <string name="common_google_play_services_enable_button">Ativar</string>
     <string name="common_google_play_services_enable_text">%1$s só funciona com o Google Play Services ativado.</string>
     <string name="common_google_play_services_enable_title">Ativar o Google Play Services</string>
@@ -221,6 +222,8 @@ Páginas visitadas não aparecerão no histórico."</string>
 	<string name="data_monitor_dialog_message">Parece que há algo consumindo seus dados móveis. Abra a página inicial para encerrar isso.</string>
 	<string name="data_traffic_continue">Continuar</string>
     <string name="data_traffic_download_cancel">Cancelar</string>
+	<string name="data_traffic_download_confirm">Usando a conexão da rede móvel</string>
+    <string name="data_traffic_download_ok">Ok</string>
     <string name="data_traffic_download_prompt">Este vídeo só poderá ser baixado usando o Wi-Fi</string>
     <string name="data_traffic_download_setting">Configurações</string>
 	<string name="data_traffic_goto">Liberar tráfego de dados</string>
@@ -393,6 +396,7 @@ Por favor, envie esse código ao técnico."</string>
     <string name="js_disable_confirm_message">Desativar o JavaScript pode fazer alguns sites serem exibidos incorretamente.</string>
     <string name="js_disable_confirm_title">Desativar JavaScript?</string>
     <string name="keep_queued_download">Manter</string>
+	<string name="load_error_tip">Carregando o erro, tente novamente</string>
     <string name="loading_tips">Puxe para baixo para atualizar</string>
     <string name="local_bookmarks">Mi</string>
     <string name="login_failed_toast">Não foi possível fazer o login, atualize e tente novamente</string>

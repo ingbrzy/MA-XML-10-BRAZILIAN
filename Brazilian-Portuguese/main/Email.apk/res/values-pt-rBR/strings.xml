@@ -438,8 +438,10 @@ Alterá-los agora?"</string>
     <string name="file_save_term">Termos para salvamento</string>
     <string name="filtered_tag">" [%1$s]%2$s"</string>
     <string name="first_quick_default_reply">Toque no botão para enviar \"%s\" a todas as pessoas na conversa</string>
+	<string name="folder_empty_to_fresh">"E-mail não sincronizado. Puxe para baixo para sincronizar."</string>
     <string name="folder_list_display_all">Mostrar todas as pastas</string>
     <string name="folder_list_display_only_import">Mostrar som. pastas importantes</string>
+	<string name="folder_no_mails">Sem e-mails nesta pasta</string>
     <string name="folder_picker_title">Escolher pastas</string>
     <string name="folder_removed">Mensagem removida da pasta %1$s</string>
     <string name="folder_shortcut_widget_label">Pasta de e-mail</string>
@@ -1035,6 +1037,7 @@ Toque em "<b>Sincronizar Agora</b> para sincronizar os e-mails uma vez, ou <b>Al
     <string name="widget_large_unread_count">%d+</string>
     <string name="widget_other_views">Outros</string>
     <string name="wipe_account_fail_description">Permitir</string>
+	<string name="wipe_account_fail_description_remind">Devido à permissão de dados, poderão haver dados residuais no calendário e contatos após a exclusão da conta. Por favor, exclua manualmente.</string>
     <string name="wipe_account_fail_title">Não foi possível excluir informações pessoais</string>
     <string name="wrong_password">A senha inserida está incorreta</string>
     <string name="yes">Sim</string>

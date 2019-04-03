@@ -74,6 +74,8 @@
     <string name="HIPS_Perm_service_foreground_Desc">serviços em primeiro plano</string>
     <string name="HIPS_Perm_show_when_locked">Mostrar na Tela de bloqueio</string>
     <string name="HIPS_Perm_show_when_locked_Desc">ser mostrado na Tela de bloqueio</string>
+	<string name="HIPS_Perm_UDevice_ID">Compartilhar informações do dispositivo com os desenvolvedores de jogos para eles aprimorarem sua experiência. Concorda?</string>
+    <string name="HIPS_Perm_UDevice_ID_DESC">compartilhar informações do dispositivo com os desenvolvedores de jogos para eles aprimorarem sua experiência. Concorda?</string>
     <string name="HIPS_Perm_use_sip">Serviços de vídeo</string>
     <string name="HIPS_Perm_use_sip_Desc">usar o SIP para transmissão de vídeo</string>
     <string name="HIPS_SecurityPrompt_Caption">Alerta de segurança</string>

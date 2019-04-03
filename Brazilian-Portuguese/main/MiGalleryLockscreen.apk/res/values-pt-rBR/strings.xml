@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="ad_feed_badge">Anúncios</string>
+  <string name="about_download_fail">"Não foi possível baixar"</string>
+  <string name="about_downloading">Baixando %s</string>
+  <string name="about_item_function">Novos recursos</string>
+  <string name="about_net_error">Verifique as conexões de rede e tente novamente.</string>
+  <string name="about_newest">O carrossel de papel de parede está atualziado.</string>
+  <string name="ad_feed_badge">Anúncios</string>
   <string name="ad_pop_btn_hidden">Ocultar</string>
   <string name="ad_pop_des">Transferir:</string>
   <string name="add_cw_fail_tip">Não foi possível adicionar papel de parede</string>
@@ -26,6 +31,7 @@
   <string name="cancel_international">Cancelar</string>
   <string name="cancel_lockscreen">Cancelar</string>
   <string name="cancel_network">Sair</string>
+  <string name="carousel_declaration_cta">"O carrossel de papel de parede precisa de conexão com a Internet para funcionar adequadamente. Para ter acesso ao conteúdo online, você precisa concordar com a nossa &lt;a href='%s'&gt;Política de Privacidade&lt;/a&gt;. Concorda?"</string>
   <string name="carousel_declaration_des">Veja lugares lindos e obtenha surpresas excitantes com os papéis de parede aleatórios</string>
   <string name="carousel_declaration_des2">Adicione as suas imagens aos papéis de parede aleatórios</string>
   <string name="carousel_declaration_des_new">Receba recomendações personalizadas e escolha imagens novas todos os dias</string>
@@ -39,6 +45,10 @@
   <string name="choose_to_signup">Não. Vou criar um</string>
   <string name="clear_history">Limpar histórico de pesquisa</string>
   <string name="clear_search_edittext">Limpar</string>
+  <string name="comment_pop_cancel">Agora não</string>
+  <string name="comment_pop_content">Faça um review se você gostou do nosso carrossel de papel de parede!</string>
+  <string name="comment_pop_ok">Avaliar</string>
+  <string name="comment_pop_title">Avaliar carrossel de papel de parede</string>
   <string name="create_shortcut">Criar atalho na tela inicial</string>
   <string name="confirm">Ativar</string>
   <string name="current_connection_invalid">Aguarde até que o dispositivo se conecte à rede</string>
@@ -136,6 +146,15 @@
   <string name="lks_left_net_deny">A conexão com a rede está restringida</string>
   <string name="lks_left_net_error">Não foi possível conectar à rede</string>
   <string name="lks_logo_desc2">Papéis de parede novos diariamente</string>
+  <string name="llks_pop_btm_des">Comece seu dia com um sorriso</string>
+  <string name="llks_pop_btm_des_backup">Inicie seu dia em grande estilo</string>
+  <string name="llks_pop_btm_title">Bom dia</string>
+  <string name="llks_pop_btm_title_backup">Saudação matinal</string>
+  <string name="llks_pop_i_know">Entendido</string>
+  <string name="llks_pop_top_des">Receba novas imagens regularmente</string>
+  <string name="llks_pop_top_des_backup">Entregue à sua tela diariamente</string>
+  <string name="llks_pop_top_title">Novos papéis de parede</string>
+  <string name="llks_pop_top_title_backup">Novas imagens</string>
   <string name="lks_subscription_toast">Papel de parede alterado</string>
   <string name="load_hdpicture_complete">Imagem original carregada</string>
   <string name="loading">Aguarde…</string>
@@ -155,6 +174,7 @@
   <string name="mode_title">Recomendações</string>
   <string name="more_article">Mais artigos</string>
   <string name="need_open_gallery">Ativar papéis de parede aleatórios</string>
+  <string name="new_feature_title">"O que há de novo"</string>
   <string name="nick_name">Nome</string>
   <string name="no_long_show">Não mostrar novamente</string>
   <string name="ok_enable_network_prov">Concordar</string>
@@ -186,6 +206,8 @@
   <string name="search_menu_title">Pesquisar</string>
   <string name="search_str">Popular</string>
   <string name="select_package">Selecionar versão</string>
+  <string name="setting_about_item_des">Versão</string>
+  <string name="setting_about_item_title">Sobre o carrossel de papel de parede</string>
   <string name="setting_des">Pode definir os seus diapositivos em Configurações &gt; Bloqueio de tela e senhas &gt; Papéis de parede aleatórios</string>
   <string name="setting_head">Configurações</string>
   <string name="setting_ok">Configuraççoes</string>
@@ -212,6 +234,7 @@
   <string name="sst_custom_wallpaper_desc">Selecionar imagens da galeria e recomendações</string>
   <string name="sst_custom_wallpaper_title">Diapositivos personalizados</string>
   <string name="sst_custom_wallpaper_title2">Diapositivos</string>
+  <string name="sst_disable_unopen">Recurso beta</string>
   <string name="sst_effect_next_wallpaper">Defina um novo papel de parede para aplicar as mudanças</string>
   <string name="sst_favor_desc">Ver favoritos</string>
   <string name="sst_favor_title">Favoritos</string>
@@ -224,6 +247,7 @@
   <string name="sst_mode_selection">Modo</string>
   <string name="sst_more_subscription">Mais subscrições</string>
   <string name="sst_morning_greeting_desc">Obtenha uma imagem nova todas as manhãs</string>
+   <string name="sst_morning_greeting_disable_toast">Este recurso estará disponível em breve</string>
   <string name="sst_morning_greeting_title">Saudações matinais</string>
   <string name="sst_new_feature">Novas funcionalidades</string>
   <string name="sst_no_favor_wallpaper_hint">Sem papéis de parede favoritos</string>
@@ -261,9 +285,11 @@
   <string name="theme_apply_failured">Não é possível aplicar. Tente novamente mais tarde</string>
   <string name="theme_apply_success">Aplicado com sucesso</string>
   <string name="theme_applying">Aplicando…</string>
-  <string name="theme_des">Os papéis de parede aleatórios apenas suportam o tema predefinido da MIUI</string>
-  <string name="theme_ok">Definir tema predefinido</string>
-  <string name="theme_title">Não está utilizando o tema predefinido</string>
+  <string name="theme_des">Aplicar o tema padrão e ativar o carrossel de papel de parede novamente.</string>
+  <string name="theme_des_lock_style">Aplicar a tela de bloqueio padrão e ativar o carrossel de papel de parede novamente.</string>
+  <string name="theme_ok">Configurações</string>
+  <string name="theme_title">Switch to default theme</string>
+  <string name="theme_title_lock_style">Switch to default Lock screen</string>
   <string name="ticket_hint">Código de verificação</string>
   <string name="ticket_invalid">O código introduzido não é válido</string>
   <string name="ticket_sign_in">Iniciar sessão via SMS</string>
