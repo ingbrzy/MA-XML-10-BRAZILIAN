@@ -190,7 +190,7 @@
     <string name="event_reminder_value_zero">Antes do evento</string>
     <string name="event_title">Título</string>
     <string name="event_view">Ver evento</string>
-    <string name="every_weekday">Dias úteis (Seg–Sex)</string>
+    <string name="every_weekday">De segunda à sexta</string>
     <string name="fb_birthday_failure">Não foi possível importar os aniversários do Facebook. Tente novamente.</string>
     <string name="fb_birthday_success">Aniversários de amigos do Facebook importados com sucesso</string>
     <string name="fb_calendar_account_name">Agenda Mi Local</string>

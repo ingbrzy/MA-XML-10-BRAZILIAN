@@ -12,4 +12,104 @@
         <item>Faça o backup de configurações importantes, incluindo tela e Wi-Fi</item>
         <item>Bloqueie seu dispositivo remotamente caso seja perdido</item>
     </string-array>
+	    <string-array name="settings_search_contacts">
+        <item>Sincronizar contatos com a Mi Cloud</item>
+        <item>Ativar e definir a sincronização</item>
+        <item>Contatos;Histórico de chamadas;Núvem;Sincronizar;Serviços na núvem;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_sms">
+        <item>Sincronizar mensagens com a Mi Cloud</item>
+        <item>Ativar e definir a sincronização</item>
+        <item>Mensagens;SMS;MMS;Núvem;Sincronizar;Serviços na núvem;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_gallery">
+        <item>Sincronizar a galeria com a Mi Cloud</item>
+        <item>Ativar e definir a sincronização</item>
+        <item>Galeria;Fotos;Núvem;Sincronizar;Serviços na núvem;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_dial">
+        <item>Sincronizar o histórico de chamadas com a Mi Cloud</item>
+        <item>Ativar e definir a sincronização</item>
+        <item>Histórico de chamadas;Núvem;Sincronizar;Serviços na núvem;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_recorder">
+        <item>Sincronizar gravações com a Mi Cloud</item>
+        <item>Ativar e definir a sincronização</item>
+        <item>Gravador;Núvem;Sincronizar;Serviços na núvem;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_music">
+        <item>Sincronizar músicas com a Mi Cloud</item>
+        <item>Ativar sincronização</item>
+        <item>Músicas;Núvem;Sincronizar;Serviços na núvem;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_notes">
+        <item>Sincronizar notas com a Mi Cloud</item>
+        <item>Ativar sincronização</item>
+        <item>Notas;Núvem;Sincronizar;Serviços na núvem;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_wlan">
+        <item>Sincronizar configurações de Wi-Fi com a Mi Cloud</item>
+        <item>Ativar sincronização</item>
+        <item>WLAN;wifi;WLAN;Núvem;Sincronizar;Serviços na núvem;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_calendar">
+        <item>Sincronizar calendário com a Mi Cloud</item>
+        <item>Ativar sincronização</item>
+        <item>Calendário;Núvem;Sincronizar;Serviços na núvem;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_browser">
+        <item>Sincronizar navegador com a Mi Cloud</item>
+        <item>Ativar sincronização</item>
+        <item>Navegador;Núvem;Sincronizar;Serviços na núvem;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_security">
+        <item>Sincronizar segurança de Wi-Fi com a Mi Cloud</item>
+        <item>Ativar sincronização</item>
+        <item>Segurança;Núvem;Sincronizar;Serviços na núvem;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_personal_assistant">
+        <item>Sincronizar o cofre de aplicativos com a Mi Cloud</item>
+        <item>Ativar sincronização</item>
+        <item>Cofre de aplicativos;Cartões;Núvem;Sincronizar;Serviços na núvem;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage">
+        <item>Mi Cloud. Todos os serviços Mi em um só lugar.</item>
+        <item>Acesse suas fotos, contatos, mensagens, e dispositivos de qualquer lugar</item>
+        <item>Armazenamento insuficiente;Cadastro;Armazenamento;Espaço de armazenamento;Núvem;Sincronizar;Serviços na núvem;Mi Cloud;Lixeira;Excluir itens;Segurança</item>
+    </string-array>
+    <string-array name="settings_search_find_phone">
+        <item>Encontrar dispositivo</item>
+        <item>"Apagar todos os dados e bloquear o dispositivo se ele for perdido"</item>
+        <item>Encontrar dispositivo;Perdido;Núvem;Sincronizar;Serviços na núvem;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_find_pad">
+        <item>Encontrar dispositivo</item>
+        <item>"Apagar todos os dados e bloquear o dispositivo se ele for perdido"</item>
+        <item>Encontrar dispositivo;Perdido;Núvem;Sincronizar;Serviços na núvem;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin">
+        <item>Excluir itens da Mi Cloud</item>
+        <item>Restaure contatos, fotos, mensagens e mais</item>
+        <item>Lixeira;Itens excluídos;Restaurar;Serviços na núvem;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_subscribe_vip">
+        <item>Cadastro na Mi Cloud</item>
+        <item>Atualize seu cadastro, tenha mais espaço, e proteja seus dados</item>
+        <item>Armazenamento insuficiente;Cadastro;Armazenamento;Espaço de armazenamento;Núvem;Sincronizar;Serviços na núvem;Mi Cloud;Mega;Ultra;VIP;Back up;Backup;Restaurar;Lixeira;Itens excluídos</item>
+    </string-array>
+    <string-array name="settings_search_backup_setting">
+        <item>Fazer backup da tela inicial na Mi Cloud</item>
+        <item>Faça backup do layout da tela inicial, lista dos aplicativos instalados e configurações do sistema</item>
+        <item>Núvem;Back up;Backup;Serviços na núvem;Mi Cloud;Tela inicial;Layout;Aplicativos;Configurações;Frequência de backup;Gerenciar backups;Restaurar</item>
+    </string-array>
+    <string-array name="settings_search_backup_manage">
+        <item>Backups</item>
+        <item>Itens do backup</item>
+        <item>Núvem;Back up;Backup;Serviços na núvem;Mi Cloud;tela inicial;Layout;Aplicativos;Gerenciar backups;Restaurar</item>
+    </string-array>
+    <string-array name="settings_search_restore_device">
+        <item>Restaurar itens da Mi Cloud</item>
+        <item>Baixar o backup dos itens no seu dispositivo</item>
+        <item>Núvem;Back up;Backup;Restaurar;Serviços na núvem;Mi Cloud</item>
+    </string-array>
 </resources>
