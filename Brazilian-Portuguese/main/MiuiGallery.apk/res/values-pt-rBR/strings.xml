@@ -1101,7 +1101,7 @@ para personalizar a Galeria"</string>
     <string name="show_hidden_album_title">Mostrar álbuns invisíveis</string>
     <string name="show_in_other_albums_disable_toast_long_press_menu">Movido com sucesso, vá aos Outros álbuns para ver</string>
     <string name="show_in_other_albums_enable_toast_long_press_menu">Movido com sucesso, vá aos Álbuns para ver</string>
-	<string name="similar_keep_clear">Manter as melhores fotos<string>
+    <string name="similar_keep_clear">Manter as melhores fotos</string>
     <string name="slideshow_interval_dialog_title">Inserir intervalo</string>
     <string name="slideshow_interval_invalid">O intervalo deve estar entre 3 e 3600 segundos</string>
     <string name="slideshow_interval_title">Mostrar cada slide por</string>
