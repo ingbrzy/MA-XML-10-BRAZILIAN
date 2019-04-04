@@ -63,15 +63,6 @@
         <item>Bons tempos</item>
         <item>Em unissom</item>
     </string-array>
-    <string-array name="relation_with_me">
-        <item>Eu</item>
-        <item>Criança</item>
-        <item>Família</item>
-        <item>Colegas</item>
-        <item>Colegas de classe</item>
-        <item>Amigos</item>
-        <item>Desagrupado</item>
-    </string-array>
 	    <string-array name="sports_title">
         <item>Em movimento</item>
         <item>Cheio de energia</item>
