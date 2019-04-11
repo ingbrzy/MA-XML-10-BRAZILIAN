@@ -205,6 +205,8 @@
   <string name="found_router">Router ligado</string>
   <string name="found_usb">Armazenamento USB ligado</string>
   <string name="ftp_account_req_notice">4-16 caracteres, letras e números, maiúsculas e minúsculas</string>
+  <string name="ftp_anonymous_warning_msg">Recursos de anonimização podem representar riscos de segurança. Usar esses recursos mesmo assim?</string>
+  <string name="ftp_anonymous_warning_title">Atenção</string>
   <string name="ftp_anonymous_login">Iniciar sessão anônima</string>
   <string name="ftp_invalid_username_or_password">Usuário ou palavra-chave inválido</string>
   <string name="ftp_open_port_error">"Não foi possível abrir a porta. Verifique a conexão de rede ou reinicie o número da porta"</string>
@@ -227,6 +229,7 @@
   <string name="group_title_extra_new">Novo</string>
   <string name="handsome_boy">Masculino</string>
   <string name="has_installed">Instalado</string>
+  <string name="home_action_up">Voltar</string>
   <string name="homepage_tab_category">Categorias</string>
   <string name="homepage_tab_file_view_phone">Dispositivo</string>
   <string name="homepage_tab_recent">Recentes</string>

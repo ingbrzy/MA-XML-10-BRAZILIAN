@@ -63,7 +63,6 @@
     <string name="pref_camera_picturesize_title_simple_mode">Quadro da câmera</string>
     <string name="pref_camera_picturesize_entry_4_3">4:3</string>
     <string name="pref_camera_picturesize_entry_16_9">16:9</string>
-    <string name="pref_camera_picturesize_entry_18_9">18:9</string>
     <string name="pref_camera_picture_format_entry_raw">Raw</string>
     <string name="pref_camera_jpegquality_title">Qualidade da imagem</string>
     <string name="pref_camera_jpegquality_entry_high">Alta</string>
@@ -326,7 +325,7 @@ e então criar uma foto com o mínimo de ruído possível."</string>
     <string name="hint_fast_motion">O vídeo que você gravou será reproduzido mais rápido.</string>
     <string name="hint_slow_motion">O vídeo que você gravou será reproduzido mais devagar.</string>
     <string name="hunt_dual_water_mark">"A marca d'água da câmera dupla será adicionada automaticamente."</string>
-    <string name="hint_ae_af_lock">Foco automático / Exposição automática foram bloqueados</string>
+    <string name="hint_ae_af_lock">Foco automático e exposição automática foram bloqueados</string>
     <string name="module_name_fun">Vídeo curto</string>
     <string name="module_name_new_slow_motion">Câmera lenta</string>
     <string name="module_name_video">Vídeo</string>
@@ -582,9 +581,27 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="pref_video_captrue_ability_title">Capturar imagens durante gravação</string>
     <string name="face_analyze_info">Idade: %2$s (%1$s)</string>
     <string name="pref_camera_picturesize_entry_standard">Padrão 4:3</string>
-    <string name="pref_camera_picturesize_entry_fullscreen">Tela cheia 16:9</string>
+    <string name="pref_camera_picturesize_entry_fullscreen">Tela cheia</string>
     <string name="portrait_bokeh_text">Modo Retrato</string>
     <string name="portrait_bokeh_first_tips">"Use o Modo Retrato para desfocar
 o fundo das suas fotos"</string>
     <string name="portrait_bokeh_tips">Coloque o objeto em até 1.5m</string>
+	<string name="beauty_body_whole">Corpo</string>
+    <string name="dialog_google_lens_option_0">Google Lens (Recomendado)</string>
+    <string name="hint_ae_af_lock_extra">Foco automático e exposição automática foram bloqueados. Altere para o Google Lens nas configurações da Câmera</string>
+    <string name="hint_ae_lock">Exposição automática está bloqueada</string>
+    <string name="pref_camera_long_press_viewfinder_google_lens">Google Lens</string>
+    <string name="pref_camera_long_press_viewfinder_lock_ae_af">Bloquear AE/AF</string>
+    <string name="pref_camera_long_press_viewfinder_title">Configurações do visor</string>
+    <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">Bloquear AE/AF</string>
+    <string name="pref_google_lens_default">verdadeiro</string>
+    <string name="pref_google_lens_summary">Aponte sua câmera para a informação de contato, URLs, e códigos QR para ver opções disponíveis</string>
+    <string name="pref_google_lens_title">Sugestões</string>
+    <string name="wideselfie_press_shoot_key_to_start">Toque no botão de disparo</string>
+    <string name="wideselfie_result_image_lossless">"Não foi possível salvar o panorama"</string>
+    <string name="wideselfie_rotate_slowly">Rotacione lentamente o telefone para os</string>
+    <string name="wideselfie_rotate_to_back">Incline o telefone para trás</string>
+    <string name="wideselfie_rotate_to_front">Incline o telefone para frente</string>
+    <string name="wideselfie_rotate_to_left_slowly">Rotacione lentamente o telefone para a esquerda</string>
+    <string name="wideselfie_rotate_to_right_slowly">Rotacione lentamente o telefone para a direita</string>
 </resources>
