@@ -40,4 +40,12 @@
         <item quantity="other"> | %1$s pessoas</item>
         <item quantity="one"> | %1$s pessoa</item>
     </plurals>
+	    <plurals name="feedback_result_interval_time_too_short_minute">
+        <item quantity="other">Você pode enviar um comentário novamente em %1$s minutos</item>
+        <item quantity="one">Você pode enviar um comentário novamente em %1$s minuto</item>
+    </plurals>
+    <plurals name="feedback_result_interval_time_too_short_second">
+        <item quantity="other">Você pode enviar um comentário novamente em %1$s segundos</item>
+        <item quantity="one">Você pode enviar um comentário novamente em %1$s segundo</item>
+    </plurals>
 </resources>

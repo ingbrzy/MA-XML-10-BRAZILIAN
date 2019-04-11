@@ -104,7 +104,7 @@ Segure no telefone como se estivesse a atender uma chamada, fale para o microfon
   <string name="cit_fail">Erro</string>
   <string name="cit_fm_audio_path">Definir caminho de áudio</string>
   <string name="cit_fm_audio_path_headset">Auriculares</string>
-  <string name="cit_fm_audio_path_speaker">Altifalante</string>
+  <string name="cit_fm_audio_path_speaker">auto-falante</string>
   <string name="cit_fm_check_summary">Isto vai testar a função do rádio FM do dispositivo</string>
   <string name="cit_fm_check_title">Rádio FM</string>
   <string name="cit_fm_close">Fechar FM</string>
@@ -145,7 +145,7 @@ Toque na tela para iniciar o GPS…"</string>
   <string name="cit_headset_button_rewind">Rebobinar</string>
   <string name="cit_headset_button_stop">Parar</string>
   <string name="cit_headset_button_unknown">Desconhecido</string>
-  <string name="cit_headset_loopback_check_summary">Enquanto estiver a utilizar os auriculares, ligue-os ao dispositivo. Fale no microfone dos auriculares (muitas vezes localizado no cabo). Deve ouvir a sua voz no altifalante dos auriculares</string>
+  <string name="cit_headset_loopback_check_summary">Enquanto estiver a utilizar os auriculares, ligue-os ao dispositivo. Fale no microfone dos auriculares (muitas vezes localizado no cabo). Deve ouvir a sua voz no auto-falante dos auriculares</string>
   <string name="cit_headset_loopback_check_title">Teste de funcionamento do microfone dos auriculares</string>
   <string name="cit_headset_plug_detect_summary">Quando os auriculares estiverem ligados, o texto \"Auriculares ligados\" deve aparecer em baixo</string>
   <string name="cit_headset_plug_detect_title">Detecção de auricular (ligado)</string>
@@ -190,7 +190,7 @@ Toque na tela para iniciar o GPS…"</string>
   <string name="cit_pass">Passou</string>
   <string name="cit_play_sd_mp3_hifi_summary">"Confirme que existe um arquivo com o nome  \"music.mp3\" no cartão SD. Quando iniciar este teste o arquivo \"music.mp3\" vai ser reproduzido no dispositivo HIFI associado"</string>
   <string name="cit_play_sd_mp3_hifi_title">Reproduzir MP3 (Hi-Fi) do cartão SD</string>
-  <string name="cit_play_sd_mp3_summary">"Confirme que existe um arquivo com o nome  \"music.mp3\" no cartão SD. Quando iniciar este teste o arquivo \"music.mp3\" vai ser reproduzido nos altifalantes externos do dispositivo"</string>
+  <string name="cit_play_sd_mp3_summary">"Confirme que existe um arquivo com o nome  \"music.mp3\" no cartão SD. Quando iniciar este teste o arquivo \"music.mp3\" vai ser reproduzido nos auto-falantes externos do dispositivo"</string>
   <string name="cit_play_sd_mp3_title">Reproduzir MP3 do cartão SD</string>
   <string name="cit_playing_sd_mp3">A reproduzir music.mp3…</string>
   <string name="cit_pointer_location_title">Sensor de toque</string>
@@ -198,7 +198,7 @@ Toque na tela para iniciar o GPS…"</string>
   <string name="cit_power_check_title">Indicador da bateria</string>
   <string name="cit_pressure_sensor_check_summary">O valor para a pressão deve aparecer em baixo</string>
   <string name="cit_pressure_sensor_check_title">Sensor de pressão</string>
-  <string name="cit_proximity_sensor_check_summary">"Pressione o sensor de proximidade com a mão (o sensor está localizado no topo do dispositivo, perto do altifalante). Depois retire a mão. O valor deve aumentar de 0.0 quando afastar a mão do dispositivo.
+  <string name="cit_proximity_sensor_check_summary">"Pressione o sensor de proximidade com a mão (o sensor está localizado no topo do dispositivo, perto do auto-falante). Depois retire a mão. O valor deve aumentar de 0.0 quando afastar a mão do dispositivo.
 Durante a calibração, verifique que não há nada entre o sensor e a sua mão (p.e. película protectora da tela ou luvas)"</string>
   <string name="cit_proximity_sensor_check_title">Sensor de proximidade</string>
   <string name="cit_rear_dual_camera_check_title">Câmara traseira dupla</string>
@@ -344,12 +344,12 @@ Depois de inserir o arquivo \"music.mp3\" no cartão SD, toque na tela para o re
   <string name="cit_wifi_fail_to_scan">Não foi possível pesquisar redes</string>
   <string name="cit_wifi_state_refresh">Atualizar</string>
   <string name="cit_x5_audio_lb_frontmic_to_speaker_title">Teste de funcionamento do microfone frontal</string>
-  <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"Teste de funcionamento do microfone frontal para o altifalante.
+  <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"Teste de funcionamento do microfone frontal para o auto-falante.
 
-Vire o telefone, fale para o microfone frontal. Deve ouvir a sua voz no altifalante"</string>
-  <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"Teste de funcionamento do microfone superior para o altifalante.
+Vire o telefone, fale para o microfone frontal. Deve ouvir a sua voz no auto-falante"</string>
+  <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"Teste de funcionamento do microfone superior para o auto-falante.
 
-Vire o telefone, fale para microfone superior. Deve ouvir a sua voz no altifalante"</string>
+Vire o telefone, fale para microfone superior. Deve ouvir a sua voz no auto-falante"</string>
   <string name="cit_x5_audio_lb_top_to_speaker_title">Teste de funcionamento do microfone superior</string>
   <string name="cit_yellow_torch_on">Ligar luz de LED amarela</string>
   <string name="error_app_internal">Erro na aplicação</string>
@@ -370,4 +370,8 @@ N: sem teste"</string>
   <string name="tp_color">Cor TP:</string>
   <string name="tp_version">Versão TP:</string>
   <string name="waiting">A aguardar 4s</string>
+  <string name="charge_fast_insert_pls">Por favor, insira a carga rápida<string>
+  <string name="charge_positive_pls">Por favor, insira a carga positiva</string>
+  <string name="charge_reverse_pls">Por favor, insira a carga reversa</string>
+  <string name="pls_plug_otg_in_native">Por favor, remova o dispositivo OTG</string>
 </resources>
