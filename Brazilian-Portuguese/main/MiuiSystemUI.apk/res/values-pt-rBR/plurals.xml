@@ -29,12 +29,12 @@
         <item quantity="one">Código PUK incorreto, %d tentativa restante</item>
     </plurals>
     <plurals name="input_password_after_timeout_msg">
-        <item quantity="other">Você não usou sua senha por pelo menos %d horas. Insira sua senha.</item>
-        <item quantity="one">Você não usou sua senha por pelo menos %d hora. Insira sua senha.</item>
+        <item quantity="other">Entre com sua senha pelo menos uma vez a cada %d horas para sempre lembrar dela.</item>
+        <item quantity="one">Entre com sua senha pelo menos uma vez a cada %d hora para sempre lembrar dela.</item>
     </plurals>
     <plurals name="input_pattern_after_timeout_msg">
-        <item quantity="other">Você não usou seu padrão de desbloqueio por no mínimo %d horas. Desenhe seu padrão.</item>
-        <item quantity="one">Você não usou seu padrão de desbloqueio por no mínimo %d hora. Desenhe seu padrão.</item>
+	    <item quantity="other">Entre com sua senha pelo menos uma vez a cada %d horas para sempre lembrar dela.</item>
+        <item quantity="one">Entre com sua senha pelo menos uma vez a cada %d hora para sempre lembrar dela.</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_hour_time_text">
         <item quantity="other">Cerca de %d horas restantes</item>

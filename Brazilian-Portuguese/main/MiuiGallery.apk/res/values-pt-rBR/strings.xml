@@ -821,6 +821,7 @@ para personalizar a Galeria"</string>
     <string name="photo_editor_beautify">Beautiful</string>
     <string name="photo_editor_beautify_auto">Automático</string>
     <string name="photo_editor_beauty_compare">Original</string>
+	<string name="photo_editor_compare_tip">Pressione e segure para ver a imagem original</string>
     <string name="photo_editor_crop_and_rotate">Cortar</string>
     <string name="photo_editor_crop_auto">Automático</string>
     <string name="photo_editor_crop_auto_tips">Cortada automaticamente</string>
@@ -857,6 +858,7 @@ para personalizar a Galeria"</string>
     <string name="photo_editor_navigator_module_download_wait_wlan">Aguardar Wi-Fi</string>
     <string name="photo_editor_navigator_module_downloading">Fazendo o download de %s…</string>
     <string name="photo_editor_navigator_need_download">Conecte-se à internet para fazer o download de %s.</string>
+	<string name="photo_editor_remove_watermark">Remover marca d'água</string>
     <string name="photo_editor_remover">Apagar</string>
     <string name="photo_editor_rotate">Girar</string>
     <string name="photo_editor_saving">Salvando…</string>

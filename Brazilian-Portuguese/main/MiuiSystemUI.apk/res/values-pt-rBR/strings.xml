@@ -744,6 +744,7 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
     <string name="guest_wipe_session_message">Deseja continuar sua sessão?</string>
     <string name="guest_wipe_session_title">Bem-vindo novamente, convidado!</string>
     <string name="guest_wipe_session_wipe">Começar do zero</string>
+	<string name="gxzw_area">Leitor de impressão digital</string>
     <string name="gxzw_press_harder">Pressione um pouco mais forte</string>
     <string name="gxzw_try_again">Tente novamente</string>
     <string name="gxzw_try_more_again">Tente novamente</string>
