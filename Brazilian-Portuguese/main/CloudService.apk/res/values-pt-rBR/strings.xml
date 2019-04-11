@@ -385,4 +385,8 @@ Faça o login em sua Conta Mi para reativar a Mi Cloud."</string>
     <string name="find_device_service_title">Encontrar dispositivo</string>
     <string name="micloud_wipe_data_confirm_title">Remover os itens sincronizados com a Mi Cloud em seu telefone após você sair?</string>
     <string name="wipe_data_dialog_msg">Alguns itens %s não estão sincronizados. Eles serão salvos no seu dispositivo e não serão excluídos.</string>
+	<string name="enable_sync_setting_title">Configurando serviços na núvem…</string>
+	<string name="provision_sync_items_loading">Preparando para sincronizar itens</string>
+	<string name="user_detail_agreement">Acordo de uso</string>
+	<string name="user_detail_privacy_policy">Política de privacidade</string>
 </resources>

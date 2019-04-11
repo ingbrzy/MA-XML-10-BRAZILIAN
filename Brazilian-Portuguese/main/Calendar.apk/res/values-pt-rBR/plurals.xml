@@ -108,4 +108,8 @@
         <item quantity="other">%d dias úteis</item>
         <item quantity="one">%d dia útil</item>
     </plurals>
+	    <plurals name="reminder_later_toast">
+        <item quantity="other">Próximo lembrete em %1$d minutos</item>
+        <item quantity="one">Próximo lembrete em %1$d minuto</item>
+    </plurals>
 </resources>

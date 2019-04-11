@@ -112,4 +112,8 @@
         <item>Baixar o backup dos itens no seu dispositivo</item>
         <item>Núvem;Back up;Backup;Restaurar;Serviços na núvem;Mi Cloud</item>
     </string-array>
+	<string-array name="user_detail_fixed_items">
+        <item>Ver itens sincronizados</item>
+        <item>Detalhes do armazenamento</item>
+    </string-array>
 </resources>

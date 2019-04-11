@@ -349,4 +349,10 @@
         <item>Transparente</item>
         <item>Fundo branco</item>
     </string-array>
+	    <string-array name="default_reminder_later_time_labels">
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+        <item>30 minutos</item>
+    </string-array>
 </resources>

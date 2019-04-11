@@ -64,4 +64,8 @@
         <item quantity="other">Retomar sincronização após %d minutos</item>
         <item quantity="one">Retomar sincronização após %d minuto</item>
     </plurals>
+	<plurals name="provision_sync_items_status_title">
+        <item quantity="other">%s serviços serão sincronizados com a Mi Cloud</item>
+        <item quantity="one">%s serviço será sincronizado com a Mi Cloud</item>
+    </plurals>
 </resources>

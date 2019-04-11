@@ -45,7 +45,7 @@
     <string name="agenda_tomorrow">AMANHÃ, %1$s</string>
     <string name="agenda_view">Eventos</string>
     <string name="agenda_yesterday">ONTEM, %1$s</string>
-    <string name="alarm_label">Dispensar</string>
+    <string name="alarm_label">Entendido</string>
     <string name="alert_reminder_divider">|</string>
     <string name="alert_reminder_expired">Expirado</string>
     <string name="alert_title">Notificações da Agenda</string>
@@ -80,6 +80,7 @@
     <string name="can_not_modify_allday_event">Não é possível alterar evento de dia inteiro</string>
     <string name="can_not_modify_event">Não é possível alterar o evento</string>
     <string name="can_not_modify_repeating_acrossing_days_event">Não é possível alterar o evento recorrente</string>
+	<string name="cancel_reminder_later">Cancelar lembrete</string>
     <string name="card_detail_dialog_message">%1$s será atualizado diariamente. Inscreva-se para receber atualizações diárias.</string>
     <string name="card_detail_dialog_negative">Inscrever-se depois</string>
     <string name="card_detail_dialog_positive">Inscrever-se agora</string>
@@ -122,6 +123,7 @@
     <string name="date_jump_title">Ir para a data</string>
     <string name="date_today">" (hoje)"</string>
     <string name="day_view_new_event_hint">Novo evento</string>
+	<string name="default_reminder_later_time">Intervalo padrão para \"Lembrar depois\"</string>
     <string name="default_reminder_mode">Lembretes</string>
     <string name="delete_calendar">Cancelar inscrição</string>
     <string name="delete_recurring_event_title">Excluir %s?</string>
@@ -270,6 +272,7 @@
     <string name="new_event_description">Novo</string>
     <string name="new_event_dialog_label">Novo eveto</string>
     <string name="new_event_dialog_option">Novo evento</string>
+	<string name="next_alarm_time">Pórximo lembrete em %1$s</string>
     <string name="no_contact_birthday_hint">Nenhum aniversário para importar</string>
     <string name="no_events_hint">Nenhum evento</string>
     <string name="no_internet">Não foi possível conectar-se à internet</string>
@@ -279,6 +282,7 @@ Verifique suas configurações de rede e tente novamente."</string>
     <string name="no_storage">Não há espaço suficiente no armazenamento</string>
     <string name="no_title_label">(Sem título)</string>
     <string name="no_visiable_calendar_message">É preciso adicionar uma conta de agenda. Toque em \"Adicionar conta\" para continuar.</string>
+	<string name="no_visiable_calendar_message_only_for_xiaomi_account">É preciso adicionar uma conta de agenda. Toque em \"Adicionar conta\" para continuar</string>
     <string name="no_visiable_calendar_select_account">Adicionar conta</string>
     <string name="no_visiable_calendar_title">Adicionar conta</string>
     <string name="not_synced">não sincronizado</string>
@@ -327,6 +331,7 @@ Verifique suas configurações de rede e tente novamente."</string>
     <string name="pull_to_refresh_hint">Puxe para carregar eventos de %1$d</string>
     <string name="refresh">Atualizar</string>
     <string name="refreshing_hint">Aguarde…</string>
+	<string name="reminder_later">Lembrar depois</string>
     <string name="repeat_activity_label">Repetir</string>
     <string name="repeat_custom_activity_label">Personalizado</string>
     <string name="repeat_custom_prompt">a cada %1$s em %2$s</string>
@@ -379,6 +384,8 @@ Verifique suas configurações de rede e tente novamente."</string>
     <string name="setting_title_holiday_display">Mostrar feriados</string>
     <string name="share_image">Compartilhar</string>
     <string name="share_image_label">Compartilhar via</string>
+	<string name="share_not_install_wechat">Por favor, instale WeChat.</string>
+    <string name="share_not_install_weibo">Por favor, instale Weibo.</string>
     <string name="share_title">Compartilhar</string>
     <string name="show_day_view">Mostrar dia</string>
     <string name="start_date_calculate">Calcular</string>

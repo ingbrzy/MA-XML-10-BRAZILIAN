@@ -111,7 +111,7 @@
     <string name="confirm_cancel_restore_positive">Continuar</string>
     <string name="confirm_cancel_restore_negative">Cancelar</string>
     <string name="confirm_restore_title">Restaurar</string>
-    <string name="confirm_restore_summary">A Tela inicial vai reiniciar e seus aplicativos serão transferidos automaticamente quando você estiver conectado a uma rede Wi-Fi</string>
+    <string name="confirm_restore_summary">A Tela inicial vai reiniciar e seus aplicativos serão transferidos automaticamente</string>
     <string name="confirm_restore">Restaurar</string>
     <string name="cloud_backup_have_data">Backup encontrado na Mi Cloud</string>
     <string name="cloud_backup_select_recover">Escolher backup da Mi Cloud</string>
@@ -183,4 +183,30 @@
     <string name="btn_restore_abort">Cancelar</string>
     <string name="backup_stopped_title">O backup foi pausado</string>
     <string name="backup_stopped_msg">O backup atual substituirá o anterior. Toque para ver.</string>
+	<string name="btn_restore_continue">Restaurar mesmo assim</string>
+	<string name="btn_restore_wait">Esperar por Wi-Fi</string>
+	<string name="desktop_wait_network">Aguardando…</string>
+	<string name="doing_calc_backup_data_size">Calculando tamanho…</string>
+	<string name="msg_restore_start_with_metered_network">"Tela inicial vai reiniciar e seus aplicativos serão transferidos automaticamente. &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;%s de arquivos seirão baixados.&lt;/font&gt;&lt;/b&gt;"</string>
+    <string name="msg_restore_with_metered_network_hint">Se você prosseguir com a restauração, seus dados móveis serão usados para baixá-los.</string>
+    <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; de arquivos serão baixados."</string>
+	<string name="provision_background_restore_more_data">Restaurar mais itens em segundo plano</string>
+	<string name="provision_restore_data">Restaurando itens</string>
+	<string name="restore_app_order_finish">Concluído</string>
+    <string name="restore_app_order_loading">Aguarde…</string>
+    <string name="restore_app_order_retry">Tente novamente</string>
+    <string name="restore_app_order_retry_desc">"Não foi possível conectar-se à rede.
+Verifique sua conexão e tente novamente."</string>
+    <string name="restore_app_order_search_hint">Busque por itens para definir a prioridade</string>
+    <string name="restore_app_order_search_installed">Aplicativos neste dispositivo</string>
+    <string name="restore_app_order_search_normal">Aplicativos de prioridade normal</string>
+    <string name="restore_app_order_search_prior">Aplicativos de prioridade alta</string>
+    <string name="restore_app_order_title">Piorizar arquivos restaurados</string>
+	<string name="restore_detail_category_apps">Layout da tela inicial e aplicativos</string>
+    <string name="restore_detail_category_settings">Configurações</string>
+    <string name="restore_detail_more">Mais</string>
+    <string name="restore_detail_title">Selecione os aplicativos para serem restaurados</string>
+	<string name="restore_network_pause">%s (Toque para continuar)</string>
+    <string name="restore_network_unconnect">%s (Esperando por conexão)</string>
+	<string name="title_restore_with_current_network">Usando a conexão atual para baixar os arquivos</string>
 </resources>

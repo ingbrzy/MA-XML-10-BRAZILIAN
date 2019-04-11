@@ -34,6 +34,9 @@
     <string name="cancel">Cancelar</string>
     <string name="channel_name_alarm">Alarme</string>
     <string name="channel_name_timer">Timer</string>
+	<string name="clock_bg_button_setting_summary_common">Selecione a cor do plano de fundo para o aplicativo do Relógio</string>
+    <string name="clock_bg_button_setting_summary_follow_sys">Preto será usado toda vez que você alterar para o modo Escuro</string>
+    <string name="clock_bg_button_setting_title">Cor do plano de fundo</string>
     <string name="close_alarm">Desativar</string>
     <string name="common_settings">Configurações</string>
     <string name="confirm_abort">Descartar</string>
@@ -57,6 +60,11 @@
     <string name="dialog_message_for_contact_permission">Para disponibilizar os alarmes de aniversário, o Relógio precisa de acesso aos seus contatos. Aceitar?</string>
     <string name="dialog_message_negative">Não aceitar</string>
     <string name="dialog_message_not_remind">Não mostrar novamente</string>
+	<string name="dialog_privacy_content">Para obter informações sobre feriados públicos, ajustar alarmes, e receber serviços personalizados, o Relógio precisa de acesso à Internet. Antes de usar o Relógio, você precisa ler e concordar com nosso %1$s e %2$s. Concorda?</string>
+	<string name="dialog_privacy_content_global">Para receber serviços personalizados, o Relógio precisa de conexão à Internet. ntes de usar o Relógio, você precisa ler e concordar com nosso %1$s e %2$s. Concorda?</string>
+	<string name="dialog_privacy_content_news">Para receber serviços personalizados e notícias matinais no seu alarme, o Relógio precisa de acesso à Internet. Antes de usar o Relógio, você precisa ler e concordar com nosso %1$s e %2$s. Concorda?</string>
+	<string name="dialog_privacy_content_timer">Para baixar arquivos de áudio para sons ambientes e receber serviços personalizados, o Relógio precisa de acesso à Internet. Antes de usar o Relógio, você precisa ler e concordar com nosso %1$s e %2$s. Concorda?</string>
+	<string name="dialog_privacy_content_timer_data">"Para baixar arquivos de áudio para sons ambientes (≈20MB) e receber serviços personalizados, o Relógio precisa de acesso à Internet. Antes de usar o Relógio, você precisa ler e concordar com nosso %1$s e %2$s. Concorda?"</string>
     <string name="done">Concluído</string>
     <string name="dynamic_alarm_speech">Alarme inteligente</string>
     <string name="edit_alarm">Editar alarme</string>
@@ -74,6 +82,10 @@
     <string name="install_weather_app_loading">Aguarde…</string>
     <string name="invalid_time">Hora inválida: %3$s %1$d: %2$d</string>
     <string name="invalid_timer_length">A duração do timer é inválida</string>
+	<string name="holiday_update">Uma atualização para feriados públicos está disponível</string>
+    <string name="holiday_update_fail">"Não foi possível atualizar"</string>
+    <string name="holiday_update_loading">Atualizando…</string>
+    <string name="holiday_update_success">Todos os itens estão atualizados</string>
     <string name="keep_screen_on">Manter tela ligada</string>
     <string name="label">Definir nome</string>
     <string name="label_pref_summary">Nome</string>
@@ -88,6 +100,7 @@
     <string name="life_post_setting">Relatório matinal</string>
     <string name="life_post_setting_FBE_remind">Devido a restrições do sistema, as informações de clima nos relatórios matinais podem não ser exibidas corretamente depois que o dispositivo é reiniciado.</string>
     <string name="life_post_setting_close_title">Desativar relatórios matinais</string>
+	<string name="life_post_setting_open_desc">Desligar repetição de alarmes entre 04:00 e 10:00 para ouvir a previsão do tempo</string>
     <string name="life_post_setting_open_subtitle">Receber informações de clima quando você desativar alarmes entre 4:00 e 9:30</string>
     <string name="life_post_setting_open_title">Receber relatórios matinais</string>
     <string name="life_post_setting_wake_up_list_title">Histórico quando acordado</string>
@@ -114,11 +127,15 @@
     <string name="module_download_cancel">Não, obrigado</string>
     <string name="module_download_data_msg">O Relógio precisa de uma conexão com a internet para fazer o download de arquivos de áudio (20MB) para sons ambientes e alarmes inteligentes. Você está usando dados móveis agora. Permitir?</string>
     <string name="module_download_data_msg_golbal">O Relógio precisa fazer o download de arquivos de áudio (20MB) para sons ambientes e alarmes inteligentes. Você está usando dados móveis agora. Permitir?</string>
+	<string name="module_download_data_msg_replace">Arquivos de áudios para os alarmes inteligentes da MIUI estão disponíveis. Serão necessários ≈20MB para baixar os arquivos. Baixar agora?</string>
+	<string name="module_download_data_msg_timer">O Relógio precisa baixar arquivos de áudio para os sons ambientes. Serão necessários ≈20MB para baixar os arquivos. Baixar agora?</string>
     <string name="module_download_fail">Não foi possível fazer o download do áudio adicional</string>
     <string name="module_download_msg">O Relógio precisa se conectar à internet para fazer o download de arquivos de áudio para sons ambientes e alarmes inteligentes. Permitir?</string>
     <string name="module_download_msg_golbal">O Relógio precisa fazer o download de arquivos de áudio para sons ambientes e alarmes inteligentes. Permitir?</string>
+	<string name="module_download_msg_replace">Arquivos de áudios para os alarmes inteligentes da MIUI estão disponíveis. Baixar agora?</string>
+	<string name="module_download_msg_timer">O Relógio precisa baixar arquivos de áudio para os sons ambientes. Baixar agora?</string>
     <string name="module_download_no_network">Não foi possível conectar-se à rede. Verifique suas configurações de rede e tente novamente.</string>
-    <string name="module_download_ok">Permitir</string>
+    <string name="module_download_ok">Permitir</string>	
     <string name="module_download_success">Arquivos de áudio adicionais baixados com sucesso</string>
     <string name="module_download_title">Áudio adicional necessário</string>
     <string name="module_downloading">Fazendo o download de áudios adicionais…</string>
@@ -131,6 +148,7 @@
     <string name="other_category_title">Outros</string>
     <string name="pause">Pausar</string>
     <string name="percentage_sign">%</string>
+	<string name="personal_recommend">Recomendações de conteúdo personalizado</string>
     <string name="privacy_policy">Política de Privacidade</string>
     <string name="remind_ringtone">Toque</string>
     <string name="repeat_count">Vezes</string>
@@ -225,6 +243,7 @@
     <string name="turn_off_this_repeat_alarm">Desativar este alarme recorrente</string>
     <string name="upcoming_alarm">Próximo alarme às %s</string>
     <string name="upcoming_alarm_hint">Pode desativá-lo com antecedência</string>
+	<string name="user_agreement">Acordo de uso</string>
     <string name="vibrate_pref_summary">Vibrar quando alarme tocar</string>
     <string name="vibrate_when_ringing">Vibrar quando estiver tocando</string>
     <string name="volume_button_setting_summary">Definir ação dos botões de volume durante um alarme</string>
