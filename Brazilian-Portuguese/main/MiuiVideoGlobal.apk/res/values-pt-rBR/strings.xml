@@ -149,4 +149,26 @@
     <string name="vp_app_name">Reprodutor de vídeos</string>
     <string name="vp_device_list">Dispositivos</string>
     <string name="vp_device_list_seaching">&lt;Nenhum dispositivo para transmitir></string>
+	<string name="Subscribe">Cadastrar</string>
+	<string name="diy_channels_tips">Você pode personalizar a sua lista de canais agora.</string>
+    <string name="empty_channels">Gerenciar canais</string>
+    <string name="empty_subscribe">"Você ainda não se cadastrou em nada."</string>
+	<string name="hidden_channels">"Os seguintes canais não serão exibidos na tela inicial."</string>
+	<string name="init_channels">Restaurar padrão</string>
+    <string name="isSubscribed">Cadastrado</string>
+	<string name="my_favorite_channels">Meus canais</string>
+	<string name="ovp_navigation_subscribe">Cadastrar</string>
+    <string name="ovp_player_plugin_dlg_neg_btn">Fechar</string>
+    <string name="ovp_player_plugin_dlg_no_content">Nenhum plugin de vídeo instalado.</string>
+    <string name="ovp_player_plugin_dlg_title">Plugins de vídeo</string>
+	<string name="permission_phone">Telefone</string>
+    <string name="permission_phone_desc">Para acessar o status do dispositivo e pausar reprodução durante ligações</string>
+    <string name="permission_storage">Armazenamento</string>
+    <string name="permission_storage_desc">Para acessar itens, salvar arquivos, mostrando e reproduzindo vídeos locais</string>
+	<string name="pw_channels">Canais</string>
+	<string name="recommend_channels">Canais recomendados</string>
+	<string name="restore_channel_list">Restaurar padrão agora?</string>
+	<string name="title_publisher">Criadores</string>
+    <string name="title_subscribe">Cadastros</string>
+	<string name="ugc_confirm_unsubscribe">Descadastrar agora?</string>
 </resources>

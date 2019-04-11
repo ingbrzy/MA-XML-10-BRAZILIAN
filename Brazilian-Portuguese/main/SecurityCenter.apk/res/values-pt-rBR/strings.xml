@@ -912,7 +912,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="memory_clean_memory_size_tip">Cache</string>
     <string name="memory_clean_no_need_clean">Tudo em ordem</string>
     <string name="optimize_result_available_memory_info">Memória disponível</string>
-    <string name="optimize_result_title_uninstall_apps">Aplicativos</string>
+    <string name="optimize_result_title_uninstall_apps">Desinstalar aplicativos</string>
     <string name="om_settings_title">Configurações</string>
     <string name="om_settings_lock_app_manage">Bloquear aplicativos</string>
     <string name="om_settings_lock_app">Bloquear aplicativos</string>
@@ -2550,4 +2550,11 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
 	<string name="st_filter_keywords_setting_summary2">(Use a virgula para separar as palavras-chave)</string>
 	<string name="security_center_slogan">Segurança. Sempre protegido.</string>
 	<string name="third_desktop_dialog_content">Como launchers de terceiros podem vazar seus dados, consumir bateria de forma estranha e apresentar travamentos, apenas os launchers certificados pela MIUI podem ser definidos como padrão.</string>
+	<string name="app_manager_find_apps">Encontrar aplicativos</string>
+	<string name="gb_shortcut_pref_title">Atalho para a tela inicial</string>
+	<string name="securityadd_install_fail">"Não foi possível atualizar o plugin. Tente novamente."</string>
+    <string name="securityadd_update_tips_cancle">Agora não</string>
+    <string name="securityadd_update_tips_message">Atualize o plugin de segurança para ter acesso aos últimos recursos dos jogos. %1$dMB serão baixados.</string>
+    <string name="securityadd_update_tips_now">Atualizar</string>
+    <string name="securityadd_update_tips_title">Atualizar</string>
 </resources>

@@ -284,12 +284,12 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, aplicativo
     <string name="allow_bind_app_widget_activity_always_allow_bind">Sempre permitir que %1$s crie widgets e acesse os dados</string>
     <string name="allow_data_usage_title">Permitir usar dados em roaming</string>
     <string name="allow_device_id_access">Aplicativos com acesso à ID do Dispositivo</string>
-	<string name="allow_float_summary">Mostrar notificações no topo da tela</string>
+	<string name="allow_float_summary">Permitir notificações flutuantes</string>
 	<string name="allow_float_title">Notificações flutuantes</string>
     <string name="allow_interruption">Permitir interrupções</string>
     <string name="allow_interruption_summary">Permitir que o aplicativo emita um som, vibre e/ou mostre notificações na tela</string>
 	<string name="allow_keyguard_title">Notificações na tela de bloqueio</string>
-    <string name="allow_keyguard_summary">Mostrar notificações na tela de bloqueio</string>
+    <string name="allow_keyguard_summary">Permitir notificações na tela de bloqueio</string>
 	<string name="allow_lights_title">Permitir pulsação do LED</string>
     <string name="allow_sound_title">Permitir som</string>
     <string name="allow_vibrate_title">Permitir vibração</string>
@@ -326,7 +326,7 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, aplicativo
     <string name="aod_close_color_inversion">Este recurso não pode ser combinado com a inversão de cores. Desative a inversão de cores primeiro.</string>
     <string name="aod_got_it">Entendido</string>
     <string name="aod_clock_style_title">Estilo do relógio</string>
-    <string name="aod_mode_summary">Sempre mostrar hora, data e mensagens com a tela desligada.</string>
+    <string name="aod_mode_summary">Esse recurso aumenta o consumo de energia do sistema. Ele será desativado quando seu dispositivo estiver em um local escuro por muito tempo ou restrições de uso de bateria forem aplicadas.</string>
     <string name="aod_mode_time_summary">Programar para ativar o modo de exibição ambiente</string>
     <string name="aod_mode_time_title">Programar</string>
     <string name="aod_mode_title">Modo Always on</string>
@@ -1951,7 +1951,7 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
     <string name="double_twist_for_camera_suggestion_title">Tirar selfies com mais rapidez</string>
     <string name="download_current_rom">Obter a última versão da MIUI</string>
     <string name="downloading_description">Fazendo download…</string>
-    <string name="doze_always_on_summary">Mostrar horário, ícones de notificação e outras informações. Aumento do uso da bateria.</string>
+    <string name="doze_always_on_summary">Esse recurso aumenta o consumo de energia do sistema. Ele será desativado quando seu dispositivo estiver em um local escuro por muito tempo ou restrições de uso de bateria forem aplicadas.</string>
     <string name="doze_always_on_title">Sempre ativado</string>
     <string name="doze_summary">Ativar a tela ao receber notificações</string>
     <string name="doze_title">Novas notificações</string>
@@ -1961,7 +1961,7 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
     <string name="dual_clock_aod_hint">"\"Relógio duplo\" depende dos seguintes recursos: 1. Para tela desligada, permita mostrar os itens em Configurações > Tela; 2. Para tela de bloqueio, é necessário usar o tema Padrão ou Clássico em Configurações > Temas; 3. Para tela inicial, é necessário usar o widget de relógio padrão."</string>
     <string name="dual_clock_hint">"\"Relógio duplo\" depende dos seguintes recursos: 1. Para tela desligada, permita mostrar os itens em Configurações > Tela; 2. Para tela de bloqueio, é necessário usar o tema Padrão ou Clássico em Configurações > Temas; 3. Para tela inicial, é necessário usar o widget de relógio padrão."</string>
     <string name="dual_clock_ok">Entendido</string>
-    <string name="dual_clock_open_message">O relógio duplo será exibido na tela de bloqueio, tela inicial e tela desligada.</string>
+    <string name="dual_clock_open_message">O relógio duplo será exibido na tela de bloqueio, tela inicial.</string>
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
     <string name="dump_log">Obter logs relacionados com o problema</string>
@@ -2144,7 +2144,7 @@ Para saber mais detalhes, entre em contato com o administrador da sua organizaç
     <string name="ethernet_data_usage">Uso de dados ethernet</string>
     <string name="every_day">Diariamente</string>
     <string name="expand_button_title">Avançado</string>
-	<string name="expandable_under_keyguard_title">Mostrar na tela de bloqueio</string>
+	<string name="expandable_under_keyguard_title">Mostrar na tela de bloqueio segura</string>
     <string name="experimental_category_title">Experimentais</string>
     <string name="experimental_preference">(Experimental)</string>
     <string name="external_code_size_label">Aplicativo de armazenamento USB</string>
@@ -2737,7 +2737,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="legal_workday_message">(Pular feriados)</string>
     <string name="license_title">Licença</string>
     <string name="lift_to_wake_title">Levantar para ativar</string>
-	<string name="lights_title">Piscar o LED</string>
+	<string name="lights_title">Luz do LED</string>
     <string name="line_breaking_summary">Otimizar quebra de texto em parágrafos</string>
     <string name="line_breaking_title">Otimizar texto</string>
     <string name="list_bg_header_text">Se você restringir a conexão em segundo plano, novos aplicativos não poderão conectar-se à internet em segundo plano depois que forem instalados. Eles não poderão receber mensagens ou fazer download de conteúdo depois disso.</string>
@@ -3529,13 +3529,13 @@ Selecione seu sistema operacional:"</string>
     <string name="notes_privacy_password_role_instruction">Suas anotações privadas serão armazenadas aqui.</string>
 	<string name="notifi_channels">Categorias das notificações</string>
 	<string name="notifi_channels_other">Outros</string>
-	<string name="notifi_importance_default">Mostrar em qualquer situação, faz som, mas sem notificação visual.</string>
-    <string name="notifi_importance_high">Mostrar em qualquer situação, faz som e aparece. Pode usar a tela toda.</string>
-    <string name="notifi_importance_low">Mostrar em qualquer situação, mas sem ser intrusivo.</string>
-    <string name="notifi_importance_min">Mostrar apenas na tela de notificações</string>
+	<string name="notifi_importance_default">Toque som e mostre na tela de bloqueio</string>
+    <string name="notifi_importance_high">Toque som, mostre na tela de bloqueio, permitindo usar opções de tela cheia</string>
+    <string name="notifi_importance_low">Não tocar som</string>
+    <string name="notifi_importance_min">Não mostrar na tela de bloqueio e não tocar som</string>
     <string name="notifi_importance_none">Desativado</string>
     <string name="notifi_importance_unspecified">Deixe o aplicativo decidir</string>
-	<string name="notifi_no_channels">Este aplicativo não enviou nenhuma notificação</string>
+	<string name="notifi_no_channels">Este aplicativo não recebeu nenhuma notificação</string>
     <string name="notification_app_settings_button">Configurações de notificação</string>
     <string name="notification_badge_title">Permitir ponto de notificação</string>
     <string name="notification_badging_title">Permitir pontos de notificação</string>
@@ -4626,7 +4626,7 @@ Para usar a fixação de tela:
     <string name="search_sound_settings">Som;Volumes;vibração;Reduzir ruído;Redução de ruídos</string>
     <string name="search_status_bar_settings">Notificações e barra de status;Notificações;Barra de status</string>
     <string name="search_status_bar_settings_custom_carrier">Editar nome da operadora;Nome da operadora</string>
-    <string name="search_status_bar_settings_expandable_under_keyguard">Mostrar na Tela de bloqueio, mostrar na tela de bloqueio</string>
+    <string name="search_status_bar_settings_expandable_under_keyguard">Mostrar na tela de bloqueio, mostrar na tela de bloqueio segura</string>
     <string name="search_status_bar_settings_manage_notification">Notificações do app;Notificações</string>
     <string name="search_status_bar_settings_show_carrier">Mostrar nome da operadora;Nome da operadora</string>
     <string name="search_status_bar_settings_show_network_speed">Mostrar velocidade da conexão;Velocidade da conexão</string>
@@ -5936,7 +5936,7 @@ Toque no + para adicionar palavras."</string>
     <string name="vibrate_input_devices_summary">Enviar vibração para o controlador de jogo quando conectado</string>
     <string name="vibrate_on_touch_summary">Retorno tátil para toque, teclado e muito mais</string>
     <string name="vibrate_on_touch_title">Vibrar ao tocar na tela</string>
-	<string name="vibrate_title">Vibrar</string>
+	<string name="vibrate_title">Vibração</string>
     <string name="vibrate_when_ringing_title">Também vibrar para chamadas</string>
     <string name="vip_list">Permitir chamadas de entrada</string>
     <string name="virtual_keyboard_category">Teclado virtual</string>
@@ -6900,4 +6900,28 @@ Observações importantes: as notificações críticas para atividades e status 
     <string name="zone_menu_by_region">Selecionar por região</string>
     <string name="zone_time_type_dst">Horário de verão</string>
     <string name="zone_time_type_standard">Horário padrão</string>
+	<string name="auto_dual_clock_aod_summary">Mostrar relógio duplo quando a hora for diferente do segundo relógio</string>
+	<string name="dual_clock_aod_open_message">O relógio duplo será exibido na tela de bloqueio, tela inicial e tela desligada.</string>
+	<string name="gxzw_aod_show_summary">O ícone do leitor de impressão digital será exibido quando a tela estiver desligada. Esse recurso aumenta o consumo de energia.</string>
+    <string name="gxzw_aod_show_tittle">Mostrar ícone do leitor de impressão digital quando a tela estiver desligada</string>
+	<string name="gxzw_enroll_again">Levante seu dedo e pressione o leitor de impressão digital novamente</string>
+	<string name="launcher_icon">Ícones</string>
+	<string name="layout_exhuge_font_take_effect_tips">Textos de tamanho XXL funcionam apenas em Telefone, Mensagens e Contatos</string>
+    <string name="layout_exhuge_font_tips">Mais opções disponíveis em %1$s</string>
+    <string name="layout_exhuge_font_tips_reg">Acessibilidade e tamanho da tela</string>
+	<string name="notification_fold_footer_icon_summary">Mostrar ícone dos aplicativos quando notificações não importantes estiverem agrupadas</string>
+    <string name="notification_fold_footer_icon_title">Mostrar ícone dos aplicativos</string>
+	<string name="notification_suggestion_title">Informações de controle na tela de bloqueio</string>
+	<string name="page_layout_34">Telefone</string>
+    <string name="page_layout_35">Notas</string>
+	<string name="page_layout_confirm_message_enlarge">Textos, imagens e ícones ficarão maiores. Alguns ícones podem mudar de posição.</string>
+    <string name="page_layout_confirm_message_narrow">Textos, imagens e ícones ficarão menores. Alguns ícones podem mudar de posição.</string>
+	<string name="page_layout_confirm_title_enlarge">Itens maiores</string>
+    <string name="page_layout_confirm_title_narrow">Itens menores</string>
+	<string name="reset_network_desc">"Isso irá redefinir todas as configurações de rede, incluindo:
+
+"&lt;li&gt;Wi-Fi&lt;/li&gt;"
+"&lt;li&gt;Dados móveis&lt;/li&gt;"
+"&lt;li&gt;Bluetooth&lt;/li&gt;</string>
+     <string name="words_title">Texto</string>
 </resources>
