@@ -605,4 +605,54 @@
     <string name="xiaoai_speech_not_installed_download">Download</string>
     <string name="xiaoai_speech_not_installed_message">Faça o download e instale o Assistente de Voz Mi AI para continuar.</string>
     <string name="xiaoai_speech_not_installed_title">O Assistente de voz Mi AI não está instalado.</string>
+	<string name="accessibility_setting_hint">"Torque no botão no canto superior direito para ativar este serviço.
+Temas irá detectar quais aplicativos você está usando e mostrar papéis de parede transparentes nos aplicativos de sua escolha.​"</string>
+    <string name="app_disable_transparent_wallpaper">Sem papel de parede transparente</string>
+    <string name="app_enable_transparent_wallpaper">Com papel de parede transparente</string>
+	<string name="enable_accessibility">Permissões de acessibilidade requeridas</string>
+    <string name="enable_accessibility_hint">"Você pode ativar este serviço em Temas. Depois disso, você poderá escolher quais aplicativos irão trabalhar com papéis de parede transparentes."</string>
+    <string name="enable_transparent_wallpaper">Usar papel de parede transparente</string>
+	<string name="go_accessibility_setting">Selecionar</string>
+	<string name="incall_show_apply_success">"Aplicado com sucesso. Desative este recurso,
+vá em Configurações &gt; Som e vibração &gt; Vídeo do perfil."</string>
+    <string name="incall_show_apply_success_without_ringtone">"Aplicado com sucesso. Este vídeo não tem som. O toque original será usado.
+Para desativar este recureso, vá em Configurações &gt; Som e vibração &gt; Vídeo do perfil."</string>
+    <string name="lab">Laboratório de temas</string>
+	<string name="loop_wallpaper_is_here">A apresentação de papeis de parede está ativada</string>
+	<string name="multi_sim_mms_ringtone_settings_dialog_message">Este toque será aplicado para ambos os cartões SIM.</string>
+	<string name="reenable_accessibility">Ocorreu um erro. Dê acesso às permissões de acessibilidade novamente.</string>
+	<string name="theme_apply_audio_dialog_item_mms">Toque de mensagens</string>
+	<string name="transparency_pref_summary">Escolha como seu papél de parede transparente deverá ser</string>
+	<string name="transparency_pref_title">Nível de opacidade</string>
+	<string name="transparent_wallpaper_apply_success">Aplicado com sucesso. Vá em Temas &gt; Perfil &gt; Laboratório de temas para mais recursos.</string>
+    <string name="transparent_wallpaper_disable">Desativado</string>
+    <string name="transparent_wallpaper_enable">Ativado</string>
+	<string name="transparent_wallpaper_filter_pref_summary">"Os papéis de parede transparente não serão exibidos em aplicativos restritos"</string>
+    <string name="transparent_wallpaper_filter_pref_title">Selecione os aplicativos que deverão trabalhar com os papéis de parede transparentes</string>
+    <string name="transparent_wallpaper_filter_set_successfully">Aplicado com sucesso</string>
+    <string name="transparent_wallpaper_filter_setting">Aplicativos individuais</string>
+	<string name="transparent_wallpaper_pref_summary">Papéis de parede com redução na opacidade do plano de fundo</string>
+	<string name="wallpaper_loop_add_success">Adicionado com sucesso</string>
+    <string name="wallpaper_loop_add_to_loop_desk_wallpaper">Adicionar na apresentação da tela inicial</string>
+    <string name="wallpaper_loop_add_to_loop_lock_wallpaper">Adicionar na apresentação da tela de bloqueio</string>
+    <string name="wallpaper_loop_desc_all_walpaper">Criar apresentações de papeis de parede personalizadas</string>
+    <string name="wallpaper_loop_desc_desk_walpaper">Criar uma apresentação personalizada para sua tela inicial</string>
+    <string name="wallpaper_loop_desc_lock_walpaper">Criar uma apresentação personalizada para sua tela de bloqueio</string>
+    <string name="wallpaper_loop_interval_15min">A cada 15 minutos</string>
+    <string name="wallpaper_loop_interval_1d">Todos os dias</string>
+    <string name="wallpaper_loop_interval_1h">Toda hora</string>
+    <string name="wallpaper_loop_interval_desc">Definir o invertalo da apresentação</string>
+    <string name="wallpaper_loop_interval_title">Mudar papel de parede</string>
+    <string name="wallpaper_loop_manage">Gerenciar</string>
+    <string name="wallpaper_loop_more_options">Configurações adicionais</string>
+    <string name="wallpaper_loop_my_desk_wallpaper">Papéis de parede da tela inicial</string>
+    <string name="wallpaper_loop_my_lock_wallpaper">Papéis de parede da tela de bloqueio</string>
+    <string name="wallpaper_loop_order_desc">Selecionar a ordem da apresentação</string>
+    <string name="wallpaper_loop_order_loop">Original</string>
+    <string name="wallpaper_loop_order_shuffle">Aleatório</string>
+    <string name="wallpaper_loop_order_title">Ordem da apresentação</string>
+    <string name="wallpaper_loop_title">Apresentação de papéis de parede</string>
+    <string name="wallpaper_loop_title_desk_wallpaper">Apresentação de papéis de parede da tela inicial</string>
+    <string name="wallpaper_loop_title_lock_walpaper">Apresentação de papéis de parede da tela de bloqueio</string>
+	<string name="wallpaper_set_as_float_wallpaper">Aplicar papel de parede transparente</string>
 </resources>
