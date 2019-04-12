@@ -5523,7 +5523,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="to_close">Desativar</string>
     <string name="toast_lockscreen_glogin_empty_password">Inserir senha</string>
     <string name="toast_need_login">Faça o login em sua Conta Mi</string>
-	<string name="toast_sta_ap_works_wifi_display_disable">"Não é possível transmitir quando o Wi-Fi estivr ligado e o ponto de acesso ativado."</string>
+	<string name="toast_sta_ap_works_wifi_display_disable">"Não é possível transmitir quando o Wi-Fi estiver ligado e o ponto de acesso ativado."</string>
 	<string name="toggle_collapse_after_clicked_title">Fechar após toque</string>
     <string name="total">Não perturbe</string>
     <string name="total_info">Silenciar sons e desativar a vibração exceto para os alarmes</string>
