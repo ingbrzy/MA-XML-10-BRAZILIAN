@@ -160,8 +160,8 @@
     <string name="gift_used">Enviado</string>
     <string name="hide_free">Ocultar %1$s gratuitos</string>
     <string name="hide_incompatible">Ocultar %1$s incompatíveis</string>
-    <string name="home_apply_failured">Não é possível aplicar o plano de fundo à Tela inicial</string>
-    <string name="home_apply_success">Plano de fundo aplicado à Tela inicial</string>
+    <string name="home_apply_failured">Não é possível aplicar o plano de fundo à tela inicial</string>
+    <string name="home_apply_success">Plano de fundo aplicado à tela inicial</string>
     <string name="in_the_end">Não há mais itens para mostrar</string>
     <string name="incompatible_dialog_cancel">Não aplicar</string>
     <string name="incompatible_dialog_message">Este tema não é compatível com a versão do MIUI instalada no seu dispositivo. algumas partes do MIUI podem não funcionar corretamente se você aplicar este tema.</string>
@@ -179,9 +179,9 @@
     <string name="local_photos">Fotos locais</string>
     <string name="local_resouce_creator_name">Desenvolvedor: %1$s</string>
     <string name="lockscreen_apply_failured">Não é possível aplicar o plano de fundo à Tela de bloqueio</string>
-    <string name="lockscreen_apply_failured_but_home_apply_success">Plano de fundo da Tela inicial aplicado. Não é possível aplicá-lo à Tela de bloqueio.</string>
+    <string name="lockscreen_apply_failured_but_home_apply_success">Plano de fundo da tela inicial aplicado. Não é possível aplicá-lo à Tela de bloqueio.</string>
     <string name="lockscreen_apply_success">Plano de fundo da Tela de bloqueio aplicado</string>
-    <string name="lockscreen_apply_success_but_home_apply_failured">Plano de fundo da Tela de bloqueio aplicado. Não é possível aplicá-lo à Tela inicial.</string>
+    <string name="lockscreen_apply_success_but_home_apply_failured">Plano de fundo da Tela de bloqueio aplicado. Não é possível aplicá-lo à tela inicial.</string>
     <string name="lockscreen_magazine_subscribe">%1$s seguidores</string>
     <string name="lockscreen_magazine_summary">Categorias</string>
     <string name="lockscreen_magazine_system_subscribe">%1$s planos de fundo</string>
@@ -470,7 +470,7 @@
     <string name="settings">Configurações</string>
     <string name="shortcut_add">Adicionar</string>
     <string name="shortcut_cancel">Não, obrigado</string>
-    <string name="shortcut_message">Adicionar atalho na Tela inicial</string>
+    <string name="shortcut_message">Adicionar atalho na tela inicial</string>
     <string name="shortcut_show_tip">Não mostrar novamente</string>
     <string name="shortcut_title">Curtiu nossos planos de fundo?</string>
     <string name="show_free">Mostrar %1$s gratuitos</string>
@@ -591,7 +591,7 @@
     <string name="wallpaper_detail_load_page_no_network">Conecte-se à rede e tente novamente.</string>
     <string name="wallpaper_scroll_type_tips">Deslizar plano de fundo</string>
     <string name="wallpaper_set_as_both">Aplicar em ambos</string>
-    <string name="wallpaper_set_as_desktop">Aplicar na Tela inicial</string>
+    <string name="wallpaper_set_as_desktop">Aplicar na tela inicial</string>
     <string name="wallpaper_set_as_lockscreen">Aplicar na Tela de bloqueio</string>
     <string name="wallpaper_settings">Configurar plano de fundo</string>
     <string name="wallpaper_settings_loading_text">Aguarde…</string>

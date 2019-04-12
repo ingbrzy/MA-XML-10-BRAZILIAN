@@ -74,7 +74,7 @@
     <string name="add_favorites_to">Adicionar aos favoritos</string>
     <string name="add_new_bookmark">Adicionar favorito</string>
     <string name="add_new_quicklink">Adicionar à Página inicial</string>
-    <string name="add_pwa_to_homescreen">Adicionar atalho na Tela inicial?</string>
+    <string name="add_pwa_to_homescreen">Adicionar atalho na tela inicial?</string>
     <string name="add_ql_bm_title">Salvar</string>
     <string name="add_quicklink_to_popular">Adicionar à Página inicial</string>
     <string name="add_quicklinks">Adicionar</string>
@@ -365,7 +365,7 @@ Por favor, envie esse código ao técnico."</string>
     <string name="guide_first_optimization_type_sub_title">15 segundos de um pequeno vídeo grava o momento</string>
 	<string name="guide_second_optimization_type_main_title">Relaxe</string>
     <string name="guide_second_optimization_type_sub_title">Novidades do entretenimento, assuntos militares, últimos lançamentos do cinema e TV, variedades</string>
-    <string name="have_sent_bookmark_to_home_screen">Colocado na Tela inicial</string>
+    <string name="have_sent_bookmark_to_home_screen">Colocado na tela inicial</string>
     <string name="hint">Dica</string>
     <string name="history">Histórico</string>
     <string name="home_description">Início</string>
@@ -413,7 +413,7 @@ Por favor, envie esse código ao técnico."</string>
     <string name="media_error_source">Não foi possível encontrar a fonte</string>
     <string name="media_error_timeout">Tempo limite de conexão atingido</string>
     <string name="media_error_video_not_exist">O vídeo não existe</string>
-    <string name="menu_addtodesk">Adicionar à Tela inicial</string>
+    <string name="menu_addtodesk">Adicionar à tela inicial</string>
     <string name="menu_exit_nightmode">Sair</string>
     <string name="menu_hv_swap">Tela V/H</string>
     <string name="menu_nightmode">Modo noturno</string>

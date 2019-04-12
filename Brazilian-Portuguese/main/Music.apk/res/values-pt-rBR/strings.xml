@@ -129,12 +129,12 @@
     <string name="desktop_lyric_button_close">Fechar</string>
     <string name="desktop_lyric_button_lock">Bloquear</string>
     <string name="desktop_lyric_color">Cor</string>
-    <string name="desktop_lyric_dialog_msg">Ative ou desative as Letras na Tela inicial em Configurações > Configurações adicionais</string>
+    <string name="desktop_lyric_dialog_msg">Ative ou desative as Letras na tela inicial em Configurações > Configurações adicionais</string>
     <string name="desktop_lyric_dialog_positive_button">Testar agora</string>
     <string name="desktop_lyric_dialog_title">Testar agora</string>
     <string name="desktop_lyric_lock_toast">Bloqueado. Você pode desbloquear o Mi Music na Área de notificações.</string>
-    <string name="desktop_lyric_setting_summary">Mostrar letras na Tela inicial</string>
-    <string name="desktop_lyric_setting_title">Letras na Tela inicial</string>
+    <string name="desktop_lyric_setting_summary">Mostrar letras na tela inicial</string>
+    <string name="desktop_lyric_setting_title">Letras na tela inicial</string>
     <string name="desktop_lyric_textsize">Texto</string>
     <string name="device_connected">Conectado</string>
     <string name="device_not_connected">Não conectado</string>
@@ -438,7 +438,7 @@
     <string name="notification_download_failed">Não foi possível fazer o download</string>
     <string name="notification_download_success_more">%1$d baixado</string>
     <string name="notification_need_wifi_for_size">O tamanho do download requer Wi-Fi.</string>
-    <string name="notification_play_summary">Ver música atual e próxima música e exibir letras na Tela inicial</string>
+    <string name="notification_play_summary">Ver música atual e próxima música e exibir letras na tela inicial</string>
     <string name="notification_play_title">Widget na Área de notificações</string>
     <string name="notification_recommend_summary">Saiba mais sobre novas tendências musicais e promoções do aplicativo</string>
     <string name="notification_recommend_title">Notificações importantes</string>

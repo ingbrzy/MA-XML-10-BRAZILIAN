@@ -478,7 +478,7 @@ para transferir e instalar o Mi Mover."</string>
 	<string name="trans_intro_desc_6">Existem vários fatores que podem causar isso: problemas de versão de compatibilidade entre o sistema e aplicativos, problemas de rede, problemas de compatibilidade específicos de um dispositivo, etc.</string>
 	<string name="trans_intro_desc_7">Alguns perfis de aplicativos (ex.: e-banking, etc) são associados ao dispositivo que foram instalados inicialmente. Tente limpar os dados do aplicativo ou reinstalá-lo no novo dispositivo.</string>
 	<string name="trans_intro_desc_8">Os dados do WeChat e seu histórico podem não ser transferidos completamente usando o Mi Mover. Acesse as configurações do WeChat e faça o logout da sua conta para aumentar as chances de uma transferência completa.</string>
-	<string name="trans_intro_desc_9_method_1_dec">Vá até a Tela inicial > Ferramentas > Feedback.</string>
+	<string name="trans_intro_desc_9_method_1_dec">Vá até a tela inicial > Ferramentas > Feedback.</string>
 	<string name="trans_intro_desc_9_method_1_title">1. Compartilhe seu feedback usando o aplicativo \"Feedback\".</string>
 	<string name="trans_intro_desc_9_method_2_dec">Envie seu feedback para miui-mover@xiaomi.com.</string>
     <string name="trans_intro_desc_9_method_2_title">2. Nos envie um e-mail</string>
@@ -511,7 +511,7 @@ para transferir e instalar o Mi Mover."</string>
 	<string name="trans_intro_title_new">Em um novo telefone:</string>
     <string name="trans_intro_title_old">Em um telefone antigo:</string>
     <string name="trans_intro_title_private">Álbum oculto:</string>
-    <string name="trans_main_tutor">Mover contatos, registro de chamadas, mensagens, layout da Tela inicial, aplicativos, configurações, etc. para um novo dispositivo</string>
+    <string name="trans_main_tutor">Mover contatos, registro de chamadas, mensagens, layout da tela inicial, aplicativos, configurações, etc. para um novo dispositivo</string>
 	<string name="trans_my_device">Meu dispositivo</string>
 	<string name="trans_native_no_space">"Não há espaço de armazenamento suficiente no dispositivo antigo (%s disponível).
 Libere espaço no armazenamento ou transfira apenas itens importantes."</string>

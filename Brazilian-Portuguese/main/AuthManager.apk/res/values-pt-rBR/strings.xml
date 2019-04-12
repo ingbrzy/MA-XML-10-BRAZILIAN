@@ -62,8 +62,8 @@
     <string name="HIPS_Perm_get_installed_apps_Desc">obter informações sobre aplicativos instalados neste dispositivo</string>
     <string name="HIPS_Perm_get_tasks">Obter tarefas</string>
     <string name="HIPS_Perm_get_tasks_Desc">obter tarefas</string>
-    <string name="HIPS_Perm_install_shortcut">Atalhos na Tela inicial</string>
-    <string name="HIPS_Perm_install_shortcut_Desc">adicionar atalhos na Tela inicial</string>
+    <string name="HIPS_Perm_install_shortcut">Atalhos na tela inicial</string>
+    <string name="HIPS_Perm_install_shortcut_Desc">adicionar atalhos na tela inicial</string>
     <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">acessar hardware de NFC</string>
     <string name="HIPS_Perm_process_outgoing_calls">Acessar aplicativo Telefone</string>

@@ -619,7 +619,7 @@ Motivo: \"%s\""</string>
     <string name="menu_contacts_filter">Contatos para exibição</string>
     <string name="menu_copy">Copiar</string>
     <string name="menu_copyContact">Copiar para Meus Contatos</string>
-    <string name="menu_create_contact_shortcut">Colocar na Tela inicial</string>
+    <string name="menu_create_contact_shortcut">Colocar na tela inicial</string>
     <string name="menu_deleteContact">Excluir contato</string>
     <string name="menu_deleteGroup">Excluir</string>
     <string name="menu_dial_ip_number">Chamar por IP</string>
@@ -788,7 +788,7 @@ Motivo: \"%s\""</string>
     <string name="option_not_in_group">Remover</string>
     <string name="option_not_star">Remover dos favoritos</string>
     <string name="option_rename_group">Renomear</string>
-    <string name="option_send_to_desktop">Colocar na Tela inicial</string>
+    <string name="option_send_to_desktop">Colocar na tela inicial</string>
     <string name="option_send_to_others">Encaminhar</string>
     <string name="option_view_contact">Ver</string>
     <string name="option_view_group">Ver</string>
@@ -1023,7 +1023,7 @@ Para começar, toque no ícone Unir na parte inferior da tela."</string>
     <string name="select_none">Nenhum item selecionado</string>
     <string name="select_show_contacts">Lista de contatos</string>
     <string name="select_vcard_title">Escolher arquivo vCard</string>
-    <string name="send_contact_shortcut_todesktop_success">Adicionado à Tela inicial</string>
+    <string name="send_contact_shortcut_todesktop_success">Adicionado à tela inicial</string>
     <string name="send_to_voicemail_checkbox">Enviar chamadas diretamente à caixa postal</string>
     <string name="separatorJoinAggregateAll">Todos os contatos</string>
     <string name="separatorJoinAggregateSuggestions">Contatos sugeridos</string>
@@ -1227,7 +1227,7 @@ Selecione uma das seguintes opções:"</string>
     <string name="yellowpage_navigation_search_select_city">Escolha uma cidade</string>
     <string name="yellowpage_navigation_send_to_desktop_downloading">Fazendo o download…</string>
     <string name="yellowpage_navigation_send_to_desktop_failed">Não é possível conectar-se à rede</string>
-    <string name="yellowpage_navigation_send_to_desktop_succeeded">Adicionado à Tela inicial</string>
+    <string name="yellowpage_navigation_send_to_desktop_succeeded">Adicionado à tela inicial</string>
     <string name="yellowpage_search_the_yellowpage">Pesquisar Páginas amarelas</string>
     <string name="yellowpage_user_profile">Perfil</string>
     <string name="zero_items_selected">Selecionar itens</string>

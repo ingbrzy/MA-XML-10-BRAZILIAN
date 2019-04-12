@@ -353,7 +353,7 @@
     <string name="catch_full_log_action_complete">Finalizar e fazer upload</string>
     <string name="catch_full_log_action_cancel">Cancelar</string>
     <string name="catch_full_log_dialog_content">O MIUI está gerando um log. Isto pode afetar o desempenho geral do seu dispositivo. Se você não puder reproduzir o problema que deseja reportar, volte aos logs e toque em \"Cancelar\".</string>
-    <string name="catch_full_log_dialog_confirm_text">Ir à Tela inicial</string>
+    <string name="catch_full_log_dialog_confirm_text">Ir à tela inicial</string>
     <string name="catch_full_log_notification_title">Gerando log…</string>
     <string name="catch_full_log_notification_content">Toque para voltar aos logs</string>
     <string name="catch_full_log_start_dump_hprof">Gerar logs de lentidão</string>

@@ -1442,7 +1442,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="menu_item_about_content">Versão %s</string>
     <string name="menu_item_about_summary">Versão %s</string>
     <string name="menu_item_shortcut_title">Gerenciar atalhos</string>
-    <string name="menu_item_shortcut_summary">Coloque recursos em sua Tela inicial</string>
+    <string name="menu_item_shortcut_summary">Coloque recursos em sua tela inicial</string>
     <string name="activity_title_create_shortcut">Gerenciar atalhos</string>
     <string name="menu_item_notification_title">Menu na Área de notificações</string>
     <string name="menu_item_notification_garbage_text">%s</string>
@@ -1906,7 +1906,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="applock_not_login_account">Você não fez o login</string>
     <string name="applock_bind_account_title">Esqueci a senha</string>
     <string name="applock_close_dialog_title">Desativar o Bloqueio de aplicativos?</string>
-    <string name="applock_close_dialog_summary">Todos os aplicativos ocultos serão reexibidos, seus atalhos na Tela inicial serão restaurados, e a sua senha de Bloqueio de aplicativos será excluída. Desativar o Bloqueio de aplicativos?</string>
+    <string name="applock_close_dialog_summary">Todos os aplicativos ocultos serão reexibidos, seus atalhos na tela inicial serão restaurados, e a sua senha de Bloqueio de aplicativos será excluída. Desativar o Bloqueio de aplicativos?</string>
     <string name="applock_header_text_less_than_half">Muito pequeno. Arraste um pouco mais.</string>
     <string name="quite_all_string">Cancelar</string>
     <string name="delete_input">Excluir</string>
@@ -2169,7 +2169,7 @@ Você não perderá nenhum dado de aplicativos."</string>
     <string name="gs_performance_mode_detail">Aumente o nível de uso da CPU para garantir um desempenho maior</string>
     <string name="gs_open_game_booster">Otimizar velocidade</string>
     <string name="gs_dialog_confirm_close_title">Desativar</string>
-    <string name="gs_dialog_confirm_close_msg">O atalho será removido de sua Tela inicial. Vá em Segurança > Configurações para restaurá-lo.</string>
+    <string name="gs_dialog_confirm_close_msg">O atalho será removido de sua tela inicial. Vá em Segurança > Configurações para restaurá-lo.</string>
     <string name="gs_game_performance">Desempenho</string>
     <string name="gs_game_duration">Duração</string>
     <string name="gs_game_disturb_msg">Não perturbe</string>
@@ -2190,8 +2190,8 @@ Você não perderá nenhum dado de aplicativos."</string>
     <string name="no_game">Nenhum jogo encontrado</string>
     <string name="gamebooster_network_dialog_title">Alguns recursos não estão disponíveis</string>
     <string name="gamebooster_network_dialog_message">Permitir que o Centro de Segurança conecte-se à internet para usar todos os recursos do Otimizador de jogos?</string>
-    <string name="ask_create_shortcut">Criar um atalho na Tela inicial?</string>
-    <string name="create_shortcut">Criar um atalho para o Otimizador de jogos na Tela inicial</string>
+    <string name="ask_create_shortcut">Criar um atalho na tela inicial?</string>
+    <string name="create_shortcut">Criar um atalho para o Otimizador de jogos na tela inicial</string>
     <string name="i_know">Entendido</string>
     <string name="open_game">Abrir</string>
     <string name="try_game">Experimentar</string>
@@ -2324,7 +2324,7 @@ Você não perderá nenhum dado de aplicativos."</string>
     <string name="gb_first_window_antimsg_summary_quick_answer">Usar respostas rápidas</string>
     <string name="gb_first_window_antimsg_summary_transparent_show">Ver texto em fundo transparente</string>
     <string name="gb_first_window_start">Começar a jogar</string>
-    <string name="gb_create_icon_summary">Criar atalho na Tela inicial</string>
+    <string name="gb_create_icon_summary">Criar atalho na tela inicial</string>
     <string name="title_reply">Comentar</string>
     <string name="title_like">Curtir</string>
     <string name="game_video_net_data">Dados móveis</string>
@@ -2335,15 +2335,15 @@ Você não perderá nenhum dado de aplicativos."</string>
     <string name="notify_channel_name_security">Segurança do sistema</string>
     <string name="privacy_apps_category_title">Aplicativos ocultos</string>
     <string name="privacy_apps">Aplicativos ocultos</string>
-    <string name="privacy_apps_enable_summary">Mova aplicativos para uma pasta oculta e remova seus atalhos da Tela inicial</string>
+    <string name="privacy_apps_enable_summary">Mova aplicativos para uma pasta oculta e remova seus atalhos da tela inicial</string>
     <string name="privacy_apps_manage">Gerenciar aplicativos ocultos</string>
     <string name="privacy_apps_tutorial">Tutorial</string>
-    <string name="privacy_apps_tutorial_prompt_pageone">"Quando você oculta um aplicativo, ele é movido para uma pasta oculta. O seu atalho na Tela inicial também é ocultado.
+    <string name="privacy_apps_tutorial_prompt_pageone">"Quando você oculta um aplicativo, ele é movido para uma pasta oculta. O seu atalho na tela inicial também é ocultado.
 Este recurso não é suportado para aplicativos de sistema."</string>
     <string name="privacy_apps_tutorial_prompt_pagetwo">Use o gesto de pinça na tela. Você verá uma mensagem solicitando a sua senha de Bloqueio de aplicativos.</string>
     <string name="privacy_apps_tutorial_prompt_pagethree">Depois de inserir a senha, a pasta com os aplicativos ocultos aparecerá.</string>
     <string name="privacy_apps_manage_dialog_title">Sobre os aplicativos ocultos</string>
-    <string name="privacy_apps_manager_dialog_message">O ícone deste aplicativo não será exibido na Tela inicial depois que ocultá-lo. Ocultar este aplicativo agora?</string>
+    <string name="privacy_apps_manager_dialog_message">O ícone deste aplicativo não será exibido na tela inicial depois que ocultá-lo. Ocultar este aplicativo agora?</string>
     <string name="privacy_apps_checkbox_remind_choice">Não mostrar novamente</string>
     <string name="privacy_apps_go_to_use">Iniciar</string>
     <string name="privacy_apps_close">Fechar</string>

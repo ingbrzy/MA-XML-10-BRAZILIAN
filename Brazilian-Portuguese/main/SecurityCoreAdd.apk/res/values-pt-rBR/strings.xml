@@ -176,7 +176,7 @@ esta funcionalidade será adicionada ao segundo espaço automaticamente."</strin
     <string name="settings_notification_and_switch_owner_space">Configurações do primeiro espaço</string>
     <string name="settings_second_space_entrance_title">Atalho nas Configurações</string>
     <string name="settings_second_space_entrance_summary">Mostrar atalho para o segundo espaço nas Configurações</string>
-    <string name="settings_switch_shortcut_title">Atalho na Tela inicial</string>
+    <string name="settings_switch_shortcut_title">Atalho na tela inicial</string>
     <string name="settings_switch_space">Alternando entre espaços</string>
     <string name="settings_notification_from_second_space_title">Mostrar notificações do segundo espaço</string>
     <string name="settings_notification_and_switch_second_space">Configurações do segundo espaço</string>
@@ -191,7 +191,7 @@ esta funcionalidade será adicionada ao segundo espaço automaticamente."</strin
     <string name="entrance_reopen_toast_msg">Mostrando atalho do segundo espaço devido a tipos de senha diferentes</string>
     <string name="settings_cross_notification_title">Notificações</string>
     <string name="settings_cross_notification_summary">Receber notificações do outro Espaço</string>
-    <string name="settings_switch_shortcut_summary">Mostrar atalho na Tela inicial do primeiro espaço</string>
+    <string name="settings_switch_shortcut_summary">Mostrar atalho na tela inicial do primeiro espaço</string>
     <string name="settings_space_data">Dados</string>
     <string name="settings_status_icon_title">Ícone do segundo espaço</string>
     <string name="settings_status_icon_summary">Mostrar ícone do segundo espaço na barra de status</string>
@@ -324,7 +324,7 @@ para acessar o segundo espaço através da Tela de bloqueio"</string>
     <string name="other">Outros</string>
     <string name="airspace_users_full">Não é possível criar mais Espaços de trabalho</string>
     <string name="same_qr_code_title">%s já existe</string>
-    <string name="same_qr_code_des">Parece que este Espaço de trabalho já existe. Você pode usar a Tela inicial e a Área de notificações para acessá-lo. Acessar agora?</string>
+    <string name="same_qr_code_des">Parece que este Espaço de trabalho já existe. Você pode usar a tela inicial e a Área de notificações para acessá-lo. Acessar agora?</string>
     <string name="same_qr_code_enter_space">Ir ao Espaço de trabalho</string>
     <string name="same_qr_code_create_space">Criar outro</string>
     <string name="not_support_air_space">Este recurso não é suportado no seu telefone</string>
@@ -357,8 +357,8 @@ para acessar o segundo espaço através da Tela de bloqueio"</string>
     <string name="show_noti_from_owner_detail">Receber notificações no espaço atual quando elas chegarem em outro espaço</string>
     <string name="show_noti_quick_switch_icon">Atalho na Área de notificações</string>
     <string name="show_noti_quick_switch_icon_detail">Mostrar um atalho para trocar de Espaços na Área de notificação</string>
-    <string name="show_decktop_quick_switch_icon">Atalho na Tela inicial</string>
-    <string name="show_decktop_quick_switch_icon_detail">Mostrar um atalho para trocar de Espaços na Tela inicial do primeiro espaço</string>
+    <string name="show_decktop_quick_switch_icon">Atalho na tela inicial</string>
+    <string name="show_decktop_quick_switch_icon_detail">Mostrar um atalho para trocar de Espaços na tela inicial do primeiro espaço</string>
     <string name="has_created_second_space">"Você pode abrir o segundo espaço agora.
 Dois espaços. Um dispositivo."</string>
     <string name="privacy_password_fingerprint_dialog_title">Leia sua impressão digital</string>
@@ -390,7 +390,7 @@ Se você não atualizar, os aplicativos clones podem não funcionar corretamente
     <string name="space_create_guide_switchmode_title">Alternar entre espaços</string>
     <string name="second_space_desktop_tips_dialog_title">Atualização importante</string>
     <string name="second_space_desktop_tips_dialog_positive_text">Entendido</string>
-    <string name="second_space_desktop_tips_dialog_message">Depois desta atualização, os ícones para mover dados e gerenciar o segundo espaço não ficarão mais disponíveis na Tela inicial. Você poderá acessar os recursos correspondentes nas Configurações.</string>
+    <string name="second_space_desktop_tips_dialog_message">Depois desta atualização, os ícones para mover dados e gerenciar o segundo espaço não ficarão mais disponíveis na tela inicial. Você poderá acessar os recursos correspondentes nas Configurações.</string>
     <string name="green_guard">Controles parentais</string>
     <string name="bind_device">Adicionar dispositivos</string>
     <string name="green_guard_des1">Adicione dispositivos para gerenciá-los remotamente</string>

@@ -114,7 +114,7 @@
     <string name="default_name">Padrão</string>
     <string name="resource_select">Selecionar</string>
     <string name="fp_nav_center_action_choose_dlg_title">Ativar Toque rápido</string>
-    <string name="fp_nav_center_action_choose_dlg_msg">Você pode retornar para a Tela inicial ao tocar suavemente no botão Início. Você pode ativar ou desativar esta função nas Configurações > Configurações adicionais > Botões > Tocar no botão Início para voltar à Tela inicial.</string>
+    <string name="fp_nav_center_action_choose_dlg_msg">Você pode retornar para a tela inicial ao tocar suavemente no botão Início. Você pode ativar ou desativar esta função nas Configurações > Configurações adicionais > Botões > Tocar no botão Início para voltar à tela inicial.</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Ativar</string>
     <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Agora não</string>
     <string name="auto_disable_screenbuttons_float_text">Toque para desativar os botões de navegação</string>

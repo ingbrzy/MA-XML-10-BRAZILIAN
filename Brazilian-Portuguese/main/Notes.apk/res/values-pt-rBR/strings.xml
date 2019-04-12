@@ -73,12 +73,12 @@
     <string name="error_contact_not_exist">O contato não existe</string>
     <string name="error_hide_empty_note">Não é possível ocultar uma anotação vazia</string>
     <string name="error_note_empty_for_clock">Não é possível definir lembrete para uma anotação vazia</string>
-    <string name="error_note_empty_for_send_to_desktop">Anotações vazias não podem ser colocadas na Tela inicial</string>
+    <string name="error_note_empty_for_send_to_desktop">Anotações vazias não podem ser colocadas na tela inicial</string>
     <string name="error_note_not_exist">A anotação não existe</string>
     <string name="error_send_empty_note">Não é possível enviar uma anotação vazia</string>
     <string name="error_send_empty_note_to_weibo">Não é possível enviar uma anotação vazia para o Weibo</string>
     <string name="error_unsupport_content">Anotação com conteúdo não suportado, toque aqui para atualizar</string>
-    <string name="error_widget_exist_for_send_to_desktop">Esta anotação já está em sua Tela inicial</string>
+    <string name="error_widget_exist_for_send_to_desktop">Esta anotação já está em sua tela inicial</string>
     <string name="first_enter_custom_folder_hint">Você pode renomear ou excluir pastas aqui</string>
     <string name="folder_exist">Uma pasta com o mesmo nome já existe</string>
     <string name="folder_operation_delete">Excluir</string>
@@ -92,7 +92,7 @@
     <string name="hide_arrow_description">Ocultar</string>
     <string name="hint_cannot_view_hidden_note_content">Não é possível ver o conteúdo em anotações ocultas</string>
     <string name="hint_foler_name">Nome</string>
-    <string name="info_note_enter_desktop">Adicionada à Tela inicial</string>
+    <string name="info_note_enter_desktop">Adicionada à tela inicial</string>
     <string name="loading_text">Aguarde…</string>
     <string name="login_sync">Fazer login e sincronizar</string>
     <string name="menu_add_audio_description">Adicionar nota de voz</string>
@@ -111,7 +111,7 @@
     <string name="menu_restore">Restaurar</string>
     <string name="menu_send_as_image">Enviar como imagem</string>
     <string name="menu_send_as_text">Enviar como texto</string>
-    <string name="menu_send_to_desktop">Colocar na Tela inicial</string>
+    <string name="menu_send_to_desktop">Colocar na tela inicial</string>
     <string name="menu_send_weibo">Enviar para o Weibo</string>
     <string name="menu_source">De %1$s</string>
     <string name="menu_stick">Fixar</string>

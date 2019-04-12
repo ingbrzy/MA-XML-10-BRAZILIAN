@@ -175,7 +175,7 @@
     <string name="pref_download_revert_default">Padrão</string>
     <string name="file_picker">Escolha um local</string>
     <string name="new_add_bt">Adicionar torrent</string>
-    <string name="pref_sniff_shortcut">Criar atalho na Tela inicial para pesquisas web</string>
+    <string name="pref_sniff_shortcut">Criar atalho na tela inicial para pesquisas web</string>
     <string name="sniff_shortcut_name">Pesquisa web</string>
     <string name="third_web_title">Download</string>
     <string name="third_web_filename_hint">Nome</string>
@@ -292,8 +292,8 @@ Acelere downloads em todos os seus dispositivos."</string>
     <string name="sniff_connect_error_refresh">Recarregar</string>
     <string name="sniff_search_assoicate_sizeinfo">Tamanho: %1$s</string>
     <string name="sniff_search_install">Instalar</string>
-    <string name="sniff_shortcut_tip">Você pode adicionar um atalho na Tela inicial para a Pesquisa web</string>
-    <string name="sniff_shortcut_tip2">Encontrar fontes para os downloads a partir da Tela inicial.</string>
+    <string name="sniff_shortcut_tip">Você pode adicionar um atalho na tela inicial para a Pesquisa web</string>
+    <string name="sniff_shortcut_tip2">Encontrar fontes para os downloads a partir da tela inicial.</string>
     <string name="sniff_shortcut_cloudconfig_title">Aguarde…</string>
     <string name="sniff_shortcut_cloudconfig_context">Atualizando fonte…</string>
     <string name="sniff_shortcut_cloudconfig_btn">OK</string>
@@ -357,8 +357,8 @@ Acelere downloads em todos os seus dispositivos."</string>
     <string name="sniff_vip_tip_vip">O Xunlei pode continuar a otimizar sua velocidade</string>
     <string name="high_speed_tryout_percent_slow">O Xunlei pode continuar a otimizar sua velocidade</string>
     <string name="high_speed_tryout_speedup_confirm">Preparando para otimizar a velocidade…</string>
-    <string name="shortcut_dialog_title">Criar atalho na Tela inicial?</string>
-    <string name="shortcut_dialog_content">Adicione um atalho na Tela inicial para localizar fontes rapidamente.</string>
+    <string name="shortcut_dialog_title">Criar atalho na tela inicial?</string>
+    <string name="shortcut_dialog_content">Adicione um atalho na tela inicial para localizar fontes rapidamente.</string>
     <string name="shortcut_dialog_create">Criar</string>
     <string name="download_remain_time">Restante:</string>
     <string name="download_speed">Velocidade:</string>

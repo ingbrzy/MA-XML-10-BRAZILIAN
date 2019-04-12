@@ -99,7 +99,7 @@ Esta função criptografa e envia a ID do seu dispositivo para os servidores da 
     <string name="micloud_space_duokan_title">Duokan</string>
     <string name="micloud_space_duokan_detail">Faça o download e gerencie ebooks com o aplicativo Duokan.</string>
     <string name="micloud_space_applist_title">Gerenciar aplicativos</string>
-    <string name="micloud_space_applist_detail">Gerenciar aplicativos em sua Tela inicial</string>
+    <string name="micloud_space_applist_detail">Gerenciar aplicativos em sua tela inicial</string>
     <string name="micloud_space_soundrecorder_title">Gravações</string>
     <string name="micloud_space_soundrecorder_detail">Gerenciar gravações armazenadas em seu dispositivo</string>
     <string name="micloud_storage_full">Mi Cloud cheia</string>
@@ -332,7 +332,7 @@ Faça o login em sua Conta Mi para reativar a Mi Cloud."</string>
     <string name="micloud_request_permission_title">Permissão necessária para a Mi Cloud</string>
     <string name="micloud_request_permission_content">A Mi Cloud precisa de permissões para sincronizar dados. Permita que a Mi Cloud acesse a Agenda, Contatos, Conta Mi, status do cartão SIM, histórico de chamada e mensagens.</string>
     <string name="micloud_request_permission_confirm">Entendido</string>
-    <string name="short_cut_desc">Adicionar ícone da Mi Cloud na Tela inicial?</string>
+    <string name="short_cut_desc">Adicionar ícone da Mi Cloud na tela inicial?</string>
     <string name="add_short_cut">Adicionar</string>
     <string name="close_shortcut">Fechar</string>
     <string name="added_successfully">Adicionado com sucesso</string>
@@ -347,7 +347,7 @@ Faça o login em sua Conta Mi para reativar a Mi Cloud."</string>
     <string name="micloud_dialog_sync_now_positive">Usar dados móveis</string>
     <string name="micloud_main_head_menu_recycle_bin_title">Itens excluídos</string>
     <string name="micloud_main_head_menu_recycle_bin_summary">Restaurar itens excluídos</string>
-    <string name="micloud_main_head_menu_cloud_backup">Backup da Tela inicial</string>
+    <string name="micloud_main_head_menu_cloud_backup">Backup da tela inicial</string>
     <string name="micloud_main_head_menu_state_open">Ativado</string>
     <string name="micloud_main_head_menu_state_close">Desativado</string>
     <string name="micloud_main_head_menu_state_unavailable">Não suportado</string>

@@ -1295,7 +1295,7 @@ Este recurso pode ser desativado nas [Configurações]"</string>
     <string name="close_optimization_option">Desativar</string>
     <string name="cloud_backup_section_title">Backup na Mi Cloud</string>
     <string name="cloud_backup_settings_section_title">Configurações do backup</string>
-    <string name="cloud_restore_section_summary">Restaurar configurações do sistema, layout da Tela inicial e aplicativos</string>
+    <string name="cloud_restore_section_summary">Restaurar configurações do sistema, layout da tela inicial e aplicativos</string>
     <string name="cloud_restore_section_title">Restaurar da Mi Cloud</string>
     <string name="cmcc_hardware_version">Versão do hardware</string>
     <string name="color_black">Preto</string>
@@ -2287,7 +2287,7 @@ Parecia não haver nenhum cavalo nem animais de nenhuma espécie. Os homens carr
     <string name="font_size_preview_text_title">O Mágico de Oz</string>
     <string name="font_size_save">OK</string>
     <string name="font_size_small">Extra pequeno</string>
-    <string name="font_size_summary">"Alterar o tamanho do texto para a Tela inicial, Área de notificações, discador e menus de sistema.
+    <string name="font_size_summary">"Alterar o tamanho do texto para a tela inicial, Área de notificações, discador e menus de sistema.
 
 "</string>
     <string name="font_size_summary1">"Se o tamanho dos textos do sistema ainda está pequeno, experimente o "</string>
@@ -2329,7 +2329,7 @@ Parecia não haver nenhum cavalo nem animais de nenhuma espécie. Os homens carr
     <string name="forget_wifi_message">Seu telefone irá parar de se conectar a esta rede automaticamente.</string>
     <string name="found_new_version">Atualização disponível</string>
     <string name="fourhours">2 horas</string>
-    <string name="fp_nav_center_back_to_home_title">Toque no botão Início para voltar para a Tela inicial</string>
+    <string name="fp_nav_center_back_to_home_title">Toque no botão Início para voltar para a tela inicial</string>
     <string name="free_memory">Disponível</string>
     <string name="free_wifi_agreement_remind_never">Não mostrar novamente</string>
     <string name="free_wifi_confirm">OK</string>
@@ -2479,7 +2479,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="high_power_prompt_title">Permitir que o aplicativo sempre esteja em execução em segundo plano?</string>
     <string name="high_power_system">A otimização de bateria não está disponível</string>
     <string name="history_details_title">Detalhes do histórico</string>
-    <string name="home">Configurações da Tela inicial</string>
+    <string name="home">Configurações da tela inicial</string>
     <string name="home_app">Launcher</string>
     <string name="home_key">Início</string>
     <string name="home_work_profile_not_supported">Não aceita perfis de trabalho</string>
@@ -2747,9 +2747,9 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="local_auto_backup_off">Desativado</string>
     <string name="local_auto_backup_on">Ativado</string>
     <string name="local_auto_backup_section_title">Backup automático</string>
-    <string name="local_backup_password_summary_change">Toque para alterar ou remover a senha para bacups completos da Tela inicial</string>
+    <string name="local_backup_password_summary_change">Toque para alterar ou remover a senha para bacups completos da tela inicial</string>
     <string name="local_backup_password_summary_none">Os backups completos da tela inicial não estão protegidos no momento</string>
-    <string name="local_backup_password_title">Senha do backup da Tela inicial</string>
+    <string name="local_backup_password_title">Senha do backup da tela inicial</string>
     <string name="local_backup_password_toast_confirmation_mismatch">As senhas não correspondem</string>
     <string name="local_backup_password_toast_success">Nova senha de backup definida</string>
     <string name="local_backup_password_toast_validation_failure">Não foi possível definir a senha de backup</string>
@@ -2851,7 +2851,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="lock_screen_signature_summary">Esta mensagem será exibida na Tela de bloqueio</string>
     <string name="lock_screen_signature_title">Info. do proprietário na Tela de bloqueio</string>
     <string name="lock_screen_unlock_show">Pular Tela de bloqueio</string>
-    <string name="lock_screen_unlock_show_summary">Abrir Tela inicial ou inserir a senha diretamente</string>
+    <string name="lock_screen_unlock_show_summary">Abrir tela inicial ou inserir a senha diretamente</string>
     <string name="lock_secure_after_timeout_click_me_to_change_text">Toque para alterar</string>
     <string name="lock_settings">Bloqueio de tela e senhas</string>
     <string name="lock_settings_common_title">Configurações de bloqueio</string>
@@ -3389,7 +3389,7 @@ Selecione seu sistema operacional:"</string>
     <string name="navigation_guide_dialog_summary">Aprenda quais gestos você pode usar para a navegação do sistema.</string>
     <string name="navigation_guide_dialog_title">Aprender gestos</string>
     <string name="navigation_guide_home_summary">Deslizar para cima da parte de baixo da tela</string>
-    <string name="navigation_guide_home_title">Ir à Tela inicial</string>
+    <string name="navigation_guide_home_title">Ir à tela inicial</string>
     <string name="navigation_guide_recent_summary">Deslizar e segurar da parte de baixo da tela para cima</string>
     <string name="navigation_guide_recent_title">Abrir aplicativos recentes</string>
     <string name="navigation_guide_settings">Demonstração de gestos</string>
@@ -3662,13 +3662,13 @@ Isso também permitira que o aplicativo ative ou desative o modo \"Não perturbe
     <string name="ok_rules">Finalizar</string>
     <string name="okay">OK</string>
     <string name="oldman_app_label">Modo simplificado</string>
-    <string name="oldman_installed_current_btn">Restaurar Tela inicial original</string>
-    <string name="oldman_installed_current_des">Você definiu o Modo simplificado como a sua Tela inicial padrão. Toque no botão abaixo para voltar para a Tela inicial original.</string>
-    <string name="oldman_installed_not_current_btn">Definir como Tela inicial padrão</string>
-    <string name="oldman_installed_not_current_des">O Modo simplificado está instalado no seu dispositivo. Você pode usá-lo como sua Tela inicial padrão.</string>
+    <string name="oldman_installed_current_btn">Restaurar tela inicial original</string>
+    <string name="oldman_installed_current_des">Você definiu o Modo simplificado como a sua tela inicial padrão. Toque no botão abaixo para voltar para a tela inicial original.</string>
+    <string name="oldman_installed_not_current_btn">Definir como tela inicial padrão</string>
+    <string name="oldman_installed_not_current_des">O Modo simplificado está instalado no seu dispositivo. Você pode usá-lo como sua tela inicial padrão.</string>
     <string name="oldman_mode_entry_name">Modo simplificado</string>
     <string name="oldman_uninstalled_btn">Instalar</string>
-    <string name="oldman_uninstalled_des">O Modo simplificado remove alguns itens visuais e mantém a sua Tela inicial simples e minimalista.</string>
+    <string name="oldman_uninstalled_des">O Modo simplificado remove alguns itens visuais e mantém a sua tela inicial simples e minimalista.</string>
 	<string name="on">Ativado</string>
     <string name="one_cacrt">um certificado CA</string>
     <string name="one_usercrt">um certificado de usuário</string>
@@ -5679,7 +5679,7 @@ Suas impressões digitais salvas também serão removidas deste perfil e não se
     <string name="unlock_disable_lock_title">Desativar bloqueio da tela</string>
     <string name="unlock_set_do_later_title">Agora não</string>
     <string name="unlock_set_enter_system">Ignorar tela de bloqueio</string>
-    <string name="unlock_set_enter_system_summary">Ir diretamente para a Tela inicial ao ativar a tela</string>
+    <string name="unlock_set_enter_system_summary">Ir diretamente para a tela inicial ao ativar a tela</string>
     <string name="unlock_set_unlock_biometric_weak_summary">Recurso experimental de baixa segurança</string>
     <string name="unlock_set_unlock_biometric_weak_title">Desbloqueio facial</string>
     <string name="unlock_set_unlock_disabled_summary">Desativada pelo admin, política de criptografia ou armazenamento de credenciais</string>

@@ -449,7 +449,7 @@ Taxa de amostra"</string>
     <string name="camera_key_action_none_title">Nenhuma ação</string>
     <string name="camera_key_action_setting_title">Botão Mi</string>
     <string name="camera_key_action_shortcut_call">Chamar</string>
-    <string name="camera_key_action_shortcut_home">Voltar à Tela inicial</string>
+    <string name="camera_key_action_shortcut_home">Voltar à tela inicial</string>
     <string name="camera_key_action_shortcut_screenshot">Capturar tela</string>
     <string name="camera_key_action_shortcut_search">Pesquisar</string>
     <string name="camera_key_action_shortcut_title">Atalho</string>
@@ -570,7 +570,7 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
     <string name="dlg_summary_close_theme">Restringir temas animados</string>
     <string name="dlg_summary_close_wifi">Desativar Wi-Fi, Bluetooth e ponto de acesso móvel</string>
     <string name="dlg_summary_nfc">Desativar NFC</string>
-    <string name="dlg_summary_title">A Economia extrema de bateria interrompe todas as atividades em segundo plano quando você sai de um aplicativo e volta para a Tela inicial. Se você deseja que um aplicativo continue executando em segundo plano, adicione-o às exceções.</string>
+    <string name="dlg_summary_title">A Economia extrema de bateria interrompe todas as atividades em segundo plano quando você sai de um aplicativo e volta para a tela inicial. Se você deseja que um aplicativo continue executando em segundo plano, adicione-o às exceções.</string>
     <string name="dnd_is_off">O Não perturbe está desativado</string>
     <string name="do_disclosure_generic">Este dispositivo é gerenciado por sua organização</string>
     <string name="do_disclosure_with_name">Este dispositivo é gerenciado por %s</string>
@@ -762,8 +762,8 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
 Assim que ele tiver resfriado, ele voltará ao normal."</string>
     <string name="high_temp_notif_message">Alguns recursos serão limitados até que ele resfrie</string>
     <string name="high_temp_title">O telefone está esquentando</string>
-    <string name="home">Configurações da Tela inicial</string>
-    <string name="how_to_back_home">Ir à Tela inicial</string>
+    <string name="home">Configurações da tela inicial</string>
+    <string name="how_to_back_home">Ir à tela inicial</string>
     <string name="how_to_switch_recents">Abrir aplicativos recentes</string>
     <string name="how_to_use_drawer">Como abrir o menu deslizante</string>
     <string name="how_to_use_drawer_summary">Deslize para a direita na parte superior da tela</string>
@@ -976,9 +976,9 @@ Tente novamente em %2$d segundos."</string>
     <string name="left_keycode">Código do botão esquerdo</string>
     <string name="left_nav_bar_button_type">Tipo de botão esquerdo extra</string>
     <string name="legacy_vpn_name">VPN</string>
-    <string name="local_backup_password_summary_change">Toque para alterar ou remover a senha para bacups completos da Tela inicial</string>
+    <string name="local_backup_password_summary_change">Toque para alterar ou remover a senha para bacups completos da tela inicial</string>
     <string name="local_backup_password_summary_none">Os backups completos da tela inicial não estão protegidos no momento</string>
-    <string name="local_backup_password_title">Senha do backup da Tela inicial</string>
+    <string name="local_backup_password_title">Senha do backup da tela inicial</string>
     <string name="local_backup_password_toast_confirmation_mismatch">As senhas não correspondem</string>
     <string name="local_backup_password_toast_success">Nova senha de backup definida</string>
     <string name="local_backup_password_toast_validation_failure">Não foi possível definir a senha de backup</string>
@@ -1414,7 +1414,7 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
     <string name="recents_drag_hint_message">Pressione e segure um aplicativo, e então arraste-o aqui.</string>
     <string name="recents_empty_message">Nenhum item recente</string>
     <string name="recents_empty_message_dismissed_all">Você já limpou tudo</string>
-    <string name="recents_empty_message_multi_window">Abrir aplicativos da Tela inicial</string>
+    <string name="recents_empty_message_multi_window">Abrir aplicativos da tela inicial</string>
     <string name="recents_exit_multi_window_mode">Sair</string>
     <string name="recents_incompatible_app_message">Este aplicativo não suporta Tela dividida</string>
     <string name="recents_launch_disabled_message">O aplicativo %s está desativado no modo de segurança.</string>

@@ -546,7 +546,7 @@
     <string name="onekeyclean_card_summery">Limpar lixo para liberar espaço</string>
     <string name="onekeyclean_card_btn">Limpar agora</string>
     <string name="memory_clean_icon_text">Limpar memória</string>
-    <string name="pref_title_create_onekeyclean_shortcut">Mostrar atalho na Tela inicial</string>
+    <string name="pref_title_create_onekeyclean_shortcut">Mostrar atalho na tela inicial</string>
     <string name="memory_clean_no_trash_tip">Tudo em ordem</string>
     <string name="toast_updater_open_4g_text">Os aplicativos serão atualizados usando os dados móveis (4G)</string>
     <string name="toast_updater_close_4g_text">Os aplicativos não serão atualizados usando os dados móveis (4G)</string>
