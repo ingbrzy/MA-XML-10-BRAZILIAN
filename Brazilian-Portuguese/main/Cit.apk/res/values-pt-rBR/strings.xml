@@ -370,7 +370,7 @@ N: sem teste"</string>
   <string name="tp_color">Cor TP:</string>
   <string name="tp_version">Versão TP:</string>
   <string name="waiting">A aguardar 4s</string>
-  <string name="charge_fast_insert_pls">Por favor, insira a carga rápida<string>
+  <string name="charge_fast_insert_pls">Por favor, insira a carga rápida</string>
   <string name="charge_positive_pls">Por favor, insira a carga positiva</string>
   <string name="charge_reverse_pls">Por favor, insira a carga reversa</string>
   <string name="pls_plug_otg_in_native">Por favor, remova o dispositivo OTG</string>

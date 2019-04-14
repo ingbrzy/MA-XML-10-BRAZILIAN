@@ -6905,23 +6905,13 @@ Observações importantes: as notificações críticas para atividades e status 
 	<string name="gxzw_aod_show_summary">O ícone do leitor de impressão digital será exibido quando a tela estiver desligada. Esse recurso aumenta o consumo de energia.</string>
     <string name="gxzw_aod_show_tittle">Mostrar ícone do leitor de impressão digital quando a tela estiver desligada</string>
 	<string name="gxzw_enroll_again">Levante seu dedo e pressione o leitor de impressão digital novamente</string>
-	<string name="launcher_icon">Ícones</string>
 	<string name="layout_exhuge_font_take_effect_tips">Textos de tamanho XXL funcionam apenas em Telefone, Mensagens e Contatos</string>
     <string name="layout_exhuge_font_tips">Mais opções disponíveis em %1$s</string>
     <string name="layout_exhuge_font_tips_reg">Acessibilidade e tamanho da tela</string>
 	<string name="notification_fold_footer_icon_summary">Mostrar ícone dos aplicativos quando notificações não importantes estiverem agrupadas</string>
     <string name="notification_fold_footer_icon_title">Mostrar ícone dos aplicativos</string>
-	<string name="notification_suggestion_title">Informações de controle na tela de bloqueio</string>
-	<string name="page_layout_34">Telefone</string>
-    <string name="page_layout_35">Notas</string>
 	<string name="page_layout_confirm_message_enlarge">Textos, imagens e ícones ficarão maiores. Alguns ícones podem mudar de posição.</string>
     <string name="page_layout_confirm_message_narrow">Textos, imagens e ícones ficarão menores. Alguns ícones podem mudar de posição.</string>
 	<string name="page_layout_confirm_title_enlarge">Itens maiores</string>
     <string name="page_layout_confirm_title_narrow">Itens menores</string>
-	<string name="reset_network_desc">"Isso irá redefinir todas as configurações de rede, incluindo:
-
-"&lt;li&gt;Wi-Fi&lt;/li&gt;"
-"&lt;li&gt;Dados móveis&lt;/li&gt;"
-"&lt;li&gt;Bluetooth&lt;/li&gt;</string>
-     <string name="words_title">Texto</string>
 </resources>
