@@ -5019,9 +5019,9 @@ PIN possivelmente incorreto."</string>
     <string name="smart_battery_manager_title">Gerenciador de bateria</string>
     <string name="smart_battery_summary">Limitar bateria para os aplicativos que você não usa com frequência</string>
     <string name="smart_battery_title">Gerenciar aplicativos automaticamente</string>
-    <string name="smartcover_lock_or_unlock_screen_tittle">Modo Smart cover</string>
-    <string name="smartcover_sensitive_summary">Bloquear ou desbloquear automaticamente o telefone usando uma smart cover</string>
-    <string name="smartcover_sensitive_title">Smart cover</string>
+    <string name="smartcover_lock_or_unlock_screen_tittle">Modo Smart Cover</string>
+    <string name="smartcover_sensitive_summary">Bloquear ou desbloquear automaticamente o telefone usando uma Smart Cover</string>
+    <string name="smartcover_sensitive_title">Smart Cover</string>
     <string name="sms_application_title">Mensagens</string>
     <string name="sms_change_default_dialog_text">Usar o %1$s em vez do %2$s como aplicativo de SMS?</string>
     <string name="sms_change_default_dialog_title">Alterar aplicativo de SMS?</string>
