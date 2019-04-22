@@ -1609,18 +1609,4 @@ Quer fechá-la?"</string>
     <string name="zen_upgrade_notification_title">O modo \"Não perturbe\" foi alterado</string>
     <string name="zen_upgrade_notification_visd_content">Toque para saber mais e fazer alterações.</string>
     <string name="zen_upgrade_notification_visd_title">Novo: o modo Não perturbe está ocultando as notificações</string>
-	<string name="popup_camera_calibrate_failed">"Não foi possível calibrar. Leve seu aparelho para uma Loja Mi para que o problema seja diagnosticado."</string>
-    <string name="popup_camera_calibrate_now">Calibrar</string>
-    <string name="popup_camera_calibrate_success">Calibrado com sucesso. Você pode abrir a sua câmera frontal agora.</string>
-    <string name="popup_camera_front_failed">"Não foi possível abrir a câmera frontal. Tentar novamente."</string>
-    <string name="popup_camera_front_falied_times">"Não foi possível abrir a câmera frontal por diversas vezes. Leve seu aparelho para uma Loja Mi para que o problema seja diagnosticado."</string>
-    <string name="popup_camera_front_when_use">A câmera frontal está em uso no momento. Abrir mesmo assim?</string>
-    <string name="popup_camera_popup_falied_times_calibrate">"Não foi possível abrir a câmera frontal por diversas vezes. Tente calibrar a câmera."</string>
-    <string name="popup_camera_sure">Entendido</string>
-    <string name="popup_camera_sure_wait">Entendido (%ds)</string>
-    <string name="popup_camera_takeback_falied_times_calibrate">"Não foi possível fechar a câmera por diversas vezes. Tente calibrar a câmera."</string>
-    <string name="popup_camera_tip">Atenção</string>
-    <string name="popup_camera_using_camera_background">%s está usando a câmera frontal</string>
-	<string name="stop_operate_camera_frequently">"Parece que você está alternando entre as câmeras com muita frequência."</string>
-	<string name="takeback_camera_front_failed">"Não foi possível fechar a câmera frontal. Tente novamente."</string>
 </resources>

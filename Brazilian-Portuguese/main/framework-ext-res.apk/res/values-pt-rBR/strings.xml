@@ -186,4 +186,18 @@
     <string name="talk_back_water_mark_string1">O TalkBack está ativado</string>
     <string name="talk_back_water_mark_string2">Pressione e segure \"Volume +\" e \"Volume -\" por 3 segundos para desativar</string>
     <string name="start_dump_log">Iniciar obtenção de logs relacionados com o problema</string>
+    <string name="popup_camera_calibrate_failed">"Não foi possível calibrar"</string>
+    <string name="popup_camera_calibrate_now">Calibrar</string>
+    <string name="popup_camera_calibrate_success">Calibrado com sucesso. Você pode abrir a sua câmera frontal agora.</string>
+    <string name="popup_camera_front_failed">"Não foi possível abrir a câmera frontal. Tentar novamente."</string>
+    <string name="popup_camera_front_falied_times">"Não foi possível abrir a câmera frontal por diversas vezes. Leve seu aparelho para uma Loja Mi para que o problema seja diagnosticado."</string>
+    <string name="popup_camera_front_when_use">A câmera frontal está em uso no momento. Abrir mesmo assim?</string>
+    <string name="popup_camera_popup_falied_times_calibrate">"Não foi possível abrir a câmera frontal por diversas vezes. Tente calibrar a câmera."</string>
+    <string name="popup_camera_sure">Entendido</string>
+    <string name="popup_camera_sure_wait">Entendido (%ds)</string>
+    <string name="popup_camera_takeback_falied_times_calibrate">"Não foi possível fechar a câmera por diversas vezes. Tente calibrar a câmera."</string>
+    <string name="popup_camera_tip">Atenção</string>
+    <string name="popup_camera_using_camera_background">%s está usando a câmera frontal</string>
+	<string name="stop_operate_camera_frequently">"Você está abrindo a câmera frontal com muita frequência."</string>
+	<string name="takeback_camera_front_failed">"Não foi possível fechar a câmera frontal. Tente novamente."</string>
 </resources>
