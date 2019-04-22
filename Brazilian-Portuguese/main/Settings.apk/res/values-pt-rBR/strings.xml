@@ -6914,4 +6914,66 @@ Observações importantes: as notificações críticas para atividades e status 
     <string name="page_layout_confirm_message_narrow">Textos, imagens e ícones ficarão menores. Alguns ícones podem mudar de posição.</string>
 	<string name="page_layout_confirm_title_enlarge">Itens maiores</string>
     <string name="page_layout_confirm_title_narrow">Itens menores</string>
+	 <string name="usage_state_app_timer">Tempo de tela</string>
+  <string name="usage_state_app_usage_detail_title">Detalhes do uso do aplicativo</string>
+  <string name="usage_state_app_usage_list_title">"Tempo de tela do aplicativo hoje"</string>
+  <string name="usage_state_app_usage_list_week_title">"Tempo de tela do aplicativo (últimos 7 dias)"</string>
+  <string name="usage_state_app_usage_tip_title" formatted="false">Tempo de tela entre %d:00 e %d:00</string>
+  <string name="usage_state_app_use_time">Tempo de tela do aplicativo</string>
+  <string name="usage_state_channel_mouth">Últimos 30 dias</string>
+  <string name="usage_state_channel_week">Últimos 7 dias</string>
+  <string name="usage_state_device_noti_today_tip_title" formatted="false">Notificações entre %d:00 e %d:00</string>
+  <string name="usage_state_device_unlock_today_tip_title" formatted="false">Dispositivo desbloqueado entre %d:00 e %d:00</string>
+  <string name="usage_state_friday">Sexta-feira</string>
+  <string name="usage_state_go_more">Mais aplicativos</string>
+  <string name="usage_state_less_one_minute">Menos de 1 minuto</string>
+  <string name="usage_state_monday">Segunda-feira</string>
+  <string name="usage_state_mourth_day">"'Tempo de tela em' MMM d"</string>
+  <string name="usage_state_noti_mourth_day">"'Notificações em' MMM d"</string>
+  <string name="usage_state_notification">Gerenciar notificações</string>
+  <string name="usage_state_notification_manager">Gerenciar notificações dos aplicativos</string>
+  <string name="usage_state_remind_summary">Ative para receber alertas de tempo de ela. Você pode definir limites diferentes para dias de semana e finais de semana.</string>
+  <string name="usage_state_remind_title">Alerta de tempo de tela</string>
+  <string name="usage_state_rest_day">Finais de semana</string>
+  <string name="usage_state_saturday">Sábado</string>
+  <string name="usage_state_set_invalid_time_toast">"Não é possível definir um tempo menor que 1 minuto"</string>
+  <string name="usage_state_sunday">Domingo</string>
+  <string name="usage_state_thursday">Quinta-feira</string>
+  <string name="usage_state_today">Hoje</string>
+  <string name="usage_state_today_total_text">Tempo de tela hoje</string>
+  <string name="usage_state_tuesday">Terça-feira</string>
+  <string name="usage_state_unlock_mourth_day">"'Desbloqueado em' MMM d"</string>
+  <string name="usage_state_usage_time">Tempo de tela</string>
+  <string name="usage_state_usage_time_remind">Alerta de tempo de tela</string>
+  <string name="usage_state_use_time_remind_title">Alerta de tempo de tela</string>
+  <string name="usage_state_wednesday">Quarta-feira</string>
+  <string name="usage_state_week_day_hour_minute" formatted="false">Finais de semana: %dh %dm</string>
+  <string name="usage_state_week_total_text">Tempo de tela (últimos 7 dias)</string>
+  <string name="usage_state_which_mouth">MMM</string>
+  <string name="usage_state_work_day">Dias da semana</string>
+  <string name="usage_state_work_day_hour_minute" formatted="false">Finais de semana: %dh %dm</string>
+  <string name="usage_stats_normal_day">Dias da semana</string>
+  <string name="usage_stats_week_day">Finais de semana</string>
+  <string name="usagestats_app_category_miui_financial">Finanças</string>
+  <string name="usagestats_app_category_miui_game">Jogos</string>
+  <string name="usagestats_app_category_miui_life">Estilo de vida</string>
+  <string name="usagestats_app_category_miui_productivity">Produtividade</string>
+  <string name="usagestats_app_category_miui_reading">Leitura</string>
+  <string name="usagestats_app_category_miui_shopping">Compras</string>
+  <string name="usagestats_app_category_miui_social">Redes sociais</string>
+  <string name="usagestats_app_category_miui_system">Aplicativos do sistema</string>
+  <string name="usagestats_app_category_miui_tools">Ferramentas</string>
+  <string name="usagestats_app_category_miui_undefined">Outros</string>
+  <string name="usagestats_app_category_miui_video_etc">Música e vídeo</string>
+  <string name="usagestats_device_notification_des">Limite de tempo de tela para hoje: %s</string>
+  <string name="usagestats_device_notification_des_over">"Você já atingiu o limite de tempo de tela hoje."</string>
+  <string name="usagestats_device_notification_des_reset" formatted="false">Limite do tempo de tela para hoje: %s | %s restantes</string>
+  <string name="usagestats_device_notification_title">Alerta de tempo de tela</string>
+  <string name="usagestats_device_timeout_des" formatted="false">"Você usou seu dispositivo por %dh %dm hoje. Descanse um pouco!"</string>
+  <string name="usagestats_device_timeout_negative">Me lembre em 1 hora</string>
+  <string name="usagestats_device_timeout_positive">Entendido</string>
+  <string name="usagestats_device_timeout_title">Alerta de tempo de tela</string>
+  <string name="wifi_protection_on">Ativado</string>
+  <string name="wifi_protection_settings_title">Proteção de Wi-Fi</string>
+  <string name="wifi_protection_tip">A MIUI automaticamente desativa a proteção do Wi-Fi. Quando o dispositivo procura as redes Wi-Fi, automaticamente será criado um Endereço MAC para previnir que suas informações sejam roubadas.</string>
 </resources>

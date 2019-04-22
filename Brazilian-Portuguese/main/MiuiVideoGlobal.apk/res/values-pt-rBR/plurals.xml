@@ -16,4 +16,8 @@
         <item quantity="other">%d vídeos</item>
         <item quantity="one">%d vídeo</item>
     </plurals>
+	    <plurals name="subscriber">
+        <item quantity="other"> inscritos</item>
+        <item quantity="one"> inscrito</item>
+    </plurals>
 </resources>

@@ -267,7 +267,7 @@
     <string name="month_view">Mês</string>
     <string name="monthly">Mensalmente</string>
     <string name="monthly_on_day">Mensalmente (no mesmo dia)</string>
-    <string name="monthly_on_day_count">Mensalmente (todo(a) %1$s %2$s)</string>
+    <string name="monthly_on_day_count">Mensalmente (%1$s de cada mês)</string>
     <string name="network_not_available">Não é possível conectar-se à rede</string>
     <string name="new_event_description">Novo</string>
     <string name="new_event_dialog_label">Novo eveto</string>
@@ -467,4 +467,6 @@ Você ainda pode adicionar lembretes para que não perca nada importante."</stri
     <string name="xiaomi_calendar_display_name">Agenda da Conta Mi</string>
     <string name="yearly">Anualmente (em %s)</string>
     <string name="yearly_plain">Anualmente</string>
+	<string name="free_day_default_banner_title">Aproveite seu feriado!</string>
+	<string name="work_day_default_banner_title">Tenha um dia produtivo!</string>
 </resources>

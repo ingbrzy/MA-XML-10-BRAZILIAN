@@ -536,6 +536,14 @@
     <string name="unit_year">A</string>
     <string name="unit_year_format">Ano %s</string>
     <string name="unit_yuan">CNY</string>
+	<string name="app_notification_info">Calculadora está trabalhando em segundo plano</string>
+	<string name="btn_float_window_alpha">Ajustar opacidade</string>
+    <string name="btn_float_window_back_to_app">Maximizar a Calculadora</string>
+    <string name="btn_float_window_close">Fechar a Calculadora minimizada</string>
+    <string name="btn_float_window_resize">Reajustar a Calculadora minimizada</string>
+	<string name="float_window_guide_text">Toque aqui para minimizar a Calculadora</string>
+	<string name="hint_floatwindow_alpha_guide_text">Toque aqui para ajustar a opacidade</string>
+	<string name="view_float_window_move">Mover a Calculadora minimizada</string>
     <string name="voiceDesc">Controle por voz</string>
     <string name="wf_word_figure">Caracteres financeiros</string>
     <string name="word_figure_big_unit_fen">分</string>

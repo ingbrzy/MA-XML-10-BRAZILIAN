@@ -363,4 +363,6 @@
     <string name="catch_full_log_submit_directly">Enviar</string>
     <string name="catch_full_log_add_photo">Adicionar foto</string>
     <string name="select_system_app_tag">Selecione um problema</string>
+	<string name="feedback_description_hint_suggestion">"Diga-nos como você quer melhorar a MIUI."</string>
+	<string name="feedback_jira_key_place_holder">Criando Jira…</string>
 </resources>

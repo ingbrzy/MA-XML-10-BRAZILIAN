@@ -604,4 +604,8 @@ o fundo das suas fotos"</string>
     <string name="wideselfie_rotate_to_front">Incline o telefone para frente</string>
     <string name="wideselfie_rotate_to_left_slowly">Rotacione lentamente o telefone para a esquerda</string>
     <string name="wideselfie_rotate_to_right_slowly">Rotacione lentamente o telefone para a direita</string>
+	<string name="beauty_body_reset_tip">Os efeitos foram removidos com sucesso</string>
+	<string name="beauty_reset_toast">Os efeitos foram removidos com sucesso</string>
+	<string name="live_speed_fragment_tab_name">Velocidade de gravação</string>
+	<string name="user_notice_identify_summary_format">"Ao usar este serviço, você concorda com a %1$s e %2$s da Xiaomi. Você concorda em conectar-se à Internet?"</string>
 </resources>
