@@ -34,4 +34,24 @@
     <string name="gb_weixinpay_can_not_complete">Não é possível concluir o pagamento. Instale para continuar.</string>
     <string name="gb_alipays_can_not_complete">Não é possível concluir o pagamento. Instale para continuar.</string>
     <string name="xunyou_pay_webview">Serviços Xunyou</string>
+	<string name="abc_action_bar_home_description">Ir para a tela inicial</string>
+    <string name="abc_action_bar_up_description">Navegar para cima</string>
+    <string name="abc_action_menu_overflow_description">Mais opções</string>
+    <string name="abc_action_mode_done">Concluído</string>
+    <string name="abc_activity_chooser_view_see_all">Ver todos</string>
+    <string name="abc_activitychooserview_choose_application">Escolha um aplicativo</string>
+    <string name="abc_capital_off">Desativado</string>
+    <string name="abc_capital_on">Ativado</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Limpar consulta</string>
+    <string name="abc_searchview_description_query">Pesquisar consulta</string>
+    <string name="abc_searchview_description_search">Pesquisar</string>
+    <string name="abc_searchview_description_submit">Enviar consulta</string>
+    <string name="abc_searchview_description_voice">Pesquisa por voz</string>
+    <string name="abc_shareactionprovider_share_with">Compartilhar com</string>
+    <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
+    <string name="abc_toolbar_collapse_description">Fechar</string>
+	<string name="dual_app_title">Aplicativos clones</string>
+    <string name="dual_app_words">Toda conta merece seu próprio aplicativo</string>
+	<string name="search_menu_title">Pesquisar</string>
 </resources>

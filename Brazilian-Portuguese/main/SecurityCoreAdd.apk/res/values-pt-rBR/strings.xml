@@ -461,4 +461,6 @@ Certifique-se que o nome da sua empresa está correto. Leia e aceite as polític
     <string name="dialog_verify_fingerprint_retry">Não foi possível verificar sua impressão digital. Tente novamente.</string>
     <string name="button_touch">Coloque seu dedo no sensor</string>
     <string name="button_input_password">Inserir senha</string>
+	<string name="dual_animation">Iniciar animação</string>
+    <string name="dual_animation_description">Mostrar animaçao quando os aplicativos clones forem inicializados</string>
 </resources>

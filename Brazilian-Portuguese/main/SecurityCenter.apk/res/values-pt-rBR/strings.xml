@@ -2557,4 +2557,8 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
     <string name="securityadd_update_tips_message">Atualize o plugin de segurança para ter acesso aos últimos recursos dos jogos. %1$dMB serão baixados.</string>
     <string name="securityadd_update_tips_now">Atualizar</string>
     <string name="securityadd_update_tips_title">Atualizar</string>
+	<string name="power_save_ps_clean">Limpar cache sempre que o dispositivo estiver bloqueado</string>
+    <string name="power_save_ps_close_setting">Desativar serviços em segundo plano (sincronização, GPS) para economizar bateria</string>
+    <string name="power_save_ps_freeze">Congelar aplicativos em segundo plano</string>
+    <string name="power_save_ps_limit">Restringir a atividade de aplicativos do sistema</string>
 </resources>
