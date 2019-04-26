@@ -44,4 +44,6 @@
     <string name="avast_virus_type_trjan_description">Este vírus é um trojan. É um malware desenhado para fornecer acesso remoto a um dispositivo. Trojans geralmente não têm a habilidade de se replicarem no sistema como os vírus, entretanto, eles podem permitir que outros malwares sejam instalados, dados do usuário roubados ou outras atividades maliciosas.</string>
     <string name="avast_virus_type_unknown_description">Tipo desconhecido de infecção.</string>
     <string name="avast_virus_type_worm_description">Este vírus é um worm. É um malware stand-alone que se replica dentro do sistema para infectar outros dispositivos. Tira vantagem de transferência de dados ou arquivos do sistema e pode ser transmitido sem nenhuma ação do usuário. Worms quase sempre causam algum tipo de problema de rede.</string>
+	<string name="common_ids_permission_label">Permissões de ID comum do Avast</string>
 </resources>
+

@@ -267,7 +267,6 @@
     <string name="month_view">Mês</string>
     <string name="monthly">Mensalmente</string>
     <string name="monthly_on_day">Mensalmente (no mesmo dia)</string>
-    <string name="monthly_on_day_count">Mensalmente (%1$s de cada mês)</string>
     <string name="network_not_available">Não é possível conectar-se à rede</string>
     <string name="new_event_description">Novo</string>
     <string name="new_event_dialog_label">Novo eveto</string>

@@ -1952,4 +1952,16 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="zen_silence_introduction">Isto bloqueia TODOS os sons e vibrações, incluindo alarmes, músicas, vídeos e jogos.</string>
     <string name="zen_silence_introduction_voice">Isto bloqueia TODOS os sons e vibrações, incluindo alarmes, músicas, vídeos e jogos. Você ainda poderá fazer chamadas telefônicas.</string>
 	<string name="gxzw_use_password_to_unlock">Insira sua senha</string>
+	<string name="battery_low_button_not_open_power_save">Agora não</string>
+	<string name="battery_low_button_open_power_save">Ativar</string>
+	<string name="battery_low_percent_format_save_mode_closed">Menos de %d%% de bateria restantes. Carregue seu dispositivo.</string>
+	<string name="battery_low_percent_format_save_mode_open">Menos %d%% de bateria restantes. Ative a econoimia de bateria para poupar energia.</string>
+	<string name="battery_low_title_power_save">Economia de bateria</string>
+	<string name="dnd_notification_warnings_title">Ligações e notificações serão silenciadas até você desativar o DND</string>
+	<string name="face_data_manage_unlock_liftcamera_msg">Depois que a tela ligar, deslize para cima para desbloquear o dispositivo usando os dados faciais.</string>
+	<string name="face_unlock_fail_retry">"Não foi possível verificar seu rosto. Toque acima para tentar novamente."</string>
+	<string name="power_save_ps_clean">Limpar cache sempre que o dispositivo estiver bloqueado</string>
+    <string name="power_save_ps_close_setting">Desativar serviços em segundo plano (sincronização, GPS) para economizar bateria</string>
+    <string name="power_save_ps_freeze">Congelar aplicativos em segundo plano</string>
+    <string name="power_save_ps_limit">Restringir a atividade de aplicativos do sistema</string>
 </resources>

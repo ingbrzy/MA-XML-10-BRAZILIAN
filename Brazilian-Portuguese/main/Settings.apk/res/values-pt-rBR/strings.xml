@@ -4241,7 +4241,7 @@ Interface UT: %5$s"</string>
 "<li>dados móveis</li>"
 "<li>Bluetooth</li></string>
     <string name="reset_network_final_button_text">Redefinir configurações</string>
-    <string name="reset_network_final_desc">Redefinir todas as configurações de rede? Não é possível desfazer esta ação.</string>
+    <string name="reset_network_final_desc">Redefinir todas as configurações de rede? Pode demorar alguns segundos e não será possível desfazer esta ação.</string>
     <string name="reset_network_title">Redefinir Wi-Fi, rede móvel e Bluetooth</string>
     <string name="reset_network_wifi">Wi‑Fi</string>
     <string name="reset_second_space_passwd">Redefinir senha do segundo espaço</string>
@@ -6974,6 +6974,9 @@ Observações importantes: as notificações críticas para atividades e status 
   <string name="usagestats_device_timeout_positive">Entendido</string>
   <string name="usagestats_device_timeout_title">Alerta de tempo de tela</string>
   <string name="wifi_protection_on">Ativado</string>
-  <string name="wifi_protection_settings_title">Proteção de Wi-Fi</string>
+  <string name="wifi_protection_settings_title">Proteção contra solicitações de teste de Wi-Fi</string>
   <string name="wifi_protection_tip">A MIUI automaticamente desativa a proteção do Wi-Fi. Quando o dispositivo procura as redes Wi-Fi, automaticamente será criado um Endereço MAC para previnir que suas informações sejam roubadas.</string>
+  <string name="dc_light_dialog_summary">A qualidade da imagem pode ser afetada se o modo Anti-flicker estiver ativado. Ativar mesmo assim?</string>
+  <string name="dc_light_summary">Aplicar o DC Dimming para reduzir a fadiga dos olhos</string>
+  <string name="dc_light_title">Modo Anti-flicker</string>
 </resources>
