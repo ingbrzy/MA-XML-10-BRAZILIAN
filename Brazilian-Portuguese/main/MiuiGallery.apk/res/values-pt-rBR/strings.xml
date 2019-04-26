@@ -1394,4 +1394,6 @@ para personalizar a Galeria"</string>
     <string name="refocus_title">Desfoque</string>
     <string name="refocus_type_static">Nível de desfoque</string>
     <string name="refocus_type_video">Rastros de luz</string>
+	<string name="image_selection_title">Selecionar a melhor foto</string>
+	<string name="recommend_category_title">Imagens da galeria</string>
 </resources>
