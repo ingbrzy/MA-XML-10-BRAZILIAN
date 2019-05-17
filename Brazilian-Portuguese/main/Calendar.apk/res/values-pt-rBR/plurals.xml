@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Ndays">
-        <item quantity="other">%d dias antes</item>
-        <item quantity="one">%d dia antes</item>
+        <item quantity="other">%d dias antes do evento</item>
+        <item quantity="one">%d dia antes do evento</item>
     </plurals>
     <plurals name="Ndays_after_at">
         <item quantity="other">Em %1$d dias às %2$s</item>
         <item quantity="one">Em %1$d dia às %2$s</item>
     </plurals>
     <plurals name="Ndays_ago_at">
-        <item quantity="other">%1$d dias antes às %2$s</item>
-        <item quantity="one">%1$d dia antes às %2$s</item>
+        <item quantity="other">%1$d dias antes do evento às %2$s</item>
+        <item quantity="one">%1$d dia antes do evento às %2$s</item>
     </plurals>
     <plurals name="Nhours">
-        <item quantity="other">%d horas antes</item>
-        <item quantity="one">%d hora antes</item>
+        <item quantity="other">%d horas antes do evento</item>
+        <item quantity="one">%d hora antes do evento</item>
     </plurals>
     <plurals name="Nminutes">
-        <item quantity="other">%d minutos antes</item>
-        <item quantity="one">%d minuto antes</item>
+        <item quantity="other">%d minutos antes do evento</item>
+        <item quantity="one">%d minuto antes do evento</item>
     </plurals>
     <plurals name="Nweeks">
         <item quantity="other">%d semanas antes</item>
@@ -112,4 +112,19 @@
         <item quantity="other">Próximo lembrete em %1$d minutos</item>
         <item quantity="one">Próximo lembrete em %1$d minuto</item>
     </plurals>
+	<plurals name="reminder_custom_unit_day">
+        <item quantity="other">" dias"</item>
+        <item quantity="one">" dia"</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_hour">
+        <item quantity="other">" horas"</item>
+        <item quantity="one">" hora"</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_minute">
+        <item quantity="other">" minutos"</item>
+        <item quantity="one">" minuto"</item>
+    </plurals>
+    <plurals name="reminder_later_toast">
+        <item quantity="other">Próximo lembrete em %1$d minutos</item>
+        <item quantity="one">Próximo lembrete em %1$d minuto</item>
 </resources>

@@ -98,4 +98,6 @@
     <string name="screen_overlay_button">Abrir Configurações</string>
     <string name="screen_overlay_message">Para alterar esta permissão, você precisa desativar a sobreposição de tela em Configurações > Aplicativos instalados.</string>
     <string name="screen_overlay_title">Sobreposição de tela detectada</string>
+	<string name="HIPS_Perm_deamon_notification">Notificação permanente</string>
+	<string name="HIPS_Perm_deamon_notification_Desc">mostrar notificação permanente</string>
 </resources>

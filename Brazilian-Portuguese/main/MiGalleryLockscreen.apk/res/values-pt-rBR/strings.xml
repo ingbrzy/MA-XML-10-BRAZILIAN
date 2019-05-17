@@ -310,4 +310,23 @@
   <string name="wallpaper_relations_title">Recomendado</string>
   <string name="wlan_download">Atualizar apenas através de Wi-Fi</string>
   <string name="wlan_download_cn">Atualizar apenas através de Wi-Fi</string>
+  <string name="lks_left_top_notice">Toque aqui para voltar ao topo</string>
+  <string name="lks_left_top_notice_refresh">Toque para ver novos itens</string>
+  <string name="llks_setting_view_title">Tela adicional</string>
+  <string name="llks_simple_mode">Modo Lite</string>
+  <string name="llks_simple_mode_desc">Layout simplificado e atalhos adicionais</string>
+  <string name="llks_standard_mode">Padrão</string>
+  <string name="llks_standard_mode_desc">Papéis de parede, histórias e recomendações diárias</string>
+  <string name="llks_tools_gallery_name">Carrossel de papel de parede</string>
+  <string name="llks_tools_nfc_data">%s CNY</string>
+  <string name="llks_tools_nfc_name">NFC</string>
+  <string name="llks_tools_remote_control_name">Mi Remote</string>
+  <string name="llks_tools_smart_devices_name">Mi Home</string>
+  <string name="subscribe_apply_wp">Papel de parede aplicado à tela de bloqueio com sucesso</string>
+  <string name="subscribe_dlg_content">Cadastre-se para receber novos papéis de parede entregues à sua tela de bloqueio e receba saudações matinais.</string>
+  <string name="theme_apply_lockscreen_success">Aplicado com sucesso</string>
+  <string name="theme_close_maml">As imagens do Carrossel de papel de parede irão sobrepor o papel de parede da tela de bloqueio.</string>
+  <string name="theme_des_maml">"Outros componentes do tema selecionado não serão afetados. O tema será recarregado para aplicar as mudanças."</string>
+  <string name="theme_title_subscribe">Cadastrar-se para o carrossel de papel de parede</string>
+  <string name="toast_update_no_more_newest_feeds">Sem itens por hora</string>
 </resources>

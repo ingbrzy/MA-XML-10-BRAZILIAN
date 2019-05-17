@@ -637,4 +637,5 @@ Atualização incremental: %2$s"</string>
      <string name="xiaomi_update_dialog_title">Atualização disponível</string>
 	 <string name="err_no_gms">Versão incompatível do aplicativo. Instale esse aplicativo separadamente</string>
 	 <string name="trans_detail_item_app_data_skip_data">"Não é possível transferir dados do aplicativo"</string>
+	 <string name="phone_title">Configurações do telefone</string>
 </resources>

@@ -209,4 +209,7 @@ Verifique sua conexão e tente novamente."</string>
 	<string name="restore_network_pause">%s (Toque para continuar)</string>
     <string name="restore_network_unconnect">%s (Esperando por conexão)</string>
 	<string name="title_restore_with_current_network">Usando a conexão atual para baixar os arquivos</string>
+	<string name="hint_restore_cross_space">O layout da tela inicial pode ser exibido incorretamente se você transferir itens entre os espaços.</string>
+	<string name="selected">Selecionado</string>
+	<string name="unselected">Não selecionado</string>
 </resources>

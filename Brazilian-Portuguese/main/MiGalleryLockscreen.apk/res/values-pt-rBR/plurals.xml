@@ -24,4 +24,12 @@
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">%d minuto atrás</item>
     </plurals>
+	<plurals name="llks_tools_remote_control_data">
+        <item quantity="other">%d itens</item>
+        <item quantity="one">%d item</item>
+    </plurals>
+    <plurals name="llks_tools_smart_devices_data">
+        <item quantity="other">%d dispositivos</item>
+        <item quantity="one">%d dispositivo</item>
+    </plurals>
 </resources>

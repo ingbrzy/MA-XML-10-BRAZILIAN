@@ -468,4 +468,8 @@ Você ainda pode adicionar lembretes para que não perca nada importante."</stri
     <string name="yearly_plain">Anualmente</string>
 	<string name="free_day_default_banner_title">Aproveite seu feriado!</string>
 	<string name="work_day_default_banner_title">Tenha um dia produtivo!</string>
+	<string name="edit_event_custom_reminder_time_dup">Lembrete personalizado: %1$s</string>
+	<string name="edit_event_custom_reminder_title">Definir lembrete personalizado</string>
+	<string name="event_reminder_custom">Personalizado</string>
+	<string name="event_reminder_value_zero">Quando o evento começar</string>
 </resources>

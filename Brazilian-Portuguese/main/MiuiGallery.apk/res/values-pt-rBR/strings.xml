@@ -1396,4 +1396,20 @@ para personalizar a Galeria"</string>
     <string name="refocus_type_video">Rastros de luz</string>
 	<string name="image_selection_title">Selecionar a melhor foto</string>
 	<string name="recommend_category_title">Imagens da galeria</string>
+	<string name="ai_album_setting_key_word">Procurar por fotos</string>
+	<string name="base_btn_cancel">Cancelar</string>
+    <string name="base_btn_download">Baixar</string>
+	<string name="filter_category_sky">Céu</string>
+	<string name="filter_sky_cloudy">Núvem</string>
+    <string name="filter_sky_detect_forbidden_tips">"Não foi possível detectar o céu"</string>
+    <string name="filter_sky_download_failed">"Não foi possível baixar o plugin. Verifique suas configurações de rede e tente novamente."</string>
+    <string name="filter_sky_download_finish">Plugin baixado com sucesso</string>
+    <string name="filter_sky_download_sdk_without_wifi_msg">"Se você não está conectado ao Wi-Fi, você pode usar os dados móveis para baixar o plugin (%1$dMB) que permite substituir o céu nas suas fotos."</string>
+    <string name="filter_sky_download_sdk_without_wifi_title">Download plug-in</string>
+    <string name="filter_sky_dusk">Crepúsculo</string>
+    <string name="filter_sky_glow">Brilho</string>
+    <string name="filter_sky_rainbow">Aro-íris</string>
+    <string name="filter_sky_sunny">Ensolarado</string>
+    <string name="filter_sky_sunset">Por do sol</string>
+	<string name="trash_bin_key_word">Fotos excluídas</string>
 </resources>
