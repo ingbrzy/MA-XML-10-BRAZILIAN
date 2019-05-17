@@ -189,7 +189,6 @@
     <string name="event_info_when">Quando</string>
     <string name="event_info_where">Onde</string>
     <string name="event_reminder_allday_day_zero">No dia do evento às %2$s</string>
-    <string name="event_reminder_value_zero">Antes do evento</string>
     <string name="event_title">Título</string>
     <string name="event_view">Ver evento</string>
     <string name="every_weekday">De segunda à sexta</string>
