@@ -655,4 +655,20 @@ Para desativar este recureso, vá em Configurações &gt; Som e vibração &gt; 
     <string name="wallpaper_loop_title_desk_wallpaper">Apresentação de papéis de parede da tela inicial</string>
     <string name="wallpaper_loop_title_lock_walpaper">Apresentação de papéis de parede da tela de bloqueio</string>
 	<string name="wallpaper_set_as_float_wallpaper">Aplicar papel de parede transparente</string>
+	<string name="audition_ringtone">Tocar</string>
+	<string name="count_down_tip">%ds restantes</string>
+	<string name="like_list">Itens que eu gostarua</string>
+	<string name="playing_ringtone">Tocando</string>
+	<string name="trial_count_empty">Não há mais itens gratuitos hoje. Volte amanhã!</string>
+    <string name="trial_count_tip">O período de avaliação termina em %1$s:%2$s:%3$s</string>
+    <string name="trial_for_free">Avaliação gratuita</string>
+    <string name="trial_get_failed_tip">Termine de assistir este vídeo para acessar o tema.</string>
+    <string name="trial_get_success_tip">"Parabéns! Você agora tem uma avaliação de 3 dias."</string>
+    <string name="trial_now">Testar agora</string>
+    <string name="try_5_min">Testar por 5 minutos</string>
+	<string name="video_ad_click">Testar agora</string>
+    <string name="video_ad_try_for_free">Avaliação gratuita</string>
+    <string name="video_ad_uncomplete_tip">Termine de assistir este vídeo para acessar o tema.</string>
+    <string name="video_ad_uncomplete_tip_cancel">Cancelar</string>
+    <string name="video_ad_uncomplete_tip_continue">Continuar assistindo</string>
 </resources>

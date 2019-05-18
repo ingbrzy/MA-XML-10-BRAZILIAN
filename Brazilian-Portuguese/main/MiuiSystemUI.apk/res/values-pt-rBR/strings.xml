@@ -1154,7 +1154,7 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
     <string name="notification_low_battery_action_btn">Ativar</string>
     <string name="notification_low_battery_need_charge">A bateria está fraca. Carregue seu dispositivo.</string>
     <string name="notification_low_battery_open_save_mode">Ative a Economia de bateria</string>
-    <string name="notification_low_battery_title">Bateria fraca: %d%%</string>
+    <string name="notification_low_battery_title">Menos de %d%% de bateria restantes</string>
     <string name="notification_manager">Gerenciar notificações</string>
     <string name="notification_manager_des">Filtrar e gerenciar notificações</string>
     <string name="notification_menu_accessibility">%1$s %2$s</string>
@@ -1957,11 +1957,21 @@ Parece que o armazenamento de credenciais não está ativado."</string>
 	<string name="battery_low_percent_format_save_mode_closed">Menos de %d%% de bateria restantes. Carregue seu dispositivo.</string>
 	<string name="battery_low_percent_format_save_mode_open">Menos %d%% de bateria restantes. Ative a econoimia de bateria para poupar energia.</string>
 	<string name="battery_low_title_power_save">Economia de bateria</string>
-	<string name="dnd_notification_warnings_title">Ligações e notificações serão silenciadas até você desativar o DND</string>
+	<string name="dnd_notification_warnings_title">O DND está ativado. Ligações e notificações serão silenciadas</string>
 	<string name="face_data_manage_unlock_liftcamera_msg">Depois que a tela ligar, deslize para cima para desbloquear o dispositivo usando os dados faciais.</string>
 	<string name="face_unlock_fail_retry">"Não foi possível verificar seu rosto. Toque acima para tentar novamente."</string>
 	<string name="power_save_ps_clean">Limpar cache sempre que o dispositivo estiver bloqueado</string>
     <string name="power_save_ps_close_setting">Desativar serviços em segundo plano (sincronização, GPS) para economizar bateria</string>
     <string name="power_save_ps_freeze">Congelar aplicativos em segundo plano</string>
     <string name="power_save_ps_limit">Restringir a atividade de aplicativos do sistema</string>
+	<string name="choose_clock_title_left_top">Alinhado a esquerda</string>
+    <string name="choose_clock_title_middle">Centralizado</string>
+    <string name="choose_clock_title_vertical">Vertical</string>
+	<string name="face_unlock_success_show_message_dialog_msg">Permitir que as notificações na tela de bloqueia possam vê-los na tela de bloqueio.</string>
+    <string name="face_unlock_success_show_message_dialog_negative_btn">Não, obrigado</string>
+    <string name="face_unlock_success_show_message_dialog_positive_btn">Permitir</string>
+    <string name="face_unlock_success_show_message_dialog_title">Notificações da tela de bloqueio</string>
+    <string name="face_unlock_success_show_message_msg">Mostrar a origem da notificação apenas quando o dispositivo estiver bloqueado e adicione os detalhes da notificação depois que os dados faciais forem verificados</string>
+    <string name="face_unlock_success_show_message_title">Mostrar os detalhes da notificação depois de verificar os dados faciais</string>
+    <string name="face_unlock_success_show_message_toast">Notificações serão exibidas na tela de bloqueio</string>
 </resources>

@@ -28,4 +28,20 @@
         <item quantity="other">%1$d aplicativos encontrados</item>
         <item quantity="one">%1$d aplicativo encontrado</item>
     </plurals>
+	<plurals name="resource_rating">
+        <item quantity="other">%1$.1f pontos</item>
+        <item quantity="one">%1$.1f ponto</item>
+    </plurals>
+    <plurals name="ringtone_nums">
+        <item quantity="other">%1$s toques</item>
+        <item quantity="one">%1$s toque</item>
+    </plurals>
+	    <plurals name="trial_countdown_notification_tip">
+        <item quantity="other">"Você poderá tentar \"%2$s\" gratuitamente em %1$d horas"</item>
+        <item quantity="one">"Você poderá tentar \"%2$s\" gratuitamente em %1$d hora"</item>
+    </plurals>
+    <plurals name="try_3_day">
+        <item quantity="other">Avaliação de 3 dias (%1$d itens restantes para hoje)</item>
+        <item quantity="one">Avaliação de 3 dias (%1$d item restantes para hoje)</item>
+    </plurals>
 </resources>

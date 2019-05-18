@@ -210,7 +210,7 @@
     <string name="memory_clear_nothing_result">Nada a ser limpo na cache</string>
     <string name="memory_clear_result">%1$sB limpo(s)</string>
     <string name="menu_add">Adicionar</string>
-    <string name="menu_auto_fill">Preencher espaços vazios</string>
+    <string name="menu_auto_fill">Preencher espaços vazios de aplicativos desinstalados</string>
     <string name="menu_back_desktop">Voltar à tela inicial</string>
     <string name="menu_cell_setting">Layout da tela inicial</string>
     <string name="menu_customize">Configurações</string>
@@ -357,4 +357,16 @@
     <string name="widget_global_search">Pesquisar</string>
     <string name="widget_quick_function">Funções rápidas</string>
 	<string name="widgets_preview_title">Adicionar widget</string>
+	<string name="edit_mode_dual_app">Criar aplicativo duplicado</string>
+	<string name="edit_mode_group_error_cant_delete_system_apps">"Não é possível desinstalar aplicativos do sistema"</string>
+	<string name="edit_mode_group_error_nothing_be_selected">Selecione um aplicativo primeiro</string>
+	<string name="home_gesture_content_center">Centro de conteúdo</string>
+    <string name="home_gesture_global_search">Pesquisar</string>
+    <string name="home_gesture_no_action">Nenhum</string>
+    <string name="home_gesture_notification_bar">Notificações</string>
+	<string name="home_pull_down_action">Deslize para baixo na tela inicial</string>
+	<string name="home_slide_up_action">Deslize para cina na tela inicial</string>
+	<string name="launcher_pull_down_title">Deslize para baixo na tela inicial</string>
+    <string name="launcher_slide_up_title">Deslize para cina na tela inicial</string>
+	<string name="minus_one_screen">Cofre de aplicativos</string>
 </resources>

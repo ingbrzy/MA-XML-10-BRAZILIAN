@@ -392,20 +392,20 @@ Para ver mais informações sobre esses certificados, entre em contato com seu a
         <item quantity="one">Alterar para \"Somente alarmes\" por %1$d minutos (até %2$s)</item>
     </plurals>
 	    <plurals name="usage_state_device_explain_today">
-        <item quantity="other">Desbloqueado %d vezes hoje</item>
-        <item quantity="one">Desbloqueado %d vez hoje</item>
+        <item quantity="other">Desbloqueado %d vezes</item>
+        <item quantity="one">Desbloqueado %d vez</item>
     </plurals>
     <plurals name="usage_state_device_explain_week">
-        <item quantity="other">Desbloqueado %d vezes nos últimos 7 dias</item>
-        <item quantity="one">Desbloqueado %d vez nos últimos 7 dias</item>
+        <item quantity="other">Desbloqueado %d vezes</item>
+        <item quantity="one">Desbloqueado %d vez</item>
     </plurals>
     <plurals name="usage_state_device_noti_explain_today">
-        <item quantity="other">Recebidas %d notificações hoje</item>
-        <item quantity="one">Recebida %d notificação hoje</item>
+        <item quantity="other">Recebidas %d notificações</item>
+        <item quantity="one">Recebida %d notificação</item>
     </plurals>
     <plurals name="usage_state_device_noti_explain_week">
-        <item quantity="other">Recebidas %d notificações nos últimos 7 dias</item>
-        <item quantity="one">Recebida %d notificação nos últimos 7 dias</item>
+        <item quantity="other">Recebidas %d notificações</item>
+        <item quantity="one">Recebida %d notificação</item>
     </plurals>
     <plurals name="usage_state_hour">
         <item quantity="other">%d horas</item>

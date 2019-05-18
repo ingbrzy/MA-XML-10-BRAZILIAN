@@ -463,4 +463,6 @@ Certifique-se que o nome da sua empresa está correto. Leia e aceite as polític
     <string name="button_input_password">Inserir senha</string>
 	<string name="dual_animation">Iniciar animação</string>
     <string name="dual_animation_description">Mostrar animaçao quando os aplicativos clones forem inicializados</string>
+	<string name="close_kid_space_success">Espaço infantil excluído</string>
+	<string name="kid_mode_label">Espaço infantil</string>
 </resources>
