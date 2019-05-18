@@ -1412,4 +1412,7 @@ para personalizar a Galeria"</string>
     <string name="filter_sky_sunny">Ensolarado</string>
     <string name="filter_sky_sunset">Por do sol</string>
 	<string name="trash_bin_key_word">Fotos excluídas</string>
+	<string name="month_view_tip_sub_title">Toque na tela para mudar para a visualização mensal</string>
+    <string name="month_view_tip_title">Visualização mensal</string>
+	<string name="month_view_tip_button_text">Entendido</string>
 </resources>
