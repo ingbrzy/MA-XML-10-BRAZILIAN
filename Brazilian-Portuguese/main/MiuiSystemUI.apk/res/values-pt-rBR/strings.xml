@@ -1974,4 +1974,9 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="face_unlock_success_show_message_msg">Mostrar a origem da notificação apenas quando o dispositivo estiver bloqueado e adicione os detalhes da notificação depois que os dados faciais forem verificados</string>
     <string name="face_unlock_success_show_message_title">Mostrar os detalhes da notificação depois de verificar os dados faciais</string>
     <string name="face_unlock_success_show_message_toast">Notificações serão exibidas na tela de bloqueio</string>
+	<string name="keyguard_charging_normal_and_level_tip">Carregando %d%%</string>
+    <string name="keyguard_charging_quick_and_level_tip">Carregando rapidamente %d%%</string>
+    <string name="keyguard_charging_super_quick_and_level_tip">Carregando rapidamente %d%%</string>
+	<string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">Mais</string>
+    <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">Entre</string>
 </resources>

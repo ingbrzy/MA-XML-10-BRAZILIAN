@@ -389,4 +389,6 @@ Faça o login em sua Conta Mi para reativar a Mi Cloud."</string>
 	<string name="provision_sync_items_loading">Preparando para sincronizar itens</string>
 	<string name="user_detail_agreement">Acordo de uso</string>
 	<string name="user_detail_privacy_policy">Política de privacidade</string>
+	<string name="micloud_main_sync_mode_summary">"O item acima será sincronizado em tempo real quando este recurso estiver ativado. Isso pode aumentar o consumo do sistema."</string>
+    <string name="micloud_main_sync_mode_title">Sincronizar em tempo real</string>
 </resources>

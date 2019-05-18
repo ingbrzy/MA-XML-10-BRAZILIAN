@@ -907,4 +907,6 @@ Lembre-se de que os arquivos que você baixar e favoritos que adicionar serão s
     <string name="weather_location_confirm_message">Desativar esta função pode afetar a usabilidade.</string>
     <string name="weather_publish_time">Atualizado às %1$s</string>
     <string name="webpage_title">Favoritos e histórico</string>
+	<string name="document_open_txt_message">Para aumentar sua experiência de leitura e segurança, use o Bookshelf</string>
+	<string name="document_open_txt_start_read">Começar a ler</string>
 </resources>

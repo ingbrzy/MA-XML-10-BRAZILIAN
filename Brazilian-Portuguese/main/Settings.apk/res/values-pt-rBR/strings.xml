@@ -6998,8 +6998,11 @@ Observações importantes: as notificações críticas para atividades e status 
     <string name="choose_unlock_fingerprint_msg">Escolha um bloqueio de tela antes de registrar as impressões digitais.</string>
     <string name="fingerprint_wakeup_summary">Ligue a tela quando nenhuma impressão digital for registrada.</string>
     <string name="fingerprint_wakeup_title">Toque no senhor de impressão digital para ligar</string>
-	<string name="miui_lab_gesture_desc">Desabilite os botões físicos e aprecie os gestos em tela cheia</string>
+	<string name="miui_lab_gesture_desc">Use gestos ao invés de botões para navegação</string>
     <string name="miui_lab_gesture_title">Gestos em tela cheia</string>
 	<string name="search_ambient_display_screen_title">Tela ambiente</string>
 	<string name="search_doze_always_on_title">Sempre ligado</string>
+	<string name="dc_light_summary_new">DC Dimming reduz a fadiga dos olhos em condições de baixa luz. No entanto, qualidade de imagem pode ser afetada quando o modo Anti-flicker estiver ativado.</string>
+	<string name="search_add_facerecoginition_text">Desbloqueio facial;Reconhecimento facial</string>
+	<string name="search_manage_facerecoginition_text">Desbloqueio facial;Reconhecimento facial</string>
 </resources>

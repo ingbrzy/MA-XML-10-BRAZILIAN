@@ -635,7 +635,10 @@ Tamanho: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Introduzindo a versão %1$s
 Atualização incremental: %2$s"</string>
      <string name="xiaomi_update_dialog_title">Atualização disponível</string>
-	 <string name="err_no_gms">Versão incompatível do aplicativo. Instale esse aplicativo separadamente</string>
+	 <string name="err_no_gms">Versão incompatível do aplicativo. Instale esse aplicativo separadamente.</string>
 	 <string name="trans_detail_item_app_data_skip_data">"Não é possível transferir dados do aplicativo"</string>
 	 <string name="phone_title">Configurações do telefone</string>
+	 <string name="dialog_app_upgrade_download">Atualizar</string>
+     <string name="dialog_app_upgrade_exit">Sair</string>
+     <string name="dialog_app_upgrade_message">Uma nova versão do Mi Mover está disponível. Atualizar o Mi Mover agora?</string>
 </resources>
