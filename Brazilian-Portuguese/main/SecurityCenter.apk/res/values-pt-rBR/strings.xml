@@ -2338,8 +2338,7 @@ Você não perderá nenhum dado de aplicativos."</string>
     <string name="privacy_apps_enable_summary">Mova aplicativos para uma pasta oculta e remova seus atalhos da tela inicial</string>
     <string name="privacy_apps_manage">Gerenciar aplicativos ocultos</string>
     <string name="privacy_apps_tutorial">Tutorial</string>
-    <string name="privacy_apps_tutorial_prompt_pageone">"Quando você oculta um aplicativo, ele é movido para uma pasta oculta. O seu atalho na tela inicial também é ocultado.
-Este recurso não é suportado para aplicativos de sistema."</string>
+    <string name="privacy_apps_tutorial_prompt_pageone">Este recurso permite que você esconda ícones de aplicativos, assim não irão mais aparecer na tela inicial.</string>
     <string name="privacy_apps_tutorial_prompt_pagetwo">Use o gesto de pinça na tela. Você verá uma mensagem solicitando a sua senha de Bloqueio de aplicativos.</string>
     <string name="privacy_apps_tutorial_prompt_pagethree">Depois de inserir a senha, a pasta com os aplicativos ocultos aparecerá.</string>
     <string name="privacy_apps_manage_dialog_title">Sobre os aplicativos ocultos</string>
@@ -2571,5 +2570,4 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
 	<string name="gs_show_way">Orientação da tela inicial</string>
     <string name="gs_show_way_horizontal">Horizontal</string>
     <string name="gs_show_way_vertical">Vertical</string>
-	<string name="privacy_apps_tutorial_prompt_pageone">Este recurso permite que você esconda ícones de aplicativos, assim não irão mais aparecer na tela inicial.</string>
 </resources>
