@@ -354,6 +354,7 @@
         <item>10 minutos</item>
         <item>15 minutos</item>
         <item>30 minutos</item>
+		<item>1 hora</item>
     </string-array>
 	<string-array name="repeat_monthly_on_day_count_values">
         <item>primeira segunda-feira</item>
@@ -391,5 +392,13 @@
         <item>última sexta-feira</item>
         <item>último sábado</item>
         <item>último domingo</item>
+    </string-array>
+	<string-array name="close_alarm_repeating_labels">
+        <item>Apenas desta vez</item>
+        <item>Desativar lembretes repetidos</item>
+    </string-array>
+	 <string-array name="open_alarm_repeating_labels">
+        <item>Apenas desta vez</item>
+        <item>Definir alarmes repetidos</item>
     </string-array>
 </resources>

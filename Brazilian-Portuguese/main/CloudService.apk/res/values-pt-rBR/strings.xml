@@ -309,7 +309,7 @@ Faça o login em sua Conta Mi para reativar a Mi Cloud."</string>
     <string name="micloud_find_device_close_alert_content">Se você desativar este recurso, você não conseguirá localizar seu dispositivo caso ele seja perdido.</string>
     <string name="micloud_find_device_close_alert_positive">Manter ativo</string>
     <string name="micloud_find_device_close_alert_negtive">Desativar mesmo assim</string>
-    <string name="find_device_gdpr_prompt">Ao ativar o Encontrar dispositivo, você está concordando com a nossa Política de Privacidade. Se você precisar revogar a autorização, desative este recurso.</string>
+    <string name="find_device_gdpr_prompt">Ao ativar o Encontrar dispositivo, você está concordando com &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;Privacy Policy&lt;/a&gt;&lt;/u&gt;. Se você precisar revogar a autorização, desative este recurso.</string>
     <string name="find_device_gdpr_prompt_policy_doc_name">Política de Privacidade</string>
     <string name="activate_finddevice">Conecte-se à internet para ativar o dispositivo</string>
     <string name="account_related">Este dispositivo já está associado a uma Conta Mi (%s). Conecte-se à internet para ativar o dispositivo.</string>

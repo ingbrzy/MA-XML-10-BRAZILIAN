@@ -641,4 +641,8 @@ Atualização incremental: %2$s"</string>
 	 <string name="dialog_app_upgrade_download">Atualizar</string>
      <string name="dialog_app_upgrade_exit">Sair</string>
      <string name="dialog_app_upgrade_message">Uma nova versão do Mi Mover está disponível. Atualizar o Mi Mover agora?</string>
+	 <string name="dialog_backup_password_backup_tips">"Não é possível fazer backup dos itens quando a senha estiver ativada. Desative a senha do backup."</string>
+     <string name="dialog_backup_password_cancel">Cancelar</string>
+     <string name="dialog_backup_password_change_machine_tips">"Você não poderá transferir backups protegidos por senha. Desative a senha do backup antes de usar o Mi Mover."</string>
+     <string name="dialog_backup_password_to_settings">Configurações</string>
 </resources>

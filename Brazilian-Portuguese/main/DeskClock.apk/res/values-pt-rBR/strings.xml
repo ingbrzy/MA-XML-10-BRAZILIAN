@@ -258,4 +258,5 @@
     <string name="worldcolock_timezone_date">"dd 'de' MMMM"</string>
     <string name="worldcolock_timezone_gap">Hora</string>
     <string name="worldcolock_timezone_local">Mesmo que a hora local</string>
+	<string name="update_notification_info">Atualizando dados em segundo plano…</string>
 </resources>
