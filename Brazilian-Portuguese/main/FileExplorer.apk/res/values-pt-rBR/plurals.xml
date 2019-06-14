@@ -196,14 +196,6 @@
         <item quantity="other">Você conseguiu &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> pontos</item>
         <item quantity="one">Você conseguiu &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> ponto</item>
     </plurals>
-    <plurals name="days_ago">
-        <item quantity="other">%1$d dia atrás</item>
-        <item quantity="zero">%1$d dias atrás</item>
-        <item quantity="one">%1$d dias atrás</item>
-        <item quantity="two">%1$d dias atrás</item>
-        <item quantity="few">%1$d dias atrás</item>
-        <item quantity="many">%1$d dias atrás</item>
-    </plurals>
     <plurals name="gems">
         <item quantity="other">%1$s jóias</item>
         <item quantity="one">%1$s jóia</item>
@@ -211,7 +203,7 @@
     <plurals name="original_user_days">
         <item quantity="other">• &lt;font color=#fc7050>%1$d&lt;/font> dias</item>
         <item quantity="one">• &lt;font color=#fc7050>%1$d&lt;/font> dia</item>
-    </plurals
+    </plurals>
     <plurals name="original_user_fans">
         <item quantity="other">• You got &lt;font color=#fc7050>%1$s&lt;/font> seguidores!</item>
         <item quantity="one">• You got &lt;font color=#fc7050>%1$s&lt;/font> seguidor!</item>

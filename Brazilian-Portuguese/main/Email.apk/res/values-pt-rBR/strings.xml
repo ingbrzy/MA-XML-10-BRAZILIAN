@@ -1087,5 +1087,4 @@ Toque em "<b>Sincronizar Agora</b> para sincronizar os e-mails uma vez, ou <b>Al
 	<string name="update_domain_summary">Atualizar lista de domínios e configurações</string>
     <string name="update_domain_title">Atualizar domínio</string>
 	<string name="wait_while_update_db">Wait a moment during database upgrade please!</string>
-    <string name="webview_logout">Você pode tentar entrar novamente</string>
 </resources>
