@@ -48,4 +48,20 @@
         <item quantity="other">Você pode enviar um comentário novamente em %1$s segundos</item>
         <item quantity="one">Você pode enviar um comentário novamente em %1$s segundo</item>
     </plurals>
+	    <plurals name="tts_report_temperature_high_centigrade">
+        <item quantity="other">Maior temperatura: %1$s graus Celsius</item>
+        <item quantity="one">Maior temperatura: %1$s grau Celsius</item>
+    </plurals>
+    <plurals name="tts_report_temperature_high_fahrenheit">
+        <item quantity="other">Maior temperatura: %1$s graus Fahrenheit</item>
+        <item quantity="one">Maior temperatura: %1$s grau Fahrenheit</item>
+    </plurals>
+    <plurals name="tts_report_temperature_low_centigrade">
+        <item quantity="other">Menor temperatura: %1$s graus Celsius</item>
+        <item quantity="one">Menor temperatura: %1$s grau Celsius</item>
+    </plurals>
+    <plurals name="tts_report_temperature_low_fahrenheit">
+        <item quantity="other">Menor temperatura: %1$s graus Fahrenheit</item>
+        <item quantity="one">Menor temperatura: %1$s grau Fahrenheit</item>
+    </plurals>
 </resources>

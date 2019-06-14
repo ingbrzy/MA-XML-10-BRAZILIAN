@@ -2570,4 +2570,13 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
 	<string name="gs_show_way">Orientação da tela inicial</string>
     <string name="gs_show_way_horizontal">Horizontal</string>
     <string name="gs_show_way_vertical">Vertical</string>
+	<string name="notification_battery_scan_consume_abnormal_summary">Toque para corrigir o problema</string>
+    <string name="notification_battery_scan_consume_abnormal_title_set">%s está gastando bateria</string>
+	<string name="pc_abnormal_scan_button_text">Fechar aplicativos</string>
+    <string name="pc_abnormal_scan_reason_prevent_standby">Impede que o sistema entre em modo standby</string>
+    <string name="pc_abnormal_scan_reason_reconnect">Tente reconectar à rede com maior frequência</string>
+    <string name="pc_abnormal_scan_reason_runtime_exception">Executa anormalmente</string>
+    <string name="pc_abnormal_scan_reason_scan_wifi">Procura por Wi-Fi com maior frequência</string>
+    <string name="pc_abnormal_scan_reason_use_GPS">Usa servidores de localização com maior frequência</string>
+    <string name="pc_abnormal_scan_reason_wake_system">Acorda o sistema com maior frequência</string>
 </resources>

@@ -839,7 +839,7 @@ Apps:
     <string name="bluetooth_device_context_unpair">Cancelar pareamento</string>
     <string name="bluetooth_device_details">Configurações do dispositivo</string>
     <string name="bluetooth_device_mac_address">Endereço Bluetooth do dispositivo: %1$s</string>
-    <string name="bluetooth_device_misc_title">Dispositivos Bluetooth raramente usados</string>
+    <string name="bluetooth_device_misc_title">Dispositivos raramente usados</string>
     <string name="bluetooth_device_name">Nome:</string>
     <string name="bluetooth_device_name_summary">Visível como \"^1\" para outros dispositivos</string>
     <string name="bluetooth_device_searchable">Detectável</string>
@@ -7007,4 +7007,22 @@ Observações importantes: as notificações críticas para atividades e status 
 	<string name="search_manage_facerecoginition_text">Desbloqueio facial;Reconhecimento facial</string>
 	<string name="dark_color_mode">Modo escuro</string>
     <string name="dark_color_summary">Use a paleta de cores escuras para o sistema e aplicativos compatíveis</string>
+	<string name="color_led_applications_title">Selecionar aplicativos</string>
+    <string name="color_led_applications_title_summary">Você pode restringir o uso da luz do LED para aplicativos individuais </string>
+    <string name="color_led_battery_title">Manter aceso enquanto estiver carregando</string>
+    <string name="color_led_end_time">Tempo de fim</string>
+    <string name="color_led_game_mode_title">Game Turbo</string>
+    <string name="color_led_hint">Selecione situações onde a luz do LED deverá ser usada. A luz do LED irá acender quando a tela estiver para baixo e o Modo DND estiver desativado.</string>
+    <string name="color_led_incall_pulse_title">Piscar para chamadas recebidas</string>
+    <string name="color_led_lucky_dialog_message">Este recurso requer o uso do assistente Red Envelope. Ativar agora?</string>
+    <string name="color_led_lucky_dialog_title">Ativar o assistente Red Envelope</string>
+    <string name="color_led_music_mode_summary">Mostrar efeitos ritmicos de luz quando reproduzir músicas</string>
+    <string name="color_led_music_mode_title">Música</string>
+    <string name="color_led_notification_pulse_title">Pulsar para notificações</string>
+    <string name="color_led_red_more_feature">Efeitos especiais</string>
+    <string name="color_led_red_package_title">Red Envelopes</string>
+    <string name="color_led_start_time">Tempo de início</string>
+    <string name="color_led_title">Luz do LED</string>
+	<string name="toggle_auto_speaker_preference_summary">O dispositivo irá alternar para os falantes quando você afastá-lo da orelha. Este recurso funcionará apenas se o TalkBack estiver ativado.</string>
+    <string name="toggle_auto_speaker_preference_title">Alternar falantes automaticamente</string>
 </resources>

@@ -78,7 +78,7 @@ Alterá-los agora?"</string>
     <string name="account_setup_check_settings_check_incoming_msg">Validando as configurações do servidor…</string>
     <string name="account_setup_check_settings_check_outgoing_msg">Validando configurações de SMTP…</string>
     <string name="account_setup_check_settings_retr_info_msg">Recuperando informações sobre a conta…</string>
-    <string name="account_setup_correct_address_tips">Inserir endereço de e-mail</string>
+    <string name="account_setup_correct_address_tips">O endereço de e-mail que você usou é inválido</string>
     <string name="account_setup_creating_account_msg">Criando conta…</string>
     <string name="account_setup_deleting_account_msg">"    Removendo conta…"</string>
     <string name="account_setup_exchange_certificate_title">Certificado do cliente</string>
@@ -546,38 +546,48 @@ Alterá-los agora?"</string>
     <string name="me_subject_pronun">eu</string>
     <string name="meeting_accepted">"
         Aceito:
-%s "</string>
+		%s 
+    "</string>
     <string name="meeting_allday">"
         Quando:
-%s (o dia todo)
+		%s
+        (o dia todo)
     "</string>
     <string name="meeting_allday_recurring">"
         Quando:
-%s (o dia todo, recorrente)
+		%s 
+        (o dia todo, recorrente)
     "</string>
     <string name="meeting_canceled">"
         Cancelado:
-%s "</string>
+		%s 
+    "</string>
     <string name="meeting_declined">"
         Rejeitado:
-%s "</string>
+		%s 
+    "</string>
     <string name="meeting_recurring">"
         Quando:
-%s (recorrente)
+		%s
+        (recorrente)
     "</string>
     <string name="meeting_responded_failed">Sem respsota</string>
     <string name="meeting_tentative">"
         Talvez:
-%s "</string>
+		%s
+    "</string>
     <string name="meeting_updated">"
         Atualizado:
-%s "</string>
+		%s
+    "</string>
     <string name="meeting_when">"
         Quando:
-%s "</string>
+		%s
+    "</string>
     <string name="meeting_where">"
         Onde:
-%s "</string>
+		%s
+    "</string>
     <string name="megabytes">%sMB</string>
     <string name="menu_att_mgr">Anexos</string>
     <string name="menu_att_mgr_order_default">Visualizado recentemente</string>
@@ -969,7 +979,7 @@ para receber lembretes sobre pagamentos e viagens"</string>
     <string name="three_day">3 dias</string>
     <string name="to">Para</string>
     <string name="to_heading">"Para: "</string>
-    <string name="toast_bar_fail_synchronization">Não foi possível conectar-se à rede</string>
+    <string name="toast_bar_fail_synchronization">Não foi possível conectar-se ao servidor. Espere um ou dois minutos e tente novamente</string>
     <string name="toast_bar_insufficient_memory_space">Não é possível receber e-mails. Não há espaço de armazenamento suficiente.</string>
     <string name="toast_bar_invalid_account">A informação da conta expirou. Toque para fazer o login novamente.</string>
     <string name="toast_bar_no_connection_network">Você não possui uma conexão com a internet</string>
@@ -1037,7 +1047,7 @@ Toque em "<b>Sincronizar Agora</b> para sincronizar os e-mails uma vez, ou <b>Al
     <string name="widget_large_unread_count">%d+</string>
     <string name="widget_other_views">Outros</string>
     <string name="wipe_account_fail_description">Permitir</string>
-	<string name="wipe_account_fail_description_remind">Devido à permissão de dados, poderão haver dados residuais no calendário e contatos após a exclusão da conta. Por favor, exclua manualmente.</string>
+	<string name="wipe_account_fail_description_remind">Devido às restrições de uso, poderão haver dados residuais no calendário e contatos após a exclusão da conta. Por favor, exclua manualmente.</string>
     <string name="wipe_account_fail_title">Não foi possível excluir informações pessoais</string>
     <string name="wrong_password">A senha inserida está incorreta</string>
     <string name="yes">Sim</string>
@@ -1047,4 +1057,36 @@ Toque em "<b>Sincronizar Agora</b> para sincronizar os e-mails uma vez, ou <b>Al
     <string name="account_settings_preference_add_account">Adicionar conta de e-mail</string>
     <string name="mailbox_name_display_add_account">Adicionar conta de e-mail</string>
     <string name="update_to_wps_mail">Aproveite mais recursos com o WPS Mail</string>
+	<string name="add_account_search">Adicionar conta</string>
+	<string name="add_file_exception">"Não foi possível adicionar. Tente adicionar esse anexo de outro lugar."</string>
+	<string name="appraise_des">Você gosta do nosso aplicativo?</string>
+    <string name="appraise_good">Sim</string>
+    <string name="appraise_ignore">"Não consigo dizer agora"</string>
+    <string name="appraise_negative">Não</string>
+	<string name="attachment_opening_mode">Aplicativos para anexo</string>
+	<string name="default_opening_attchemnt_mode">Abrir anexos usando aplicativos padrão</string>
+	<string name="delete_contact_content">Excluir essa conta agora?</string>
+	<string name="dialog_disagree">"Não concordar"</string>
+	<string name="have_auth_code">Eu tenho um código</string>
+	<string name="help_me_get_qq_auth">Obter código QQ</string>
+	<string name="list_empty_to_fresh">Sem e-mails ainda.</string>
+	<string name="local_search_result">%s resultados em mensagens sincronizadas</string>
+	<string name="login_err_message">A senha que você inseriu está incorreta. Você também precisa de um código de verificação para entrar. Se você precisar criar uma nova senha, visite https://email.163.com/ para ver as opções disponíveis pra você.</string>
+	<string name="notify_channel_new_mail">Notificar sobre novas mensagens</string>
+    <string name="notify_channel_no_disterb">Modo DND</string>
+    <string name="notify_channel_permission_notice">Permissões requieridas</string>
+    <string name="notify_channel_send_fail">Notificar sobre falha em envios</string>
+    <string name="notify_channel_service">Notificar sobre falha de sincronização</string>
+	<string name="open_androidp_warning">Avisar sobre SDKs 9.0 não oficiais</string>
+	<string name="print_scheduler_title">Agenda de impressões</string>
+	<string name="privacy_des">"Logs contém informações de depuração do cliente de e-mail e informações do seu dispositivo. Essas informações são usadas para localizar problemas rapidamente. Ao tocar \"%1$s\" abaixo, você está concordando com nossa \"%2$s\"."</string>
+	<string name="qq_login_notice">"Nota: Se você já definiu a senha, você deverá verificar ela quando entrar."</string>
+	<string name="qq_pwd_or_qq_auth_code">Enter QQ code or email password</string>
+	<string name="recommend_protocal">Protocolo de recomendação</string>
+	<string name="remote_no_mail">"Não há mais e-mails no servidor."</string>
+	<string name="toast_bar_sync_failed_mi_authority">"Não foi possível sincronizar. Espere um minuto ou dois e tente novamente. Se você está entrando pela primeira vez, autorize seu dispositivo pela Intranet ou token SMS."</string>
+	<string name="update_domain_summary">Atualizar lista de domínios e configurações</string>
+    <string name="update_domain_title">Atualizar domínio</string>
+	<string name="wait_while_update_db">Wait a moment during database upgrade please!</string>
+    <string name="webview_logout">Você pode tentar entrar novamente</string>
 </resources>

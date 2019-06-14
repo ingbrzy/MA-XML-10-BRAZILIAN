@@ -396,4 +396,12 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
         <item quantity="other">%d recursos</item>
         <item quantity="one">%d recurso</item>
     </plurals>
+	    <plurals name="notification_battery_scan_consume_abnormal_title_split">
+        <item quantity="other">%2$d aplicativos, incluindo %1$s, estão gastando bateria</item>
+        <item quantity="one">%2$d aplicativo, incluindo %1$s, está gastando bateria</item>
+    </plurals>
+    <plurals name="pc_abnormal_scan_result_model_result_title">
+        <item quantity="other">%d aplicativos estão gastando bateria</item>
+        <item quantity="one">%d aplicativo está gastando bateria</item>
+    </plurals>
 </resources>

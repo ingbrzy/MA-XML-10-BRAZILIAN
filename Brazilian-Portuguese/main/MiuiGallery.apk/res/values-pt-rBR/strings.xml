@@ -1415,4 +1415,7 @@ para personalizar a Galeria"</string>
 	<string name="month_view_tip_sub_title">Toque na tela para mudar para a visualização mensal</string>
     <string name="month_view_tip_title">Visualização mensal</string>
 	<string name="month_view_tip_button_text">Entendido</string>
+	<string name="clear_dup_medias">Limpar fotos duplicadas</string>
+    <string name="clear_dup_success">Limpeza feita com sucesso</string>
+    <string name="clear_dup_tip">Limpando fotos duplicadas</string>
 </resources>
