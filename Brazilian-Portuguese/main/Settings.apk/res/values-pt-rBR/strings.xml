@@ -283,7 +283,7 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, aplicativo
     <string name="allow_bind_app_widget_activity_allow_bind_title">Criar widget e permitir acesso?</string>
     <string name="allow_bind_app_widget_activity_always_allow_bind">Sempre permitir que %1$s crie widgets e acesse os dados</string>
     <string name="allow_data_usage_title">Permitir usar dados em roaming</string>
-    <string name="allow_device_id_access">Aplicativos com acesso à ID do Dispositivo</string>
+    <string name="allow_device_id_access">Selecione aplicativos que podem usar o ID do dispositivo</string>
 	<string name="allow_float_summary">Permitir notificações flutuantes</string>
 	<string name="allow_float_title">Notificações flutuantes</string>
     <string name="allow_interruption">Permitir interrupções</string>
@@ -1035,7 +1035,7 @@ Taxa de amostra"</string>
     <string name="bluetooth_unlock_change_device_confirm_msg">O dispositivo antigo será substituído pelo atual.</string>
     <string name="bluetooth_unlock_change_matched_device">Escolha outro dispositivo</string>
     <string name="bluetooth_unlock_confirm_device_text">Toque no dispositivo Bluetooth para confirmar.</string>
-    <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Toque no botão do relógio para desbloquear.</string>
+    <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Confirme no relógio.</string>
     <string name="bluetooth_unlock_confirm_device_text_for_miband2">Toque no botão do dispositivo para desbloquear.</string>
     <string name="bluetooth_unlock_delete_device">Excluir este dispositivo</string>
     <string name="bluetooth_unlock_delete_device_confirm_msg">Excluir este dispositivo?</string>
@@ -1744,7 +1744,7 @@ Como o uso de dados é calculado pelo seu smartphone, e sua operadora pode enten
     <string name="device_display_layout_title">Recursos do Mi 5</string>
     <string name="device_edit_title">Renomear telefone</string>
     <string name="device_feedback">Enviar feedback sobre o dispositivo</string>
-    <string name="device_id">ID do Dispositivo</string>
+    <string name="device_id">ID do dispositivo para recomendações personalizadas</string>
     <string name="device_info_default">Desconhecido</string>
     <string name="device_info_label">Informações do dispositivo</string>
     <string name="device_info_not_available">Não disponível</string>
@@ -4255,8 +4255,8 @@ Interface UT: %5$s"</string>
     <string name="restore_default_apn">Restaurando as configurações APN padrão.</string>
     <string name="restore_default_apn_completed">Redefinição das configurações padrão do APN concluída.</string>
     <string name="restore_device_id_content">Redefinir recomendações personalizadas</string>
-    <string name="restore_device_id_title">Restaurar ID do Dispositivo</string>
-    <string name="restore_dialog_content">Restaurar a ID do Dispositivo redefinirá suas recomendações personalizadas.</string>
+    <string name="restore_device_id_title">Restaurar ID do dispositivo</string>
+    <string name="restore_dialog_content">Restaurar o ID do dispositivo redefinirá suas recomendações personalizadas. Restaurar agora?</string>
     <string name="restore_dialog_positive">Restaurar</string>
     <string name="restore_dialog_title">Atenção</string>
     <string name="restr_pin_enter_admin_pin">Inserir PIN do administrador</string>
@@ -7025,4 +7025,15 @@ Observações importantes: as notificações críticas para atividades e status 
     <string name="color_led_title">Luz do LED</string>
 	<string name="toggle_auto_speaker_preference_summary">O dispositivo irá alternar para os falantes quando você afastá-lo da orelha. Este recurso funcionará apenas se o TalkBack estiver ativado.</string>
     <string name="toggle_auto_speaker_preference_title">Alternar falantes automaticamente</string>
+	<string name="allow_oaid_used">Permitir o uso do ID do dispositivo</string>
+	<string name="bluetooth_unlock_confirm_device_text_for_huami_band">Confirme na pulseira.</string>
+	<string name="device_oaid">ID do dispositivo</string>
+	<string name="miui_touch_filtered_touchassistant_warning">A caixa de diálogo de permissões é coberta pela Quick ball. Mova a Quick ball para longe ou desligue esse recurso.</string>	 
+	<string name="mqs_privacy_automatically_upload">Upload automatically next time</string>
+    <string name="mqs_privacy_dialog_cancel">Cancelar</string>
+    <string name="mqs_privacy_dialog_confirm">Enviar</string>
+    <string name="mqs_privacy_dialog_content">Enviar logs para nos ajudar a localizar e resolver problemas? Logs podem conter suas informações pessoais, incluindo informações sobre sua localização.</string>
+    <string name="mqs_privacy_dialog_title">Ocorreu um erro</string>
+	<string name="paper_mode_side_effect_hint">Intensidade mais alta pode afetar a maneira como o conteúdo é exibido.</string>
+	<string name="screen_paper_mode_hdr_toast_new">O modo de leitura será desativado automaticamente durante a reprodução de vídeo HDR e a verificação de impressão digital. Seu dispositivo retornará ao modo de leitura assim que essas ações forem concluídas.</string>
 </resources>

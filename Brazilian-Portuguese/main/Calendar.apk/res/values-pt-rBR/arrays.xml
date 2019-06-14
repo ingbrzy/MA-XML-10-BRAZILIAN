@@ -401,4 +401,9 @@
         <item>Apenas desta vez</item>
         <item>Definir alarmes repetidos</item>
     </string-array>
+	    <string-array name="prefEntries_alerts_popup">
+        <item>Desativado</item>
+        <item>Para todos os eventos</item>
+        <item>Para os eventos mais relevantes</item>
+    </string-array>
 </resources>

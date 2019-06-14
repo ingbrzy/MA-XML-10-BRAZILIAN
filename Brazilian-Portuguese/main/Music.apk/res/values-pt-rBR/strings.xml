@@ -679,4 +679,5 @@
 
 Toque em %s para inicias este download da próxima vez que você estiver conectado a uma rede Wi-Fi."</string>
     <string name="wifi_required_title">Você deve se conectar a uma rede Wi-Fi para o download deste arquivo</string>
+	<string name="password_toggle_content_description">Alternar visibilidade da senha</string>
 </resources>

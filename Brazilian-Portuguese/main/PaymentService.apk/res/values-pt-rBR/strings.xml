@@ -214,4 +214,5 @@ Para ativar sua conta, siga o
     <string name="passport_wrong_phone_number_format">O formato do telefone inserido é inválido</string>
     <string name="passport_wrong_vcode">O código inserido está incorreto</string>
     <string name="passport_yes">Sim</string>
+	<string name="mibi_menu_qa_feedback">FAQ e Feedback</string>
 </resources>

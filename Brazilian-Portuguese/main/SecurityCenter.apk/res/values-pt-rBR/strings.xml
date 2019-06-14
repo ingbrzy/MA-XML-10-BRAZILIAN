@@ -2034,7 +2034,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="app_manager_default_open_title">Limpar padrões</string>
     <string name="app_manager_default_close_summary">Nenhum padrão definido.</string>
     <string name="app_manager_default_open_summary">Você escolheu executar este aplicativo por padrão para algumas ações.</string>
-    <string name="app_manager_app_version_name">Versão:</string>
+    <string name="app_manager_app_version_name">"Versão: "</string>
     <string name="app_manager_unstall_application">Desinstalar</string>
     <string name="app_manager_force_stop_dlg_title">Forçar parada?</string>
     <string name="app_manager_force_stop_dlg_text">Se você forçar a parada de um aplicativo, problemas podem ocorrer.</string>
@@ -2380,7 +2380,7 @@ Você não perderá nenhum dado de aplicativos."</string>
     <string name="first_aid_result_summary_normal">Tudo em ordem!</string>
     <string name="first_aid_result_summary_not_finished">A verificação não foi concluída. Alguns riscos não puderam ser verificados.</string>
     <string name="first_aid_result_feedback_title">Feedback</string>
-    <string name="first_aid_result_feedback_summary">A verificação de primeiros-socorros não encontrou nenhum problema. No entanto, encontrei alguns.</string>
+    <string name="first_aid_result_feedback_summary">A verificação de segurança não encontrou nenhum problema. No entanto, encontrei alguns.</string>
     <string name="first_aid_result_feedback_button">Enviar</string>
     <string name="first_aid_card_kadun_title">Dispositivo lento</string>
     <string name="first_aid_card_kadun_summary1">Libere espaço no armazenamento para que seu dispositivo funcione normalmente.</string>

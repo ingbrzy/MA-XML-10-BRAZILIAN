@@ -257,4 +257,6 @@ Toque na tela para adicionar uma cidade manualmente"</string>
 	<string name="tts_best_aqi">Melhor qualidade do ar</string>
     <string name="tts_hour_weather_date_time">De %2$s em %1$s para %4$s em %3$s</string>
     <string name="tts_max_wind_power">Maior velocidade do vento</string>
+	<string name="shortcut_short_label_24_hour_forecast">Previsão de 24 horas</string>
+    <string name="shortcut_short_label_recent_forecast">Verificar o clima</string>
 </resources>

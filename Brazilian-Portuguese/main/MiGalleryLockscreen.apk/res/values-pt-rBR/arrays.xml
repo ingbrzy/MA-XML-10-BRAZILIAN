@@ -4,4 +4,7 @@
         <item>Saudações na manhã: Cadastre-se para receber saudações toda manhã.</item>
         <item>Combine a tela de bloqueio padrão com temas personalizados para habilitar o uso do carrossel de papel de parede.</item>
     </string-array>
+	    <string-array name="feature_desc">
+        <item>Corrigidos alguns problemas conhecidos.</item>
+    </string-array>
 </resources>

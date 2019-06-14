@@ -565,4 +565,10 @@
     <string name="facebook_clean_exit_confirm_ok">Parar</string>
 	<string name="search_history">Histórico de busca</string>
     <string name="security_center_slogan">Segurança. Sempre em alerta.</string>
+    <string name="notification_garbage_cleanup_summary">O tamanho de arquivos obsoletos é %s</string>
+    <string name="notification_garbage_cleanup_title">Limpar arquivos obsoletos</string>
+    <string name="notification_low_memory_cache_summary">Menos de 1.5GB de armazenamento disponível</string>
+    <string name="notification_low_memory_cache_title">Limpar cache</string>
+    <string name="notification_low_memory_deepclean_summary">Uma limpeza profunda pode liberar espaço de armazenamento no seu dispositivo</string>
+    <string name="notification_low_memory_deepclean_title">O espaço de armazenamento está acabando</string>	
 </resources>

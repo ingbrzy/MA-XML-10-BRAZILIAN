@@ -814,4 +814,6 @@ Tentativas efetuadas: %s."</string>
     <string name="yes">OK</string>
     <string name="yesterday">Ontem</string>
 	<string name="dialog_sim_locked_message">"Seu cartão SIM não está totoalmente operacional com esse telefone porque ele não se enquadra nos termos e condições de seu cadastro. Se você tiver qualquer dúvida ou precisar de mais informações sobre isso, entre em contato com os centros de serviços Xiaomi ou com a loja que lhe vendeu o produto."</string>
+	<string name="recipients_contain_sub_sim_number">"Parece que há um número SIM secundário entre os destinatários. Enviar essa mensagem usando o SIM secundário."</string>
+    <string name="sub_sim_not_support_mms">"Não é possível enviar MMS usando o SIM secundário"</string>
 </resources>

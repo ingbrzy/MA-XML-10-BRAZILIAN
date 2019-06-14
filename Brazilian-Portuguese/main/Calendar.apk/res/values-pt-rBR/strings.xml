@@ -498,4 +498,7 @@ Você ainda pode adicionar lembretes para que não perca nada importante."</stri
     <string name="setting_daysoff_update_schedule">Atualizando…</string>
     <string name="setting_daysoff_update_success">Atualizado com sucesso</string>
     <string name="talk_back_tab_switch">Alternar entre visualizações</string>
+	<string name="preferences_popup_alert_smart_summary">A MIUI irá identificar quais são os eventos mais relevantes automaticamente</string>
+    <string name="preferences_popup_alert_smart_tips">"Substitui notificações tradicionais com alertas pop-up para evitar o esquecimento de eventos importantes. Alertas pop-up não aparecerão enquanto estiver jogando, assistindo vídeos em tela cheia ou usando o Modo Carro."</string>
+    <string name="preferences_popup_alert_title">Alertas pop-up</string>
 </resources>

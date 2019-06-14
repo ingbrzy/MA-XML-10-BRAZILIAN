@@ -276,7 +276,7 @@ você precisa criar um backup na iCloud primeiro."</string>
     <string name="notif_trans_sending_failed">Não foi possível enviar dados</string>
     <string name="notif_trans_wait_for_reconnecting">A conexão foi interrompida. Conecte-se novamente.</string>
 	<string name="old_soft_name">Conectar via código QR</string>
-	<string name="old_way">Você também pode se conectar usando código QR. Toque para gerar o código.</string>
+	<string name="old_way">Você também pode gerar um código QR no seu novo dispositivo e ler ele usando o antigo.</string>
     <string name="page_loading">Aguarde…</string>
 	<string name="password">Senha</string>
 	<string name="password_null">A senha não pode estar em branco</string>
@@ -622,7 +622,8 @@ Libere algum espaço ou transfira só itens importantes."</string>
 	<string name="user_notice_message">Algumas funcionalidades requerem uma conexão com a internet para funcionarem normalmente.</string>
 	<string name="user_notice_title">Atenção</string>
 	<string name="view_password_description">Mostrar senha</string> 
-	<string name="wait_link">"Conecte seu dispositivo antigo neste ponto de acesso.
+	<string name="wait_link">"Abra o Mi Mover no dispostivo antigo,
+toque \"Sou um remetente\" e selecione um ponto de acesso para conectar.
 Não saia desta página até a conexão ter sido estabelecida."</string>
     <string name="waiting">Aguarde…</string>
     <string name="wifi_title">Configurações de Wi-Fi</string>
@@ -645,4 +646,5 @@ Atualização incremental: %2$s"</string>
      <string name="dialog_backup_password_cancel">Cancelar</string>
      <string name="dialog_backup_password_change_machine_tips">"Você não poderá transferir backups protegidos por senha. Desative a senha do backup antes de usar o Mi Mover."</string>
      <string name="dialog_backup_password_to_settings">Configurações</string>
+	 <string name="gallery_summary">Configurações da galeria (não inclui fotos)</string>
 </resources>

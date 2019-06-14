@@ -1231,4 +1231,9 @@ Selecione uma das seguintes opções:"</string>
     <string name="yellowpage_search_the_yellowpage">Pesquisar Páginas amarelas</string>
     <string name="yellowpage_user_profile">Perfil</string>
     <string name="zero_items_selected">Selecionar itens</string>
+	<string name="menu_share_qrcode">Código QR</string>
+    <string name="menu_share_text">Texto</string>
+    <string name="menu_share_vcard_file">Arquivo</string>
+	<string name="share_contact_as">Compartilhar contato como</string>
+	<string name="share_qrcode">Compartilhar código QR</string>
 </resources>
