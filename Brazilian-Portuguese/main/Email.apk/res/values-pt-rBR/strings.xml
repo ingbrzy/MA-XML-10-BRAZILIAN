@@ -1083,7 +1083,6 @@ Toque em "<b>Sincronizar Agora</b> para sincronizar os e-mails uma vez, ou <b>Al
 	<string name="qq_login_notice">"Nota: Se você já definiu a senha, você deverá verificar ela quando entrar."</string>
 	<string name="qq_pwd_or_qq_auth_code">Enter QQ code or email password</string>
 	<string name="recommend_protocal">Protocolo de recomendação</string>
-	<string name="remote_no_mail">"Não há mais e-mails no servidor."</string>
 	<string name="toast_bar_sync_failed_mi_authority">"Não foi possível sincronizar. Espere um minuto ou dois e tente novamente. Se você está entrando pela primeira vez, autorize seu dispositivo pela Intranet ou token SMS."</string>
 	<string name="update_domain_summary">Atualizar lista de domínios e configurações</string>
     <string name="update_domain_title">Atualizar domínio</string>
