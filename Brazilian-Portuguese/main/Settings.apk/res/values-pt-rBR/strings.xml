@@ -7005,4 +7005,6 @@ Observações importantes: as notificações críticas para atividades e status 
 	<string name="dc_light_summary_new">DC Dimming reduz a fadiga dos olhos em condições de baixa luz. No entanto, qualidade de imagem pode ser afetada quando o modo Anti-flicker estiver ativado.</string>
 	<string name="search_add_facerecoginition_text">Desbloqueio facial;Reconhecimento facial</string>
 	<string name="search_manage_facerecoginition_text">Desbloqueio facial;Reconhecimento facial</string>
+	<string name="dark_color_mode">Modo escuro</string>
+    <string name="dark_color_summary">Use a paleta de cores escuras para o sistema e aplicativos compatíveis</string>
 </resources>
