@@ -2579,4 +2579,14 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
     <string name="pc_abnormal_scan_reason_scan_wifi">Procura por Wi-Fi com maior frequência</string>
     <string name="pc_abnormal_scan_reason_use_GPS">Usa servidores de localização com maior frequência</string>
     <string name="pc_abnormal_scan_reason_wake_system">Acorda o sistema com maior frequência</string>
+	<string name="gamebox_display_1">Nenhum</string>
+    <string name="gamebox_display_2">Saturado</string>
+    <string name="gamebox_display_3">Brilho</string>
+    <string name="gamebox_display_4">Brilho e saturado</string>
+    <string name="gamebox_display_set">"Aprimoramente visual: "</string>
+    <string name="gb_add_game_hint">Adicionar itens da lista de aplicativos</string>
+    <string name="gb_global_settings">Configurações gerais</string>
+    <string name="qucick_replay_instrument">Use respostas rápidas nas notificações dos mensageiros selecionados (e.g. WhatsApp, WeChat, QQ)</string>
+    <string name="quick_replay_list_title">Aplicativos disponíveis</string>
+    <string name="quick_reply_title">Respostas rápidas</string>
 </resources>

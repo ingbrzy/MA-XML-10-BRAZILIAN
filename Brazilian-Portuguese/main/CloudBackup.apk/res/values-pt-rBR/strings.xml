@@ -212,4 +212,10 @@ Verifique sua conexão e tente novamente."</string>
 	<string name="hint_restore_cross_space">O layout da tela inicial pode ser exibido incorretamente se você transferir itens entre os espaços.</string>
 	<string name="selected">Selecionado</string>
 	<string name="unselected">Não selecionado</string>
+    <string name="backup_failed_reason_cloud_space_not_enough">Não há espaço de armazenamento suficiente no Mi Cloud. Atualize seu plano ou libere espaço de armazenamento.</string>
+    <string name="backup_failed_reason_disk_space_not_enough">Não há espaço de armazenamento suficiente. Liberte o armazenamento primeiro.</string>
+    <string name="backup_failed_reason_network_error">Erro de rede. Espere um minuto ou dois e tente novamente.</string>
+	<string name="restore_failed_reason_disk_space_not_enough">Não há espaço de armazenamento suficiente. Liberte o armazenamento primeiro.</string>
+    <string name="restore_failed_reason_network_error">Erro de rede. Espere um minuto ou dois e tente novamente.</string>
+	<string name="restore_task_unfinished">"Não foi possível restaurar"</string>
 </resources>

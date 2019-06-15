@@ -647,4 +647,10 @@ Atualização incremental: %2$s"</string>
      <string name="dialog_backup_password_change_machine_tips">"Você não poderá transferir backups protegidos por senha. Desative a senha do backup antes de usar o Mi Mover."</string>
      <string name="dialog_backup_password_to_settings">Configurações</string>
 	 <string name="gallery_summary">Configurações da galeria (não inclui fotos)</string>
+	 <string name="dialog_backup_password_auto_backup_tips">"Não é possível fazer o backup de itens automaticamente quando a senha de backup está ativada. Desativar a senha de backup primeiro."</string>
+     <string name="dialog_backup_password_change_device_restore_tips">"Não é possível usar o Mi Mover quando a senha de backup está ativada. Desativar a senha de backup primeiro."</string>
+     <string name="dialog_backup_password_restore_tips">"Não é possível restaurar itens quando a senha de backup está ativada. Desativar a senha de backup primeiro."</string>
+     <string name="feature_title_mms_setting">Configurações de mensagens</string>
+     <string name="iCloud_ID_verification_tip">"Digite o código de verificação SMS enviado para o número de telefone associado ao seu Apple ID. Ignore o código pop-up exibido na tela do seu iPhone."</string>
+     <string name="trans_complete_restoring">Transferido com sucesso. Restaurando dados do aplicativo…</string>
 </resources>

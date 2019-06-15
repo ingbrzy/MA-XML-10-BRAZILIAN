@@ -68,4 +68,8 @@
         <item quantity="other">%s serviços serão sincronizados com a Mi Cloud</item>
         <item quantity="one">%s serviço será sincronizado com a Mi Cloud</item>
     </plurals>
+	    <plurals name="dirty_phrase_count">
+        <item quantity="other">%d frases frequentes</item>
+        <item quantity="one">%d frase frequente</item>
+    </plurals>
 </resources>

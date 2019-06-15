@@ -127,7 +127,7 @@
     <string name="preference_enable_earpiece_summary">Usar o minifone do aparelho para reprodução externa de áudio</string>
     <string name="preference_enable_earpiece_title">Usar minifone para reprodução</string>
     <string name="preference_led_indicator">Notificações na tela de bloqueio</string>
-    <string name="preference_led_indicator_prompt">Durante a gravação, mostrar atalho na barra de status e piscar led de notificações na Tela de bloqueio</string>
+    <string name="preference_led_indicator_prompt">Durante a gravação, mostrar atalho na barra de status e piscar led de notificações na tela de bloqueio</string>
     <string name="preference_online_orders">Pedidos online</string>
     <string name="preference_recog_faqs">FAQ da transcrição online</string>
     <string name="preference_recog_terms">Termos de Serviço</string>
@@ -256,4 +256,11 @@
     <string name="webview_try_again">Tentar novamente</string>
     <string name="wifi_recommended_body" formatted="false">Usar sua conexão de dados móveis para fazer o download deste arquivo (%s) poderá aumentar seu consumo de dados. Caso você exceda o limite de seu pacote de dados, sua operadora poderá cobrar o excedente. Para aguardar uma conexão Wi-Fi para concluir o download deste arquivo, toque em %s.</string>
     <string name="wifi_recommended_title">Alerta do uso de dados</string>
+	<string name="call_record_list_group_all">Todos</string>
+    <string name="call_record_list_group_connected">Conectado</string>
+    <string name="call_record_list_group_unconnected">Não conectado</string>
+    <string name="preference_status_bar_indicator_prompt">Mostrar atalho da barra de status durante a gravação</string>
+    <string name="shortcut_records">Gravações</string>
+    <string name="shortcut_start_record">Iniciar gravação</string>
+    <string name="shortcut_stop_record">Parar gravação</string>
 </resources>

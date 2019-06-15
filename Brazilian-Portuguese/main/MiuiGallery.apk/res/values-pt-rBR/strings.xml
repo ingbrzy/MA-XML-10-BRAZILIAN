@@ -1418,4 +1418,25 @@ para personalizar a Galeria"</string>
 	<string name="clear_dup_medias">Limpar fotos duplicadas</string>
     <string name="clear_dup_success">Limpeza feita com sucesso</string>
     <string name="clear_dup_tip">Limpando fotos duplicadas</string>
+	<string name="burst_image_download_item_title" formatted="false">Baixar original (%s|%s)</string>
+    <string name="burst_preview_title">Foto contínua</string>
+    <string name="burst_save_all">Salvar todos</string>
+    <string name="burst_save_choice_title" formatted="false">Selecionar %d de %d</string>
+    <string name="burst_save_confirm_dialog_title">Salvando fotos</string>
+    <string name="burst_save_error_msg">"Não foi possível salvar"</string>
+    <string name="burst_save_processing">Processando…</string>
+    <string name="decrypt_video_failed">"Não foi possível preparar o vídeo"</string>
+    <string name="decrypting_video">Preparando vídeo…</string>
+    <string name="editor_cancel">Cancelar</string>
+    <string name="editor_export">Salvar</string>
+    <string name="editor_talkback_redo">Refazer</string>
+    <string name="editor_talkback_undo">Desfazer</string>
+    <string name="first_time_add_video_to_secret_tips">Atualize a Galeria para conseguir esconder vídeos</string>
+    <string name="photo_editor_remove_watermark_on">Adicionar marca</string>
+    <string name="photo_editor_talkback_crop_2_3">Dois por três</string>
+    <string name="special_type_eye_repair">Olhos fechados corrigidos usando a IA</string>
+    <string name="special_type_night_beauty">Embelezamento em baixa luz com IA</string>
+    <string name="special_type_night_mode">Modo noturno com IA</string>
+    <string name="special_type_portrait">Retrato de pintura de luz com IA</string>
+    <string name="special_type_wide_angle">Ultra wide com IA</string>
 </resources>

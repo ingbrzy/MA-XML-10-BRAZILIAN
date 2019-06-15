@@ -284,4 +284,32 @@
         <item quantity="other">Colagens podem conter 1-%d fotos</item>
         <item quantity="one">Colagens podem conter 1-%d foto</item>
     </plurals>
+	    <plurals name="burst_image_download_item_title_count">
+        <item quantity="other">%d fotos</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_message">
+        <item quantity="other">Salvar %d fotos selecionadas e excluir o restante?</item>
+        <item quantity="one">Salvar %d foto selecionada e excluir o restante?</item>
+    </plurals>
+    <plurals name="burst_save_selected">
+        <item quantity="other">Salvar %d fotos selecionadas</item>
+        <item quantity="one">Salvar %d foto selecionada</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">Excluir %d fotos contínuas da Mi Cloud e todos dispositivos sincronizados?</item>
+        <item quantity="one">Excluir %d foto contínua da Mi Cloud e todos dispositivos sincronizados?</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_local">
+        <item quantity="other">Excluir %d fotos contínuas?</item>
+        <item quantity="one">Excluir %d foto contínua?</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_this_album_and_cloud_msg">
+        <item quantity="other">Excluir %d fotos contínuas da Mi Cloud e deste dispositivo?</item>
+        <item quantity="one">Excluir %d foto contínua da Mi Cloud e deste dispositivo?</item>
+    </plurals>
+    <plurals name="delete_third_party_burst_photo">
+        <item quantity="other">Excluir %d fotos contínuas do seu dispositivo?</item>
+        <item quantity="one">Excluir %d foto contínua do seu dispositivo?</item>
+    </plurals>
 </resources>

@@ -7036,4 +7036,22 @@ Observações importantes: as notificações críticas para atividades e status 
     <string name="mqs_privacy_dialog_title">Ocorreu um erro</string>
 	<string name="paper_mode_side_effect_hint">Intensidade mais alta pode afetar a maneira como o conteúdo é exibido.</string>
 	<string name="screen_paper_mode_hdr_toast_new">O modo de leitura será desativado automaticamente durante a reprodução de vídeo HDR e a verificação de impressão digital. Seu dispositivo retornará ao modo de leitura assim que essas ações forem concluídas.</string>
+	<string name="a11y_settings_label">Configurações de acessibilidade</string>
+    <string name="accessibility_menu_description">"O menu de acessibilidade fornece atalhos convenientes que permitem controlar seu dispositivo.
+
+Ative esse recurso e toque no botão Acessibilidade na parte inferior da tela para abrir o menu."</string>
+    <string name="accessibility_menu_service_name">Menu de acessibilidade</string>
+    <string name="accessibility_menu_summary">Controle o seu dispositivo usando atalhos convenientes</string>
+    <string name="backup_set_new_continue">Continuar</string>
+    <string name="backup_set_new_exit">Sair</string>
+    <string name="backup_set_new_pw_confirm_hint">Atenção</string>
+	<string name="backup_set_new_pw_confirm_summary">Agora, seus itens são armazenados em backup automaticamente. Criar uma senha de backup interromperá backups automáticos. Continuar mesmo assim?</string>
+    <string name="device_miui_version_parameters">Versão da MIUI</string>
+    <string name="google_assistant_label">Assistente Google</string>
+    <string name="lockscreen_label">Tela de bloqueio</string>
+    <string name="power_label">Energia</string>
+    <string name="quick_reply_title">Respostas rápidas</string>
+    <string name="quick_settings_label">Botões</string>
+    <string name="recent_apps_label">Recentes</string>
+    <string name="screenshot_label">Captura de tela</string>
 </resources>

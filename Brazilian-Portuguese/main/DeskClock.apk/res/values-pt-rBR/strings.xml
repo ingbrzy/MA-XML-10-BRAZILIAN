@@ -259,4 +259,7 @@
     <string name="worldcolock_timezone_gap">Hora</string>
     <string name="worldcolock_timezone_local">Mesmo que a hora local</string>
 	<string name="update_notification_info">Atualizando dados em segundo plano…</string>
+	<string name="shortcut_new_alarm">Definir alarme</string>
+    <string name="shortcut_start_timer">Iniciar temporizador</string>
+    <string name="shortcut_stop_watch">Iniciar cronômetro</string>
 </resources>

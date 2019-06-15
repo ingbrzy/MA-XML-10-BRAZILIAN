@@ -53,7 +53,7 @@
     <string name="button_text_uninstall">Desinstalar</string>
     <string name="pref_category_title_cleanup_white_list">Exceções</string>
     <string name="pref_title_cleanup_white_list">Exceções</string>
-    <string name="pref_summary_cleanup_white_list">Prevenir aplicativos selecionados de serem limpos</string>
+    <string name="pref_summary_cleanup_white_list">Prevenir arquivos selecionados de serem limpos</string>
     <string name="pref_category_title_auto_update_cleanup_db">Configurações adicionais</string>
     <string name="pref_title_auto_update_cleanup_db">Atualizar automaticamente</string>
     <string name="pref_summary_auto_update_cleanup_db">Última atualização: %s</string>
