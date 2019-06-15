@@ -44,7 +44,7 @@
     <string name="sync_dspt_entrance_provision_confirm_content">Os aplicativos integrados do MIUI precisam da Mi Cloud para o backup de suas fotos, contatos, anotações e mais. A Mi Cloud é gratuita e pronta para uso assim que configurada.</string>
     <string name="sync_dspt_entrance_provision_skip">Pular este passo</string>
     <string name="sync_dspt_entrance_provision_network">Este aplicativo precisa de uma conexão com a internet para funcionar normalmente. A sincronização de dados pode requerer uma conexão de dados móveis e o Wi-Fi ativados.</string>
-    <string name="find_device_dspt_provision">Se você perder seu dispositivo, acesse &lt;font color=#ff0000&gt;%s&lt;/font&gt para localizá-lo, bloqueá-lo ou apagá-lo. Você pode ativar ou desativar esta funcionalidade a qualquer momento nas Configurações.</string>
+    <string name="find_device_dspt_provision">Se você perder seu dispositivo, você pode ir até &lt;font color=#ff0000&gt;%s&lt;/font&gt; para localizar, bloquear, ou restaurá-lo. Você pode ativar ou desativar este recurso em Configurações.</string>
     <string name="find_device_send_sms_alert">Se você trocar seu cartão SIM, outro SMS será enviado automaticamente para reativar este recurso.</string>
     <string name="mx_dspt_provision">"O Mi Message permite que você envie mensagens para outros dispositivos com MIUI sem a cobrança de tarifas de SMS.
 
