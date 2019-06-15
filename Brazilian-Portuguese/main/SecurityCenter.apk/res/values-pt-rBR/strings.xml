@@ -2589,4 +2589,25 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
     <string name="qucick_replay_instrument">Use respostas rápidas nas notificações dos mensageiros selecionados (e.g. WhatsApp, WeChat, QQ)</string>
     <string name="quick_replay_list_title">Aplicativos disponíveis</string>
     <string name="quick_reply_title">Respostas rápidas</string>
+	<string name="app_manager_thumbnail_blur_summary">Desfocar pré-visualizações de aplicativos em Recentes</string>
+    <string name="app_manager_thumbnail_blur_title">Desfocar pré-visualizações de aplicativos</string>
+    <string name="power_center_battery_last">%s restante</string>
+    <string name="power_center_dialog_msg_bottom">Você pode prolongar a bateria em %1$dh %2$dm. Ativar a econimia de bateria?</string>
+    <string name="power_center_dialog_msg_top">Quando a economia de bateria estivar ativada, a MIUI irá fazer as seguintes otimizações:</string>
+    <string name="power_center_one_key_save">Otimizar</string>
+    <string name="power_center_power_save_summary_text">Aumente o tempo restante até %1$dh %2$dm</string>
+    <string name="power_center_power_save_title_text">Economia de bateria</string>
+    <string name="power_center_super_save_summary_text">Aumente o tempo restante até %1$dh %2$dm</string> 
+    <string name="power_center_super_save_title_text">Ultra economia de bateria</string>
+    <string name="power_dialog_super_save_msg">"A ultra econimia de bateria restringe a maioria dos recursos que consomem muita energia e diminui o desempenho do dispositivo para deixar funcionalidades básicas (por exemplo, chamadas, SMS e conexão com a rede) disponível o maior tempo possível. Ativar a ultra economia de bateria?"</string>
+    <string name="power_dialog_super_save_title">Ultra economia de bateria</string>
+    <string name="power_setting_background_app_save_summary">Limite a atividade dos aplicativos em segundo plano sem afetar a funcionalidade</string>
+    <string name="power_setting_background_app_save_title">Economia de bateria em segundo plano</string>
+    <string name="power_setting_category_other">Configurações adicionais</string>
+    <string name="power_setting_power_save_summary_text">Otimize as configurações do sistema para econimizar bateria</string>
+    <string name="power_setting_super_save_summary_text">Restringe a maioria dos recursos do sistema para economizar bateria</string>
+    <string name="power_settings_lock_screen_saver_title">Configurações da tela de bloqueio</string>
+    <string name="quick_optimize_sub_battery_text">Aproximadamente %s restantes</string>
+    <string name="quick_optimize_sub_summary_with_battery_text">Adicionado %1$s, aproximadamente %2$s restantes</string>
+    <string name="user_guide">Deslize para cima para descobrir novos jogos</string>
 </resources>

@@ -7054,4 +7054,13 @@ Ative esse recurso e toque no botão Acessibilidade na parte inferior da tela pa
     <string name="quick_settings_label">Botões</string>
     <string name="recent_apps_label">Recentes</string>
     <string name="screenshot_label">Captura de tela</string>
+	<string name="close_privacy_thumbnail_blur_title">"Pré-visualizações não estão desfocadas"</string>
+    <string name="confirm_fingerprint">Verifique sua impressão digital</string>
+    <string name="confirm_password_with_fingerprint">Usar impressão digital</string>
+    <string name="confirm_password_with_password">Insira a senha</string>
+    <string name="enable_tcp_rtt_support">Exibir TCP RTT</string>
+    <string name="enable_tcp_rtt_support_summary">Avaliar o desempenho da qualidade de comunicação de rede</string>
+    <string name="open_privacy_thumbnail_blur_title">Pré-visualizações estão desfocadas</string>
+    <string name="privacy_thumbnail_blur_progress_message">Só um segundo…</string>
+    <string name="privacy_thumbnail_blur_title">Desfocar pré-visualizações de aplicativos</string>
 </resources>

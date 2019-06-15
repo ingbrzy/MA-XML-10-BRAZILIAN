@@ -1435,8 +1435,22 @@ para personalizar a Galeria"</string>
     <string name="photo_editor_remove_watermark_on">Adicionar marca</string>
     <string name="photo_editor_talkback_crop_2_3">Dois por três</string>
     <string name="special_type_eye_repair">Olhos fechados corrigidos usando a IA</string>
-    <string name="special_type_night_beauty">Embelezamento em baixa luz com IA</string>
+    <string name="special_type_night_beauty">Retrato em baixa luz com IA</string>
     <string name="special_type_night_mode">Modo noturno com IA</string>
     <string name="special_type_portrait">Retrato de pintura de luz com IA</string>
     <string name="special_type_wide_angle">Ultra wide com IA</string>
+	<string name="assistant_page_label">Memórias</string>
+	<string name="card_delete_description">"Essa memória não aparecerá novamente. Excluir mesmo assim?"</string>
+	<string name="card_delete_title">Excluir memória</string>
+	<string name="empty_description_conditions">Relembre das coisas que importam</string>
+    <string name="empty_description_no_cards">Relembre das coisas que importam</string>
+	<string name="empty_title_no_cards">Memórias</string>
+	<string name="generate_story_summary">A MIUI irá analizar suas fotos e criar memórias. Desative essa função para não criá-las.</string>
+    <string name="generate_story_title">Memórias</string>
+	<string name="rename_dialog_title">Renomear</string>
+	<string name="story_action_remove">Remover</string>
+	<string name="story_option_menu_delete">Excluir memória</string>
+	<string name="story_remove_confirm_message">"Fotos excluídas não aparecerão nesta memória novamente."</string>
+	<string name="story_rename_invalid_char">"Não é possível usar \"%s\" no título da memória. Use letras, dígitos e caracteres chineses."</string>
+    <string name="story_rename_invalid_prefix">"Não é possível iniciar o título da memória com \".\" ou \"_\""</string>
 </resources>

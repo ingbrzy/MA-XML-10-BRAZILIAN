@@ -391,4 +391,7 @@ Faça o login em sua Conta Mi para reativar a Mi Cloud."</string>
 	<string name="user_detail_privacy_policy">Política de privacidade</string>
 	<string name="micloud_main_sync_mode_summary">Sincronize todos os itens exceto fotos e vídeos em tempo real. O consumo de bateria irá aumentar quando este recurso estiver ativado.</string>
     <string name="micloud_main_sync_mode_title">Sincronizar em tempo real</string>
+	<string name="micloud_request_sync_too_frequent">Muitas requisições. Espere um ou dois minutos e tente novamente.</string>
+    <string name="system_busy_or_network_error">Ocorreu um erro. Espere um ou dois minutos e tente novamente.</string>
+    <string name="waiting_for_sync">Aguardando…</string>
 </resources>

@@ -404,4 +404,16 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
         <item quantity="other">%d aplicativos estão gastando bateria</item>
         <item quantity="one">%d aplicativo está gastando bateria</item>
     </plurals>
+	    <plurals name="pc_main_power_center_battery_day">
+        <item quantity="other">%s days</item>
+        <item quantity="one">%s day</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_hour">
+        <item quantity="other">%s horas</item>
+        <item quantity="one">%s hora</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_minute">
+        <item quantity="other">%s minutos</item>
+        <item quantity="one">%s minuto</item>
+    </plurals>
 </resources>

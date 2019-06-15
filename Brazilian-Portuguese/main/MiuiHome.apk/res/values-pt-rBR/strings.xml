@@ -371,6 +371,6 @@
 	<string name="minus_one_screen">Cofre de aplicativos</string>
 	<string name="announce_for_search_bar">Barra de pesquisa</string>
     <string name="announce_for_xiaoai">IA Mi</string>
-    <string name="privacy_thumbnail_blur_summary">Desfocar visualizações de aplicativos em Recents</string>
-    <string name="privacy_thumbnail_blur_title">Desfocar visualizações de aplicativos</string>
+    <string name="privacy_thumbnail_blur_summary">Desfocar pré-visualizações de aplicativos em Recents</string>
+    <string name="privacy_thumbnail_blur_title">Desfocar pré-visualizações de aplicativos</string>
 </resources>

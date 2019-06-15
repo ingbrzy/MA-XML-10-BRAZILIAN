@@ -574,6 +574,5 @@ Tamanho: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Introduzindo a versão %1$s
 Tamanho da atualização: %2$s"</string>
     <string name="xiaomi_update_dialog_title">Atualização para %1$s!</string>
-    <string name="year" />
-	<string name="tax_rate_provider_east_money">Calculado de acordo com os novos regulamentos fiscais. Os dados são fornecidos pelo East Money.</String>
+	<string name="tax_rate_provider_east_money">Calculado de acordo com os novos regulamentos fiscais. Os dados são fornecidos pelo East Money.</string>
 </resources>

@@ -1980,4 +1980,6 @@ Parece que o armazenamento de credenciais não está ativado."</string>
 	<string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">Mais</string>
     <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">Entre</string>
 	<string name="lock_screen_magazine_label">Abrir carrossel de papéis de parede</string>
+	<string name="long_screenshot_guide_text">"Toque para fazer
+uma captura de tela contínua"</string>
 </resources>
