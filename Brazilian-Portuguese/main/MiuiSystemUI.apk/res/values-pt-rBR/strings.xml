@@ -1624,7 +1624,7 @@ Deslize para baixo para bloquear"</string>
     <string name="structure_face_data_input_right">Vire sua cabeça para a direita</string>
     <string name="structure_face_data_input_success">Concluído!</string>
     <string name="structure_face_data_input_timeout_msg">Não foi possível gravar. Tente novamente.</string>
-    <string name="structure_face_data_input_timeout_title">Repetir</string>
+    <string name="structure_face_data_input_timeout_title">Tentar novamente</string>
     <string name="structure_face_data_input_up">Olhe para cima</string>
     <string name="structure_face_data_introduction_back">Voltar</string>
     <string name="structure_face_data_introduction_msg">Os dados faciais 3D permitem desbloquear o seu dispositivo e verificar a sua identidade. Você precisa configurar uma senha antes de usar este recurso.</string>
