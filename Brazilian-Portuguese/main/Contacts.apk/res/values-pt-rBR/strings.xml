@@ -1236,4 +1236,5 @@ Selecione uma das seguintes opções:"</string>
     <string name="menu_share_vcard_file">Arquivo</string>
 	<string name="share_contact_as">Compartilhar contato como</string>
 	<string name="share_qrcode">Compartilhar código QR</string>
+	<string name="contact_is_deleted">O contato foi excluído</string>
 </resources>
