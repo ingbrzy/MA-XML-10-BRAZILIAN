@@ -373,4 +373,10 @@
     <string name="announce_for_xiaoai">IA Mi</string>
     <string name="privacy_thumbnail_blur_summary">Desfocar pré-visualizações de aplicativos em Recents</string>
     <string name="privacy_thumbnail_blur_title">Desfocar pré-visualizações de aplicativos</string>
+	<string name="activity_not_unlocked">Espere que seu dispositivo tenha reiniciado completamente antes de abrir aplicativos</string>
+    <string name="default_folder_title_meitu">Aplicativos Meitu</string>
+    <string name="shake_to_align_icons">Balance o dispositivo para preencher espaços vazios com ícones</string>
+    <string name="shake_to_align_icons_summary">Balance o dispositivo enquanto estiver no modo edição para preencher os espaços vazios automaticamente</string>
+    <string name="shake_to_align_icons_title">Balance para preencher espaços vazios</string>
+    <string name="system_shortcuts_more_operation">Informações do aplicativo</string>
 </resources>
