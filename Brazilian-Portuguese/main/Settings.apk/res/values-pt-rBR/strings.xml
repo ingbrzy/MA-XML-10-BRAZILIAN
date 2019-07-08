@@ -2389,7 +2389,6 @@ Quando você ativa o backup automático, os dados do dispositivo e de aplicativo
     <string name="gesture_prevent_ringing_title">Pressione o botão liga/desliga e o de aumentar volume juntos</string>
     <string name="gesture_setting_off">Desativado</string>
     <string name="gesture_setting_on">Ativado</string>
-    <string name="gesture_wakeup_title">Toque duplo na tela para ligá-la</string>
     <string name="giga_hertz">GHz</string>
     <string name="gigabyteShort">GB</string>
     <string name="global_change_warning">Esta configuração afeta todos os usuários neste telefone.</string>
