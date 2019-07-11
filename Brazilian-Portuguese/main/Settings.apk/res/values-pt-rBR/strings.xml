@@ -7074,7 +7074,7 @@ Ative esse recurso e toque no botão Acessibilidade na parte inferior da tela pa
 	<string name="full_screen_display">Modo tela cheia</string>
 	<string name="gmscore_settings_title">Serviços básicos do Google</string>
 	<string name="google_service_title">Serviços do Google</string>
-	<string name="headset_settings_title">Fones de ouvido</string>
+	<string name="headset_settings_title">Fones de ouvido e efeitos de áudio</string>
 	<string name="home_title">Tela inicial</string>
 	<string name="key_shortcut_settings_title">Atalhos de botões</string>
 	<string name="lock_screen_display_category_name">Tela de bloqueio</string>
