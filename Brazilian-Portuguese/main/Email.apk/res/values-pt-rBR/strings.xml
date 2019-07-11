@@ -418,8 +418,8 @@ Alterá-los agora?"</string>
     <string name="failed">Não foi possível carregar imagem</string>
     <string name="failed_parse_eml_file">Não foi possível abrir o arquivo EML, tente novamente.</string>
     <string name="failed_read_phone_state_permission">Permitir acesso ao status do dispositivo</string>
-    <string name="failed_read_write_calendar_permission">Permitir acesso à Agenda</string>
-    <string name="failed_read_write_contacts_permission">Permitir acesso aos Contatos</string>
+    <string name="failed_read_write_calendar_permission">O acesso à Agenda está restrito</string>
+    <string name="failed_read_write_contacts_permission">O acesso aos contatos está restrito</string>
     <string name="feedback">Enviar feedback</string>
     <string name="feedback_body">Mensagem</string>
     <string name="feedback_sent">Obrigado por seu feedback</string>
@@ -1086,5 +1086,20 @@ Toque em "<b>Sincronizar Agora</b> para sincronizar os e-mails uma vez, ou <b>Al
 	<string name="toast_bar_sync_failed_mi_authority">"Não foi possível sincronizar. Espere um minuto ou dois e tente novamente. Se você está entrando pela primeira vez, autorize seu dispositivo pela Intranet ou token SMS."</string>
 	<string name="update_domain_summary">Atualizar lista de domínios e configurações</string>
     <string name="update_domain_title">Atualizar domínio</string>
-	<string name="wait_while_update_db">Wait a moment during database upgrade please!</string>
+	<string name="wait_while_update_db">Aguarde enquanto o banco de dados é atualizado!</string>
+	<string name="contact_add_options">Adicionar aos contatos</string>
+    <string name="contact_add_options_details1">Todos</string>
+    <string name="contact_add_options_details2">Apenas destinatários</string>
+	<string name="get_oauth_code">Obter código</string>
+	<string name="help_weixin_title">"Se você tiver quaisquer dúvidas, entre em contato com a nossa conta oficial no WeChat: "</string>
+	<string name="login_qq_psw">Entre usando senha QQ /autenticador/código de verificação</string>
+	<string name="mi_sync_erroe_toast">"Ocorreu um erro de rede: "</string>
+    <string name="mi_sync_erroe_toast_other">"Ocorreu um erro de servidor: "</string>
+	<string name="no_more_mail">Não há  mais mensagens</string>
+	<string name="no_search_results">"Não foi possível encontrar os resultados"</string>
+	<string name="pull_load_more">Puxe para carregar mais</string>
+	<string name="remote_search_body_too_large_prompt">"Esse e-mail é muito grande.
+Aguarde até que esteja totalmente sincronizado ou veja no computador."</string>
+    <string name="search_remote_again">Rede indisponível, Clique em tentar novamente</string>
+	<string name="sync_failed_mi_authority_view_detail">Ver detalhes</string>
 </resources>

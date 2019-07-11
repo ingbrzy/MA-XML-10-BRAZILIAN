@@ -7098,4 +7098,22 @@ Ative esse recurso e toque no botão Acessibilidade na parte inferior da tela pa
 	<string name="unlock_mode_title">Bloqueio de tela</string>
 	<string name="volume_launch_camera_summary">Pressione duas vezes o botão de volume para abrir a câmera quando a tela estiver bloqueada</string>
 	<string name="wakeup_and_sleep_settings_category_name">Configurações da tela de bloqueio</string>
+	<string name="bluetooth_disable_inband_ringing">Desativar o toque em banda</string>
+	<string name="bluetooth_disable_inband_ringing_summary">Não reproduza toques de chamada personalizados em fones Bluetooth</string>
+	<string name="customize_function">Padrões disponíveis</string>
+	<string name="gesture_c">Padrão C</string>
+	<string name="gesture_m">Padrão M</string>
+	<string name="gesture_open_alipay">Abrir Alipay</string>
+	<string name="gesture_open_camera">Abrir Câmera</string>
+	<string name="gesture_open_music">Abrir Música</string>
+	<string name="gesture_open_wechat">Abrir WeChat</string>
+	<string name="gesture_w">Padrão W</string>
+	<string name="gesture_z">Padrão Z</string>
+	<string name="miui_lab_3d_gesture_desc">Abra sua tela inicial e desenho um dos padrões no ar com seu telefone para abrir aplicativos selecionados</string>
+    <string name="miui_lab_3d_gesture_slogan">Desenhe um padrão no ar com seu telefone para abrir um aplicativo</string>
+    <string name="miui_lab_3d_gesture_summary">Desenhe um padrão no ar com seu telefone para abrir um aplicativo</string>
+    <string name="miui_lab_3d_gesture_title">Padrões 3D</string>
+	<string name="miui_lab_home_feed_desc">Ideias brilhantes. Histórias convincentes.</string>
+	<string name="miui_lab_home_feed_title">Centro de Mídia</string>
+	<string name="support_gesture_title">Padrões 3D</string>
 </resources>

@@ -501,4 +501,14 @@ Você ainda pode adicionar lembretes para que não perca nada importante."</stri
 	<string name="preferences_popup_alert_smart_summary">A MIUI irá identificar quais são os eventos mais relevantes automaticamente</string>
     <string name="preferences_popup_alert_smart_tips">"Substitui notificações tradicionais com alertas pop-up para evitar o esquecimento de eventos importantes. Alertas pop-up não aparecerão enquanto estiver jogando, assistindo vídeos em tela cheia ou usando o Modo Carro."</string>
     <string name="preferences_popup_alert_title">Alertas pop-up</string>
+	<string name="birthday_term_chinese_calendar">"Aniversdário de %1$s (calendário tradicional chinês)"</string>
+	<string name="content_confirm_close_chinese_calendar">Todos seus eventos baseados no calendário tradicional chinês serão convertidos para o calendário gregoriano depois que você desativar este recurso. Anos e meses do calendário gregoriano serão usados para eventos repetidos.</string>
+	<string name="lunar_to_solar_chinese_calendar">Chinês para Gregoriano</string>
+	<string name="setting_chinese_calendar">Calendário chinês</string>
+	<string name="shortcut_new_event">Adicionar evento</string>
+    <string name="shortcut_next_agenda">Próximo evento</string>
+    <string name="shortcut_settings">Configurações</string>
+	<string name="solar_lunar_convert_description">Gregoriano para Tradicional Chinês</string>
+    <string name="solar_lunar_convert_tab">Converter</string>
+	<string name="title_confirm_close_chinese_calendar">Desativar calendário chinês</string>
 </resources>

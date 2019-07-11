@@ -1453,4 +1453,5 @@ para personalizar a Galeria"</string>
 	<string name="story_remove_confirm_message">"Fotos excluídas não aparecerão nesta memória novamente."</string>
 	<string name="story_rename_invalid_char">"Não é possível usar \"%s\" no título da memória. Use letras, dígitos e caracteres chineses."</string>
     <string name="story_rename_invalid_prefix">"Não é possível iniciar o título da memória com \".\" ou \"_\""</string>
+	<string name="photo_editor_talkback_crop_3_2">Três por dois</string>
 </resources>

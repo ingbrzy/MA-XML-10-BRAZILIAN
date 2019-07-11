@@ -909,4 +909,9 @@ Lembre-se de que os arquivos que você baixar e favoritos que adicionar serão s
     <string name="webpage_title">Favoritos e histórico</string>
 	<string name="document_open_txt_message">Para aumentar sua experiência de leitura e segurança, use o Bookshelf</string>
 	<string name="document_open_txt_start_read">Começar a ler</string>
+	<string name="mw_add_to_dictionary">Adicionar ao dicionário</string>
+    <string name="mw_autofill_popup_content_description">Mostrar popup de preenchimento automático</string>
+	<string name="mw_delete_suggestion_text">Excluir</string>
+	<string name="mw_miuichromium_error_page_suggestion_clear_cache">Limpar cache.</string>
+    <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies">Limpar o cache e cookies (informações da sua conta poderão ser perdidas).</string>
 </resources>

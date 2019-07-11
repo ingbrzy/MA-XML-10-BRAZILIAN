@@ -257,7 +257,8 @@ Para ativar sua conta, siga o
     <string name="button_unbind">Desconectar</string>
     <string name="unbind_sns_description">Após você desconectar esta conta, você não será capaz de usar sua conta %s para fazer o login em sua Conta Mi.</string>
     <string name="confirm_unbind">Desconectar esta conta?</string>
-    <string name="binded_description" formatted="false">%s foi conectado à sua Conta Mi. Seu perfil foi atualizado com as informações de sua conta %s.</string>
+    <string name="binded_description" formatted="false">%s foi conectado à sua Conta Mi. 
+Você pode entrar na sua Conta Mi agora usando %s.</string>
     <string name="update_contacts">Atualizar contatos</string>
     <string name="updated_nothing">Atualizado</string>
     <string name="access_token_expired_warning">A conta Weibo expirou</string>
@@ -551,4 +552,7 @@ Envie este código para o supervisor."</string>
     <string name="common_signin_button_text_long">Entrar com o Google</string>
 	<string name="passport_wx_bind_account_limit">"Não foi possível criar a conta agora. Tente outro método."</string>
 	<string name="search_menu_title">Pesquisar</string>
+	<string name="bind_google">Conecte sua conta Google</string>
+	<string name="bind_weixin">Conecte sua conta WeChat</string>
+	<string name="need_install_wechat">Instale o WeChat primeiro</string>
 </resources>

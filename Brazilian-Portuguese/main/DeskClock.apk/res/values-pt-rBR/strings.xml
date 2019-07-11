@@ -170,7 +170,7 @@
     <string name="settings">Configurações</string>
     <string name="shut_down_keep_screen">A tela não será mantida ligada</string>
     <string name="shutdown_alarm_disable_summary">O alarme não irá disparar depois que o dispositivo for desligado</string>
-    <string name="shutdown_alarm_enable_summary">O alarme disparará se for definido pelo menos 5 minutos depois de desligar seu dispositivo</string>
+    <string name="shutdown_alarm_enable_summary">O alarme disparará se for definido pelo menos 10 minutos depois de desligar seu dispositivo</string>
     <string name="shutdown_alarm_title">Alarme com telefone desligado</string>
     <string name="silent_alarm_summary">Silencioso</string>
     <string name="skip_alarm_once_hint">Desativar uma vez em %s</string>
@@ -262,4 +262,8 @@
 	<string name="shortcut_new_alarm">Definir alarme</string>
     <string name="shortcut_start_timer">Iniciar temporizador</string>
     <string name="shortcut_stop_watch">Iniciar cronômetro</string>
+	<string name="edit_systemtime_setting_summary">Data, hora, and relógio duplo</string>
+	<string name="worldclock_resident_city_text">Segundo relógio: %s</string>
+	<string name="worldclock_resident_city_text_detail">Relógio duplo está ativo</string>
+	<string name="worldcolock_date_display_prefix">Atual: </string>
 </resources>

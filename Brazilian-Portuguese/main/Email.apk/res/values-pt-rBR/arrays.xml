@@ -73,4 +73,8 @@
         <item>Aviso</item>
         <item>Aviso de e-mail</item>
     </string-array>
+	 <string-array name="prefEntries_contact_add">
+        <item>Todos</item>
+        <item>Apenas destinatários</item>
+    </string-array>
 </resources>

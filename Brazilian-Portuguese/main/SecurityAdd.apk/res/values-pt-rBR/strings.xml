@@ -70,4 +70,18 @@
     <string name="ent_licence_code">Código de licença</string>
     <string name="ent_licence_code_hint">Insria o código de licença</string>
     <string name="ent_licence_code_invalid">O código de licença que você inseriu é inválido.</string>
+	<string name="facebook_login">Entrar usando o Facebook</string>
+    <string name="facebook_send">Compartilhar com o Facebook</string>
+	<string name="instagram_send">Compartilhar com o Instagram</string>
+	<string name="list_empty_text_xspace">Crie mais aplicativos clones e tente novamente.</string>
+	<string name="remove_button">Excluir</string>
+    <string name="remove_button_time">Excluir (%ds)</string>
+	<string name="stop_xspace_alert_content">Excluir todos os aplicativos clones com suas contas e dados? Seu dispositivo será reiniciado para aplicar essas mudanças.</string>
+    <string name="stop_xspace_alert_title">"Excluir as contas dos aplicativos clones"</string>
+	<string name="use_google_open">Acordar usando o Google Assistente</string>
+    <string name="use_xiaoai_open">Acordar usando a Mi IA</string>
+	<string name="whatsapp_send">Compartilhar com o WhatsApp</string>
+	<string name="xspace_default_app_summary">Selecione os aplicativos padrão para fazer login, compartilhar e assistente de voz</string>
+    <string name="xspace_default_app_title">Personalização</string>
+	<string name="xspace_default_setting_label">Personalização</string>
 </resources>

@@ -2616,4 +2616,6 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
     <string name="gb_first_guide_handsfree_des">Atenda chamadas em segundo plano</string>
     <string name="gb_first_guide_shortcut_des">Um atalho para o Game Turbo foi criado na tela inicial</string>
     <string name="gb_first_guide_title">Aumente a velocidade e desempenho do sistema</string>
+	<string name="delete_all_sms">Excluir todas</string>
+	<string name="sms_delete_all_hint">Excluir todas as mensagens agora?</string>
 </resources>

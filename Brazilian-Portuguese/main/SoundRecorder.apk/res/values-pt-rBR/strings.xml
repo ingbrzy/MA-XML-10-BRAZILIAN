@@ -263,4 +263,10 @@
     <string name="shortcut_records">Gravações</string>
     <string name="shortcut_start_record">Iniciar gravação</string>
     <string name="shortcut_stop_record">Parar gravação</string>
+	<string name="text_btn_backward_3_seconds">3 segundos para trás</string>
+	<string name="text_btn_forward_3_seconds">3 segundos para frente</string>
+	<string name="text_play_speed_0_5">Velocidade de reprodução 0.5X</string>
+    <string name="text_play_speed_1_0">Velocidade de reprodução regular</string>
+    <string name="text_play_speed_1_5">Velocidade de reprodução 1.5X</string>
+    <string name="text_play_speed_2_0">Velocidade de reprodução 2X</string>
 </resources>
