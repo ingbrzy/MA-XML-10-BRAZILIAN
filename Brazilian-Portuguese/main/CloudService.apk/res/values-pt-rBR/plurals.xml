@@ -72,4 +72,8 @@
         <item quantity="other">%d frases frequentes</item>
         <item quantity="one">%d frase frequente</item>
     </plurals>
+	<plurals name="micloud_manual_pause_and_resume">
+        <item quantity="other">Retomando sincronização em %d minutos</item>
+        <item quantity="one">Retomando sincronização em %d minuto</item>
+    </plurals>
 </resources>

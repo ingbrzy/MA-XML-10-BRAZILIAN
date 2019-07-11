@@ -100,4 +100,26 @@
     <string name="screen_overlay_title">Sobreposição de tela detectada</string>
 	<string name="HIPS_Perm_deamon_notification">Notificação permanente</string>
 	<string name="HIPS_Perm_deamon_notification_Desc">mostrar notificação permanente</string>
+	<string name="background_location_access_reminder_notification_content">Esse aplicativo sempre irá acessar sua localização. Toque para alterar.</string>
+    <string name="background_location_access_reminder_notification_title">%s estava usando sua localização</string>
+    <string name="grant_dialog_button_allow_always">Permitir o tempo todo</string>
+	<string name="grant_dialog_button_allow_background">Permitir o tempo todo</string>
+	<string name="grant_dialog_button_allow_foreground">Permitir apenas enquanto usar o aplicativo</string>
+	<string name="grant_dialog_button_deny_and_dont_ask_again">Negar e não perguntar novamente</string>
+	<string name="grant_dialog_button_deny_background">Permitir acesso enquanto em uso</string>
+	<string name="grant_dialog_button_deny_background_and_dont_ask_again">Manter e não perguntar novamente</string>
+	<string name="permgrouprequest_storage_isolated">Permitir &lt;b&gt;%1$s&lt;/b&gt; acessar fotos e mídia no seu dispositivo?</string>
+	<string name="permission_description_summary_activity_recognition">Aplicativos com esta permissão podem acessar sua atividade física como caminhar, andar de bicicleta, dirigir, contar passos e mais</string>
+	<string name="permission_description_summary_calendar">Aplicativos com esta permissão podem acessar sua agenda</string>
+	<string name="permission_description_summary_call_log">Aplicativos com esta permissão podem ler e gravar no histórico de ligações</string>
+	<string name="permission_description_summary_camera">Aplicativos com esta permissão podem tirar fotos e gravar vídeos</string>
+	<string name="permission_description_summary_contacts">Aplicativos com esta permissão podem acessar seus contatos</string>
+	<string name="permission_description_summary_generic">Aplicativos com esta permissão podem %1$s</string>
+	<string name="permission_description_summary_location">"Aplicativos com esta permissão podem acessar a localização do dispositivo"</string>
+	<string name="permission_description_summary_microphone">Aplicativos com esta permissão podem gravar áudio</string>
+	<string name="permission_description_summary_phone">Aplicativos com esta permissão podem fazer e gerenciar ligações</string>
+	<string name="permission_description_summary_sensors">Aplicativos com esta permissão podem acessar sensores dos seus sinais vitais</string>
+	<string name="permission_description_summary_sms">Aplicativos com esta permissão podem enviar e visualizar mensagens</string>
+	<string name="permission_description_summary_storage">Aplicativos com esta permissão podem acessar fotos, mídia e arquivos no seu dispositivo</string>
+	<string name="permission_reminders">Lembretes de permissões</string>
 </resources>
