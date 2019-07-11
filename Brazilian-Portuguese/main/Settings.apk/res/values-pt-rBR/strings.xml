@@ -2598,7 +2598,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="keyboard_shortcuts_helper">Assistente de atalhos do teclado</string>
     <string name="keyboard_shortcuts_helper_summary">Mostrar atalhos disponíveis</string>
     <string name="keyguard_advance_setting_title">Configurações avançadas</string>
-	<string name="keyguard_double_tap_to_sleep_title">Toque duplo para apagar na tela de bloqueio</string>
+	<string name="keyguard_double_tap_to_sleep_title">Toque duplo na tela de bloqueio para desligar</string>
     <string name="keyguard_notification_status_title">Quando receber uma notificação com a tela desligada</string>
     <string name="keyguard_security_setting_others">Outros</string>
     <string name="keyguard_security_setting_privacy_policy">Política de Privacidade</string>
@@ -7089,7 +7089,7 @@ Ative esse recurso e toque no botão Acessibilidade na parte inferior da tela pa
 	<string name="password_security_settings_title">Senhas e segurança</string>
 	<string name="password_unlock_title">Senha</string>
 	<string name="privacy_protection_title">Privacidade</string>
-	<string name="quick_settings_under_keyguard_summary">Permita o acesso às configurações rápidas enquanto o dispositivo está bloqueado</string>
+	<string name="quick_settings_under_keyguard_summary">Permita o acesso às configurações rápidas enquanto o dispositivo estiver bloqueado</string>
     <string name="quick_settings_under_keyguard_title">Acesso às configurações rápidas</string>
 	<string name="recommend_tip">Precisa de outras configurações?</string>
 	<string name="screen_settings">Tela de bloqueio</string>
@@ -7116,4 +7116,5 @@ Ative esse recurso e toque no botão Acessibilidade na parte inferior da tela pa
 	<string name="miui_lab_home_feed_desc">Ideias brilhantes. Histórias convincentes.</string>
 	<string name="miui_lab_home_feed_title">Centro de Mídia</string>
 	<string name="support_gesture_title">Padrões 3D</string>
+	<string name="gesture_wakeup_title">Toque duplo na tela para ligar</string>
 </resources>
