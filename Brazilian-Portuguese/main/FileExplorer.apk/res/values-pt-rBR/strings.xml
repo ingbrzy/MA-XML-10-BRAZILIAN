@@ -297,7 +297,7 @@
   <string name="mobile_network_dialog_title">Aviso de dados móveis</string>
   <string name="month_day_format">d \'de\' MMMM</string>
   <string name="move_failed">Não é possível cortar</string>
-  <string name="move_icon_to_desktop_hint">Criar um atalho do Explorador na tela inicial para uma melhor gestão de ficheiros</string>
+  <string name="move_icon_to_desktop_hint">Criar um atalho do Arquivos na tela inicial para melhorar a gestão dos arquivos</string>
   <string name="move_icon_to_desktop_success">Atalho adicionado à tela inicial</string>
   <string name="move_to">Mover para…</string>
   <string name="msg_notify_setting">Definições das notificações</string>
