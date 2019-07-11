@@ -3530,12 +3530,12 @@ Selecione seu sistema operacional:"</string>
     <string name="notes_privacy_password_role_instruction">Suas anotações privadas serão armazenadas aqui.</string>
 	<string name="notifi_channels">Categorias das notificações</string>
 	<string name="notifi_channels_other">Outros</string>
-	<string name="notifi_importance_default">Toque som e mostre na tela de bloqueio</string>
-    <string name="notifi_importance_high">Toque som, mostre na tela de bloqueio, permitindo usar opções de tela cheia</string>
-    <string name="notifi_importance_low">Não tocar som</string>
-    <string name="notifi_importance_min">Não mostrar na tela de bloqueio e não tocar som</string>
-    <string name="notifi_importance_none">Desativado</string>
-    <string name="notifi_importance_unspecified">Deixe o aplicativo decidir</string>
+	<string name="notifi_importance_default">Tocar som</string>
+    <string name="notifi_importance_high">Tocar som e mostrar na tela</string>
+    <string name="notifi_importance_low">Mostrar silenciosamente</string>
+    <string name="notifi_importance_min">Mostrar silenciosamente e minimizar</string>
+    <string name="notifi_importance_none">Nunca mostrar notificação</string>
+    <string name="notifi_importance_unspecified">Permitir som</string>
 	<string name="notifi_no_channels">Este aplicativo não recebeu nenhuma notificação</string>
     <string name="notification_app_settings_button">Configurações de notificação</string>
     <string name="notification_badge_title">Permitir ponto de notificação</string>
@@ -5432,7 +5432,7 @@ Tente usar um ^3 mais rápido ou use esse ^4 apenas como armazenamento portátil
 %1$s"</string>
     <string name="sync_plug"><font fgcolor="#ffffffff">Bem-vindo ao Google Sync!</font>" 
 Um método do Google para sincronizar dados a fim de permitir acesso aos seus contatos, compromissos e muito mais, onde quer que você esteja."</string>
-    <string name="sync_settings">Sincronização</string>
+    <string name="sync_settings">Contas e sincronização</string>
     <string name="sync_wifi_label">Wi-Fi</string>
     <string name="sync_wifi_only">Apenas por Wi-Fi</string>
     <string name="system">Sistema</string>
@@ -7117,4 +7117,21 @@ Ative esse recurso e toque no botão Acessibilidade na parte inferior da tela pa
 	<string name="miui_lab_home_feed_title">Centro de Mídia</string>
 	<string name="support_gesture_title">Padrões 3D</string>
 	<string name="gesture_wakeup_title">Toque duplo na tela para ligar</string>
+	<string name="gesture_wakeup_summary">Você pode tocar duas vezes na tela para desligá-la quando o tema Clássico ou Padrão estiver aplicado</string>
+	<string name="lock_screen_settings_title">Tela de bloqueio</string>
+	<string name="notch_style_mod_description">Opções de entalhe e barra de status</string>
+	<string name="notch_style_mod_title">Esconder entalhe</string>
+	<string name="notch_style_show">"Não esconder"</string>
+	<string name="notch_style_status_bar_inside">Esconder sem mover a barra de status</string>
+	<string name="notch_style_status_bar_outside">Esconder e mover a barra de status</string>
+	<string name="popup_gesture_summary">Volte para a tela inicial, levante o telefone, e olhe para a tela para abrir a câmera frontal automaticamente</string>
+	<string name="wireless_button">Carregue outros dispositivos sem fios</string>
+	<string name="wireless_charging_settings">Carregue outros dispositivos sem fios</string>
+	<string name="wireless_closed">Desativado</string>
+	<string name="wireless_opened">Ativado</string>
+	<string name="wireless_tip">"Use seu telefone para carregar outros doispositivos sem fio.
+
+Este recurso será desativado se não começar o carregamento em 90 segundos."</string>
+	<string name="xiaomi_cloud_service_description_contact">contatos e</string>
+	<string name="xiaomi_cloud_service_description_format">A Mi Cloud sincroniza suas %s fotos, faz backup dos aplicativos e configurações e ajuda a encontrar o seu dispositivo.</string>
 </resources>

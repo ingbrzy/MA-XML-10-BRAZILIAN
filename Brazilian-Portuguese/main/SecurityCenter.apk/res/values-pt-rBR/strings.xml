@@ -141,7 +141,7 @@ Ele será adicionado às exceções, mas os itens bloqueados anteriormente não 
     <string name="sms_filter">Filtro inteligente</string>
     <string name="sms_keywords">Bloqueio de palavras-chave</string>
     <string name="sms_service">Bloquear SMS de serviço</string>
-    <string name="sms_stranger_block">Bloquear SMS de desconhecidos</string>
+    <string name="sms_stranger_block">Bloqueado</string>
     <string name="sms_contact_block">Bloquear SMS de contatos</string>
     <string name="sms_malicious_url">Bloquear SMS com URLs maliciosas</string>
     <string name="sms_cloud_block">Bloqueio na nuvem</string>
@@ -289,7 +289,7 @@ Ele será adicionado às exceções, mas os itens bloqueados anteriormente não 
     <string name="st_share_settings">Usar configurações do SIM 1</string>
     <string name="st_msg_settings">Bloqueio de SMS</string>
     <string name="st_msg_intercept_contacts">Bloquear SMS de contatos</string>
-    <string name="st_msg_stranger_group">Bloquear SMS de desconhecidos</string>
+    <string name="st_msg_stranger_group">Bloquear mensagens de desconhecidos</string>
     <string name="st_msg_other_group">Outros</string>
     <string name="st_msg_keyword_group">Palavras-chave</string>
     <string name="st_msg_keyword_black">Bloqueio por palavras-chave</string>
@@ -2618,4 +2618,6 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
     <string name="gb_first_guide_title">Aumente a velocidade e desempenho do sistema</string>
 	<string name="delete_all_sms">Excluir todas</string>
 	<string name="sms_delete_all_hint">Excluir todas as mensagens agora?</string>
+	<string name="battery_desc_ambient_display">Bateria utilizada pelas notificações ambiente</string>
+	<string name="power_ambient_display">Notificações ambiente</string>
 </resources>

@@ -41,4 +41,5 @@
     <string name="summary_float_enable_notification_first">Permita notificações para poder ativar as notificações flutuantes</string>
     <string name="summary_lock_screen_enable_notification_first">Permita notificações para poder ativar as notificações na tela de bloqueio</string>
     <string name="summary_show_badge_enable_notification_first">Permita notificações para poder ativar os ícones de notificação</string>
+	<string name="expand_top_notification">Expandir notificações no topo</string>
 </resources>
