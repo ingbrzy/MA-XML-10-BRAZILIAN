@@ -202,4 +202,11 @@
 	<string name="takeback_camera_front_failed">"Não foi possível fechar a câmera frontal. Tente novamente."</string>
 	<string name="sim_lock_non_ais_msg">"Seu cartão SIM não está totoalmente operacional com esse telefone porque ele não se enquadra nos termos e condições de seu cadastro. Se você tiver qualquer dúvida ou precisar de mais informações sobre isso, entre em contato com os centros de serviços Xiaomi ou com a loja que lhe vendeu o produto."</string>
     <string name="sim_lock_now_ais_title">SIM%1$d</string>
+	<string name="autofill_save_message">Permitir que a MIUI salve suas contas e senhas?</string>
+    <string name="autofill_save_ok">Permitir</string>
+    <string name="autofill_save_sub_message">"Você poderá gerenciar senhas salvas em Configurações &gt; Configurações adicionais &gt; Privacidade &gt; Gerenciar senhas."</string>
+    <string name="autofill_save_title">Salve senhas automaticamente</string>
+	<string name="popup_camera_cancel_popup">Cancelar</string>
+    <string name="popup_camera_continue_popup">Abrir câmera</string>
+	<string name="popup_camera_remove_hid_device">Parece que seu dispositivo está conectado em um controle. Pode ser que você não consiga abrir a câmera frontal quando um controle estiver conectado.</string>
 </resources>

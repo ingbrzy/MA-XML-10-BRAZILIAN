@@ -2610,4 +2610,10 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
     <string name="quick_optimize_sub_battery_text">Aproximadamente %s restantes</string>
     <string name="quick_optimize_sub_summary_with_battery_text">Adicionado %1$s, aproximadamente %2$s restantes</string>
     <string name="user_guide">Deslize para cima para descobrir novos jogos</string>
+	<string name="function_shield_voice_trigger">"Não acorde a MI IA com a voz"</string>
+	<string name="gb_first_guide_function_shiled_title">Desative recursos do sistema quando o Game Turbo estiver ativo</string>
+    <string name="gb_first_guide_gamebox_des">Use atalhos enquanto estiver jogando</string>
+    <string name="gb_first_guide_handsfree_des">Atenda chamadas em segundo plano</string>
+    <string name="gb_first_guide_shortcut_des">Um atalho para o Game Turbo foi criado na tela inicial</string>
+    <string name="gb_first_guide_title">Aumente a velocidade e desempenho do sistema</string>
 </resources>

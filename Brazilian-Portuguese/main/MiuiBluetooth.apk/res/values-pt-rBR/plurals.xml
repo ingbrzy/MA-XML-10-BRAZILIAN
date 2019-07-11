@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fast_connect_headset_reset">
+        <item quantity="other">Pressione e segure o botão na caixa por %1$d segundos</item>
+        <item quantity="one">Pressione e segure o botão na caixa por %1$d segundo</item>
+    </plurals>
+</resources>

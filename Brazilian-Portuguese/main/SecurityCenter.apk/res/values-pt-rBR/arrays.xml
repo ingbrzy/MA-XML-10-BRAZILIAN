@@ -23,17 +23,17 @@
         <item>"Este mês: "</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>Ontem (dados)</item>
-        <item>Hoje (dados)</item>
-        <item>Mês passado (dados)</item>
-        <item>Este mês (dados)</item>
-        <item>Wi-Fi ontem</item>
-        <item>Wi-Fi hoje</item>
-        <item>Wi-Fi no mês passado</item>
-        <item>Wi-Fi neste mês</item>
+        <item>Ontem (dados móveis)</item>
+        <item>Hoje (dados móveis)</item>
+        <item>Mês passado (dados móveis)</item>
+        <item>Este mês (dados móveis)</item>
+        <item>Ontem (Wi-Fi)</item>
+        <item>Hoje (Wi-Fi)</item>
+        <item>Mês passado (Wi-Fi)</item>
+        <item>Neste mês (Wi-Fi)</item>
     </string-array>
     <string-array name="traffic_type">
-        <item>"Uso de dados "</item>
+        <item>"Uso de dados móveis "</item>
         <item>"Uso de Wi-Fi "</item>
     </string-array>
     <string-array name="mi_service_traffic_type">
