@@ -4,7 +4,7 @@
   <string name="about_downloading">Baixando %s</string>
   <string name="about_item_function">Novos recursos</string>
   <string name="about_net_error">Verifique as conexões de rede e tente novamente.</string>
-  <string name="about_newest">O carrossel de papel de parede está atualziado.</string>
+  <string name="about_newest">O carrossel de planos de fundo está atualziado.</string>
   <string name="ad_feed_badge">Anúncios</string>
   <string name="ad_pop_btn_hidden">Ocultar</string>
   <string name="ad_pop_des">Transferir:</string>
@@ -31,7 +31,7 @@
   <string name="cancel_international">Cancelar</string>
   <string name="cancel_lockscreen">Cancelar</string>
   <string name="cancel_network">Sair</string>
-  <string name="carousel_declaration_cta">"O carrossel de papel de parede precisa de conexão com a Internet para funcionar adequadamente. Para ter acesso ao conteúdo online, você precisa concordar com a nossa &lt;a href='%s'&gt;Política de Privacidade&lt;/a&gt;. Concorda?"</string>
+  <string name="carousel_declaration_cta">"O carrossel de planos de fundo precisa de conexão com a Internet para funcionar adequadamente. Para ter acesso ao conteúdo online, você precisa concordar com a nossa &lt;a href='%s'&gt;Política de Privacidade&lt;/a&gt;. Concorda?"</string>
   <string name="carousel_declaration_des">Veja lugares lindos e obtenha surpresas excitantes com os papéis de parede aleatórios</string>
   <string name="carousel_declaration_des2">Adicione as suas imagens aos papéis de parede aleatórios</string>
   <string name="carousel_declaration_des_new">Receba recomendações personalizadas e escolha imagens novas todos os dias</string>
@@ -46,9 +46,9 @@
   <string name="clear_history">Limpar histórico de pesquisa</string>
   <string name="clear_search_edittext">Limpar</string>
   <string name="comment_pop_cancel">Agora não</string>
-  <string name="comment_pop_content">Faça um review se você gostou do nosso carrossel de papel de parede!</string>
+  <string name="comment_pop_content">Faça um review se você gostou do nosso carrossel de planos de fundo!</string>
   <string name="comment_pop_ok">Avaliar</string>
-  <string name="comment_pop_title">Avaliar carrossel de papel de parede</string>
+  <string name="comment_pop_title">Avaliar carrossel de planos de fundo</string>
   <string name="create_shortcut">Criar atalho na tela inicial</string>
   <string name="confirm">Ativar</string>
   <string name="current_connection_invalid">Aguarde até que o dispositivo se conecte à rede</string>
@@ -207,7 +207,7 @@
   <string name="search_str">Popular</string>
   <string name="select_package">Selecionar versão</string>
   <string name="setting_about_item_des">Versão</string>
-  <string name="setting_about_item_title">Sobre o carrossel de papel de parede</string>
+  <string name="setting_about_item_title">Sobre o carrossel de planos de fundo</string>
   <string name="setting_des">Pode definir os seus diapositivos em Configurações &gt; Bloqueio de tela e senhas &gt; Papéis de parede aleatórios</string>
   <string name="setting_head">Configurações</string>
   <string name="setting_ok">Configuraççoes</string>
@@ -285,8 +285,8 @@
   <string name="theme_apply_failured">Não é possível aplicar. Tente novamente mais tarde</string>
   <string name="theme_apply_success">Aplicado com sucesso</string>
   <string name="theme_applying">Aplicando…</string>
-  <string name="theme_des">Aplicar o tema padrão e ativar o carrossel de papel de parede novamente.</string>
-  <string name="theme_des_lock_style">Aplicar a tela de bloqueio padrão e ativar o carrossel de papel de parede novamente.</string>
+  <string name="theme_des">Aplicar o tema padrão e ativar o carrossel de planos de fundo novamente.</string>
+  <string name="theme_des_lock_style">Aplicar a tela de bloqueio padrão e ativar o carrossel de planos de fundo novamente.</string>
   <string name="theme_ok">Configurações</string>
   <string name="theme_title">Alterar para o tema padrão</string>
   <string name="theme_title_lock_style">Alterar para a tela de bloqueio padrão</string>
@@ -317,7 +317,7 @@
   <string name="llks_simple_mode_desc">Layout simplificado e atalhos adicionais</string>
   <string name="llks_standard_mode">Padrão</string>
   <string name="llks_standard_mode_desc">Papéis de parede, histórias e recomendações diárias</string>
-  <string name="llks_tools_gallery_name">Carrossel de papel de parede</string>
+  <string name="llks_tools_gallery_name">Carrossel de planos de fundo</string>
   <string name="llks_tools_nfc_data">%s CNY</string>
   <string name="llks_tools_nfc_name">NFC</string>
   <string name="llks_tools_remote_control_name">Mi Remote</string>
@@ -325,8 +325,8 @@
   <string name="subscribe_apply_wp">Papel de parede aplicado à tela de bloqueio com sucesso</string>
   <string name="subscribe_dlg_content">Cadastre-se para receber novos papéis de parede entregues à sua tela de bloqueio e receba saudações matinais.</string>
   <string name="theme_apply_lockscreen_success">Aplicado com sucesso</string>
-  <string name="theme_close_maml">As imagens do Carrossel de papel de parede irão sobrepor o papel de parede da tela de bloqueio.</string>
+  <string name="theme_close_maml">As imagens do carrossel de planos de fundo irão sobrepor o papel de parede da tela de bloqueio.</string>
   <string name="theme_des_maml">"Outros componentes do tema selecionado não serão afetados. O tema será recarregado para aplicar as mudanças."</string>
-  <string name="theme_title_subscribe">Cadastrar-se para o carrossel de papel de parede</string>
+  <string name="theme_title_subscribe">Cadastrar-se para o carrossel de planos de fundo</string>
   <string name="toast_update_no_more_newest_feeds">Sem itens por hora</string>
 </resources>

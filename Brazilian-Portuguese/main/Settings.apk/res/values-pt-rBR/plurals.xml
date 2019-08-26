@@ -194,6 +194,7 @@
     </plurals>
     <plurals name="miui_sos_emergency_contacts_quantity">
         <item quantity="other">%d adicionados</item>
+		<item quantity="one">%d adicionado</item>
     </plurals>
     <plurals name="manage_notification_access_summary_nonzero">
         <item quantity="other">%d aplicativos podem ler notificações</item>
@@ -458,5 +459,13 @@ Para ver mais informações sobre esses certificados, entre em contato com seu a
     <plurals name="usagestats_device_notification_des_min">
         <item quantity="other">" minutos"</item>
         <item quantity="one">" minuto"</item>
+    </plurals>
+	<plurals name="lockpassword_password_too_long">
+        <item quantity="other">Você pode inserir até %d caracteres</item>
+        <item quantity="one">Você pode inserir até %d caracter</item>
+    </plurals>
+    <plurals name="lockpassword_password_too_short">
+        <item quantity="other">Insira pelo menos %d caracteres</item>
+        <item quantity="one">Insira pelo menos %d caracteres</item>
     </plurals>
 </resources>

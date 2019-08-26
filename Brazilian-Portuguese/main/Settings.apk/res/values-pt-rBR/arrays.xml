@@ -1468,4 +1468,9 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Porcentagem (no ícone)</item>
         <item>Percentagem (ao lado do ícone)</item>
     </string-array>
+	    <string-array name="wide_notch_battery_indicator_style_entries">
+        <item>Gráfico</item>
+        <item>Porcentagem (no ícone)</item>
+        <item>Percentagem (ao lado do ícone na área de notificação)</item>
+    </string-array>
 </resources>

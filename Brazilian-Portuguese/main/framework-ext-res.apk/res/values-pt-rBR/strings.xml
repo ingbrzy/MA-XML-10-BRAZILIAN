@@ -209,4 +209,11 @@
 	<string name="popup_camera_cancel_popup">Cancelar</string>
     <string name="popup_camera_continue_popup">Abrir câmera</string>
 	<string name="popup_camera_remove_hid_device">Parece que seu dispositivo está conectado em um controle. Pode ser que você não consiga abrir a câmera frontal quando um controle estiver conectado.</string>
+	<string name="content_description_dial">Chamar</string>
+    <string name="content_description_search">Pesquisar</string>
+    <string name="content_description_share">Compartilhar</string>
+    <string name="content_description_translate">Traduzir</string>
+    <string name="content_description_web_url">Navegar</string>
+	<string name="user_switching_dialog_switch_into_kid_space">Alternando para o espaço Kid…</string>
+    <string name="user_switching_dialog_switch_out_kid_space">Saindo do espaço Kid…</string>
 </resources>

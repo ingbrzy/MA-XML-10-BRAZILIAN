@@ -2990,7 +2990,7 @@ para o segundo espaço"</string>
     <string name="lockscreen_glogin_submit_button">Fazer login</string>
     <string name="lockscreen_magazine">Carrossel de planos de fundo</string>
     <string name="lockscreen_magazine_summary">Carrossel de planos de fundo de alta qualidade</string>
-    <string name="lockscreen_magazine_title">Carrossel de Planos de fundo</string>
+    <string name="lockscreen_magazine_title">Carrossel de planos de fundo</string>
     <string name="lockscreen_remote_input">Se o dispositivo estiver bloqueado, impedir a digitação de respostas ou outros textos nas notificações</string>
     <string name="lockscreen_settings_title">Preferências da tela de bloqueio</string>
     <string name="login_account_dialog_message">Faça o login com sua Conta Mi e ative a sincronização com a Mi Cloud.</string>
@@ -7134,4 +7134,5 @@ Ative esse recurso e toque no botão Acessibilidade na parte inferior da tela pa
 Este recurso será desativado se não começar o carregamento em 90 segundos."</string>
 	<string name="xiaomi_cloud_service_description_contact">contatos e</string>
 	<string name="xiaomi_cloud_service_description_format">A Mi Cloud sincroniza suas %s fotos, faz backup dos aplicativos e configurações e ajuda a encontrar o seu dispositivo.</string>
+	<string name="privacy_password_settings_summary">A senha de proteção de privacidade é usada para os aplicativos que podem conter informações confidenciais</string>
 </resources>

@@ -54,7 +54,7 @@
         <item>Tablet</item>
     </string-array>
     <string-array name="pref_navscreen_layoutstate_choices">
-        <item>Telhas</item>
+        <item>Visualização lado a lado</item>
         <item>Vertical</item>
         <item>Horizontal</item>
     </string-array>
@@ -116,5 +116,10 @@
         <item>Neblina</item>
         <item>Chuva gelada</item>
         <item></item>
+    </string-array>
+	    <string-array name="pref_homepage_choices_with_simplehome">
+        <item>Página inicial padrão</item>
+        <item>Limpar página inicial</item>
+        <item>Personalizado</item>
     </string-array>
 </resources>

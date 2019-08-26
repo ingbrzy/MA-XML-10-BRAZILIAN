@@ -576,4 +576,11 @@ Tamanho da atualização: %2$s"</string>
     <string name="xiaomi_update_dialog_title">Atualização para %1$s!</string>
 	<string name="tax_rate_provider_east_money">Calculado de acordo com os novos regulamentos fiscais. Os dados são fornecidos pelo East Money.</string>
 	<string name="mortgage_provider_east_money">Dados fornecidos por East Money</string>
+	<string name="choose_radix">Selecione o sistema numeral</string>
+    <string name="convertion_unit_radix">Sistema numeral</string>
+    <string name="item_title_radix">Systema numeral</string>
+    <string name="unit_data_display_radix_10">Decimal</string>
+    <string name="unit_data_display_radix_16">Hexadecimal</string>
+    <string name="unit_data_display_radix_2">Binário</string>
+    <string name="unit_data_display_radix_8">Octal</string>
 </resources>

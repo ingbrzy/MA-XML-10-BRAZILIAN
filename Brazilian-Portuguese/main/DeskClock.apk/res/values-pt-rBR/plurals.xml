@@ -36,4 +36,8 @@
         <item quantity="other">%1$d segundos</item>
         <item quantity="one">%1$d segundo</item>
     </plurals>
+	<plurals name="snooze_duration_changed_info">
+        <item quantity="other">Alterar o intervalo de soneca para %d minutos</item>
+        <item quantity="one">Alterar o intervalo de soneca para %d minuto</item>
+    </plurals>
 </resources>

@@ -106,7 +106,7 @@
     <string name="accessibility_display_daltonizer_preference_title">Correção de cor</string>
     <string name="accessibility_divider">Separador da Tela dividida</string>
     <string name="accessibility_drag_hint_message">Arraste itens para o topo da tela</string>
-    <string name="accessibility_enter_lock_wallpaper">Toque para abrir o Carrossel de Planos de fundo</string>
+    <string name="accessibility_enter_lock_wallpaper">Toque para abrir o carrossel de planos de fundo</string>
     <string name="accessibility_ethernet_connected">Ethernet conectado.</string>
     <string name="accessibility_ethernet_disconnected">Ethernet desconectado.</string>
     <string name="accessibility_fingerprint_dialog_app_icon">Ícone do aplicativo</string>
@@ -118,7 +118,7 @@
     <string name="accessibility_ime_switch_button">Botão para alternar método de entrada.</string>
     <string name="accessibility_key">Botão de navegação personalizado</string>
     <string name="accessibility_left_control_center_button">Atalho</string>
-    <string name="accessibility_left_lock_screen_magazine_button">Carrossel de Planos de fundo</string>
+    <string name="accessibility_left_lock_screen_magazine_button">Carrossel de planos de fundo</string>
     <string name="accessibility_location_active">Solicitação de localização ativada</string>
     <string name="accessibility_managed_profile">Perfil de trabalho</string>
     <string name="accessibility_manual_zen_less_time">Menos tempo.</string>
@@ -579,7 +579,7 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
     <string name="dock_forced_resizable">O aplicativo pode não funcionar com a Tela dividida.</string>
     <string name="dock_keyguard_locked_failed_to_dock_text">A Tela dividida não é suportada na Tela de bloqueio.</string>
     <string name="dock_non_resizeble_failed_to_dock_text">O aplicativo não suporta Tela dividida.</string>
-    <string name="download_lock_wallpaper">Toque duas vezes para baixar o Carrossel de Planos de Fundo</string>
+    <string name="download_lock_wallpaper">Toque duas vezes para baixar o carrossel de planos de fundo</string>
     <string name="doze_pickup_subtype_performs_proximity_check" />
     <string name="drag_to_add_tiles">Pressione e segure para adicionar ou reordenar os itens</string>
     <string name="drag_to_remove_tiles">Arraste aqui para remover</string>
@@ -887,7 +887,7 @@ Use somente o carregador fornecido."</string>
     <string name="keyguard_left_remotecentral">Mi Remote</string>
     <string name="keyguard_left_smarthome">Mi Home</string>
     <string name="keyguard_left_torch">Lanterna</string>
-    <string name="keyguard_left_view_lock_wallpaper">Carrossel de Planos de fundo</string>
+    <string name="keyguard_left_view_lock_wallpaper">Carrossel de planos de fundo</string>
     <string name="keyguard_low_battery">Conecte seu carregador.</string>
     <string name="keyguard_missing_sim_instructions">Insira um cartão SIM.</string>
     <string name="keyguard_missing_sim_instructions_long">O cartão SIM está ausente ou não pode ser lido. Insira um cartão SIM.</string>
@@ -986,7 +986,7 @@ Tente novamente em %2$d segundos."</string>
     <string name="lock_screen_date">"EEEE, dd 'de' MMMM"</string>
     <string name="lock_screen_date_12">"EEEE, dd 'de' MMMM"</string>
     <string name="lock_screen_magazine_default_content">Porção diária de novas imagens</string>
-    <string name="lock_screen_magazine_default_title">Carrossel de Planos de fundo</string>
+    <string name="lock_screen_magazine_default_title">Carrossel de planos de fundo</string>
     <string name="lock_screen_magazine_global_button_text">mais</string>
     <string name="lock_screen_no_sim_card_emergency_only">Só cham. de emergência</string>
     <string name="lock_screen_no_sim_card_no_service">Sem serviço</string>
@@ -1046,11 +1046,11 @@ Tente novamente em %2$d segundos."</string>
     <string name="miui_ringer_total">Não perturbe</string>
     <string name="miui_ringer_total_description">Silenciar sons e desativar vibração para todos os itens exceto o alarme</string>
     <string name="miui_screen_rotation_freeze_message">Rotação automática desativada.</string>
-    <string name="miui_toast_zen_dnd_to_off">Sons e vibração restaurados para o padrão</string>
-    <string name="miui_toast_zen_standard_to_off">Toques restaurados para o normal</string>
-    <string name="miui_toast_zen_standard_to_off_when_shield_media">Os toques, assim como sons de notificação e mídia, serão reproduzidos.</string>
-    <string name="miui_toast_zen_to_dnd">Sons silenciados e vibração desativada</string>
-    <string name="miui_toast_zen_to_standard">Toques para chamadas e notificações silenciados</string>
+    <string name="miui_toast_zen_dnd_to_off">O DND está desativado agora. Sons e vibração foram restaurados.</string>
+    <string name="miui_toast_zen_standard_to_off">O DND está desativado agora. Toques foram restaurados.</string>
+    <string name="miui_toast_zen_standard_to_off_when_shield_media">O DND está desativado agora. Os toques, assim como sons de notificação e mídia, serão reproduzidos.</string>
+    <string name="miui_toast_zen_to_dnd">O DND está ativado. Sons foram silenciados e a vibração desativada</string>
+    <string name="miui_toast_zen_to_standard">O DND está ativado. Toques para chamadas e notificações foram silenciados</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">Os toques, assim como sons de notificação e mídia, serão silenciados.</string>
     <string name="mobile_data">Dados móveis</string>
     <string name="mobile_data_always_on">Dados móveis sempre ativos</string>
@@ -1189,10 +1189,10 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
     <string name="okay">OK</string>
     <string name="oldman_airplane_mode_text">Modo avião</string>
     <string name="oldman_incall_text">Voltar à chamada</string>
-    <string name="open_camera_hint_text">Deslize para a esquerda para abrir a Câmera</string>
+    <string name="open_camera_hint_text">Arraste o ícone para abrir a Câmera</string>
     <string name="open_extreme_power_save_mode_title">Ativar a Economia extrema de bateria</string>
-    <string name="open_lock_screen_magazine_hint_text">Deslize para a esquerda para mais opções</string>
-    <string name="open_remote_center_hint_text">Deslizar para a direita para abrir atalhos</string>
+    <string name="open_lock_screen_magazine_hint_text">Arraste o ícone para abrir o carrossel de papéis de parede</string>
+    <string name="open_remote_center_hint_text">Arraste o ícone para ver os atalhos</string>
     <string name="other">Outros</string>
     <string name="overlay_display_devices_title">Simular telas secundárias</string>
     <string name="overview">Visão geral</string>
@@ -1979,7 +1979,11 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="keyguard_charging_super_quick_and_level_tip">Carregando rapidamente %d%%</string>
 	<string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">Mais</string>
     <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">Entre</string>
-	<string name="lock_screen_magazine_label">Abrir carrossel de papéis de parede</string>
+	<string name="lock_screen_magazine_label">Abrir carrossel de planos de fundo</string>
 	<string name="long_screenshot_guide_text">"Toque para fazer
 uma captura de tela contínua"</string>
+	<string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"Não é possível alternar entre espaços quando a ultra economia de bateria está ativada"</string>
+	<string name="recents_dimiss_task">Limpar</string>
+	<string name="recents_forbid_dock_when_screening_toast_text">"Não é possível usar a tela dividida enquanto transmite"</string>
+	<string name="recents_task_screening">Transmitindo</string>
 </resources>

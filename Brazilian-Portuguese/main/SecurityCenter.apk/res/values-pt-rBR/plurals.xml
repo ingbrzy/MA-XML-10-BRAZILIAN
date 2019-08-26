@@ -133,12 +133,12 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
         <item quantity="one">Adiciona %d minuto</item>
     </plurals>
     <plurals name="people">
-        <item quantity="other">Transferido por %1$d pessoas</item>
-        <item quantity="one">Transferido por %1$d pessoa</item>
+        <item quantity="other">Baixado por %1$d pessoas</item>
+        <item quantity="one">Baixado por %1$d pessoa</item>
     </plurals>
     <plurals name="people_million">
-        <item quantity="other">Transferido por %1$d pessoas</item>
-        <item quantity="one">Transferido por %1$d pessoa</item>
+        <item quantity="other">Baixado por %1$d pessoas</item>
+        <item quantity="one">Baixado por %1$d pessoa</item>
     </plurals>
     <plurals name="gb_ad_people_play">
         <item quantity="other">%1$d pessoas estão jogando</item>

@@ -379,4 +379,5 @@
     <string name="shake_to_align_icons_summary">Balance o dispositivo enquanto estiver no modo edição para preencher os espaços vazios automaticamente</string>
     <string name="shake_to_align_icons_title">Balance para preencher espaços vazios</string>
     <string name="system_shortcuts_more_operation">Informações do aplicativo</string>
+	<string name="unstable_dialog_content">"Esta é uma versão prévia da imagem do sistema Android e está sujeita a alterações. O uso desta imagem do sistema é regido pelo Contrato de Licença de Visualização do Android SDK. A prévia da imagem do sistema Android não é uma versão estável e pode conter erros e defeitos que podem resultar em danos aos sistemas, dispositivos ou dados de seu computador. A prévia da imagem do sistema Android não está sujeita aos mesmos testes que o sistema operacional de fábrica e pode fazer com que este dispositivo, serviços instalados ou aplicativos parem de funcionar."</string>
 </resources>

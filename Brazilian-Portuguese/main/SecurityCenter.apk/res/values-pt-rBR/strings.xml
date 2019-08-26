@@ -2620,4 +2620,41 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
 	<string name="sms_delete_all_hint">Excluir todas as mensagens agora?</string>
 	<string name="battery_desc_ambient_display">Bateria utilizada pelas notificações ambiente</string>
 	<string name="power_ambient_display">Notificações ambiente</string>
+	<string name="call_delete_all_hint">Excluir todas as chamadas bloqueadas?</string>
+	<string name="superpower_dialog_button_disable_dialog">"Não mostrar novamente"</string>
+	<string name="superpower_dialog_button_ok">OK</string>
+	<string name="superpower_dialog_massage">"A ultra economia de bateria restringe a maioria dos recursos que consomem muita energia e diminui o desempenho do dispositivo para deixar funcionalidades básicas (por exemplo: chamadas, SMS e conexão com a rede) disponíveis o maior tempo possível. Ativar a ultra economia de bateria? "</string>
+	<string name="superpower_dialog_title">Ultra economia de bateria</string>
+	<string name="superpower_notification_hint_enter">Ativar</string>
+	<string name="superpower_notification_summary">Ativar ultra economia de bateria</string>
+	<string name="superpower_notification_title">Menos de 10% de bateria restantes</string>
+	<string name="superpower_progress_content">Ativando ultra economia de bateria…</string>
+	<string name="superpower_progress_switch_home">Alternando para o modo escuro</string>
+	<string name="superpower_progress_title">Tempo restante</string>
+	<string name="superpower_progress_turndown_brightness">Diminuindo o brilho da tela</string>
+	<string name="superpower_progress_turnoff_items">Restringindo atividades que consomem energia</string>
+	<string name="superpower_progress_turnoff_process">Restringir atividade em segundo plano</string>
+	<string name="superpower_savemode_limit1">Modo escuro</string>
+	<string name="superpower_savemode_limit2">Restringir atividade em segundo plano</string>
+	<string name="superpower_savemode_limit3">Restringir atividades que consomem energia (sincronização, GPS, vibração, exibição ambiente, etc.)</string>
+	<string name="superpower_savemode_limit4">Permitir que aplicativos selecionados funcionem normalmente</string>
+	<string name="superpower_settings">Ultra economia de bateria</string>
+	<string name="superpower_settins_autoenter_summary">Ativar a ultra econoimia de bateria automaticamente quando a bateria estiver com 10% de carga</string>
+	<string name="superpower_settins_autoenter_title">Ativar automaticamente</string>
+	<string name="superpower_settins_autoleave_summary">Desativar a ultra economia de bateria quando a bateria estiver 50% carregada</string>
+	<string name="superpower_settins_autoleave_title">Desativar automaticamente</string>
+	<string name="superpower_settins_other">Configurações adicionais</string>
+	<string name="superpower_settins_switch_summary">Restringe a maioria dos recursos que consomem energia, a fim de deixar as funcionalidades básicas (por exemplo: chamadas, SMS e aplicativos selecionados) disponíveis o maior tempo possível</string>
+	<string name="system_permission_declare_agree">Concordar</string>
+	<string name="system_permission_declare_double_link">&lt;Data&gt;Ler e concordar com &amp;lt;a href=\"%1$s\"&amp;gt;Acordo do Usuário&amp;lt;/a&amp;gt; e &amp;lt;a href=\"%2$s\"&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt; antes de usar este recurso.&lt;/Data&gt;</string>
+	<string name="system_permission_declare_main_purpose" formatted="false">Bem vindo ao %1s! Este aplicativo permite que seja usado o seguinte recurso: %2s.</string>
+	<string name="system_permission_declare_no_say_no">"Se você optar por não conceder as permissões necessárias ou não permitir que coletemos e usemos seus dados, este aplicativo não poderá funcionar normalmente."</string>
+	<string name="system_permission_declare_privacy_declare">"Nós respeitamos e protegemos sua privacidade.
+Observe que %1s precisa coletar seus dados e requer as seguintes permissões para funcionar normalmente
+	<string name="system_permission_declare_revoke_path">Você pode desinstalar este aplicativo, sair da sua conta, ou gerenciar permissões e autorizações em Segurança &gt; Gerenciar aplicativos &gt; Permissões &gt; Outras permissões.</string>
+	<string name="system_permission_declare_use_network">Conecte-se à rede</string>
+	<string name="system_permission_perm_answer_call">Fazer chamadas</string>
+	<string name="system_permission_perm_read_mms">Ler MMS</string>
+	<string name="system_permission_perm_read_numbers">Ler números de telefone</string>
+	<string name="system_permission_perm_send_mms">Enviar MMS</string>
 </resources>

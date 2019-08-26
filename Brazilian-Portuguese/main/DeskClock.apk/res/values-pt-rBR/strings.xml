@@ -125,12 +125,12 @@
     <string name="minute">1 minuto</string>
     <string name="minutes">%d minutos</string>
     <string name="module_download_cancel">Não, obrigado</string>
-    <string name="module_download_data_msg">O Relógio precisa de uma conexão com a internet para fazer o download de arquivos de áudio (20MB) para sons ambientes e alarmes inteligentes. Você está usando dados móveis agora. Permitir?</string>
+    <string name="module_download_data_msg">Para disponibilizar os alarmes inteligentes da MIUI, o Relógio precisa baixar arquivos de áudio. Os alarmes inteligentes contêm recursos de áudio que permitem incluir informações meteorológicas atuais nos alarmes. São necessários 20 MB dos seus dados móveis para este download. Baixar agora?</string>
     <string name="module_download_data_msg_golbal">O Relógio precisa fazer o download de arquivos de áudio (20MB) para sons ambientes e alarmes inteligentes. Você está usando dados móveis agora. Permitir?</string>
 	<string name="module_download_data_msg_replace">Arquivos de áudios para os alarmes inteligentes da MIUI estão disponíveis. Serão necessários ≈20MB para baixar os arquivos. Baixar agora?</string>
 	<string name="module_download_data_msg_timer">O Relógio precisa baixar arquivos de áudio para os sons ambientes. Serão necessários ≈20MB para baixar os arquivos. Baixar agora?</string>
     <string name="module_download_fail">Não foi possível fazer o download do áudio adicional</string>
-    <string name="module_download_msg">O Relógio precisa se conectar à internet para fazer o download de arquivos de áudio para sons ambientes e alarmes inteligentes. Permitir?</string>
+    <string name="module_download_msg">Para disponibilizar os alarmes inteligentes da MIUI, o Relógio precisa baixar arquivos de áudio. Os alarmes inteligentes contêm recursos de áudio que permitem incluir informações meteorológicas atuais nos alarmes. Baixar agora?</string>
     <string name="module_download_msg_golbal">O Relógio precisa fazer o download de arquivos de áudio para sons ambientes e alarmes inteligentes. Permitir?</string>
 	<string name="module_download_msg_replace">Arquivos de áudios para os alarmes inteligentes da MIUI estão disponíveis. Baixar agora?</string>
 	<string name="module_download_msg_timer">O Relógio precisa baixar arquivos de áudio para os sons ambientes. Baixar agora?</string>
@@ -266,4 +266,8 @@
 	<string name="worldclock_resident_city_text">Segundo relógio: %s</string>
 	<string name="worldclock_resident_city_text_detail">Relógio duplo está ativo</string>
 	<string name="worldcolock_date_display_prefix">Atual: </string>
+	<string name="module_update_success">O áudio atualizado dos alarmes inteligentes da MIUI foram baixados com sucesso. Você pode definir alarmes inteligentes da MIUI nas configurações do Relógio.</string>
+    <string name="module_update_success_control">Entendido</string>
+    <string name="no_alarm_setting">Nenhum alarme aqui</string>
+    <string name="no_worldclock">Nenhum relógio aqui</string>
 </resources>
