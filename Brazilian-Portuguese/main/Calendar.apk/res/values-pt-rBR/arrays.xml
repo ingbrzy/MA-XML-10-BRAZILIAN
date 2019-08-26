@@ -406,4 +406,9 @@
         <item>Para todos os eventos</item>
         <item>Para os eventos mais relevantes</item>
     </string-array>
+	    <string-array name="prefEntries_alerts_popup_new">
+        <item>Desativado</item>
+        <item>Para todos os eventos</item>
+        <item>Para eventos sensíveis ao tempo</item>
+    </string-array>
 </resources>

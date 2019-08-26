@@ -224,4 +224,9 @@
         <item quantity="other">%1$s pessoas</item>
         <item quantity="one">%1$s pessoa</item>
     </plurals>
+	    <plurals name="text_group_count">
+        <item quantity="other">%d itens</item>
+        <item quantity="zero"> %1$d itens</item>
+        <item quantity="one">%d item</item>
+    </plurals>
 </resources>

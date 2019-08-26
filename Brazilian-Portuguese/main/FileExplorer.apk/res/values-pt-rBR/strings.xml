@@ -296,7 +296,7 @@
   <string name="mobile_network_dialog_tip2">Irá receber taxas de dados móveis da sua operadora se continuar a fazer streaming de vídeos utilizando a sua conexão de dados móveis</string>
   <string name="mobile_network_dialog_title">Aviso de dados móveis</string>
   <string name="month_day_format">d \'de\' MMMM</string>
-  <string name="move_failed">Não é possível cortar</string>
+  <string name="move_failed">Não foi possível mover os itens</string>
   <string name="move_icon_to_desktop_hint">Criar um atalho do Arquivos na tela inicial para melhorar a gestão dos arquivos</string>
   <string name="move_icon_to_desktop_success">Atalho adicionado à tela inicial</string>
   <string name="move_to">Mover para…</string>
@@ -359,7 +359,7 @@
   <string name="operation_show_sys">Mostrar arquivos ocultos</string>
   <string name="operation_info">Detalhes</string>
   <string name="operation_like">Gostar</string>
-  <string name="operation_move">Recortar</string>
+  <string name="operation_move">Mover</string>
   <string name="operation_moving">Movendo…</string>
   <string name="operation_other_apps">Abrir em outro aplicativo</string>
   <string name="operation_paste">Colar</string>
@@ -675,4 +675,17 @@
   <string name="yes">Sim</string>
   <string name="yesterday">Ontem</string>
   <string name="auto_play">Reproduzir automaticamente quando conectado ao Wi-Fi</string>
+  <string name="category_source">Fonte</string>
+  <string name="category_time">Tempo</string>
+  <string name="create_folder">Criar</string>
+  <string name="doc_all">Todos</string>
+  <string name="home_title">Arquivos</string>
+  <string name="otg_file_security_confirm">copiar para o telefone</string>
+  <string name="otg_file_security_details">Por favor, copie para o telefone</string>
+  <string name="privacy_policy">Política de privacidade</string>
+  <string name="start_doc">Arquivos</string>
+  <string name="start_phone">Armazenamento</string>
+  <string name="tab_app">Mais</string>
+  <string name="text_select_all">Marcar todos</string>
+  <string name="text_select_nothing">Desmarcar todos</string>
 </resources>

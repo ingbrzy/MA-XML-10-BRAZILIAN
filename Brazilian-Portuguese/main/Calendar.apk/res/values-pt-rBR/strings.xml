@@ -511,4 +511,9 @@ Você ainda pode adicionar lembretes para que não perca nada importante."</stri
 	<string name="solar_lunar_convert_description">Gregoriano para Tradicional Chinês</string>
     <string name="solar_lunar_convert_tab">Converter</string>
 	<string name="title_confirm_close_chinese_calendar">Desativar calendário chinês</string>
+	<string name="preferences_popup_alert_smart_summary_new">Eventos sensíveis ao tempo são aqueles com um horário exato</string>
+	<string name="setting_desc_import_todo">Importar tarefas agendadas de Notas</string>
+	<string name="setting_title_import_todo">Importar tarefas</string>
+	<string name="todo_audio_event">"[Tarefa por voz] "</string>
+	<string name="todo_event">Próximas tarefas</string>
 </resources>
