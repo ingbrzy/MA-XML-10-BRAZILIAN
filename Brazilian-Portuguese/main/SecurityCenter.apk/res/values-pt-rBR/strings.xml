@@ -2650,7 +2650,7 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
 	<string name="system_permission_declare_main_purpose" formatted="false">Bem vindo ao %1s! Este aplicativo permite que seja usado o seguinte recurso: %2s.</string>
 	<string name="system_permission_declare_no_say_no">"Se você optar por não conceder as permissões necessárias ou não permitir que coletemos e usemos seus dados, este aplicativo não poderá funcionar normalmente."</string>
 	<string name="system_permission_declare_privacy_declare">"Nós respeitamos e protegemos sua privacidade.
-Observe que %1s precisa coletar seus dados e requer as seguintes permissões para funcionar normalmente
+Observe que %1s precisa coletar seus dados e requer as seguintes permissões para funcionar normalmente</string>
 	<string name="system_permission_declare_revoke_path">Você pode desinstalar este aplicativo, sair da sua conta, ou gerenciar permissões e autorizações em Segurança &gt; Gerenciar aplicativos &gt; Permissões &gt; Outras permissões.</string>
 	<string name="system_permission_declare_use_network">Conecte-se à rede</string>
 	<string name="system_permission_perm_answer_call">Fazer chamadas</string>
