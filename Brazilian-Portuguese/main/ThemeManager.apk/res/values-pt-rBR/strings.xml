@@ -657,7 +657,7 @@ Para desativar este recureso, vá em Configurações &gt; Som e vibração &gt; 
 	<string name="wallpaper_set_as_float_wallpaper">Aplicar papel de parede transparente</string>
 	<string name="audition_ringtone">Tocar</string>
 	<string name="count_down_tip">%ds restantes</string>
-	<string name="like_list">Itens que eu gostarua</string>
+	<string name="like_list">Itens que eu gostaria</string>
 	<string name="playing_ringtone">Tocando</string>
 	<string name="trial_count_empty">Não há mais itens gratuitos hoje. Volte amanhã!</string>
     <string name="trial_count_tip">O período de avaliação termina em %1$s:%2$s:%3$s</string>
