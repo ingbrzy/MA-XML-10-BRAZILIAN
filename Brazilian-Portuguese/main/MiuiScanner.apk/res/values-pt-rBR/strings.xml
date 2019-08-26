@@ -69,7 +69,7 @@
     <string name="got_it">Entendido</string>
     <string name="gps">Navegar</string>
     <string name="import_contact">Importar contato</string>
-    <string name="impunity_declaration_content">O Digitalizador precisa de permissão para acessar a sua câmera e tirar fotos. O Digitalizador também precisa de uma conexão com a internet para funcionar normalmente. Será considerado que você leu e aceitou a nossa %1$sPolítica de Privacidade%2$s ao tocar em \"Aceitar\" abaixo.</string>
+    <string name="impunity_declaration_content">O Digitalizador precisa de permissão para acessar a sua câmera e tirar fotos. O Digitalizador também precisa de uma conexão com a internet para funcionar normalmente. Será considerado que você leu e aceitou a nossa &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"http://privacy.mi.com/all/%1$s\" style=\"color:#ff32b4ff;\"&gt;Política de Privacidade%&lt;/a&gt;&lt;/font&gt; ao tocar em \"Aceitar\" abaixo.</string>
     <string name="impunity_declaration_negative_text">Sair</string>
     <string name="impunity_declaration_title">Política de Privacidade</string>
     <string name="label_choose_picture">Escolher imagem</string>

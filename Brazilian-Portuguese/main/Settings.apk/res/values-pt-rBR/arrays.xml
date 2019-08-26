@@ -1,30 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="agps_apn_entries">
-        <item>CMWAP</item>
-        <item>CMNET</item>
-    </string-array>
-    <string-array name="agps_apn_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
     <string-array name="agps_network_entries">
         <item>Rede doméstica</item>
         <item>Todas as redes</item>
-    </string-array>
-    <string-array name="agps_network_values">
-        <item>0</item>
-        <item>1</item>
     </string-array>
     <string-array name="agps_reset_type_entries">
         <item>QUENTE</item>
         <item>MORNO</item>
         <item>FRIO</item>
-    </string-array>
-    <string-array name="agps_reset_type_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="agps_si_mode_entries">
         <item>MSB</item>
@@ -964,55 +947,8 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="notch_battery_indicator_style_entries">
         <item>Gráfico</item>
-        <item>Porcentagem</item>
-    </string-array>
-    <string-array name="organized_locales">
-        <item>dz</item>
-        <item>ao</item>
-        <item>bh</item>
-        <item>bw</item>
-        <item>br</item>
-        <item>cm</item>
-        <item>cd</item>
-        <item>ci</item>
-        <item>eg</item>
-        <item>gq</item>
-        <item>et</item>
-        <item>fr</item>
-        <item>gh</item>
-        <item>hk</item>
-        <item>in</item>
-        <item>id</item>
-        <item>ir</item>
-        <item>ke</item>
-        <item>ls</item>
-        <item>mw</item>
-        <item>my</item>
-        <item>mx</item>
-        <item>ma</item>
-        <item>mz</item>
-        <item>mm</item>
-        <item>na</item>
-        <item>ng</item>
-        <item>ph</item>
-        <item>qa</item>
-        <item>ru</item>
-        <item>rw</item>
-        <item>sn</item>
-        <item>sg</item>
-        <item>za</item>
-        <item>kr</item>
-        <item>sz</item>
-        <item>tw</item>
-        <item>tz</item>
-        <item>th</item>
-        <item>tr</item>
-        <item>ug</item>
-        <item>ua</item>
-        <item>ae</item>
-        <item>vn</item>
-        <item>zm</item>
-        <item>zw</item>
+        <item>Percentagem (no ícone)</item>
+        <item>Percentagem (ao lado do ícone)</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Nenhum</item>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 <string-array name="feature_desc">
-        <item>Saudações na manhã: Cadastre-se para receber saudações toda manhã.</item>
-        <item>Combine a tela de bloqueio padrão com temas personalizados para habilitar o uso do carrossel de papel de parede.</item>
+        <item>Corrigidos alguns problemas.</item>
     </string-array>
 </resources>

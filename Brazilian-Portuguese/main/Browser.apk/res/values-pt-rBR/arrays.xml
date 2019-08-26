@@ -54,10 +54,11 @@
         <item>Tablet</item>
     </string-array>
     <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Telhas</item>
         <item>Vertical</item>
         <item>Horizontal</item>
     </string-array>
-	    <string-array name="pref_tab_restore_array">
+    <string-array name="pref_tab_restore_array">
         <item>Sempre perguntar</item>
         <item>Abrir</item>
         <item>Fechar</item>

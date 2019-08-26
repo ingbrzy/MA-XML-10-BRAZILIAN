@@ -5574,7 +5574,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="tts_engine_section_title">Mecanismo</string>
     <string name="tts_engine_security_warning">Este mecanismo de síntese de fala pode coletar todo texto que será falado, inclusive dados pessoais como senhas e números de cartão de crédito. Ele é proveniente do mecanismo %s. Deseja ativar o uso desse mecanismo de síntese de fala?</string>
     <string name="tts_engine_settings_button">Iniciar configurações do mecanismo</string>
-    <string name="tts_engine_settings_title">Configurações para %s</string>
+    <string name="tts_engine_settings_title">Configurações do mecanismo</string>
     <string name="tts_general_section_title">Geral</string>
     <string name="tts_install_data_summary">Instalar dados de voz necessários para a sintetização da fala</string>
     <string name="tts_install_data_title">Instalar dados de voz</string>

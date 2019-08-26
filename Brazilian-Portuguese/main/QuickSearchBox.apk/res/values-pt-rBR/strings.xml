@@ -7,8 +7,6 @@
   <string name="application_desc">Aplicativo</string>
   <string name="applications_search_label">Aplicativos</string>
   <string name="apps_search_activity"/>
-  <string name="baidu_search_url_from_default">https://www.google.pt/search?q=%s&amp;tn=ins</string>
-  <string name="baidu_suggest_base">http://www.google.com/m?hl=%1$s</string>
   <string name="barcode_install_back">Voltar</string>
   <string name="barcode_install_cancel">Cancelar</string>
   <string name="barcode_install_confirm">Instalar</string>
@@ -44,15 +42,11 @@ Para limpar o histórico do Navegador, utilize as definições do Navegador"</st
   <string name="distance_unit_meter">m</string>
   <string name="entrance_setting">Pesquisa</string>
   <string name="google_app_label">Pesquisa Google</string>
-  <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
-  <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
   <string name="google_search_description">Sugestões de pesquisa do Google</string>
   <string name="google_search_hint">Pesquisa Google</string>
   <string name="google_search_label">Google</string>
   <string name="google_settings_category_title">Pesquisa Google</string>
-  <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
   <string name="hot_search">Destaques</string>
-  <string name="hot_words"/>
   <string name="loading">Aguarde…</string>
   <string name="local_app">Aplicativos</string>
   <string name="local_setting">Configurações</string>
@@ -84,7 +78,6 @@ Pode alterar esta configuração em Configurações &gt; Aplicativos do sistema 
   <string name="remove_from_history">Quer remover este item do histórico de pesquisas?</string>
   <string name="remove_from_history_failed">Não foi possível remover o item do histórico de pesquisas</string>
   <string name="search_apps">Pesquisar aplicativos</string>
-  <string name="search_apps_url">market://search?q=%s&amp;ref=migs&amp;pageRef=migs_local_app</string>
   <string name="search_button">Pesquisar</string>
   <string name="search_group_fold">Ocultar</string>
   <string name="search_group_unfold">Mais</string>
@@ -98,7 +91,6 @@ Pode alterar esta configuração em Configurações &gt; Aplicativos do sistema 
   <string name="search_sources_summary">Escolher o que pesquisar no telefone</string>
   <string name="search_suggestion">Sugestões</string>
   <string name="search_videos">Pesquisar vídeos</string>
-  <string name="search_videos_url">https://www.youtube.com/results?search_query=%s</string>
   <string name="search_widget">Pesquisar</string>
   <string name="send_secret_code">Enviar código</string>
   <string name="setting_other">Outros</string>
@@ -135,11 +127,4 @@ Pode alterar esta configuração em Configurações &gt; Aplicativos do sistema 
   <string name="voice_search_hint_quotation_start">\"</string>
   <string name="voice_search_hint_title">Tente dizer:</string>
   <string name="web_search_results">Google</string>
-  <string name="xiaomi_hint"/>
-  <string name="xiaomi_homepage_hint"/>
-  <string name="xiaomi_homepage_suggest"/>
-  <string name="xiaomi_search_label">Resultados</string>
-  <string name="xiaomi_source_url"/>
-  <string name="xiaomi_source_url_alpha"/>
-  <string name="xiaomi_suggest_base"/>
 </resources>

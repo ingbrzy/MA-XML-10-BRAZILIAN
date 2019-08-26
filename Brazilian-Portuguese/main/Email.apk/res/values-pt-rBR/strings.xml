@@ -33,7 +33,7 @@
     <string name="account_settings_incoming_summary">Usuário, senha e outras configurações do servidor</string>
     <string name="account_settings_login_dialog_content_fmt">"O usuário ou senha para a conta %s estão incorretos.
 Alterá-los agora?"</string>
-    <string name="account_settings_login_dialog_reason_fmt" formatted="false">Não foi possível fazer o login em %s. O servidor respondeu com: %s</string>
+    <string name="account_settings_login_dialog_reason_fmt">Não foi possível fazer o login em %1$s. O servidor respondeu com: %2$s</string>
     <string name="account_settings_login_dialog_title">Não foi possível fazer o login</string>
     <string name="account_settings_mail_check_frequency_dialog_title">Você precisa atualizar o E-mail manualmente para sincronizar as mensagens</string>
     <string name="account_settings_mail_check_frequency_dialog_title_eas">Você precisará sincronizar o E-mail manualmente para sincronizar eventos da agenda e mensagens.</string>
@@ -736,7 +736,7 @@ Tente uma caixa de entrada diferente."</string>
     <string name="permission_read_attachment_label">Ler os anexos do e-mail</string>
     <string name="phone">telefone</string>
     <string name="photo_load_failed">Não foi possível carregar imagem</string>
-    <string name="photo_view_count" formatted="false">%d de %d</string>
+    <string name="photo_view_count">%1$d de %2$d</string>
     <string name="please_fill_in_your_mailbox_information2">Insira as informações da sua caixa de entrada</string>
     <string name="pls_parse_bill_discribe">"Analisar faturas e informações de viagens em seu e-mail
 para receber lembretes sobre pagamentos e viagens"</string>
@@ -872,7 +872,7 @@ para receber lembretes sobre pagamentos e viagens"</string>
     <string name="reply">Responder</string>
     <string name="reply_add_bodycontent">Adicionar a resposta ao corpo da mensagem?</string>
     <string name="reply_all">Resp. a todos</string>
-    <string name="reply_attribution" formatted="false">Em %s, %s escreveu:</string>
+    <string name="reply_attribution">Em %1$s, %2$s escreveu:</string>
     <string name="report_phishing">Reportar phishing</string>
     <string name="report_spam">Reportar spam</string>
     <string name="request_copy_db_to_disk">O E-mail está pedindo para copiar seu banco de dados em um arquivo</string>
@@ -952,7 +952,6 @@ para receber lembretes sobre pagamentos e viagens"</string>
     <string name="storage">Armazenamento</string>
     <string name="str_select_all">Selecionar tudo</string>
     <string name="str_select_none">Desmarcar tudo</string>
-    <string name="subject_and_snippet" formatted="false">%s — %s</string>
     <string name="subject_hint">Assunto</string>
     <string name="sync_contacts_fail_per_content">Toque para permitir o acesso aos contatos</string>
     <string name="sync_contacts_fail_per_title">Não foi possível sincronizar contatos</string>

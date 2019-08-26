@@ -203,7 +203,6 @@
         <item>4K (seguro e de alta qualidade)</item>
         <item>720p, 1080p (tela dupla)</item>
     </string-array>
-    <array name="recents_blacklist_array" />
     <string-array name="select_logd_size_lowram_titles">
         <item>Desativado</item>
         <item>64KB</item>
